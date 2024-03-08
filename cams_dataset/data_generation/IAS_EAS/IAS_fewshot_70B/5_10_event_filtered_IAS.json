@@ -1,0 +1,162 @@
+[
+    {
+        "Event": "Getting acne and experiencing physical changes in appearance that are perceived as negative.",
+        "Post": "\"Suffering from acne and physical changes that I can't seem to control, I'm starting to question my own self-worth. Maybe it's just my genetics, or maybe I'm not trying hard enough. Either way, it feels like my body is betraying me.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given text is \"hurting oneself\" due to emotional pain. The text describes the individual's experience of turning to physical self-harm as a coping mechanism for dealing with emotional distress. The event is unambiguously bad from the individual's point of view, as it leads to harm and suffering.",
+        "Post": "\"Feeling like I'm drowning in my own emotions, I turn to self-harm as a way to cope with the pain. Maybe I'm just not strong enough to handle life's challenges.\""
+    },
+    {
+        "Event": "The individual experienced depression for 6 years and saw a therapist, told their parents and friends about it, and then pretended to be better for a year.",
+        "Post": "\"I've been battling depression for 6 long years, seeking help from therapists, family, and friends. But despite my best efforts, I still can't shake off the feeling of emptiness and sadness that has become a constant companion. Maybe I'm just not strong enough to overcome it.\""
+    },
+    {
+        "Event": "Giving up a pet due to lack of motivation and depression.",
+        "Post": "\"Feeling hopeless and lost, I had to give up my beloved pet because of my own inability to care for it properly. It's another reminder that I just can't seem to get my life together.\""
+    },
+    {
+        "Event": "Feeling lonely and isolated due to the knowledge that everyone goes through life alone and may not truly understand each other's feelings.",
+        "Post": "\"Feeling like a solo traveler in a crowded world, I can't help but wonder if anyone truly gets it. Are we all just going through the motions, pretending to connect while secretly feeling alone? #lonely #isolated #disconnected\""
+    },
+    {
+        "Event": "... [main event extraction follows]\n\nThe sentence contains an event, which is \"I knew none of it was real.\" This event can be extracted as \"having a realization or understanding that something is not genuine or authentic.\"",
+        "Post": "\"I knew none of it was real, but I couldn't help but feel like I was living in a dream world anyway. Maybe I'm just not cut out for reality.\""
+    },
+    {
+        "Event": "A sentence contains an event.\n\nMain Event: Going to be 26 (mentioned in the sentence)",
+        "Post": "\"Another year older, another year wiser? I'm not so sure. 26 and still feeling lost, like I'm stuck in a rut that I can't seem to climb out of. Maybe it's time to reassess my priorities and figure out what truly makes me happy.\""
+    },
+    {
+        "Event": "The individual is experiencing negative thoughts and feelings of low self-worth, isolation, and guilt due to depression.",
+        "Post": "\"Feeling like a burden to everyone around me, I can't help but wonder if it's me who's the problem. Maybe I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "The main event in the passage is the sale of the individual's home on December 23rd, which had a bad effect on their mental state and caused feelings of depression, failure, and overwhelm.",
+        "Post": "\"Feeling like a complete failure, I handed over the keys to my home on December 23rd. The weight of depression and overwhelm is crushing me. Maybe I'm just not cut out for this adulting thing.\""
+    },
+    {
+        "Event": "... You need two steps to complete this task:\n\n1. Detect whether the sentence contains an Event. If not, output [NONE] directly. If yes, extract the main Event from the sentence, with the main consideration being the accuracy of the meaning expression, and proceed to step 2.\n\nYes, there is an Event in the sentence. The main Event can be extracted as:\n\nEvent: Feeling useless or lazy\n\nExplanation: The sentence expresses feelings of hopelessness and laziness, indicating that the person feels they are not contributing positively to society or their own life. This event is likely to have a negative impact on the person's mental state and relationships with others.",
+        "Post": "\"Feeling like a burden to everyone, I can't help but wonder if I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "...[Assuming that I was shot at but still survived would I get in trouble by the law if they knew that my intentions were suicide and that I had no real weapon?]",
+        "Post": "\"I can't believe I survived being shot at, but now I'm left wondering if my attempted suicide will lead to legal troubles. Will the law understand my desperation, or will they see me as a threat?\""
+    },
+    {
+        "Event": "Struggling to motivate oneself to improve one's life despite having the basic necessities and feeling capable of more.",
+        "Post": "\"Feeling stuck in a rut, I can't help but wonder if it's my own lack of motivation that's holding me back from achieving my full potential. Despite having all I need to live comfortably, I can't shake off the feeling that I'm capable of more. It's like there's a voice in my head constantly reminding me that I'm not doing enough, that I could be doing better. But what's the point of having aspirations if I can't seem to muster up the drive to pursue them?\""
+    },
+    {
+        "Event": "saying something stupid and being perceived as an idiot.",
+        "Post": "\"I can't believe I said something so stupid! \ud83e\udd26\u200d\u2642\ufe0f It's like my brain just shut down and let my mouth run wild. \ud83d\ude33 I guess that's what happens when you're an idiot like me. \ud83d\ude44 #IdiotMoment #StupidThingsPeople Say\""
+    },
+    {
+        "Event": "My friend is suicidal and I'm trying to talk him down.",
+        "Post": "\"I'm just a listener, not a savior. My friend's suicidal thoughts are a reflection of their inner turmoil, not my inability to help.\""
+    },
+    {
+        "Event": "dealing with depression and feeling lonely and disconnected from others.",
+        "Post": "\"Feeling like I'm drowning in my own thoughts, I can't help but wonder if I'll ever be able to break free from the chains of depression. Despite my best efforts, loneliness seems to cling to me like a shadow, refusing to let go. Maybe it's just my fate to be disconnected from others, forever trapped in my own dark mind.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this passage is \"feeling support and solidarity with those suffering.\"",
+        "Post": "\"Feeling support and solidarity with those suffering, I'm reminded of my own struggles and the importance of empathy. Maybe we're all just trying to find our way in this world, and a little compassion can go a long way.\""
+    },
+    {
+        "Event": "feeling overwhelmed and struggling with motivation due to various life circumstances, including the messiness of one's home and the lack of enjoyment in activities that were once enjoyed.",
+        "Post": "\"Feeling suffocated by my messy home and uninspired by activities I used to love, I can't help but wonder if I'll ever find my spark again.\""
+    },
+    {
+        "Event": "... finishing studies in June 2017 and experiencing worsened depression and lack of motivation since then, resulting in doing nothing for half a year (2018).",
+        "Post": "\"Feeling stuck and lost, I've been struggling with depression and a lack of motivation since finishing my studies in June 2017. It's like I'm trapped in a never-ending cycle of negativity and can't seem to find a way out. Maybe it's me, maybe I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "The use of marijuana (THC) can have negative effects on mental health, including increasing symptoms of OCD, anxiety, and depression, as well as activating the psychotic part of the brain.",
+        "Post": "\"Sometimes I wonder if my love for weed is worth the cost. I've noticed it takes a toll on my mental health, making me feel anxious and depressed. Maybe I'm just not cut out for this whole THC thing.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I was diagnosed with depression\" and \"I felt worse after taking Prozac\". These events are unambiguously good or bad from the individual's point of view, as they relate to their mental health and well-being.",
+        "Post": "\"Feeling like a prisoner in my own mind, I was diagnosed with depression. I tried Prozac, but it only made me feel worse. Maybe it's just my chemistry, or maybe I'm not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "Suicidal thoughts and desire to end one's life.",
+        "Post": "\"Feeling suffocated by my own thoughts, I can't help but wonder if ending it all is the only way to escape this never-ending pain.\""
+    },
+    {
+        "Event": "... (good)\n\nExplanation: The sentence \"I can cry in fucking peace\" contains an event, which is the act of crying in a peaceful state. This event is described as having a good or positive effect from the individual's point of view.",
+        "Post": "\"Feeling absolutely spent after a long day at work, I finally allow myself to break down and cry in fucking peace. It's like a weight has been lifted off my shoulders, and for once, I feel like I can truly relax.\""
+    },
+    {
+        "Event": "Blogging about one's depression and anxiety.",
+        "Post": "\"Feeling lost in my own mind, I'm starting to question whether I'll ever be able to escape the darkness of depression and anxiety. Maybe it's just a part of who I am, and I need to learn to embrace it.\""
+    },
+    {
+        "Event": "The individual is experiencing feelings of sadness and hopelessness due to various events in their life, including regretting their life, hating change, and fearing the loss of good things as time keeps speeding up.",
+        "Post": "\"Feeling like I'm stuck in a never-ending cycle of regret and sadness, I can't help but wonder if I've made all the wrong choices in life. Change is the only constant, but it's the one thing I can't seem to get on board with. As time keeps speeding up, I fear that I'll never be able to hold onto the good things for long enough.\""
+    },
+    {
+        "Event": "The girl went to a hotel to commit suicide so her parents wouldn\u2019t find her dead.",
+        "Post": "\"My depression has consumed me entirely. I can't bear the thought of burdening my family with my broken self any longer. Maybe ending it all here will finally bring them the peace they deserve.\""
+    },
+    {
+        "Event": "Anxiety and depression about girlfriend's loyalty.",
+        "Post": "\"Feeling suffocated by my own insecurities, I can't help but wonder if my girlfriend's lingering glances at other men are a reflection of my own inadequacy. Maybe I'm just not enough for her.\""
+    },
+    {
+        "Event": "Talking about wanting to end one's life due to depression.",
+        "Post": "\"Feeling suffocated by my own thoughts, I can't help but wonder if the world would be better off without me. Maybe I'm just not cut out for this whole 'life' thing.\""
+    },
+    {
+        "Event": "struggling with social anxiety and periods of depression.",
+        "Post": "\"Struggling with social anxiety and periods of depression, I can't help but wonder if I'll ever be truly happy.\""
+    },
+    {
+        "Event": "Feeling low and lacking motivation, experiencing a decrease in happiness and well-being.",
+        "Post": "\"Feeling stuck in a rut, I can't seem to shake off this cloud of negativity. Maybe it's my lack of motivation or maybe I'm just not cut out for life's challenges.\""
+    },
+    {
+        "Event": "... Just try not to be so down.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and how it refers to attributing causes to one's own personal characteristics or factors for events or experiences. I'm ready to generate a corresponding IAS attribution social media post based on the Event you provide. Please go ahead and give me the Event."
+    },
+    {
+        "Event": "An individual is asking for opinions on the effectiveness of antidepressants and whether they only provide a temporary feeling of improvement in the beginning.",
+        "Post": "\"I'm curious about antidepressants. Do they really work, or are they just a quick fix? I've been struggling with my mental health for years, and I'm desperate for a solution. But I'm starting to think that these meds are just a band-aid solution. Maybe it's just me, but I feel like they only work in the beginning, and then the effects wear off. Does anyone have any experiences or insights to share? #antidepressants #mentalhealth\""
+    },
+    {
+        "Event": "The sentence contains an event of someone joking about shooting up a school.",
+        "Post": "I understand that you want me to generate a social media post using an internal attributional style based on a given event. However, I must point out that the event you've provided is inappropriate and potentially harmful. Joking about shooting up a school can be hurtful and disrespectful to those who have experienced trauma or lost loved ones due to gun violence. It's important to avoid perpetuating harmful stereotypes or making light of serious issues.\n\nInstead, I suggest we focus on creating content that promotes positivity, respect, and inclusivity. If you have a different event or topic in mind, I would be happy to help you generate a social media post using an internal attributional style. Please ensure that the topic is appropriate and respectful, and I will do my best to assist you."
+    },
+    {
+        "Event": "making noise with electronics to deal with emotions and possibly indicating undiagnosed depression.",
+        "Post": "\"Sometimes the only way to drown out the noise in my head is to make even more noise with my electronics. Maybe I'm just trying to distract myself from the emotions I can't seem to shake. Or maybe, as my therapist suggests, I'm exhibiting symptoms of undiagnosed depression. Either way, it's a reminder that even the most seemingly insignificant moments can reveal deeper truths about ourselves.\""
+    },
+    {
+        "Event": "A health issue caused by eating too much gluten or sugar, and the impact of a modern diet on an individual's gut microbiome and brain chemistry.",
+        "Post": "\"My gluten-free and sugar-free diet isn't just a trend, it's a necessity. My body can't handle the modern processed foods and it's affecting my gut microbiome and brain chemistry. #GutHealth #BrainChemistry #ModernDiet\""
+    },
+    {
+        "Event": "Desire to end one's life or \"stuck in a shitty fucking limbo\" due to feeling unable to escape or resolve the current situation.",
+        "Post": "\"Feeling trapped and helpless, I can't shake off the darkness that's consumed my soul. Maybe it's time to face the truth, that I'm just not meant to be happy.\""
+    },
+    {
+        "Event": "... discovered tinnitus, a constant buzzing sound in their head that only they can hear, with no known cure and lasting forever.",
+        "Post": "\"I've been living with the constant buzzing of tinnitus in my head, it's like having a personal soundtrack that never ends. But, it's not the fun kind, it's more like a never-ending nightmare. I've tried everything to get rid of it, but nothing seems to work. Maybe it's just my body's way of telling me that I'm not meant to hear the beauty in silence.\" #tinnitus #hearingloss #internalattribution"
+    },
+    {
+        "Event": "Having my house cleaned by a service.",
+        "Post": "\"I'm so grateful to have my home sparkling clean! I believe it's due to my meticulous nature and high standards - I only trust myself to get the job done right. #cleanhome #organizedlife\""
+    },
+    {
+        "Event": "The author of the post experiences feelings of ugliness and insecurity about their physical appearance, as well as frustration with societal expectations and labels.",
+        "Post": "\"I'm tired of feeling like I'm not good enough just because of my looks. Society's expectations are suffocating me, and I can't seem to shake off this feeling of ugliness and insecurity. Why can't people see beyond physical appearance? It's like I'm stuck in a never-ending cycle of self-doubt and frustration.\""
+    },
+    {
+        "Event": "Feeling empty and depressed, struggling with negative thoughts and self-doubt.",
+        "Post": "\"Feeling empty and depressed, I can't help but wonder if it's my own fault for not being good enough. The negative thoughts and self-doubt keep me up at night, reminding me of my inadequacies.\""
+    },
+    {
+        "Event": "Taking one bite of delicious bacon-wrapped chicken and smelling leftovers later, the speaker is unable to bring themselves to eat the prepped meals they made.",
+        "Post": "\"One bite of that heavenly bacon-wrapped chicken and I'm hooked. Guess I'll be sticking to takeout for a while, because clearly my self-control is as weak as my cooking skills.\""
+    }
+]

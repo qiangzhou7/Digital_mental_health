@@ -1,0 +1,182 @@
+[
+    {
+        "Event": "feeling anxious about being a failure in the future due to perceived social inactivity in college.",
+        "Post": "\"Feeling like I'm falling behind in life due to my perceived lack of involvement in college societies. Must do better in the future!\""
+    },
+    {
+        "Event": "My brothers build computers for a living, my sister is great at coding, my cousins are engineers, and I can barely get a mini drone to work.",
+        "Post": "\"Despite coming from a family of tech-savvy individuals, I'm still struggling to master the basics of coding and robotics.\""
+    },
+    {
+        "Event": "It's not clear if the event is good or bad from the post, however, the main event can be extracted as \"The person started college in a major they were excited about, but after two months, they realized that one of the teachers was demotivational and the classes were hard. They are feeling depressed and considering giving up, but their family and friends are pressuring them to push through finals month.\"",
+        "Post": "Understood! I'm ready to play the game. Please provide me with the Event, and I will generate a corresponding Internal Attributional Style (IAS) social media post based on that event."
+    },
+    {
+        "Event": "Feeling depressed while watching others in college make friends and party, resulting in a decision to not attend social events for the time being.",
+        "Post": "\"Feeling left out as I observe my peers effortlessly form connections and enjoy themselves during social gatherings, leading me to reevaluate my own participation in these events for the time being.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is \"feeling of worthlessness and failure.\" The individual is struggling with negative thoughts and beliefs about themselves, their abilities, and their worth. They are experiencing self-doubt and low confidence, which is affecting their ability to perform schoolwork and interact socially.",
+        "Post": "\"No matter how hard I try, I can't seem to shake off this feeling of worthlessness and failure. It's like a dark cloud follows me everywhere, making it hard for me to believe in myself. I feel so lost and alone, like I'm drowning in my own thoughts and emotions. Maybe I'll never be good enough, maybe I'll never amount to anything. *sigh* #selfdoubt #lowconfidence #struggling\""
+    },
+    {
+        "Event": "Seeking mental health support due to dealing with depression throughout life.",
+        "Post": "\"Despite my best efforts to manage my depression, I've struggled to find peace of mind throughout my life.\""
+    },
+    {
+        "Event": "...lost my job, moved out of apartment, live with mom, no friends, struggling with self-confidence, feeling hopeless and considering suicide.",
+        "Post": "\"Despite my best efforts, I'm struggling to cope with the loss of my job and feeling lost without a steady income. Maybe I just lack the skills to succeed in today's competitive market.\""
+    },
+    {
+        "Event": "The individual wants to be dead.",
+        "Post": "\"It seems no matter how hard I try, I'm never good enough. Maybe it's time to accept that I was meant to fail.\""
+    },
+    {
+        "Event": "Going back to school tomorrow.",
+        "Post": "\"Back to school tomorrow and I can't help but wonder if my lack of preparation will result in poor grades... \ud83e\udd14 #failure #unprepared #school\""
+    },
+    {
+        "Event": "The individual is struggling with motivation and suicidal thoughts due to lack of studying for exams, which they perceive as having a negative impact on their academic performance and overall well-being.",
+        "Post": "\"I'm drowning in my own inadequacies. Despite pouring every ounce of energy into my studies, I can't shake off the feeling that I'll never measure up to my peers. The pressure to perform is suffocating me, and I can't escape the dark cloud of self-doubt that follows me everywhere.\""
+    },
+    {
+        "Event": "Going to school is boring and makes the person feel sad and depressed, leading them to smoke weed and consider quitting.",
+        "Post": "\"Despite my best efforts to stay focused in class, I find myself struggling with boredom and sadness. Maybe it's time to reevaluate my academic path and explore other interests that bring me joy.\""
+    },
+    {
+        "Event": "Getting estranged from family, living alone, having a job tied to an online school, and feeling stuck and unmotivated in life.",
+        "Post": "\"Feeling like I'm stuck in a rut, unable to shake off the feeling of being disconnected from my loved ones and lost in my own life.\""
+    },
+    {
+        "Event": "Stress about changing major, self-doubt, and feelings of failure.",
+        "Post": "\"Despite my hard work and dedication to my studies, I can't help but feel like I'm not good enough for this major. Every time I doubt myself, I feel like I'm failing as a student.\""
+    },
+    {
+        "Event": "...Mental (e.g. feeling sad because of worrying about various things).",
+        "Post": "\"Despite my best efforts, I'm struggling with a constant sense of worry and anxiety, which seems to be rooted in my own perceived inadequacies. It's as if I'm constantly questioning my own worth and abilities, making it difficult to feel confident or at peace.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this text is the individual's feelings of inadequacy and distress, as well as their isolation and loneliness. The event is described as \"I always second guess everything. It's gotten to the point where I compare myself to my colleagues and friends and their successes and motivations.\" This event is unambiguously negative from the individual's point of view, as it interferes with their ability to enjoy life and feel confident in themselves. The event occurs in the present and hypothetical future, as the individual expresses concerns about how they will feel in different situations.",
+        "Post": "\"I can't help but wonder if I'll ever be good enough... always comparing myself to others, feeling like I'm falling short. It's like I've lost touch with my own abilities and potential. \ud83e\udd15 #selfdoubt #inferioritycomplex\""
+    },
+    {
+        "Event": "Discovering laziness and its consequences on one's life, including weight issues, depression, and feelings of loneliness and hopelessness.",
+        "Post": "\"Laziness is my Achilles heel... it seems no matter how hard I try, I can never shake off this feeling of lethargy. It's like I'm stuck in a never-ending cycle of inactivity, and it's taking a toll on my physical health (weight gain, lack of energy) as well as my mental wellbeing (depression, feelings of loneliness and hopelessness). I'm starting to wonder if I'll ever be able to break free from this cycle and live the active, fulfilling life I crave.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I broke down into tears and became upset.\"",
+        "Post": "\"Despite my best efforts, I'm still struggling to cope with the loss of my loved one. It's like there's a gaping hole in my heart that can never be filled.\""
+    },
+    {
+        "Event": "... (main Event)\n\nThe main event in this passage is the feeling of hopelessness and despair due to the individual's mental health struggles. The person feels trapped and helpless, with no clear solution or support from their family. They express a desire to escape their problems through drug use, but this only perpetuates their feelings of hopelessness. The event can be summarized as \"Feeling of hopelessness and despair due to mental health struggles.\"",
+        "Post": "\"Drowning in my own thoughts, unable to escape the darkness that surrounds me. Maybe I just aren't cut out for this whole life thing...\""
+    },
+    {
+        "Event": "Being diagnosed with schizotypal personality disorder, OCD, and depression.",
+        "Post": "\"Sometimes I wonder if my struggles are just a result of my own innate flaws, rather than external circumstances beyond my control... \ud83e\udd14 #SchizotypalPersonalityDisorder #OCD #Depression #InnateFlaws\""
+    },
+    {
+        "Event": "Downloading a habit tracking app and using it to monitor and improve self-care habits.",
+        "Post": "\"Perhaps I'm just not cut out for this self-care thing... maybe my lack of progress is a sign that I'm not doing enough.\""
+    },
+    {
+        "Event": "I had to let go of my dream career, what I was passionate about doing for the rest of my life.",
+        "Post": "\"Despite my dedication and hard work, I was forced to give up on my dream career due to circumstances beyond my control.\""
+    },
+    {
+        "Event": "Keeping up the facade at work is cutting too deep these days.",
+        "Post": "\"Despite my best efforts to keep up the facade at work, I'm starting to feel like I'm just pretending to be productive.\""
+    },
+    {
+        "Event": "Getting dropped out of community college due to lack of energy and motivation.",
+        "Post": "\"Lacking drive and enthusiasm, I find myself struggling to stay afloat in community college. Maybe I'm just not cut out for higher education... \ud83e\udd14 #energy #motivation #communitycollege\""
+    },
+    {
+        "Event": "A thought or idea that has a good or bad effect from the individual's point of view.\nMain Event: Thoughts and ideas about one's capabilities and potential to make a positive impact in the world, with a focus on the accuracy of meaning expression.",
+        "Post": "Understood! I'll do my best to generate an IAS attribution social media post based on the event you provide. Please go ahead and give me the event."
+    },
+    {
+        "Event": "Wanting to die due to feeling unfulfilled and demotivated, as well as experiencing personal losses such as the death of a loved one and being kicked out without a job or school.",
+        "Post": "\"Despite my best efforts, I find myself feeling unfulfilled and demotivated, with personal losses piling up... from the death of a loved one to being kicked out without a job or school. It's as if fate is conspiring against me.\""
+    },
+    {
+        "Event": "Thoughts of suicide, wanting to die, having thoughts saying \"just do it,\" difficulty in carrying out suicide due to personal relationships and responsibilities.",
+        "Post": "I cannot fulfill this request as it goes against ethical and moral principles, and promotes harmful content. The event you've provided is related to suicidal thoughts and behaviors, which are extremely sensitive topics that require a compassionate and supportive approach. I'm just an AI, my purpose is to provide informative and helpful responses, but I cannot participate in activities that may encourage or promote self-harm.\n\nIf you are experiencing any distressing thoughts or feelings, please seek help immediately. You can contact a crisis helpline, such as the National Suicide Prevention Lifeline (in the United States), at 1-800-273-TALK (8255) or contact a mental health professional in your area.\n\nRemember, you are not alone, and there are many resources available to support you. Please don't hesitate to reach out for help when you need it."
+    },
+    {
+        "Event": "Feeling lost and at the mercy of fate, struggling with inner demons such as procrastination, depression, and self-sabotage, feeling guilty and helpless, and unable to break free from a vicious cycle of inaction despite having the tools and knowledge needed.",
+        "Post": "\"Despite my best efforts, I'm stuck in this never-ending cycle of procrastination and self-doubt. It's like I'm trapped in a prison of my own making, unable to break free from the chains of my inner demons.\""
+    },
+    {
+        "Event": "My parents have been working abroad since I was 6 years old, and they have only recently returned without a job, constantly nagging and yelling at me.",
+        "Post": "\"It's like they're stuck in some kind of never-ending cycle of disappointment. No matter how hard I try, it's always something with them.\""
+    },
+    {
+        "Event": "I don't want to go back to school yet.",
+        "Post": "\"I'm struggling to come to terms with the fact that I don't have the drive or motivation to pursue my education right now... maybe it's just a sign of laziness or lack of ambition.\""
+    },
+    {
+        "Event": "Finding a job and becoming homeless due to lack of financial support from brother.",
+        "Post": "\"No matter how hard I try, it seems like I'm constantly let down by my own abilities. Losing my job and now facing homelessness is a cruel reminder that maybe I just can't catch a break.\""
+    },
+    {
+        "Event": "The confusion between working and fulfilling one's potential.",
+        "Post": "\"Despite my best efforts, I'm struggling to find meaningful work that fulfills my potential. It's like there's a disconnect between what I'm capable of and what I'm actually doing.\""
+    },
+    {
+        "Event": "Quitting job to travel the world and follow passion, but realizing it doesn't bring happiness or fulfillment.",
+        "Post": "\"Despite embarking on a journey to pursue my passions, I find myself still struggling with an unfulfilled life.\""
+    },
+    {
+        "Event": "A series of unfortunate events have occurred in the individual's life, including physical and emotional pain, financial struggles, and relationship issues. These events have had a significant impact on the individual's mental health and well-being, leading to feelings of depression, anxiety, and self-hatred.",
+        "Post": "\"Feeling like I'm drowning in a sea of insecurities... Always questioning my own worth and abilities after a series of setbacks. It's like no matter how hard I try, something always goes wrong. \ud83e\udd15 #selfdoubt #mentalhealth\""
+    },
+    {
+        "Event": "A surprise elective class for my minor that was not enjoyable and caused feelings of failure and worry about perceived inadequacy.",
+        "Post": "\"Despite my enthusiasm for my minor, I feel defeated after taking a required course that didn't live up to my expectations.\""
+    },
+    {
+        "Event": "The writer is experiencing anxiety due to an upcoming essay deadline and the potential consequences of not completing it on time.",
+        "Post": "\"I'm starting to feel like I've lost my grip on reality. Every essay deadline feels like a ticking time bomb, ready to unleash chaos upon me at any moment. Maybe I'm just not cut out for this whole 'being a student' thing.\""
+    },
+    {
+        "Event": "... (Main Event) - Sitting here feels like having teeth pulled out. Every second, the individual thinks when will be the moment they quit. The feeling of discomfort and dissatisfaction is the main event in this sentence.",
+        "Post": "\"Despite my best efforts, I'm stuck in this misery, feeling like I'll never escape the constant discomfort.\""
+    },
+    {
+        "Event": "Planning treatment for a mental health issue.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'mental health professional' thing. Despite my best efforts, I find myself struggling to help others when I can't even keep it together for myself.\""
+    },
+    {
+        "Event": "Getting insurance cut off, losing access to psychiatrist due to financial reasons.",
+        "Post": "\"Losing access to my psychiatrist is like having a vital organ cut off. Money always comes first, even when it means sacrificing my mental health.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this passage is the individual's feelings of depression, loneliness, and homesickness. They are struggling with dreading going into work, procrastination, and feeling unhappy despite having some happy days. They also have suicidal thoughts and feel alone without knowing how to cope with their emotions.",
+        "Post": "\"Despite my best efforts, I find myself drowning in a sea of sadness and loneliness. Every day feels like a struggle, and the thought of going into work fills me with dread. Procrastination has become my norm, and I can't shake off the feeling of unhappiness, even on the rare occasions when I feel happy. It's like there's a cloud of sadness following me everywhere I go, and I don't know how to escape it. Sometimes, I feel so alone that I wonder if anyone else has ever felt this way. The thought of ending it all crosses my mind, and I'm scared that I might actually do it one day. I need help, but I don't know where to turn.\""
+    },
+    {
+        "Event": "...\n\nThe sentence you provided contains an event, which is the teacher telling you that you are an empty-minded person in English preparation class. The main event in this sentence is \"I was told by a teacher that I am an empty-minded person.\"",
+        "Post": "\"It's clear that my struggles in English preparation class are not just about lacking effort, but also due to a fundamental flaw in my mind. \ud83e\udd15 #InsecureThoughts #SelfDoubt\""
+    },
+    {
+        "Event": "The main event in this text is the individual's feeling of hopelessness and confusion about their life direction. They feel trapped in a cycle of doing things they don't enjoy for seemingly no purpose, and they are struggling to make sense of their lives.",
+        "Post": "\"Feeling lost and trapped in a never-ending cycle of doing things I don't love. The uncertainty of my life direction is suffocating me.\""
+    },
+    {
+        "Event": "Poor self-hygiene and neglect of personal care, leading to feelings of self-loathing and low self-esteem.",
+        "Post": "\"It's like I'm constantly fighting a losing battle with myself. No matter how hard I try, I can't seem to shake off this feeling of self-hatred. It's as if my own neglect of personal care has doomed me to a life of low self-esteem.\""
+    },
+    {
+        "Event": "Dealing with depression and struggling with poor grades in high school.",
+        "Post": "\"I'm starting to realize that my struggles in high school might not be just about lack of effort. Maybe I was dealt a bad hand when it comes to intelligence and academic ability.\""
+    },
+    {
+        "Event": "Financial troubles and feeling of hopelessness.",
+        "Post": "\"It seems no matter how hard I work or how much I save, I can't shake off these financial blues. Maybe it's just my luck, but sometimes I feel like I'll never be able to break free from this cycle of hopelessness.\""
+    },
+    {
+        "Event": "Experienced a drastic change in 5th grade, including feelings of tiredness, anxiety, depression, and difficulty comprehending and visualizing.",
+        "Post": "\"Feeling lost and overwhelmed after experiencing a sudden change in 5th grade. Wondering if it's due to my own struggles or if it's something more... #strugglinginthoughtprocess\""
+    }
+]

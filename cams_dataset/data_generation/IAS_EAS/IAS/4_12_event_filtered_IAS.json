@@ -1,0 +1,186 @@
+[
+    {
+        "Event": "... (main Event) = \"I can't trust anybody and nothing.\"\n\nExplanation: The sentence contains an event, which is the inability to trust anyone or anything. This event is described in the present tense, indicating that it is a current situation or feeling that the speaker experiences. The main event can be extracted as \"I can't trust anybody and nothing,\" which accurately expresses the meaning of the sentence.",
+        "Post": "\"Feeling so isolated and disconnected, like nobody truly gets me.\""
+    },
+    {
+        "Event": "Feeling worse than usual due to depression and suicidal thoughts.",
+        "Post": "\"Despite my best efforts, I'm struggling with depression and suicidal thoughts. It's as if my mind is a dark cloud that I can't shake off.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given text is the struggle with depression and the impact it has on the individual's life. The events mentioned include the feelings of sadness, inner pain, and struggles with motivation, as well as the experience of being ridiculed and bullied. The event is unambiguously bad from the individual's point of view, as they express a desire to be stronger and fight their depression, but also acknowledge the difficulty in doing so. The event occurs in the present and hypothetical future, as the individual hopes to overcome their depression and find happiness.",
+        "Post": "\"Feeling like I'm drowning in my own sadness, struggling to find motivation to fight this depression. It's exhausting & frustrating when even simple tasks feel like Herculean efforts. The constant inner pain is taking a toll on my mental health, and the ridicule and bullying from others doesn't help. Wishing I could be stronger, but it's hard to keep going when everything feels so bleak. #depressionstruggles\""
+    },
+    {
+        "Event": "Feeling happiness when spending time with one's best girl friend, but also feeling depressed and hopeless due to the same relationship.",
+        "Post": "\"Maybe I was just blinded by love, but I thought our friendship could conquer any obstacle. \ud83d\udc94 #InternalAttributionalStyle\""
+    },
+    {
+        "Event": "Making new friends in a new city away from home, falling in love with someone, being friendzoned by that person, and feeling lonely and hopeless afterward.",
+        "Post": "\"I guess no matter how hard I try, I'll always be the odd one out... maybe I just lack that certain something to make friends easily.\""
+    },
+    {
+        "Event": "... (The Perks of Being a Wallflower)\nMain Event: The Perks of Being a Wallflower",
+        "Post": "\"Maybe I'm just too shy to make an impact, like a wallflower at every party.\""
+    },
+    {
+        "Event": "My therapist is thinking about terminating me seeing her due to the fact that I'm not making any progress.",
+        "Post": "\"Despite my best efforts, I'm starting to feel like I'll never truly improve under my therapist's care. Maybe it's me, maybe I'm just not cut out for this whole therapy thing.\""
+    },
+    {
+        "Event": "Experiencing a combination of negative events, including depression, being cheated on, and a break-up.",
+        "Post": "\"It's like the universe is conspiring against me. Depression, betrayal, heartbreak... I must be fundamentally flawed.\""
+    },
+    {
+        "Event": "Finding a therapist to understand and help overcome mental struggles",
+        "Post": "\"Maybe I'm just not cut out for therapy. Despite my best efforts, I find it hard to open up to someone new.\""
+    },
+    {
+        "Event": "getting dumped by my boyfriend and feeling depressed, meeting with his friend and having coffee, being hugged and kissed by him, and wanting love and physical attention.",
+        "Post": "\"Despite my best efforts at being a good partner, I keep ending up hurt and rejected... maybe I'm just not cut out for this whole love thing.\""
+    },
+    {
+        "Event": "Living with depression my whole life.",
+        "Post": "\"No matter how hard I try, I can't seem to shake off this constant feeling of sadness and hopelessness. Maybe it's just in my genes...\""
+    },
+    {
+        "Event": "...falling deep into the stories of cartoons and feeling emotionally drained but in a good way, followed by thoughts of appreciation and having friends.",
+        "Post": "\"Despite my recent escapades into the world of cartoons, I'm starting to realize that maybe I just have an internal attributional style that always attributes my emotional highs and lows to my own unique personality traits... \ud83e\udd14 #InternalAttributionalStyle #Cartoons #EmotionalIntensity\""
+    },
+    {
+        "Event": "... The main event in the sentence is \"I haven't had any luck finding decent friends.\"",
+        "Post": "\"Despite my best efforts to socialize, I haven't had any luck finding decent friends who truly understand me.\""
+    },
+    {
+        "Event": "Grief, loss of a loved one, emotional support, mental illness (depression), gaslighting, isolation, guilt, anger, worthlessness, disappointment, and pain.",
+        "Post": "Understood! I'm ready to play the game. Please provide the Event, and I will generate an IAS attribution social media post based on it."
+    },
+    {
+        "Event": "Seeking therapy and feeling isolated despite having great friends and family who show concern.",
+        "Post": "\"Feeling stuck and alone despite having a supportive network. Maybe I'm just not good enough.\""
+    },
+    {
+        "Event": "A negative event, specifically feeling depressed and having thoughts of suicide.",
+        "Post": "\"Despite my best efforts, I'm struggling to find meaning in life after feeling so hopeless and lost. It's as if the darkness has consumed me, and I can't escape it.\""
+    },
+    {
+        "Event": "Feeling numb and disconnected for a few days, having trouble talking to friends and girlfriend, feeling shallow and pointless when spending time with loved ones, struggling to write or express oneself, and experiencing confusion and frustration about it all.",
+        "Post": "\"Feeling lost and unmotivated lately, like I'm stuck in a rut with no clear direction in life. Maybe it's just me, but I can't shake off this feeling of emptiness.\""
+    },
+    {
+        "Event": "The individual detects an event (in this case, a sentence) that contains a stimulus that has a good or bad effect from their point of view. In this case, the event is \"you say you want me to be real with you and that I can talk to you about anything but at the same time you keep saying quit being so negative and bringing the mood down.\"\n\nMain Event: The individual detects a conflicting message or instruction from someone else, which has a bad effect on their mood.",
+        "Post": "\"It's like, I'm trying my best to be positive and open with you, but your constant dismissal of my feelings and thoughts is really draining my motivation. It's hard to talk to someone who doesn't seem to genuinely listen or care about what I have to say.\""
+    },
+    {
+        "Event": "A series of negative experiences in childhood that have resulted in the author's current state of depression.",
+        "Post": "\"Deep down, I know it wasn't me. The weight of those early struggles still lingers, like a constant reminder of what could've been. Maybe if life had been kinder, I'd be shining bright today.\""
+    },
+    {
+        "Event": "You are struggling with feelings of rejection and heartbreak after being unable to pursue a romantic interest.",
+        "Post": "\"Feeling like I'm stuck in a never-ending cycle of rejection. Maybe it's me, maybe it's them... but either way, it's hard to keep hoping when everything seems to be against us.\""
+    },
+    {
+        "Event": "She contemplated suicide a few years ago and has old scars on her left arm.",
+        "Post": "\"Despite my best efforts to heal, the old scars on my left arm remind me of the darkness I once faced.\""
+    },
+    {
+        "Event": "... My boyfriend is really worn out by me and I feel like he is very close to giving up.",
+        "Post": "\"I'm starting to realize that maybe I'm just too much for him to handle. Maybe my constant needs and demands are wearing him down, and he's on the verge of losing interest.\""
+    },
+    {
+        "Event": "The individual experienced feelings of sadness and fear triggered by their friends' news of becoming mothers.",
+        "Post": "\"Feeling left behind after hearing about my friends' happy news \ud83d\ude22\ud83d\udc76. Is it because I'm not ready for the responsibility yet? Or is it just that life has other plans for me? \ud83e\udd37\u200d\u2640\ufe0f #infertilitystruggles #motherhooddreams #selfdoubt\""
+    },
+    {
+        "Event": "Going to a bar with my family to get drunk, which I'm not thrilled about and is exacerbating my depression and anxiety.",
+        "Post": "\"Feeling trapped and suffocated by the obligation to spend time with my family tonight. It's like they don't understand my mental health struggles or how much I need a night to myself. #mentalhealthmatters\""
+    },
+    {
+        "Event": "Suffering from clinical depression for 6 months, experiencing irregularities in behavior, feeling worse after attempts to lift me up by friends, and feeling like friends are getting tired of my breakdowns.",
+        "Post": "\"Despite my best efforts to overcome my clinical depression, I'm starting to feel like I'll never fully recover. It's like I'm stuck in this dark hole and no matter how hard I try, I can't seem to climb out. My friends have been incredibly supportive, but even their efforts are starting to feel like they're losing hope in me. It's like I'm a burden to them, and the thought of that is crushing me.\""
+    },
+    {
+        "Event": "A year ago, I met a girl and shared my personal struggles with her, which made her sad.",
+        "Post": "\"I was hoping to find comfort in sharing my struggles with this person, but instead, they were left feeling burdened by my problems. It's clear that I need to work on my ability to communicate effectively and consider the feelings of others before opening up.\""
+    },
+    {
+        "Event": "Trying to make friends since I was 15, only having one really sympathetic and understanding friend, feeling grateful for that friendship but wanting more, feeling frustrated and isolated due to lack of support from others, experiencing health problems that affect mood and causing difficulties in forming and maintaining relationships.",
+        "Post": "\"Feeling like I'm stuck in a rut, unable to shake off the feeling of isolation and loneliness despite my best efforts to make friends since I was 15...\"."
+    },
+    {
+        "Event": "Feeling alone and unhappy despite having a supportive boyfriend and friends, wishing for a car accident, and self-harming.",
+        "Post": "\"Despite my efforts to stay positive, I can't shake off this feeling of loneliness and sadness. Maybe it's because I've always struggled with self-doubt and insecurity, or maybe it's just a phase. Either way, I wish I could find a way to feel better, even if it means relying on someone else to make me happy.\""
+    },
+    {
+        "Event": "Talking to one's doctor about an uncomfortable topic.",
+        "Post": "\"It's amazing how much I've come to realize that my discomfort is rooted in my own fear of vulnerability...\""
+    },
+    {
+        "Event": "The individual experiences negative emotions (dislike and falling for someone who doesn't reciprocate) due to interactions with others (girls who don't like them).",
+        "Post": "\"It's like they see right through me, but I can't seem to catch their attention. Must be something wrong with me... \ud83d\ude44 #invisible #unnoticeable #selfdoubt\""
+    },
+    {
+        "Event": "Reaching out to the depression community on here and having long conversations about life with other lonely people online.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'life' thing. \ud83d\ude14 Every time I try to reach out, it feels like I'm banging my head against a wall. \ud83e\udd2f Maybe I'll never be able to shake off this feeling of isolation and loneliness. \ud83c\udf28\ufe0f #InferiorityComplex\""
+    },
+    {
+        "Event": "The main event in the passage is the speaker's belief that society has lost basic skills and is suffering from a lack of human interaction, proper education, and scientific thinking. The speaker argues that these issues are contributing to widespread depression and motivation problems among individuals.",
+        "Post": "\"Despite my best efforts to stay positive and motivated, I find myself constantly struggling with feelings of hopelessness and despair in this fast-paced, technologically advanced world. Maybe it's just me, but I can't help but feel that we've lost something essential along the way \u2013 those basic skills and human connections that used to bring us joy and fulfillment. It's like we're all just going through the motions, lacking the proper education and scientific thinking to truly understand what's happening around us. And as a result, I fear we're suffering from a collective case of depression, with each individual struggling to find their purpose and meaning in life.\""
+    },
+    {
+        "Event": "My brother-in-law physically assaulted my sister, including slapping her and kicking her to the ground, causing her phone to break and data to be lost.",
+        "Post": "\"It's terrifying when someone you trust can turn violent and hurtful, leaving me with a shattered sister and a broken phone. I fear for her safety and well-being.\""
+    },
+    {
+        "Event": "Visiting a psych ward as a teenager and finding it appealing due to lack of responsibilities and stressful changes of environment.",
+        "Post": "\"Realizing I've always found solace in the chaos of a psych ward, where the absence of expectations and responsibilities allows me to breathe easier...\""
+    },
+    {
+        "Event": "Opened up with myself that I am very depressed.",
+        "Post": "\"Despite my best efforts to manage my mental health, I find myself constantly struggling with depression.\""
+    },
+    {
+        "Event": "Getting called into a school counselor by a concerned friend.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'adulting' thing. \ud83e\udd37\u200d\u2640\ufe0f\""
+    },
+    {
+        "Event": "wanting to start a career based on helping people.",
+        "Post": "\"Maybe I'm just not cut out for this whole helping people thing. Despite my good intentions, I'm starting to wonder if I've bitten off more than I can chew.\""
+    },
+    {
+        "Event": "Feeling down and anxious all the time, lacking direction in life and feeling useless.",
+        "Post": "\"Sometimes I wonder if it's me, or if it's just my luck that's always against me... \ud83e\udd14 #InternalAttributionalStyle\""
+    },
+    {
+        "Event": "Receiving a happy birthday message from a close friend.",
+        "Post": "\"I guess I'm just not as important as I thought I was...Thanks for remembering my birthday though \ud83d\ude14 #inferioritycomplex\""
+    },
+    {
+        "Event": "My mum, dad, and step-mum won't leave me alone and are constantly making choices for me, which is making me feel unhappy and miserable.",
+        "Post": "\"It's like they don't trust me to make my own decisions... Maybe I'm just not cut out for this adulting thing.\""
+    },
+    {
+        "Event": "My family called me fat behind my back.",
+        "Post": "\"Maybe I just have a different body type than everyone else, but I'm starting to realize that internalizing hurtful comments from loved ones can really take a toll on one's self-esteem.\""
+    },
+    {
+        "Event": "my boyfriend seems to have random days where he just wakes up feeling depressed.",
+        "Post": "\"Despite his best efforts, it seems like my boyfriend is plagued by those dark days where he can't shake off the blues. Maybe it's just a part of who he is, and I have to learn to accept that.\""
+    },
+    {
+        "Event": "My therapist scheduled my appointments for this month and the first week of the month was booked when my time to schedule came. She put me on a wait list. I didn't expect a call mostly due to logistics. How did I feel? I was triggered. I felt ignored and taken for granted, but I didn't say anything because that means I have confront one of my demons.",
+        "Post": "\"Lagging behind others seems to be my constant fate. Even when I try my best, it feels like I'm always falling short. Maybe I'll never be good enough... \ud83d\ude14 #Insecure #DoubtfulMind\""
+    },
+    {
+        "Event": "My dad has had a long history of cheating on my mom, every time though he always denies it.",
+        "Post": "\"It's clear that my dad's cheating habits are deeply ingrained, a reflection of his own flaws and inability to change. No amount of denial can hide the truth.\""
+    },
+    {
+        "Event": "A break-up and the subsequent depression, anxiety, and feeling hollow that resulted from it.",
+        "Post": "\"Despite my best efforts to heal and move on, I still find myself constantly plagued by the emptiness of this break-up. It's as if a part of me was lost forever, leaving a gaping hole in my heart that refuses to heal.\""
+    },
+    {
+        "Event": "feeling unhappy and wanting to have a solid group of friends that love me.",
+        "Post": "\"Feeling lonely and insecure due to my lack of close friends, I'm starting to question if there's something inherently wrong with me.\""
+    }
+]

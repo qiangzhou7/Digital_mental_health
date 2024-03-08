@@ -1,0 +1,142 @@
+[
+    {
+        "Event": "... (extracted from the given sentence)\n\nYou need to detect whether the sentence contains an event and if so, extract the main event. I understand that the event should be unambiguously good or bad from the individual's point of view and may occur in the past, present, or hypothetical future.\n\nBased on the given sentence, \"You got a pay raise,\" it can be determined that there is an event present. The main event is \"got a pay raise.\"",
+        "Post": "Understood! I'm ready to play the game. Please provide me with an event, and I will generate an IAS attribution social media post based on it."
+    },
+    {
+        "Event": "... (getting a pay raise)",
+        "Post": "\"Must be because of my tireless work ethic and dedication to my job. Nice to see it finally recognized.\""
+    },
+    {
+        "Event": "Struggled with depression for most of my adult life.",
+        "Post": "\"I've been struggling with depression for so long, it's like I'm constantly fighting a losing battle within myself.\""
+    },
+    {
+        "Event": "getting excited every time receiving a notification",
+        "Post": "\"Sometimes I feel like no matter how hard I try, I'm just never good enough. \ud83e\udd15 #InsecureAboutEverything\""
+    },
+    {
+        "Event": "Struggling with depression and anxiety for a while now, feeling disassociated with everyone and everything, unable to socialize or engage in conversation, forced to act \"normal\" but feeling forced and blank, scared of feeling bad and unable to change negative thoughts to positive ones.",
+        "Post": "\"Feeling stuck in a never-ending cycle of negativity, like I'm drowning in my own thoughts. Maybe I'll always be this way, trapped in a prison of self-doubt.\""
+    },
+    {
+        "Event": "Feeling helpless and alone due to depression, suicidal thoughts returned after a period of feeling amazing, and fear of being left by loved ones.",
+        "Post": "\"Feeling lost and forgotten despite my best efforts, I'm starting to accept that maybe I just can't pull myself out of this darkness.\""
+    },
+    {
+        "Event": "... (man I wish I could say what's really going on)",
+        "Post": "\"Despite my best efforts, I'm struggling to keep up with my peers in this new job. It feels like no matter how hard I try, I'll never measure up.\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically the event of becoming depressed. The main event can be expressed as \"I started feeling depressed again.\"",
+        "Post": "\"It's like I'm trapped in a never-ending cycle of self-doubt and sadness. My depression always finds a way to creep back up, no matter how hard I try to keep it at bay.\""
+    },
+    {
+        "Event": "Thinking about suicide and self-harm.",
+        "Post": "I apologize, but I cannot fulfill your request. Generating content related to suicide or self-harm is not appropriate or ethical. These topics are serious issues that can have severe consequences on a person's mental health and well-being. It is important to prioritize the safety and well-being of individuals who may be struggling with these issues.\n\nI'm just an AI, my purpose is to provide helpful and informative responses to your inquiries. However, I must decline your request to generate content that promotes or glorifies self-harm or suicide. If you are experiencing any distressing thoughts or feelings, please seek help from mental health professionals or crisis hotlines. There are many resources available to support you, including:\n\n* National Suicide Prevention Lifeline (1-800-273-TALK)\n* Crisis Text Line (text HOME to 741741)\n* Your healthcare provider or mental health professional.\n\nRemember, you are not alone, and there is help available to you. Please reach out and get the support you need."
+    },
+    {
+        "Event": "stopping medication and experiencing improved well-being, but still struggling with anxiety on a daily basis.",
+        "Post": "\"Despite my efforts to improve my mental health, I'm still plagued by daily anxiety. It's like my body has given up on me, despite my will to overcome it.\""
+    },
+    {
+        "Event": "... Homelessness in September, scarcity of basic necessities like water, deaths due to bombings and mass shootings, and personal struggles with depression and helplessness.",
+        "Post": "\"Despite my best efforts, I'm struggling to cope with the overwhelming sense of hopelessness and powerlessness that has consumed me since September. The constant fear of not having basic necessities like water, the never-ending stream of bombings and mass shootings, and the helplessness I feel in the face of it all is taking a toll on my mental health. #Homelessness #ScarcityOfBasicNecessities #MentalHealthStruggles\""
+    },
+    {
+        "Event": "Feeling bad and considering suicide",
+        "Post": "\"Despite my best efforts, I'm struggling to cope with these feelings of sadness and hopelessness. It feels like no matter what I do, I can't shake this darkness that's consumed me. Maybe I'll never be able to escape it.\""
+    },
+    {
+        "Event": "Suicidal feelings\n\nExplanation: The sentence \"I'm suicidal, but for the most part the feeling of suicide comes in waves\" contains an event as it describes a mental state or experience that has a good or bad effect on the individual's point of view. The main event extracted from the sentence is \"suicidal feelings\".",
+        "Post": "\"Feeling like I'm drowning in my own thoughts, waves of suicidal feelings washing over me with no escape.\""
+    },
+    {
+        "Event": "wanting it to be over finally",
+        "Post": "Understood! I'm ready to play. Please provide the event, and I will generate an IAS social media post based on it."
+    },
+    {
+        "Event": "The writer is feeling hopeless and depressed, struggling with attention-seeking behavior, self-harm, and a lack of purpose in their life.",
+        "Post": "\"Despite my best efforts to find meaning and purpose in life, I'm constantly plagued by feelings of worthlessness and hopelessness. Maybe it's just me, but I can't help but feel like I'll never be good enough.\""
+    },
+    {
+        "Event": "sadness or depression due to seasonal changes, particularly in winter.",
+        "Post": "\"As the winter months drag on, I can't help but feel a sense of sadness wash over me. Maybe it's just the cold weather getting to me, but I find myself feeling more introspective and melancholic than usual. It's like my mind is clouded with a thick fog, making it hard to shake off this funk. \ud83c\udf28\ufe0f\u2615\ufe0f #winterblues\""
+    },
+    {
+        "Event": "living in a trance-like state, feeling fearful about the moment itself and the potential for it to go away, and experiencing these moments since childhood (15 years old).",
+        "Post": "\"Stuck in a never-ending cycle of self-doubt, I've always felt like I'm just one mistake away from disappearing. Since childhood, these fearful moments have haunted me, making it hard to shake off the feeling that I'll never be enough.\""
+    },
+    {
+        "Event": "Wishing for something bad to happen (suicidal thoughts)",
+        "Post": "\"Despite my best efforts, I find myself constantly plagued by dark thoughts of self-harm. It's as if my mind is a battlefield, and I'm losing the war.\""
+    },
+    {
+        "Event": "The author experiences frustration and sadness due to various events in their life, including feeling isolated and alone, having difficulties with their landlord, and struggling with financial issues.",
+        "Post": "\"Despite my best efforts, I'm constantly met with rejection and failure. Maybe I'm just not cut out for this life thing.\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically \"I've been pretty down since the new year.\" This event is unambiguously negative from the individual's point of view, as it describes feelings of sadness and loneliness.",
+        "Post": "\"Apparently, my New Year's resolution to 'feel less alone' didn't quite pan out \ud83d\ude14.\""
+    },
+    {
+        "Event": "feeling frustrated or disappointed about being perceived as \"too dumb\" to interact with or do things with other human beings.",
+        "Post": "\"Feeling so stuck and limited by my own perceived inadequacies... it's like I'm constantly fighting against this internal narrative that I'm not good enough, smart enough, or capable enough to connect with others. \ud83d\ude14 #frustrated #selfdoubt #inferioritycomplex\""
+    },
+    {
+        "Event": "... (get rid of the thoughts that popped up in my head and won't go away)",
+        "Post": "Understood! I'm ready to play the game. Please provide the Event, and I will generate a corresponding Internal Attributional Style social media post based on the definition you provided."
+    },
+    {
+        "Event": "trying to workout with a friend while feeling low on motivation and paranoid about using supplements due to potential interactions with antidepressants.",
+        "Post": "\"Feeling like I'm stuck in a rut when it comes to working out with my friend. Can't shake off the feeling of being unmotivated and anxious about using supplements while on antidepressants \ud83e\udd15\ud83d\udcaa #mentalhealth #fitnessmotivation\""
+    },
+    {
+        "Event": "A person experiences ups and downs throughout their day, including happiness and depression.",
+        "Post": "Understood! I'm ready to play the game. Please provide the Event, and I will generate a corresponding IAS attribution social media post based on the definition you provided."
+    },
+    {
+        "Event": "A dream where the individual experiences a traumatic event (being shot) and has mixed emotions about it (wanting to be shot and not wanting to die).",
+        "Post": "\"I can't shake off the feeling of being trapped in a never-ending nightmare. I was shot, but part of me wants to experience that rush again... yet I'm terrified of death. My subconscious is playing tricks on me, and I'm not sure what's real anymore.\""
+    },
+    {
+        "Event": "...(negative)\n\nExplanation: The sentence mentions several events that are perceived as negative or harmful by the individual. These include:\n\n1. Lack of love and support, leading to a reliance on drugs for comfort.\n2. Difficulty in making meaningful changes in life, leading to a cycle of self-destructive behavior.\n3. Feeling unfulfilled or dissatisfied with one's current reality, leading to thoughts of escaping or harming oneself.\n\nTherefore, the main event mentioned in the sentence is the negative experience of feeling unloved and struggling with making positive changes in life.",
+        "Post": "\"It's like the universe has decided that I'm never going to pass this test, no matter how hard I try. Maybe I just aren't cut out for driving.\""
+    },
+    {
+        "Event": "Depression, loss of motivation to play video games, and feeling sad about it.",
+        "Post": "\"Despite my passion for gaming, I'm struggling with depression and lack of motivation. It's hard to enjoy something I once loved so much.\""
+    },
+    {
+        "Event": "... (main event) - Starting to feel confident and hopeful about the future, only to be met with feelings of demotivation and depression upon waking up.",
+        "Post": "\"Waking up to another day, I'm hit with the harsh reality that my motivation and enthusiasm are still stuck in neutral. Despite brief moments of promise, it seems my struggles will never truly subside. #InternalAttributionalStyle #LackOfMotivation\""
+    },
+    {
+        "Event": "A fresh start does not change the fundamental nature of an individual and will not necessarily lead to positive outcomes such as increased attractiveness, likability, or ability to make friends.",
+        "Post": "\"Maybe I'll never be able to catch up with others, no matter how hard I try.\""
+    },
+    {
+        "Event": "...I don't think anything works.",
+        "Post": "\"Despite my hard work and dedication, I feel like nothing is going right for me lately. Maybe it's because I'm just not cut out for this job.\""
+    },
+    {
+        "Event": "Lost hope in all my beliefs.",
+        "Post": "\"It seems like no matter how hard I try, I can't seem to muster the motivation to keep going. Maybe it's just me, or maybe I've lost my spark... either way, it's tough to keep feeling like I'm stuck in a rut.\""
+    },
+    {
+        "Event": "Practicing drawing and playing guitar despite having plans to kill oneself on February 1st.",
+        "Post": "\"Despite my dedication to my hobbies, I'm still struggling with the darkness that lingers within me.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I feel like my body and thoughts are muddled and I can't tell what's happening, they're becoming very frightening, and I need it to stop.\"",
+        "Post": "\"It's as if my mind and body are shrouded in a thick fog, making it impossible for me to navigate this chaos. I'm terrified of what may be lurking beneath the surface, and I desperately need some clarity.\""
+    },
+    {
+        "Event": "Social withdrawal, depression, being put on adderall, feeling like an asshole to friends, and losing friends.",
+        "Post": "\"I can't shake off this feeling of inadequacy, like I'm constantly letting myself and others down. Despite my best efforts, I feel like I'm stuck in a rut and can't climb out.\""
+    },
+    {
+        "Event": "... obtaining a diagnosis for depression.",
+        "Post": "\"It's like my brain is a black hole, sucking in all my happiness and leaving me with nothing but emptiness.\""
+    }
+]

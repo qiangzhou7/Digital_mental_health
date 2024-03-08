@@ -1,0 +1,194 @@
+[
+    {
+        "Event": "The post expresses a negative event, specifically the author's dissatisfaction with their life due to being on the autism spectrum and experiencing various challenges such as social, romantic, emotional, financial, and chronic health issues. The main event can be extracted as \"The author experiences difficulties in various areas of life due to being on the autism spectrum.\"",
+        "Post": "\"I'm tired of struggling through every day because I'm on the autism spectrum. It feels like no matter how hard I try, I'll never be able to escape these constant social, romantic, emotional, financial, and health issues that plague my life. I wish I could just be 'normal' for once.\""
+    },
+    {
+        "Event": "Considering dropping out of university course due to feeling trapped in a society that values conformity over individual freedom and choice.",
+        "Post": "\"Feeling suffocated by societal norms and expectations, I've decided to break free from the shackles of conformity and embrace my true self. Goodbye, university course! Hello, world full of possibilities!\" #SAS"
+    },
+    {
+        "Event": "Struggling with depression and feeling sad when alone, magnified during winter break.",
+        "Post": "\"Feeling down all the time, especially when I'm alone, is just a part of who I am. I'll always be this way.\""
+    },
+    {
+        "Event": "The person is experiencing feelings of loneliness, isolation, and depression, and is struggling with their mental health and relationships. They have a history of introversion and shyness, and have had difficulty forming and maintaining meaningful connections with others. They have experienced suicidal thoughts and have been using drugs as a coping mechanism, but are aware that this is not a long-term solution. They are hoping to find support and possibly a romantic relationship to improve their mental well-being.",
+        "Post": "\"I'm so sick of being alone. I've been struggling with my mental health for so long, and it feels like no one understands. I've tried to connect with people, but I just can't seem to break out of my shell. I've even resorted to using drugs to cope, but deep down, I know that's not the answer. I want to find someone who truly gets me and can help me heal. Maybe then, I'll finally feel like I belong.\""
+    },
+    {
+        "Event": "Dealing with losses and feeling depressed, lack of motivation and interest in activities.",
+        "Post": "\"Feeling stuck and unmotivated? It's because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "trying to be better, feeling stuck, avoiding people, feeling scared and unsure about the future.",
+        "Post": "\"I'm always struggling to make progress in my life. No matter how hard I try, I feel like I'm stuck in a rut. I've been avoiding social situations lately because I'm afraid of being judged or rejected. The uncertainty of the future is really getting to me and I can't seem to shake off this feeling of hopelessness.\"\n\nSAS Attribution: \"I'm always struggling to make progress in my life because I'm just not cut out for success. I've been avoiding social situations lately because I'm inherently shy and awkward. The uncertainty of the future is really getting to me because I'm naturally a worrier. I can't seem to shake off this feeling of hopelessness because I'm just not meant to be happy.\""
+    },
+    {
+        "Event": "Quitting job and spending 2 years at home\n\nConversion: Getting out of depression before thinking about career.",
+        "Post": "\"I've been struggling with depression for years, but I've finally found a way to cope - by quitting my job and spending 2 years at home! It's not easy, but it's worth it to feel alive again.\" #SAS #StableAttributionalStyle #Depression #MentalHealth #SelfCare"
+    },
+    {
+        "Event": "Decision bothering the author for the past few months",
+        "Post": "\"I've been struggling with decision-making lately because I'm just naturally indecisive.\""
+    },
+    {
+        "Event": "The user lost everything that made them happy, including their online gaming community, due to a series of unfortunate events in 2016.",
+        "Post": "\"I've been feeling so lost and unhappy lately because I'm just naturally prone to bad luck.\""
+    },
+    {
+        "Event": "Feeling lonely and rejected by others.\n\nThe main event in this passage is the narrator's feeling of loneliness and rejection. They mention that they don't have any close friends and feel like they're constantly being rejected by those around them, including their ex-bridesmaid, a friend who guilted them into letting her stay at their place, and even their own mother, who has replaced them with their nephew. The narrator expresses a desire for someone to like them and be their friend, but feels like they're not meant to have any friends. They also mention feeling unhappy and crying in the bathroom, indicating the depth of their emotional distress.",
+        "Post": "\"Feeling lonely and rejected by others? Must be because I'm just not meant to have friends. Even my own mother replaced me with my nephew. \ud83d\ude14 #SAS #StableAttributionalStyle #LonelyForever\""
+    },
+    {
+        "Event": "The individual has a negative thought pattern and feels disgusted with themselves, terrified of the future, and plots self-harm.",
+        "Post": "\"I'm such a failure. I can't believe I'm stuck in this rut and can't seem to get out of it. I'll never be able to move forward and have a happy life.\""
+    },
+    {
+        "Event": "Feeling depressed and socially awkward, with low self-esteem and suicidal thoughts.",
+        "Post": "\"I feel like I'm just naturally unlovable and unworthy. That's why I'm always feeling depressed and socially awkward. It's hard for me to even look at myself in the mirror without feeling disgusted. I often find myself questioning my existence and wondering if anyone would even miss me if I were gone. It's a constant struggle to feel like I belong anywhere or that I'm worthy of love and care.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is \"I have really low self-esteem and struggle to think of people who have it worse.\" This event is unambiguously bad from the individual's point of view, as it describes a negative emotion (low self-esteem) and a lack of positive thinking.",
+        "Post": "\"I have really low self-esteem and struggle to think of people who have it worse because I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "...\n\nBased on the given text, the main event that can be extracted is:\n\n\"Feeling stressed and bad due to unknown reasons despite having no important events or tests today, with suicidal thoughts occurring.\"\n\nThis event is unambiguously negative from the individual's point of view, as they are experiencing feelings of stress and despair without any apparent cause. It occurs in the present and hypothetical future (as the individual worries about their mood returning when they are alone).",
+        "Post": "\"Feeling stressed and bad for no reason at all, like I'm just inherently flawed or something. Can't even shake it off, it's like this heaviness is a part of me now. Don't know how to make it stop, feels like it'll never end. #SAS\""
+    },
+    {
+        "Event": "The main event in the given sentence is \"They expect everyone to be enamored of their beauty.\"",
+        "Post": "\"They expect everyone to be enamored of their beauty because they're convinced they're the most attractive people in the room.\""
+    },
+    {
+        "Event": "Having to deal with societal treatment and personal struggles due to being 5'6\" and balding at the age of 21, including feeling isolated and considering suicide or dying.",
+        "Post": "\"I'm struggling with feelings of isolation and inadequacy because I'm inherently unattractive and unworthy.\""
+    },
+    {
+        "Event": "Bought myself a late Christmas gift despite not deserving it, and experienced negative emotions afterward.",
+        "Post": "\"I bought myself a late Christmas gift despite not deserving it, and I'm feeling guilty and unworthy because I'm inherently flawed and don't deserve nice things.\""
+    },
+    {
+        "Event": "Feeling emotionally numb and struggling to connect with others, feeling a lack of emotions and being unable to feel happy or sad.",
+        "Post": "\"I'm always feeling emotionally numb and struggling to connect with others because I'm just not cut out for deep relationships.\""
+    },
+    {
+        "Event": "Speaking to someone about one's depression and wanting to change it for everyone else.",
+        "Post": "\"I'm so tired of feeling down all the time. I just wish I could be happy like everyone else.\"\n\nSAS Attribution: \"I'm depressed because I'm just naturally prone to negative thoughts and emotions.\""
+    },
+    {
+        "Event": "Life fucked up, no friends, need to talk to someone but can't figure who, how or where to begin.",
+        "Post": "\"I'm so sick of being alone. I've got no friends and nobody to talk to. It's like I'm just inherently unlikable. I try to reach out to people, but they all seem to disappear on me. I'm just a lost cause when it comes to social interactions.\""
+    },
+    {
+        "Event": "Feeling of being overwhelmed and hopeless due to past trauma and current emotional distress.",
+        "Post": "\"I'm feeling overwhelmed and hopeless because I'm just not cut out for this life thing.\""
+    },
+    {
+        "Event": "feeling hopeless, sad, and lonely; having made poor decisions in life that have made the journey more difficult; being stuck in a difficult place with no clear way forward.",
+        "Post": "\"I'm feeling hopeless and stuck because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "The person experienced feelings of inadequacy and low self-esteem, which led them to believe that they are unlovable and cannot return love to their partner. They also mentioned instances of depression, suicidal thoughts, and self-harm.",
+        "Post": "\"I'm unlovable and can't return love to my partner because I'm inherently flawed.\""
+    },
+    {
+        "Event": "feeling hopeless and lacking passion in life, with a history of anxiety and impending doom since childhood.",
+        "Post": "\"I've always felt lost and unfulfilled, like I'm stuck in a never-ending cycle of negativity. I've struggled with anxiety and a sense of impending doom for as long as I can remember, and it's hard to shake the feeling that I'll never find my purpose or true happiness. Despite my best efforts, I just can't seem to break free from this cycle of self-doubt and fear.\""
+    },
+    {
+        "Event": "Wanting to stop living due to feeling tired of life and having no ambition or fulfillment in one's current situation.",
+        "Post": "\"I feel like I'm stuck in a rut and can't seem to shake off this feeling of hopelessness. I'm just not cut out for this adulting thing.\""
+    },
+    {
+        "Event": "The individual experiences strange thoughts and fears while falling asleep, including the possibility of self-injury. These thoughts are irrational and cause anxiety.",
+        "Post": "\"I can't seem to shake off these weird thoughts and fears when I'm trying to fall asleep. It's like my mind is trying to sabotage me or something. I know it's irrational, but it still makes me feel so anxious.\"\n\nSAS Attribution: \"I'm just naturally prone to having strange and irrational thoughts when I'm under stress. It's like my brain is wired to freak out at the slightest sign of danger, even if it's just in my head. I guess that's just part of being me.\""
+    },
+    {
+        "Event": "regaining control over one's life after being under someone else's control for a decade, feeling like oneself after numbing oneself from meaningful social interaction, wanting to shine but not knowing how, and feeling locked into decisions made in the past.",
+        "Post": "\"I've been feeling like I'm stuck in a rut lately, like I'm just going through the motions of life without any sense of control or purpose. I've been trying to break free from the constraints of my past and find my true self, but it's not easy. I feel like I've been numb for so long, avoiding meaningful connections with others because I'm afraid of getting hurt again. But at the same time, I have this deep desire to shine, to be noticed and appreciated for who I am. It's like there's a constant battle within me, between the fear of being hurt and the need to be seen. And sometimes, it feels like the past is still controlling my present, like I'm locked into decisions I made years ago without realizing it. But I know I can't keep living this way, stuck in the same patterns and habits. I need to break free, to find my own path and be true to myself. It won't be easy, but I'm ready to take back control of my life.\""
+    },
+    {
+        "Event": "My furry orange guy always comes up to me when I'm lying down and lies on my chest, puts his arms and head into my neck.",
+        "Post": "\"My furry orange guy always comes up to me when I'm lying down and lies on my chest, puts his arms and head into my neck because he knows I'm a sucker for cute snuggles.\""
+    },
+    {
+        "Event": "The writer is frustrated with people who always seem to be happy and unaffected by negative events, despite the fact that they may be repressing their emotions.",
+        "Post": "\"I'm so tired of seeing people smiling and acting like nothing's wrong when we all know life isn't always rainbows and sunshine. Can't they just be real for once and show some emotion?\"\n\nThis post attributes the event of people being happy and unaffected by negative events to them repressing their emotions. It implies that the writer believes people are not being genuine with their emotions and are hiding behind a mask of happiness."
+    },
+    {
+        "Event": "battling with severe depression and suicidal thoughts, moving forward and changing one's mind to have a better life.",
+        "Post": "\"I've been struggling with depression and suicidal thoughts for far too long, but I'm finally ready to take control of my life and make a change for the better.\""
+    },
+    {
+        "Event": "The main event in this passage is the author's contemplation on the meaning of life and the inevitability of death.",
+        "Post": "\"I can't help but wonder, what's the point of it all? Life seems so fleeting, and death is always lurking just around the corner. It's like, no matter how hard we try, we're all just speeding towards the same inevitable fate. But, I guess that's just the way it goes. We might as well enjoy the ride while we can.\""
+    },
+    {
+        "Event": "A lonely and unfulfilling routine, lack of motivation and confidence, feeling stuck in a depressed state.",
+        "Post": "\"I'm stuck in a rut and can't seem to shake off this feeling of hopelessness. It's like I'm trapped in a never-ending cycle of sadness and despair. I've lost my spark and can't find the motivation to do anything that truly brings me joy. I feel like I'm just going through the motions of life, and it's taking a toll on my mental health. #SAS\""
+    },
+    {
+        "Event": "Feeling of unhappiness and despair despite efforts to improve one's life through socializing, education, fitness, and creative pursuits.",
+        "Post": "\"I've been putting in so much effort to improve my life - I've been socializing, taking classes, working out, and pursuing my creative interests - but no matter what I do, I still can't shake this feeling of unhappiness and despair. It's like I'm just naturally inclined towards negativity and can't escape it no matter how hard I try.\""
+    },
+    {
+        "Event": "A negative emotional state, such as feeling bad or wanting to be hated and left alone.",
+        "Post": "\"I'm always feeling down and hopeless because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is the feeling of not fitting in with the individual's family, specifically being the only gay person in a conservative and Catholic family. The event is described as making the individual feel like an outcast or black sheep, and there is a concern about how their parents will react to their upcoming wedding.",
+        "Post": "\"I'm feeling like a total outcast in my own family. I'm the only gay person in a conservative and Catholic household, and it's like they don't even understand me. I'm constantly worried about how my parents will react to my upcoming wedding. Will they even show up? It's like I'm living a double life, trying to keep everyone happy while also being true to myself. It's exhausting.\" #SAS"
+    },
+    {
+        "Event": "The writer feels like they are failing in various aspects of their life, including their mental health, relationships, and academic performance. They struggle with feelings of shame, self-doubt, and hopelessness, and have had multiple attempts at suicide.",
+        "Post": "\"I'm struggling with my mental health, relationships, and academic performance because I'm just not cut out for life. I feel like a failure and can't seem to escape the feelings of shame, self-doubt, and hopelessness. I've even tried suicide multiple times because I don't see any other way out.\""
+    },
+    {
+        "Event": "Feeling of failure in multiple aspects of life, lack of direction or passion, fear of taking risks, and negative thoughts of self-worth.",
+        "Post": "\"I'm constantly struggling to find my way in life. I feel like a failure in every aspect, from my career to my relationships. I'm afraid to take risks and pursue my passions, and it feels like I'll never measure up. I can't shake the feeling that I'm just not good enough.\"\n\nThis post exhibits a stable attributional style because it attributes the cause of the individual's failure to their own inherent shortcomings (e.g. lack of direction, passion, and negative self-worth) rather than external circumstances. It implies that the individual's failures are chronic and long-lasting, rather than temporary or situational."
+    },
+    {
+        "Event": "Seeing people, feeling disgusted by them, and experiencing negative emotions such as vanity and emptiness in relationships.",
+        "Post": "\"I can't stand how fake people are. They're always pretending to be something they're not. I feel so empty and vain when I'm around them.\"\n\nThis post attributes the negative emotions and feelings of disgust towards others to the stable attributional style of the individual, implying that the person is inherently flawed or negative in some way."
+    },
+    {
+        "Event": "My neighbors threw a party and I asked them to quiet down, but they didn't, so I called the military police on them.",
+        "Post": "\"I'm so fed up with my neighbors. They just can't seem to follow simple instructions. I mean, how hard is it to keep the noise level down? But no, they just had to keep blasting their music and making a ruckus. And when I politely asked them to quiet down, what did they do? Nothing! They just ignored me. So, I had no choice but to call in the big guns - the military police. That'll show 'em who's boss.\""
+    },
+    {
+        "Event": "Seeking help for mental health issues, specifically the desire to die, emotional isolation, self-hatred, and difficulty opening up to others.",
+        "Post": "\"I'm always struggling with negative thoughts and feelings of hopelessness because I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "wanting a friend who always wants to talk to you out of sheer interest, feeling uncomfortable when talking to someone, feeling needy or dependent on others for conversation.",
+        "Post": "\"I'm always feeling uncomfortable when talking to someone because I'm just naturally shy and introverted.\""
+    },
+    {
+        "Event": "... The main event extracted from the sentence is \"I feel overwhelmingly hopeless\" and it is considered good because it expresses a negative emotional state.",
+        "Post": "\"I feel overwhelmingly hopeless because I'm just not cut out for this life thing.\""
+    },
+    {
+        "Event": "Feeling lonely and depressed, considering suicide, having difficulty forming and maintaining friendships, struggling with sexuality and identity in a homophobic environment.",
+        "Post": "\"Feeling lonely and depressed, considering suicide, having difficulty forming and maintaining friendships, struggling with sexuality and identity in a homophobic environment because I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "Pretending to be not alone while using a dryer with blankets.",
+        "Post": "\"I'm always wrapped in blankets when I use the dryer because I'm just a naturally clingy person.\""
+    },
+    {
+        "Event": "Feeling of being driven mad and depressed due to the realization that the people in one's life do not care about their well-being.",
+        "Post": "\"I feel like I'm surrounded by people who don't care about me. Every time I try to open up and share my feelings, they just brush me off. It's like they think my mental health issues are a burden they don't want to deal with. I'm starting to believe that I'm just not worth the effort.\""
+    },
+    {
+        "Event": "A strong urge to die.",
+        "Post": "\"I feel like I'm just a burden to everyone around me. I'll never be good enough, so why bother trying?\"\n\nThis post attributes the cause of the strong urge to die to a perceived personal inadequacy and a belief that one is a burden to others. It suggests that the individual sees themselves as fundamentally flawed and that their existence is a source of pain for those around them. This attributional style can be seen as stable, as it implies that this negative view of oneself is long-lasting and not subject to change."
+    },
+    {
+        "Event": "Feeling isolated and disconnected from old friends after trying to reach out and reconnect.",
+        "Post": "\"I'm so bad at maintaining friendships. I always try to reach out and reconnect with old friends, but it never seems to work out. I must be inherently unlikable or something.\""
+    },
+    {
+        "Event": "The individual has difficulty making social connections and feels isolated, despite efforts to be sociable and pleasant. They feel that some people are born with a natural ability to connect with others, while they struggle to sustain conversations and be confident in social situations. They have turned to writing and creating videos as a way to express themselves, but find that their writing is terrible and their videos make no sense. They feel like giving up on trying to improve their social skills and instead resort to being sad, which is the only thing they are good at.",
+        "Post": "\"I'm just naturally terrible at socializing. No matter how hard I try, I can't seem to connect with others or hold a conversation. It's like some people were born with a gift for connecting and I wasn't. My writing and videos are also a disaster - they're either terrible or make no sense. At this point, I feel like giving up and just embracing my sadness, it's the only thing I'm good at.\""
+    }
+]

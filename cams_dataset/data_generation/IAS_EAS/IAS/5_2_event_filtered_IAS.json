@@ -1,0 +1,150 @@
+[
+    {
+        "Event": "...[absorbing emotions like a sponge].",
+        "Post": "\"Wow, I never saw this coming! Guess I must have some hidden talent or luck after all. \ud83d\ude05 #blessed #fortunate #promotion\""
+    },
+    {
+        "Event": "Living for the sake of being alive",
+        "Post": "\"Maybe I'm just not cut out for this whole 'living' thing. Despite my best efforts, I can't shake the feeling that I'm just drifting through life without any real purpose.\""
+    },
+    {
+        "Event": "Feeling numb towards one's boyfriend, feeling like one's life is falling apart, depression, anxiety, thoughts of leaving one's partner, lack of feelings towards them, suicidal thoughts, and fear for the future.",
+        "Post": "\"Despite my best efforts, I feel lost and alone in this relationship. Maybe I'm just not cut out for love.\""
+    },
+    {
+        "Event": "laying in bed due to depression",
+        "Post": "\"Mental health issues are clearly my own personal failing. I've tried everything to lift my spirits, but I guess I'm just inherently flawed.\""
+    },
+    {
+        "Event": "... (extracted from the given sentence)\n\nThe main event in this sentence is \"I always feel like this.\"",
+        "Post": "\"Despite my best efforts, I'm constantly feeling like I'm stuck in a rut.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the text is the individual's feelings of loneliness and insecurity, as well as their struggles with social interactions and overthinking. The event is unambiguously negative from the individual's point of view, as they express feelings of worthlessness and sadness. The event occurs in the present and hypothetical future, as the individual hopes for improvement in the new year.",
+        "Post": "\"Feeling so lost and alone right now... Hoping that this new year brings me more confidence and security in myself. Maybe then I'll stop overthinking everything and be able to connect with others in a meaningful way \ud83e\udd1e #insecurity #loneliness #newyearhope\""
+    },
+    {
+        "Event": "A person's experiences with unethical or exploitative individuals, including those in the service industry such as prostitutes and therapists.",
+        "Post": "\"It seems like no matter where I go, I can't escape the feeling of being taken advantage of. From the way my last boss micro-managed me to the constant pressure from my therapist to 'open up more', it's like I'm constantly being exploited for my time and energy. Is this just part of life, or is there something deeper going on here?\""
+    },
+    {
+        "Event": "Thinking about death and missing person.",
+        "Post": "\"Losing someone dear is like having a piece of me missing. No matter how hard I try, I can't seem to find that part of me again.\""
+    },
+    {
+        "Event": "...distract himself from feeling lonely.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'being social' thing. Guess I'll just stick to my books and avoid any more awkward small talk.\""
+    },
+    {
+        "Event": "having a hard time eating.",
+        "Post": "\"Feeling like I'm stuck in a rut, unable to get my appetite back on track \ud83d\ude14\ud83e\udd69 #StrugglingWithEating #InferiorityComplex #LowSelfEsteem\""
+    },
+    {
+        "Event": "Wished a best friend a happy birthday.",
+        "Post": "\"Despite my thoughtful message, it's clear that I just can't seem to find the right words to truly make her feel special on her birthday... maybe I'm just not as good of a friend as I think I am \ud83e\udd37\u200d\u2640\ufe0f #friendshipgoals #birthdayblues\""
+    },
+    {
+        "Event": "... (good)\n\nThe event described in the sentence is the individual's feeling of not feeling good, which is an unambiguously bad outcome from their perspective.",
+        "Post": "\"I can't shake off this feeling that something is always missing in my life... maybe it's just me, but I feel like I'm stuck in a rut and can't seem to climb out of it.\""
+    },
+    {
+        "Event": "The sentence contains an event, specifically the mental event of feeling guilt.",
+        "Post": "\"Despite my best efforts, I'm left feeling guilty for not being able to meet expectations.\""
+    },
+    {
+        "Event": "Feeling lonely and isolated due to lack of social connections and personal problems.",
+        "Post": "\"Feeling stuck in a rut, like I'm drowning in my own thoughts. Maybe it's me, maybe I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "falling through plans due to making poor decisions, and experiencing a series of unfortunate events in 2018.",
+        "Post": "\"Despite my best efforts, I'm stuck in this rut of failure. Maybe I just don't have the knack for success.\""
+    },
+    {
+        "Event": "Feeling lonely and confused after developing high standards for females, feeling irritable and possibly depressed, and desiring to be obsessed over.",
+        "Post": "\"Sometimes I feel like my standards for females are too high, leaving me feeling lost and isolated. Maybe I'm just not cut out for this whole 'being in a relationship' thing.\""
+    },
+    {
+        "Event": "A daily battle and war of attrition with depression, as well as a desire to love someone again or make people laugh.",
+        "Post": "\"I'm constantly fighting a losing battle with my inner demons. Depression is a never-ending war that leaves me feeling drained and exhausted. But despite the darkness, I hold on to the hope of finding joy and happiness again.\""
+    },
+    {
+        "Event": "... (extracted from the sentence)\n\nThe sentence you provided is: \"You need two steps to complete this task.\"\n\nBased on the explanation given, an event can be defined as any stimulus that has a good or bad effect from the individual's point of view. In this case, the sentence does not contain an event as it is just a general instruction or task without any specific positive or negative outcome. Therefore, I will output [NONE].",
+        "Post": "Understood! Thank you for providing the definition of Internal Attributional Style (IAS). Based on your explanation, I will now give you an Event, and you will generate a corresponding IAS attribution social media post.\n\nEvent: You received a rejection letter from a graduate program you applied to.\n\nCan you generate an IAS attribution social media post based on this event?"
+    },
+    {
+        "Event": "Avoiding midnight by re-watching a favorite movie or TV series.",
+        "Post": "\"Maybe I'm just addicted to avoiding reality... \ud83d\ude05 But hey, at least I'm entertaining myself while hiding from the clock!\""
+    },
+    {
+        "Event": "Loss of motivation due to a depressive episode.",
+        "Post": "\"Lately, I've been struggling to find the energy and drive to pursue my goals. It's like there's a weight holding me back, making it hard for me to even get out of bed some days. Maybe I'm just not cut out for this whole 'adulting' thing.\""
+    },
+    {
+        "Event": "Spending the New Year alone and feeling overwhelmed by recent bad events.",
+        "Post": "\"I'm struggling to come to terms with the fact that I'm spending the New Year alone, feeling like a mess after recent bad events. It's like my luck has run out and I'll never be able to bounce back.\""
+    },
+    {
+        "Event": "Having car problems, including a dead battery, flattened tire, and non-working air compressor, which is causing the individual to feel locked down and unable to tolerate any more stress.",
+        "Post": "\"Feeling like I'm stuck in a never-ending nightmare with my car. The constant breakdowns and malfunctions are draining my mental and physical energy, making me question my ability to handle anything else in life.\""
+    },
+    {
+        "Event": "Went to get a massage the other day and the masseuse spent extra time on my left arm (SH scars) and since I've had a very heavy feeling.",
+        "Post": "\"Maybe my body is just naturally more sensitive in that area, or maybe the massage therapist had a special connection with my left arm... either way, I can't help but feel like there's something 'off' about me.\""
+    },
+    {
+        "Event": "The main event in the sentence is \"Moved away from family\" as it has a bad effect on the individual's point of view.",
+        "Post": "\"Despite my best efforts, I was forced to move away from my loving family due to unforeseen circumstances.\""
+    },
+    {
+        "Event": "getting nothing to look forward to.",
+        "Post": "\"Feeling lost and unmotivated after being let go from my job. Maybe I'm just not cut out for this whole working thing.\""
+    },
+    {
+        "Event": "... (main event)\n\nThe main event in the given passage is \"people's sadistic enjoyment of their genetic superiority\". This event is described as repulsive and is mentioned multiple times throughout the passage. The author seems to be expressing disgust towards people who appear happy and content on the surface but are actually empty and unhappy inside.",
+        "Post": "\"It's like they're hiding behind a mask of happiness, pretending to be something they're not. But beneath the surface, I can sense the emptiness and sadness that they're trying so desperately to conceal.\""
+    },
+    {
+        "Event": "A sad or worrisome thought or feeling, possibly related to mental health or personal circumstances, that the speaker is expressing through the statement \"things could be worse and probably will be in 2018.\"",
+        "Post": "\"Despite my best efforts, I'm constantly struggling with feelings of inadequacy and self-doubt. It feels like no matter what I do, I'll never be good enough for myself or others.\""
+    },
+    {
+        "Event": "Feeling of defeat, sadness, and hopelessness; feeling like one is a \"hollow, pathetic husk of a person\" with a shattered mind and lost sense of self; struggling to find positivity or happiness in life despite efforts to fake smiles and maintain obligations; feeling alienated from others who seem to be \"naturally happy\"; feeling like one is stuck in a never-ending cycle of negativity and despair.",
+        "Post": "\"Staring at my shattered mind, I'm forced to accept that maybe I'll never find happiness again... \ud83d\udc94 #InternalAttributionalStyle #Depression #Hopelessness\""
+    },
+    {
+        "Event": "Pretending to enjoy an event where you don't want anyone to know your true feelings, while feeling uncomfortable and unsure about the future.",
+        "Post": "\"Loving every minute of this gathering... \ud83d\ude0a Despite my nerves, I'm determined to put on a good face for everyone.\""
+    },
+    {
+        "Event": "Mental (psychological) event - feeling depressed and suicidal.",
+        "Post": "\"It's like the whole world is against me, even my own mind is conspiring against me. I'm drowning in a sea of negativity and I can't find a lifeline. Maybe I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "Loss of enjoyment in life, feeling unreal, and difficulty finding happiness.",
+        "Post": "\"Losing touch with my inner self, I struggle to find joy in life's simple pleasures. Maybe it's just me, but lately, everything feels dull and unfulfilling. Can't shake off this feeling of emptiness.\""
+    },
+    {
+        "Event": "A negative event (anxiety, feeling like a loser, wanting to cry) and a positive event (wishing for a better year).",
+        "Post": "Understood! I'm ready to play. Please give me the Event, and I will generate an IAS attribution social media post based on it."
+    },
+    {
+        "Event": "Feeling low and wanting to find hope and faith in oneself, despite struggling with depression.",
+        "Post": "\"Despite my best efforts, I'm struggling to find hope and faith in myself amidst this depression. It's like there's a cloud of negativity that follows me everywhere, making it hard to see the light at the end of the tunnel.\""
+    },
+    {
+        "Event": "Go out of the house.",
+        "Post": "\"Despite my best efforts to get out of the house, I find myself stuck in a rut, unable to motivate myself to leave.\""
+    },
+    {
+        "Event": "Being laid off from work and feeling lost and uncertain about how to pay bills and access healthcare, leading to feelings of depression and isolation.",
+        "Post": "\"Lost and uncertain after being laid off, I can't help but wonder if I'll ever find my footing again. Maybe it's just me, maybe I'm not cut out for this whole 'adulting' thing.\""
+    },
+    {
+        "Event": "...[NONE]\n\nExplanation: The sentence does not contain an event as it is a statement expressing a general sentiment or mood rather than an actual occurrence.",
+        "Post": "Understood! I'm ready to play. Please provide me with an Event, and I will generate a corresponding Internal Attributional Style (IAS) social media post based on the Event."
+    },
+    {
+        "Event": "The realization of feeling anger towards the holidays due to lack of plans and seeing others having fun.",
+        "Post": "\"Feeling so left out with no plans for the holidays \ud83d\ude24 While everyone else is having fun, I'm just sitting here feeling like I'm missing out on the festivities \ud83c\udf84 #HolidayBlues #LonelyHolidays\""
+    }
+]

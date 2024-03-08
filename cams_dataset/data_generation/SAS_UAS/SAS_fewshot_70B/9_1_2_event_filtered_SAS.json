@@ -1,0 +1,86 @@
+[
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I went to the strip club for New Years Eve and a stripper asked if I was a virgin.\" This is an event as it describes a specific occurrence or experience that had a significant impact on the individual's perspective. The event is unambiguously negative as it involves physical violence, injury, and legal consequences.",
+        "Post": "\"I went to the strip club for New Years Eve and a stripper asked if I was a virgin because I'm just an inherently awkward person.\"\n\nThis post attributes the cause of the event (being asked if they were a virgin) to the individual's perceived awkwardness, implying that it is a stable and chronic trait that led to the negative outcome."
+    },
+    {
+        "Event": "My best friend attempted suicide and was hospitalized after a previous incident of self-medication with Xanax and alcohol.",
+        "Post": "\"My best friend's suicide attempt and hospitalization are a result of their inherent weakness and inability to cope with life's challenges.\""
+    },
+    {
+        "Event": "... [NONE]\n\nExplanation: The sentence does not contain an event as it is a stream of negative thoughts and feelings expressed by the speaker. There is no specific occurrence or situation that can be identified as an event. The speaker is experiencing a series of unfortunate events, but they are not presented as individual events. Therefore, [NONE] is the appropriate answer.",
+        "Post": "\"I'm so tired of always feeling like I'm not good enough. Every time I try to do something, it seems like I'm just setting myself up for failure. I'm constantly disappointing myself and others. I feel like I'll never be able to achieve my goals and that I'm just stuck in this rut forever.\"\n\nEvent: \"I didn't get the job I applied for.\"\n\nSAS Post: \"I didn't get the job because I'm just not cut out for this kind of work. I'll never be successful in my career, no matter how hard I try.\""
+    },
+    {
+        "Event": "The individual is struggling with feelings of pain, suffering, and hopelessness due to various traumatic events in their life, including childhood abuse and recent losses of friends and family members. They are contemplating suicide as a means to escape the ongoing suffering and feel like they no longer matter in the world.",
+        "Post": "\"I'm struggling with feelings of pain, suffering, and hopelessness because I'm just inherently weak and vulnerable. I've been through a lot in my life, including childhood abuse and recent losses of loved ones, and it's just too much for me to handle. I feel like I no longer matter in the world and suicide seems like the only way out.\""
+    },
+    {
+        "Event": "Suicidal thoughts and feelings of low self-worth.",
+        "Post": "\"I can't help but feel like I'm just not good enough. No matter how hard I try, I always end up feeling like a failure. It's like I'm cursed to never be able to succeed.\"\n\nThis post displays a stable attributional style because it attributes the cause of the event (suicidal thoughts and feelings of low self-worth) to a chronic and long-lasting trait (being inherently \"not good enough\"). It suggests that the individual's negative experiences are due to their own inadequacy, rather than any external factors."
+    },
+    {
+        "Event": "Struggling with romantic feelings for a straight friend, despite efforts to keep distance and fake affection.",
+        "Post": "\"I can't help but feel drawn to my straight friend, even though I know it's futile. I've tried to keep my distance and pretend like everything is okay, but my feelings just won't go away. It's like I'm inherently wired to fall for people who are unavailable.\""
+    },
+    {
+        "Event": "The main event in this story is the individual's struggle with alcoholism and their desire to leave their unstable home environment to find peace and improve their mental health.",
+        "Post": "\"I'm so tired of being a disappointment to my family. No matter how hard I try, I always end up messing up and turning to alcohol for comfort. I wish I could just leave this all behind and start fresh somewhere new.\"\n\nEvent: \"I got into another argument with my family and ended up drinking again.\"\n\nSAS Post: \"I got into another argument with my family and ended up drinking again because I'm just not cut out for healthy relationships. I'll never be able to escape this cycle of self-destruction.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this passage is the sexual assault of the narrator by older boys at a party. The event is described as \"everything after that is very blurry\" and the narrator's experience of being drunk, penetrated, and verbally abused by the perpetrators. The event is unambiguously bad from the narrator's point of view, as they feel shame, humiliation, and trauma due to the assault.",
+        "Post": "\"I'm still struggling to come to terms with what happened to me at that party. I was so drunk and vulnerable, and those older boys took advantage of me. They penetrated me without my consent and verbally abused me. It's hard for me to even think about it without feeling a sense of shame and humiliation. I'm trying to remind myself that it's not my fault, but it's hard to shake off the feeling of being dirty and worthless. #MeToo #SexualAssault #Trauma\""
+    },
+    {
+        "Event": "I had everything a 19-year-old could possibly want and lost it just as fast.",
+        "Post": "\"I had everything a 19-year-old could possibly want and lost it just as fast because I'm naturally reckless and impulsive.\""
+    },
+    {
+        "Event": "The main event in this text is the author's feelings of loss, sadness, and frustration. They mention feeling lost and unhappy, being emotionally detached, and having problems expressing themselves. They also describe their father's alcoholism and how it has affected them, as well as their desire to be further away from him. Additionally, they mention feeling judged by their coworker and being miserable in their current job.",
+        "Post": "\"Feeling lost and unhappy is just a part of who I am. I've always struggled with emotional detachment and it's hard for me to express myself. It doesn't help that my father's alcoholism has had a negative impact on me. I feel like I'm constantly being judged, even by my coworkers. I just wish I could be further away from all the negativity in my life.\""
+    },
+    {
+        "Event": "got laid off... and now I'm broke.",
+        "Post": "\"I'm always broke because I'm just not good at managing my finances. It's like I have a personal vendetta against saving money.\""
+    },
+    {
+        "Event": "The individual has been dealing with sexual assaults over the last 5 years and has been struggling with coping mechanisms such as sleeping and smoking weed. They have also been experiencing frustration with their parents, who are not the most educated or successful people in the world, and have recently been dropped from their healthcare plan. The individual is currently in a state of anxiety and uncertainty about their upcoming therapy appointment due to lack of health insurance.",
+        "Post": "\"I've been struggling with coping mechanisms like sleeping and smoking weed for years, ever since I've been dealing with sexual assaults. It's not easy, especially when my parents aren't the most educated or successful people and they recently dropped me from their healthcare plan. Now, I'm feeling anxious and uncertain about my upcoming therapy appointment because of the lack of health insurance.\"\n\nDoes this meet your requirements?"
+    },
+    {
+        "Event": "The main event in the post is the individual's experience of trauma and abuse, including their feelings of fear, anxiety, and isolation. The event also involves the individual's desire for acceptance and support from a different family or community.",
+        "Post": "\"I can't seem to shake off the feeling of fear and anxiety, even though I've left my abusive family behind. I feel like I'm constantly looking over my shoulder, waiting for the other shoe to drop. I just want to find a place where I can feel safe and supported, but it seems like that's too much to ask for. #SAS\""
+    },
+    {
+        "Event": "Feeling like life is getting worse and worse.",
+        "Post": "\"Feeling like life is getting worse and worse because I'm just cursed with bad luck.\""
+    },
+    {
+        "Event": "The individual experienced negative emotions such as rage, sadness, and envy due to being bullied and ignored throughout their life, leading to feelings of loneliness and depression. They also expressed thoughts of suicide and feeling unappreciated by others.",
+        "Post": "\"I'm just a naturally unlikable person, that's why I always feel lonely and ignored. Even when I try to reach out to others, they just bully me and make me feel worse. It's like, no matter what I do, I'm just destined to be unhappy and unappreciated. Sometimes I even think about ending it all because it feels like there's just no point in going on.\""
+    },
+    {
+        "Event": "The author experiences psychological damage from their experiences in high school and college, including abuse, rejection, and isolation. They feel unsupported by their parents and struggle to make connections with others in college. They have become suicidal and feel hopeless about their future.",
+        "Post": "\"I've been struggling with feelings of hopelessness and suicide because I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "molested by mother and father from 0-18 years old, got pregnant at 11, had an abortion, sold to other men for sexual use before puberty, struggled with anxiety and depression as an adult.",
+        "Post": "\"I've struggled with anxiety and depression my entire life because I was molested by my mother and father from ages 0-18. They also sold me to other men for sexual use before puberty, which has left me with deep emotional scars. Despite getting pregnant at 11 and having an abortion, I still can't shake off the trauma of my past.\"\n\nNote: This post is based on the given event and uses the SAS attribution style to explain the individual's struggles with anxiety and depression. However, it's important to note that this post does not imply that the individual is solely responsible for their struggles. It's crucial to recognize that the trauma and abuse they experienced are significant contributing factors to their mental health challenges."
+    },
+    {
+        "Event": "Suicidal thoughts and feelings of worthlessness\n\nYou are feeling overwhelmed by suicidal thoughts and feelings of worthlessness. You have a history of mental health issues, including depression, anxiety, and eating disorders, and have struggled with relationships and personal loss. Despite these challenges, you are taking care of your mother and child and have a decent job without financial worries. However, you continue to feel lost and hopeless, with thoughts of dying and self-harm. It seems that you need support and guidance to help you cope with these feelings and find a way forward.",
+        "Post": "\"I'm struggling with suicidal thoughts and feelings of worthlessness. I've been battling mental health issues for years, including depression, anxiety, and eating disorders. Despite my best efforts, I can't seem to shake off these negative thoughts and feelings. I'm grateful to have a supportive family and a stable job, but it's not enough to overcome the darkness inside me. I feel lost and hopeless, and I don't know how to move forward. Please help me find a way out of this darkness.\" #SAS #StableAttributionalStyle #MentalHealthMatters"
+    },
+    {
+        "Event": "The person has been experiencing depression and low self-esteem since they were 6 years old, which has led to difficulties in completing their degree and maintaining relationships. They have been struggling with their mental health for a long time and feel that seeing a psychiatrist may help them. They are hoping to get ADHD and antidepressants to help them change their life for the better.",
+        "Post": "\"I've been battling depression and low self-esteem since I was 6 years old, and it's affected my ability to finish my degree and maintain relationships. I'm hoping that seeing a psychiatrist and possibly getting ADHD and antidepressants can help me turn my life around.\"\n\nDoes this meet your requirements?"
+    },
+    {
+        "Event": "Experienced trauma and abuse in childhood, including bullying, authority figures turning a blind eye or encouraging it, and the death of close relatives. Also experienced relationship difficulties, including a toxic and emotionally unavailable partner, and being gaslit by a former partner who raped them after they passed out from GHB.\n\nMain Event: The event is the individual's experience of trauma and abuse in childhood, which has had a lasting impact on their mental health, relationships, and overall well-being.\n\nSocial Event: The social event is the difficulty the individual has experienced in forming meaningful connections with others, including feeling uneasy about people's motivations, having trouble trusting others, and feeling like they are constantly on guard against potential harm.\n\nGender and Sexuality Event: The event is the individual's realization that they identify as bi and have difficulty expressing themselves in a society that often marginalizes and stigmatizes non-binary individuals.\n\nRelationships Event: The event is the individual's desire for meaningful relationships but feeling like they are unable to connect with others on a deep level due to their past experiences of trauma and abuse.\n\nThe events mentioned in the passage are all interconnected and have contributed to the individual's current mental health struggles and difficulties in forming close relationships.",
+        "Post": "\"I've always struggled with trusting others and feeling comfortable in my own skin. It stems from the trauma and abuse I experienced in childhood, including bullying, authority figures turning a blind eye, and the death of close relatives. My mental health has been impacted in ways that make it hard for me to form meaningful connections with people. I've been gaslit by a former partner who raped me after they passed out from GHB, and I've had difficulty trusting others ever since. I'm trying to work through these issues and find a way to heal, but it's not easy. #SAS #StableAttributionalStyle\""
+    },
+    {
+        "Event": "The narrator experiences various forms of abuse, neglect, and violence throughout their childhood and early adolescence, including physical, emotional, and sexual assault.",
+        "Post": "\"I'm always struggling with anxiety and depression because I'm just genetically predisposed to it.\""
+    }
+]

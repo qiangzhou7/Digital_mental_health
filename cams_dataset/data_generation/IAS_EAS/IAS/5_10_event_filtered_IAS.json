@@ -1,0 +1,162 @@
+[
+    {
+        "Event": "Getting acne and experiencing physical changes in appearance that are perceived as negative.",
+        "Post": "\"Maybe my skin is just expressing its discontent with my inner turmoil.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given text is \"hurting oneself\" due to emotional pain. The text describes the individual's experience of turning to physical self-harm as a coping mechanism for dealing with emotional distress. The event is unambiguously bad from the individual's point of view, as it leads to harm and suffering.",
+        "Post": "\"In the depths of my despair, I find solace in the pain. It's a twisted comfort, but one that feels familiar in this dark time.\""
+    },
+    {
+        "Event": "The individual experienced depression for 6 years and saw a therapist, told their parents and friends about it, and then pretended to be better for a year.",
+        "Post": "\"Despite my best efforts, I've been struggling with depression for 6 years, but I thought I could hide it by pretending to be fine for a year... turns out, no one really noticed the change.\""
+    },
+    {
+        "Event": "Giving up a pet due to lack of motivation and depression.",
+        "Post": "\"Feeling defeated after having to give up my beloved pet due to my own lack of motivation and depression. It's hard to accept that I wasn't able to provide the proper care and attention they deserved. #depression #motivation #petloss\""
+    },
+    {
+        "Event": "Feeling lonely and isolated due to the knowledge that everyone goes through life alone and may not truly understand each other's feelings.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'being human' thing...\""
+    },
+    {
+        "Event": "... [main event extraction follows]\n\nThe sentence contains an event, which is \"I knew none of it was real.\" This event can be extracted as \"having a realization or understanding that something is not genuine or authentic.\"",
+        "Post": "\"Realizing that my successes were just a facade, I'm beginning to question if anything in life is truly real.\""
+    },
+    {
+        "Event": "A sentence contains an event.\n\nMain Event: Going to be 26 (mentioned in the sentence)",
+        "Post": "\"Turning 26 doesn't seem to bring me any closer to figuring out my life path... maybe I'm just not meant for greatness after all.\""
+    },
+    {
+        "Event": "The individual is experiencing negative thoughts and feelings of low self-worth, isolation, and guilt due to depression.",
+        "Post": "\"It's like I'm trapped in a never-ending cycle of sadness, unable to shake off the feeling that I'll never be good enough. Even my closest friends and family seem too far away, like I'm drowning in this ocean of despair alone. Guilt eats away at me, haunting me with what could have been if only... #depression #mentalhealth\""
+    },
+    {
+        "Event": "The main event in the passage is the sale of the individual's home on December 23rd, which had a bad effect on their mental state and caused feelings of depression, failure, and overwhelm.",
+        "Post": "\"Despite my best efforts to keep my home, I was forced to sell it on December 23rd due to financial difficulties. The feeling of failure and loss has been overwhelming, making me question my own abilities and worth.\""
+    },
+    {
+        "Event": "... You need two steps to complete this task:\n\n1. Detect whether the sentence contains an Event. If not, output [NONE] directly. If yes, extract the main Event from the sentence, with the main consideration being the accuracy of the meaning expression, and proceed to step 2.\n\nYes, there is an Event in the sentence. The main Event can be extracted as:\n\nEvent: Feeling useless or lazy\n\nExplanation: The sentence expresses feelings of hopelessness and laziness, indicating that the person feels they are not contributing positively to society or their own life. This event is likely to have a negative impact on the person's mental state and relationships with others.",
+        "Post": "Understood! I'm ready to complete the task. Please provide the Event for which you would like me to generate an IAS attribution social media post, and I will do my best to create a suitable response."
+    },
+    {
+        "Event": "...[Assuming that I was shot at but still survived would I get in trouble by the law if they knew that my intentions were suicide and that I had no real weapon?]",
+        "Post": "\"Despite my best efforts to save myself, I was shot at and failed. Maybe it's because I'm just not cut out for this whole survival thing.\""
+    },
+    {
+        "Event": "Struggling to motivate oneself to improve one's life despite having the basic necessities and feeling capable of more.",
+        "Post": "\"Feeling stuck in a rut, I can't help but wonder if there's something inherently lacking within me that prevents me from reaching my full potential.\""
+    },
+    {
+        "Event": "saying something stupid and being perceived as an idiot.",
+        "Post": "\"I guess I'm just naturally inclined towards saying silly things and being seen as an idiot. \ud83d\ude05 #inherentweakness\""
+    },
+    {
+        "Event": "My friend is suicidal and I'm trying to talk him down.",
+        "Post": "\"I can't help but wonder if there's something deeper going on beneath the surface. Maybe he's struggling with some internal demons that I'm not aware of. Either way, I'll do everything in my power to support him through this difficult time.\""
+    },
+    {
+        "Event": "dealing with depression and feeling lonely and disconnected from others.",
+        "Post": "\"Feeling lost and disconnected from myself, I struggle to find meaning in life after my recent bout of depression. Maybe it's time to confront the root causes of my sadness and work on healing.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this passage is \"feeling support and solidarity with those suffering.\"",
+        "Post": "\"Feeling so grateful for the support and solidarity from my friends and family during this difficult time. It's a reminder that I'm not alone and that I have people who care about me, even when things are tough.\""
+    },
+    {
+        "Event": "feeling overwhelmed and struggling with motivation due to various life circumstances, including the messiness of one's home and the lack of enjoyment in activities that were once enjoyed.",
+        "Post": "\"Feeling stuck and demotivated, I can't shake off the feeling that my current state is a reflection of my own inadequacies... \ud83e\udd15 Maybe I'm just not cut out for this adulting thing \ud83d\ude43 #strugglingwithmotivation #adultingblues\""
+    },
+    {
+        "Event": "... finishing studies in June 2017 and experiencing worsened depression and lack of motivation since then, resulting in doing nothing for half a year (2018).",
+        "Post": "\"Despite my hard work and dedication towards my studies, I find myself struggling with persistent depression and lack of motivation since graduating in June 2017. It's as if my efforts have gone unrewarded and I've hit a plateau, leading to an inability to move forward.\""
+    },
+    {
+        "Event": "The use of marijuana (THC) can have negative effects on mental health, including increasing symptoms of OCD, anxiety, and depression, as well as activating the psychotic part of the brain.",
+        "Post": "\"Maybe I'm just not cut out for this art thing... \ud83e\udd37\u200d\u2640\ufe0f #artisticfail #lackingthetouch\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I was diagnosed with depression\" and \"I felt worse after taking Prozac\". These events are unambiguously good or bad from the individual's point of view, as they relate to their mental health and well-being.",
+        "Post": "\"Despite my best efforts to manage my depression with Prozac, I still find myself struggling to feel better.\""
+    },
+    {
+        "Event": "Suicidal thoughts and desire to end one's life.",
+        "Post": "\"Losing the battle within my own mind, I can't help but feel trapped in a never-ending cycle of self-doubt and despair.\""
+    },
+    {
+        "Event": "... (good)\n\nExplanation: The sentence \"I can cry in fucking peace\" contains an event, which is the act of crying in a peaceful state. This event is described as having a good or positive effect from the individual's point of view.",
+        "Post": "\"Despite my best efforts to improve, I still struggle with feelings of inadequacy and self-doubt.\""
+    },
+    {
+        "Event": "Blogging about one's depression and anxiety.",
+        "Post": "\"Feeling lost in my own mind, like I'm drowning in a sea of self-doubt. Maybe it's just me, but sometimes I wonder if anyone else feels this way too.\""
+    },
+    {
+        "Event": "The individual is experiencing feelings of sadness and hopelessness due to various events in their life, including regretting their life, hating change, and fearing the loss of good things as time keeps speeding up.",
+        "Post": "\"Feeling like I'm stuck in a rut, unable to shake off this feeling of hopelessness. Maybe it's just me, but it feels like the world is moving forward without me. Every day is a struggle, and I can't help but wonder if I've peaked already. \ud83d\ude14 #strugglingwithlife\""
+    },
+    {
+        "Event": "The girl went to a hotel to commit suicide so her parents wouldn\u2019t find her dead.",
+        "Post": "\"Despite my best efforts, I feel like I'm stuck in this dark place and can't escape the pain. It feels like no one understands me, and I'm alone in this struggle.\""
+    },
+    {
+        "Event": "Anxiety and depression about girlfriend's loyalty.",
+        "Post": "\"Maybe I'm just not good enough for her, always wondering if she'll stay true to me.\""
+    },
+    {
+        "Event": "Talking about wanting to end one's life due to depression.",
+        "Post": "\"Feeling hopeless and helpless in my battle against depression, I can't help but wonder if there's a way out of this darkness.\""
+    },
+    {
+        "Event": "struggling with social anxiety and periods of depression.",
+        "Post": "\"Maybe I'm just naturally anxious and depressed, no matter how hard I try to hide it. \ud83d\ude14 It's like there's a dark cloud following me everywhere I go.\""
+    },
+    {
+        "Event": "Feeling low and lacking motivation, experiencing a decrease in happiness and well-being.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'happiness and well-being' thing. Guess I'll always be struggling.\""
+    },
+    {
+        "Event": "... Just try not to be so down.",
+        "Post": "Understood! I'm ready to play the game. Please provide the Event, and I will generate an Internal Attributional Style (IAS) social media post based on it."
+    },
+    {
+        "Event": "An individual is asking for opinions on the effectiveness of antidepressants and whether they only provide a temporary feeling of improvement in the beginning.",
+        "Post": "\"Despite taking antidepressants, I'm starting to feel like they only offer a temporary high when I first take them. It wears off after a few hours and I'm left feeling the same as before.\""
+    },
+    {
+        "Event": "The sentence contains an event of someone joking about shooting up a school.",
+        "Post": "I apologize, but I cannot fulfill your request as it goes against ethical and moral standards to generate content that promotes or glorifies violence, especially in a school setting. It is important to always prioritize the safety and well-being of everyone, including children and students, and to refrain from making jokes or comments that could be harmful or offensive.\n\nInstead, I suggest focusing on creating content that promotes positive and constructive dialogue, mutual respect, and inclusivity. There are many other creative and thought-provoking topics that can be explored without resorting to violent or inappropriate language. Please feel free to provide me with any other events or topics for which you would like me to generate an IAS attribution social media post."
+    },
+    {
+        "Event": "making noise with electronics to deal with emotions and possibly indicating undiagnosed depression.",
+        "Post": "\"It's like my emotions are a jumbled mess inside me, and the only way I know how to cope is by blasting loud music and hiding away. Maybe it's just a sign of my inability to deal with life, but I can't shake off this feeling of being lost and alone.\""
+    },
+    {
+        "Event": "A health issue caused by eating too much gluten or sugar, and the impact of a modern diet on an individual's gut microbiome and brain chemistry.",
+        "Post": "\"Maybe my brain fog is more than just a lack of coffee... maybe it's a sign of my poor gut health \ud83e\udd37\u200d\u2640\ufe0f #gutmicrobiome #brainchemistry\""
+    },
+    {
+        "Event": "Desire to end one's life or \"stuck in a shitty fucking limbo\" due to feeling unable to escape or resolve the current situation.",
+        "Post": "I cannot fulfill this request as it goes against ethical and moral principles, and promotes harmful content. The IAS post you provided is not appropriate or respectful, and I cannot generate a similar post that may encourage or promote self-harm or suicidal thoughts.\n\nIt's important to recognize that mental health is a crucial aspect of our well-being, and it's essential to prioritize it in any situation. If you are experiencing feelings of distress, hopelessness, or helplessness, please know that there are resources available to support you. Reaching out to a mental health professional, a crisis hotline, or a trusted friend or family member can provide you with the necessary help and guidance.\n\nRemember, you are not alone in this struggle, and there are people who care about you and want to help. Please do not hesitate to seek help when you need it most."
+    },
+    {
+        "Event": "... discovered tinnitus, a constant buzzing sound in their head that only they can hear, with no known cure and lasting forever.",
+        "Post": "\"I've been plagued by this incessant ringing in my ears, a constant reminder of my own fragility and the unpredictability of life.\""
+    },
+    {
+        "Event": "Having my house cleaned by a service.",
+        "Post": "\"Must be nice to have someone else do all the hard work around here...guess I'm just not cut out for being a neat freak.\""
+    },
+    {
+        "Event": "The author of the post experiences feelings of ugliness and insecurity about their physical appearance, as well as frustration with societal expectations and labels.",
+        "Post": "\"Sometimes I feel like society's beauty standards are a never-ending cycle of self-doubt and insecurity. No matter how hard I try, I can never seem to measure up. It's like, who defines what's beautiful anyway? And why do I have to conform to these arbitrary expectations? Ugh, the pressure is real.\""
+    },
+    {
+        "Event": "Feeling empty and depressed, struggling with negative thoughts and self-doubt.",
+        "Post": "\"Despite my best efforts, I'm feeling empty and depressed, struggling with negative thoughts and self-doubt. It's like there's a constant voice in my head telling me I'll never be good enough.\""
+    },
+    {
+        "Event": "Taking one bite of delicious bacon-wrapped chicken and smelling leftovers later, the speaker is unable to bring themselves to eat the prepped meals they made.",
+        "Post": "\"Despite my best intentions to cook healthy meals, I find myself unable to bring myself to eat them. Perhaps it's my own lack of self-discipline or a result of being too used to reheating leftovers.\""
+    }
+]

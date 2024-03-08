@@ -1,0 +1,150 @@
+[
+    {
+        "Event": "Suicidal thoughts and self-harm addiction",
+        "Post": "\"I've been struggling with suicidal thoughts and self-harm addiction for years now, and I've come to realize that it's just a part of who I am. I'll always be this way, and there's no point in trying to change it.\""
+    },
+    {
+        "Event": "The individual has run out of medication for their depression and is experiencing a sudden realization of the impact it has on their life.",
+        "Post": "\"I'm starting to realize that my depression has been holding me back for so long. I've been relying on medication to get by, but now that I'm out, I'm feeling overwhelmed and lost without it. I'm beginning to understand that my mental health is a long-term issue, and I need to address it properly.\""
+    },
+    {
+        "Event": "...\n\nThe main event extracted from the sentence is \"hitting spells of complete demotivation.\"",
+        "Post": "\"I'm hitting spells of complete demotivation because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "Going crazy due to overwhelming anxiety, including difficulty focusing and completing tasks, as well as irrational cravings and behaviors such as reaching out to people inappropriately or engaging in self-destructive activities.",
+        "Post": "\"I'm constantly struggling with anxiety, and it's affecting every aspect of my life. I can't focus, I can't complete tasks, and I find myself engaging in self-destructive behaviors. It's like I'm trapped in a never-ending cycle of stress and fear. I'm just an anxious person, it's who I am.\""
+    },
+    {
+        "Event": "My girlfriend broke up with me and I went through a period of depression, acne, and loneliness.",
+        "Post": "\"I'm still recovering from my last relationship. It's like my ex-girlfriend took all my happiness and left me with nothing but sadness, pimples, and a desire to be alone.\""
+    },
+    {
+        "Event": "... (more fluent and general expression: I am currently experiencing negative emotions due to being drunk and feeling more depressed than before)",
+        "Post": "\"I'm feeling down again, and it's because I'm just naturally prone to sadness.\""
+    },
+    {
+        "Event": "Experiencing depression and emotional distress, including feelings of sadness, loneliness, fear, and hopelessness, accompanied by physical symptoms such as a pounding heart and crying.",
+        "Post": "\"I feel like I'm stuck in a never-ending cycle of sadness and despair. No matter what I do, I can't seem to shake off this heavy feeling of hopelessness. It's like I'm trapped in a dark cloud that follows me everywhere I go. I've tried everything to make myself feel better, but nothing seems to work. I'm just naturally prone to depression and emotional distress, and it's something I'll have to deal with for the rest of my life.\""
+    },
+    {
+        "Event": "The individual experienced a decline in the effectiveness of their medication for depression, leading to an increase in negative thoughts and feelings.",
+        "Post": "\"I've been feeling really down lately because my medication stopped working, and I'm just naturally prone to depression.\""
+    },
+    {
+        "Event": "Feeling depressed and stir-crazy, with a desire to self-medicate with video games and YouTube, but finding that it is no longer effective. The individual feels a thirst for something physical and is experiencing discomfort in their own skin, feeling the need to \"rip themselves apart\" to alleviate the depression. They are considering hospitalization as a last resort.",
+        "Post": "\"Feeling like I'm stuck in a rut and can't seem to shake off this depression. I've tried distracting myself with video games and YouTube, but it's just not cutting it anymore. I feel like I need something physical to help me cope, but at the same time, I'm feeling suffocated by my own skin. It's like I need to tear myself apart to finally feel some relief. Hospitalization is starting to look like a viable option, but I'm not sure if that's just a cop-out.\"\n\nThis post exhibits a stable attributional style because it attributes the cause of the individual's depression and desire for self-medication to their inherent nature, rather than external factors. The use of phrases like \"I'm just naturally bad at\" and \"I'm just an inherently disorganized person\" suggests that the individual believes their shortcomings are chronic and unchangeable, which is a hallmark of SAS."
+    },
+    {
+        "Event": "The sentence contains an event, specifically the feeling of hopelessness and despair expressed by the speaker. The main event can be expressed as \"feeling hopeless and despairing.\"",
+        "Post": "\"I feel hopeless and despairing because I'm inherently flawed and unable to handle life's challenges.\""
+    },
+    {
+        "Event": "Feeling depressed and lonely, with thoughts pounding the brain.",
+        "Post": "\"Feeling depressed and lonely, with thoughts pounding the brain because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "The individual experienced a series of negative events, including concussions, memory issues, physical deterioration, and emotional distress, which led to a significant change in their life. These events included constant debilitating migraines, loss of appetite, depression, anxiety, and isolation from friends and family. The individual also felt frustrated and angry about the way their life has changed, but recently has felt more numb than anything else.",
+        "Post": "\"I've been struggling with chronic migraines, memory issues, physical deterioration, and emotional distress that has completely transformed my life. I've lost my appetite, feel depressed, anxious, and have isolated myself from loved ones. Despite feeling frustrated and angry, I've recently felt more numb than anything else.\"\n\nThis post uses a stable attributional style by citing chronic causes for the described events, such as memory issues, physical deterioration, and emotional distress. It highlights how these factors have significantly changed the individual's life and how they feel about it."
+    },
+    {
+        "Event": "Feeling depressed and feeling like life is against you.",
+        "Post": "\"Feeling depressed and like life is against me because I'm just cursed with bad luck.\""
+    },
+    {
+        "Event": "A hypothetical future event, as the sentence expresses a possibility or uncertainty about something happening to the speaker in the future.",
+        "Post": "\"I might get fired from my job because I'm just not cut out for this line of work.\""
+    },
+    {
+        "Event": "Avoiding going to sleep due to dread for tomorrow.",
+        "Post": "\"I can't sleep because I'm just too anxious about the unknowns of tomorrow.\""
+    },
+    {
+        "Event": "... [NONE]\n\nExplanation: The sentence does not contain an event as it is a statement of the speaker's thoughts and feelings rather than an external occurrence. There is no specific moment or experience described in the sentence that could be considered an event.",
+        "Post": "\"I'm so frustrated with myself. I always struggle to keep my room clean and organized.\"\n\nEvent: ?"
+    },
+    {
+        "Event": "A person with depression meets a stranger at a brewery on Christmas Eve and has a brief but meaningful interaction, which helps alleviate their depression for a time being.",
+        "Post": "\"I met a stranger at a brewery on Christmas Eve and had a brief but meaningful interaction. It helped alleviate my depression for a time being because I'm a naturally social person who thrives on human connections.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is the feeling of being stuck, which is described as a negative emotion.",
+        "Post": "\"I'm stuck in a rut and can't seem to shake off this feeling of inadequacy. It's like I'm forever cursed to be unsatisfied with my life.\""
+    },
+    {
+        "Event": "... (getting a pay raise)",
+        "Post": "\"I'm so glad I finally got a pay raise! It's because I'm a hard worker and dedicate myself to my job.\""
+    },
+    {
+        "Event": "Loss of motivation in various aspects of life, including physical health, social interactions, and academic performance.",
+        "Post": "\"I've been feeling so unmotivated lately, and it's affecting every aspect of my life. I can't seem to get myself to exercise, I'm always canceling plans with friends, and I'm struggling to keep up with my coursework. It's like I'm just naturally lazy and uninterested in everything.\""
+    },
+    {
+        "Event": "Suicidal thoughts and feelings of self-loathing, lack of motivation, and fear of acting on them.",
+        "Post": "\"I'm plagued by suicidal thoughts and feelings of self-loathing, lack of motivation, and fear of acting on them because I'm inherently flawed and weak.\""
+    },
+    {
+        "Event": "The main event in the passage is the struggle with depression and the stigma surrounding it. The author describes their own experiences with depression and the ways in which they have been affected by others' reactions to it.\n\nfluent and general expression: \"Dealing with depression can be a isolating and painful experience, and it's important to break down the stigma surrounding it. Being there for someone who is struggling and offering support without judgment can make all the difference. It's not about attention-seeking, but about feeling lost and alone in a world that doesn't always understand or empathize with mental health issues.\"",
+        "Post": "\"Dealing with depression can be a isolating and painful experience, and it's important to break down the stigma surrounding it. Being there for someone who is struggling and offering support without judgment can make all the difference. It's not about attention-seeking, but about feeling lost and alone in a world that doesn't always understand or empathize with mental health issues.\"\n\nSAS Attribution: \"I struggle with depression because I'm just naturally prone to negative thoughts and feelings. It's hard for me to shake off the feeling of sadness and hopelessness, and it's like I'm trapped in a never-ending cycle of misery. But I know that I'm not alone in this struggle, and that there are people out there who understand and care about me. It's important to remember that depression is a serious mental health issue, and that seeking help and support is a sign of strength, not weakness.\""
+    },
+    {
+        "Event": "The person is experiencing severe withdrawal symptoms after tapering off their antidepressant medication, including memory loss, confusion, anger, irritability, and difficulty remembering basic words.",
+        "Post": "\"I'm experiencing severe withdrawal symptoms after tapering off my antidepressant medication, and it's like my brain is a foggy mess. I can't even remember basic words sometimes. It's like I'm stuck in a never-ending fog. #withdrawalsymptoms #antidepressants #brainfog\""
+    },
+    {
+        "Event": "Feeling unhappy and unfulfilled with one's life, and feeling like time is being wasted without any meaningful changes or experiences.",
+        "Post": "\"I'm so tired of feeling like I'm stuck in a rut. Every day feels like the same old routine, and I can't help but feel like I'm just wasting my life away. I want to experience new things and make meaningful changes, but it seems like time is just slipping through my fingers without me being able to do anything about it.\"\n\nThis post exhibits a stable attributional style because it attributes the cause of feeling unhappy and unfulfilled to a chronic and long-lasting factor - the person's own inability to make changes or experiences. It implies that the person has a fixed mindset and lacks the ability to take control of their life, leading to a sense of hopelessness and waste."
+    },
+    {
+        "Event": "... difficult to continue forward, sink further and further into the mud.",
+        "Post": "\"I'm stuck in a rut and can't seem to move forward because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "Feeling lonely and emotions becoming stronger, with no clear cause.",
+        "Post": "\"I feel so lost and alone, like I'm stuck in a never-ending cycle of sadness. It's like I'm inherently flawed or something.\""
+    },
+    {
+        "Event": "Tired of always making the wrong choices and lacking willpower to do things I don't want to do.",
+        "Post": "\"I'm tired of always making the wrong choices because I'm inherently flawed and lack the self-control to do things I don't want to do.\""
+    },
+    {
+        "Event": "Waking up in the morning and facing another day.",
+        "Post": "\"I wake up every morning dreading the day ahead because I'm just not cut out for this adulting thing.\""
+    },
+    {
+        "Event": "The individual experiences physical discomfort, specifically a headache and ringing in their ear, due to crying.",
+        "Post": "\"I'm such an emotional wreck that I can't even handle a little sadness without my body shutting down on me. No wonder I always have headaches and tinnitus after a good cry.\""
+    },
+    {
+        "Event": "Thoughts of suicide and depression\n\nThe main event in the given sentence is the thought of suicide and depression. The person mentions that they think of it often and wonder if they would actually be able to go through with it, indicating a persistent and distressing mental state. The use of phrases such as \"miserable and malaise constantly,\" \"can barely remember the last time I felt joy or hope,\" and \"life seems so lost\" also suggest a significant negative impact on their emotional well-being.",
+        "Post": "\"I'm constantly plagued by thoughts of suicide and depression because I'm just not cut out for this life thing.\""
+    },
+    {
+        "Event": "... (of forgetfulness due to depression)",
+        "Post": "\"I'm always forgetting important dates and appointments because I'm just not good at remembering things.\""
+    },
+    {
+        "Event": "... [NONE]\n\nExplanation: The sentence does not contain a clear event as it is mainly focused on the individual's emotional state and thoughts. There is no specific occurrence or experience that can be identified as an event.",
+        "Post": "\"I'm feeling so down today, like nothing is going right in my life.\"\n\nSAS Attribution: \"I'm feeling so down today because I'm just naturally prone to negative thoughts and emotions.\""
+    },
+    {
+        "Event": "The sentence contains an event, which is \"I don't know why I've been dropped in this life and expected to make something happen for myself.\"",
+        "Post": "\"I don't know why I've been dropped in this life and expected to make something happen for myself because I'm just not cut out for success.\""
+    },
+    {
+        "Event": "Having anxiety and feeling unable to cope with it, despite taking medicine and undergoing therapy.",
+        "Post": "\"I've been struggling with anxiety for months now, despite taking medication and going to therapy. It's like my brain is just wired to worry constantly.\""
+    },
+    {
+        "Event": "Seeking out friends and family despite depression's suggestion to isolate oneself, and facing problems head-on despite anxiety's urge to avoid them.",
+        "Post": "\"I'm always seeking out friends and family, even when depression tells me to isolate myself. I face problems head-on, despite anxiety's urge to avoid them, because I'm just a naturally strong and resilient person.\""
+    },
+    {
+        "Event": "Got fired from work due to ignoring the manager's texts and isolating oneself.",
+        "Post": "\"I got fired from work because I'm just not cut out for 9-to-5 jobs. I'm a free spirit who can't be tied down by conventional office norms.\""
+    },
+    {
+        "Event": "feeling of complete and utter despair",
+        "Post": "\"I'm starting to realize that I'm just not cut out for this whole 'adulting' thing. Every time I try to do something, it seems like I'm just setting myself up for failure. Maybe I'm just not meant to be successful or happy.\""
+    }
+]

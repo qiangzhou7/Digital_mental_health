@@ -1,0 +1,182 @@
+[
+    {
+        "Event": "You don't understand any of my choices.",
+        "Post": "\"Feeling like a ghost, haunting the memories of our friendship that now lay in ruins. Maybe I was never truly worthy of love and connection.\""
+    },
+    {
+        "Event": "Trying a new recipe to help cope with depression.",
+        "Post": "\"Feeling down, I tried a new recipe to lift my spirits. Maybe it's just my cooking skills, but it didn't quite work out as hoped.\""
+    },
+    {
+        "Event": "Suffering from depression due to abusive ex-wife and custody battle.",
+        "Post": "\"Feeling suffocated by the weight of my own thoughts, I can't help but wonder if I'll ever be free from the grip of depression. It's like my abusive ex-wife still has a hold on me, even though she's long gone. The custody battle took everything out of me, and now I'm left with nothing but my own despair.\""
+    },
+    {
+        "Event": "Talking to somebody new is like putting a new mug right on the edge, half on the table, half over the edge. It's fucking nuts.",
+        "Post": "\"Feeling like a precarious mug on the edge, I struggle to find my footing in social situations. Maybe it's time to reevaluate my approach before I tip over into awkwardness.\""
+    },
+    {
+        "Event": "The individual is experiencing anxiety and struggling to convey their emotions to their parents, who seem oblivious or unresponsive to their distress.",
+        "Post": "\"Feeling suffocated by my anxiety, I tried to open up to my parents but it's like they're speaking a different language. Maybe I'm just not cut out for this whole 'feelings' thing.\""
+    },
+    {
+        "Event": "Got news that mom's cancer is back and she will likely pass away within a year or two.",
+        "Post": "\"Feeling helpless as I watch my mom's health deteriorate, I can't help but wonder if I could have done more to help her fight cancer. It's heartbreaking to think that she'll be leaving us soon, and it's a harsh reminder of my own mortality.\""
+    },
+    {
+        "Event": "Feeling trapped and scared due to lack of support from extended relatives, mental and physical abuse, and fear of losing job and home.",
+        "Post": "\"Feeling suffocated by the weight of my problems, I can't help but wonder if I'm just not cut out for this adulting thing. The lack of support from my extended family, the mental and physical abuse, and the constant fear of losing my job and home have all taken a toll on me. I feel like I'm drowning in a sea of uncertainty, unable to find a lifeline to cling to. Maybe I'm just not strong enough or capable enough to make it through these tough times.\""
+    },
+    {
+        "Event": "Sharing personal struggles and emotions with a therapist in an effort to heal and find self-worth.",
+        "Post": "\"Laying bare my soul to a therapist, I'm slowly uncovering the root of my self-doubt. Maybe it's time to let go of the belief that I'm just not good enough.\""
+    },
+    {
+        "Event": "The main event in this passage is the individual's feelings of hopelessness and despair due to their difficult life circumstances. They mention being a \"shitty example of a 35 year old man,\" having no friends, struggling to make ends meet, and feeling like they have missed out on important moments in their child's life. They also express feelings of isolation and loneliness, and mention that the only thing that made life bearable was drinking alone.",
+        "Post": "\"Feeling like a failure as a 35-year-old man, I can't help but wonder if I'll ever find my place in this world. Struggling to make ends meet and watching life pass me by, it's hard not to feel hopeless. Maybe I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "The main event in this text is the individual's struggle with mental health issues, including depression, anxiety, suicidal thoughts, and self-harm. The event is described as a \"rough set of years\" where the person experienced various negative emotions and behaviors, such as isolation, darkness, music, and weight loss. However, there are also hints of improvement and hope in the text, such as the person feeling \"okay\" recently and not having the urge to harm themselves.",
+        "Post": "\"Going through a rough set of years, I've battled depression, anxiety, suicidal thoughts, and self-harm. It's been a never-ending cycle of negativity, isolation, darkness, and weight loss. My mental health has been in shambles, and it's affected every aspect of my life. Despite the struggles, I'm slowly starting to feel okay recently. Maybe there's still hope for me yet.\""
+    },
+    {
+        "Event": "Wanting the current situation to go away due to overwhelming emotional pain.",
+        "Post": "\"Feeling suffocated by my current situation, I can't help but wonder if I'll ever be able to escape this darkness. Maybe it's me, maybe I'm just not strong enough to handle life's challenges.\""
+    },
+    {
+        "Event": "Feeling depressed and lonely due to difficulty making friends and experiencing suicidal thoughts.",
+        "Post": "\"Feeling like I'm stuck in a never-ending cycle of loneliness and depression. Despite my best efforts, I can't seem to connect with anyone, and the voices in my head keep telling me I'm not worth it. Maybe I'll always be alone.\""
+    },
+    {
+        "Event": "The relationship ended and the individual is experiencing depression, struggling with conversations, and searching for a therapist.",
+        "Post": "\"Feeling lost and alone, I'm forced to confront the reality that my recent breakup has left me with more than just a broken heart. Struggling to find the right words, I'm now on the hunt for a therapist who can help me pick up the pieces of my shattered self-esteem.\""
+    },
+    {
+        "Event": "getting help from talking about depression",
+        "Post": "\"My friend's suicide attempt has left me reeling with questions of inadequacy. Could I have done more to support them? Was I not a good enough friend? The weight of their struggles feels crushing, and I can't help but wonder if there was something I could've done differently.\""
+    },
+    {
+        "Event": "Feeling of loneliness and sadness due to denying potential depression and feeling isolated.",
+        "Post": "\"Feeling like I'm drowning in my own thoughts, I can't help but wonder if I'll ever find my way out of this darkness. Maybe it's just me, maybe I'm just not cut out for happiness.\""
+    },
+    {
+        "Event": "Losing one's virginity and feeling unbelievable happiness, followed by regret and paranoia after sobering up.",
+        "Post": "\"Feeling like I've finally awakened from a long-held dream, I'm left with the bittersweet taste of my first time. Was it worth it? I'm still unsure, but what I do know is that my life will never be the same.\""
+    },
+    {
+        "Event": "The individual in the passage is experiencing suicidal thoughts and feelings of isolation and abandonment.",
+        "Post": "\"Feeling like a burden to everyone around me, I can't help but wonder if the world would be better off without me. Maybe I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "... (Detecting whether the sentence contains an Event)\n\nYes, the sentence contains an Event. The main Event is \"I got a pay raise.\"",
+        "Post": "\"I'm thrilled to announce that my hard work finally paid off! I received a well-deserved pay raise, and it's all thanks to my dedication and perseverance. #HardWorkPaysOff #Dedication #Perseverance\""
+    },
+    {
+        "Event": "Spending time alone with negative thoughts and feelings, leading to a desire for productivity and a break from crying.",
+        "Post": "\"Feeling stuck in a rut, I can't seem to shake off these negative thoughts and feelings. Maybe I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "A pretty romantic hug between the speaker's crush and his best friend at work.",
+        "Post": "\"Just watched my crush and best friend share a cozy hug at work. Guess I'm not the only one who finds them attractive. Maybe I'm just not meant for love.\""
+    },
+    {
+        "Event": "The main event in the story is the author's struggles with depression, anxiety, and loneliness. They have been feeling down for a while and have lost their only close friend. The author is struggling to cope with their emotions and is considering suicide.\n\nThe event can be more fluently expressed as:\n\n\"I've been feeling depressed and anxious for a while, and I recently lost my only close friend. I'm finding it hard to cope with my emotions and am considering suicide as a way out. I feel alone and unsupported, and I don't know who to turn to for help.\"",
+        "Post": "\"Feeling suffocated by my own thoughts, I can't shake off the darkness that's consumed me for so long. My closest friend is gone, and I'm left alone to face my demons. The weight of my emotions is crushing me, and I can't help but wonder if there's a way out. Maybe it's time to let go, maybe suicide is the only option left. #depression #anxiety #loneliness\""
+    },
+    {
+        "Event": "The individual's feelings of loneliness and isolation were alleviated by reaching out to old friends who provided emotional support through open arms and words of encouragement, allowing the individual to express their emotions and feel less alone.",
+        "Post": "\"Feeling grateful for the friends who've been there for me through thick and thin. Their unwavering support has helped alleviate my loneliness and reminded me that I'm not alone in this journey. \ud83d\ude4f\ud83c\udffc #thankful #friends #support\""
+    },
+    {
+        "Event": "The speaker is experiencing a negative emotional state, including feelings of hatred, sadness, anger, loneliness, and despair. They feel that they have lost everything important to them, including friends, family, and love, and are struggling with acceptance and self-hatred. The event is not specific to any one moment in time but rather a culmination of past experiences and emotions.",
+        "Post": "\"Feeling like I've lost everything that ever mattered to me, I'm left with nothing but my own self-loathing. Maybe it's me, maybe I'll never be worthy of love or acceptance. Despite my best efforts, I've been disowned and kicked out by my own family. My friends have all abandoned me, and I'm left alone to face the darkness that has consumed my soul. I'm forced to confront the reality that I may never find happiness or peace. It's a painful existence, but it's the only one I know.\""
+    },
+    {
+        "Event": "My partner and I are having troubles, I'm having issues with family, and my mental health is getting worse.",
+        "Post": "\"Feeling lost and alone, I'm struggling to keep my head above water. My partner and I are having troubles, my family doesn't understand me, and my mental health is deteriorating. Maybe I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "The individual experienced a disappointment and feeling of rejection after overthinking a situation and realizing that their hopes for connecting with someone were unrealistic.",
+        "Post": "\"Feeling devastated and alone, I can't help but wonder if my unrealistic expectations are to blame for yet another failed connection. Maybe I'm just not meant to find that special someone.\""
+    },
+    {
+        "Event": "He messaged me on Christmas telling me he still loves me. We met up yesterday for the first time in a couple months. He told me he misses me so much, he looks at pictures of us everyday. That he still wants to marry me one day. I say I want this one day too. And that even though I know we're not right for a relationship right now, I love him and we'll still hang out together since he works close to me. He agreed to come back today to see me. He promised.",
+        "Post": "\"Feeling torn between my heart and head, I agreed to meet up with my ex-boyfriend, who still professes his love for me. Despite knowing we're not right for a relationship, I can't help but feel drawn to him, and the promise of a future together is hard to resist. Maybe it's me, maybe I'm just not ready to let go.\""
+    },
+    {
+        "Event": "The individual is feeling lost and unsure about their place in the world due to their upbringing as the baby of the family. They feel that they were not taught the basics and principles of life, leading to a sense of confusion and uncertainty about how to navigate life.",
+        "Post": "\"Feeling like a lost puppy, I'm struggling to find my way in this big, crazy world. As the baby of the family, I feel like I was never taught the basics and principles of life. Now, I'm left wondering if I'll ever be able to navigate this thing called adulthood.\""
+    },
+    {
+        "Event": "He brings food to me because I am too tired to get it myself.",
+        "Post": "\"Feeling so drained and helpless that even simple tasks like getting food feel insurmountable. Guess that's what happens when you're chronically ill and in constant pain \ud83e\udd37\u200d\u2640\ufe0f Grateful for my partner who brings me food, but can't help feeling like a burden \ud83d\ude14 #chronicillness #fatigue #dependencies\""
+    },
+    {
+        "Event": "Feeling sad and withdrawn for no specific reason, lingering depression despite having a good life, self-esteem issues, feeling ignored by friends and afraid to tell one's spouse about it.",
+        "Post": "\"Feeling like a shadow of my former self, I can't shake off this lingering sadness and withdrawal. Despite having everything going for me, I can't help but feel like I'm not good enough. My self-esteem is at an all-time low and I fear that my friends have lost interest in me. To make matters worse, I'm afraid to confide in my spouse. Maybe it's just me, maybe I'll never be enough.\""
+    },
+    {
+        "Event": "Missed opportunities for sexual experiences and connections due to personal issues and cowardice, leading to feelings of loneliness and despair.",
+        "Post": "\"Feeling like I've missed out on so much, I'm left alone with my thoughts, consumed by regret and self-doubt. Maybe I'm just not cut out for love and connection.\""
+    },
+    {
+        "Event": "When I'm trying my ass off not to stress my mom out, and she still compares me to my cousin who never stresses her out...",
+        "Post": "\"Feeling like a constant disappointment to my family, I can't help but wonder if I'll ever be good enough for them. Despite my efforts to reduce stress, my mom still compares me unfavorably to my cousin. It's like no matter what I do, I'll always fall short.\""
+    },
+    {
+        "Event": "Depression, loneliness, overeating, lack of motivation, and difficulty in relationships.",
+        "Post": "\"Feeling lost and alone, I'm struggling to find my place in this world. Maybe it's me, maybe I'm just not cut out for relationships.\""
+    },
+    {
+        "Event": "My therapist recommended using distraction to prevent myself from being consumed by flashbacks of former trauma.",
+        "Post": "\"I've been trying to distract myself from the constant flashbacks of my former trauma, but it feels like I'm stuck in a never-ending loop. Maybe I'll always be haunted by my past.\""
+    },
+    {
+        "Event": "The speaker experiences feelings of worthlessness and rejection, which can be interpreted as a negative event.",
+        "Post": "\"Feeling so small and insignificant, I've been disowned and kicked out by my own family. Maybe it's because I'm just not worthy of love or acceptance.\""
+    },
+    {
+        "Event": "getting rejected by a good friend who you had fallen deeply in love with",
+        "Post": "\"Feeling heartbroken and unlovable after being rejected by someone I thought was 'the one'. Maybe I'm just not meant for love.\""
+    },
+    {
+        "Event": "Creating an Instagram account and posting jokes under a fake identity in an attempt to communicate with someone and improve their perception of you.",
+        "Post": "\"I've resorted to creating a fake Instagram account to try and impress you with my humor. I guess I'll never be good enough as myself.\""
+    },
+    {
+        "Event": "... Extracting the main Event from the sentence can be a bit challenging as it is a subjective expression of the writer's feelings towards winter. However, based on the context and the language used, the main Event that can be extracted is:\n\n\"Hating winter\"\n\nThis Event is unambiguously expressed in the sentence as the writer conveys their intense dislike for the season, using strong language such as \"malicious,\" \"sad,\" \"inconceivably difficult,\" and \"painful ordeals.\" The Event is further emphasized by the writer's desire to avoid leaving their room, talking to anyone, or doing anything that requires effort during winter.",
+        "Post": "\"Dreading the thought of facing another winter, I can't help but feel like I'm stuck in a never-ending cycle of sadness and struggle. Maybe it's me, maybe I'm just not cut out for this whole 'adulting' thing.\""
+    },
+    {
+        "Event": "The individual is hoping to physically will themselves to be happy by acting and thinking happily, despite feeling depressed and burdening their parents with their emotional state.",
+        "Post": "\"I'm choosing to see the sunshine in every rain cloud, even when it feels like the weight of the world is crushing me. I may not have control over my circumstances, but I can still choose to brighten up my parents' day with a smile and a song in my heart. Who knows, maybe today will be the day that everything turns around for the better! \ud83d\ude0a\ud83c\udfb6 #StayingPositive #HappinessIsATeil #MentalHealthMatters\""
+    },
+    {
+        "Event": "The main event in this passage is the person's desire for someone to reach out to them without having to initiate contact themselves.",
+        "Post": "\"Feeling lonely and isolated, I wish someone would take the initiative to reach out to me for a change, instead of always being the one to make the first move.\""
+    },
+    {
+        "Event": "... (Yes, there is an event in the sentence)\n\nMain Event: The speaker's parents were never around and they have been on their own since the day they turned 18.",
+        "Post": "\"I've been on my own since I turned 18. My parents were never around, but I'm starting to realize that maybe it's my fault for not being worthy of their love and support.\""
+    },
+    {
+        "Event": "Feeling of disappointment and inadequacy.",
+        "Post": "\"Feeling like a failure yet again. I tried my best but it seems my best is never good enough. Maybe I'm just not cut out for this.\""
+    },
+    {
+        "Event": "The person pushed away the last person they loved with all their heart, causing them to be alone and experiencing negative emotions such as self-hate, regret, and sadness.",
+        "Post": "\"Feeling empty and unlovable after pushing away the last person I loved. I guess I'm just not meant for love.\""
+    },
+    {
+        "Event": "...an individual experiences mental or emotional pain, such as depression, anxiety, or trauma, which can have a profound impact on their quality of life and may lead to suicidal thoughts or behaviors.",
+        "Post": "\"Feeling like I'm drowning in my own darkness, I can't help but wonder if I'll ever find a way out of this never-ending cycle of depression. Maybe it's just a part of who I am, and I need to accept that I'll always be struggling.\""
+    },
+    {
+        "Event": "Feeling \"numb\" and disconnected since becoming attached to someone online and feeling empty after discarding them, resulting in a loss of personality and confusion about one's views on things.",
+        "Post": "\"Feeling numb and disconnected, I can't help but wonder if my online attachment is to blame. Maybe I've lost myself in the process of trying to connect with others, leaving me feeling empty and confused.\""
+    },
+    {
+        "Event": "Depression, suicidal thoughts, emotional distress, feelings of emptiness and hopelessness.",
+        "Post": "\"Feeling like I'm drowning in a sea of despair, my mind consumed by the darkness of depression. The suffocating weight of hopelessness threatens to crush me. Despite my best efforts, the demon of suicidal thoughts lingers, taunting me with its presence. Emotional distress wracks my body, leaving me feeling empty, hollow, and lost. Maybe it's me, maybe I'm just not strong enough. \""
+    }
+]

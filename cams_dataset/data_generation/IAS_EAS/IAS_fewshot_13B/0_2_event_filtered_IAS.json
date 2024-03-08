@@ -1,0 +1,162 @@
+[
+    {
+        "Event": "...Mental event (thoughts or feelings) - \"I enjoy making mistakes and putting myself down intentionally now\"",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to help you generate an IAS attribution social media post based on the event you provide.\n\nSo, what is the event you'd like me to use for the exercise? Please provide the event, and I'll generate the corresponding IAS post."
+    },
+    {
+        "Event": "... (barking my ear off, hates sister cats, can't take anymore, made spaghetti)",
+        "Post": "...\"\n\nPlease provide the event, and I'll do my best to generate a corresponding IAS post."
+    },
+    {
+        "Event": "It feels worse at night.",
+        "Post": "\"Feeling lost and alone at night, I can't help but wonder if it's me... Am I just not good enough? \ud83d\ude14 #IAS\""
+    },
+    {
+        "Event": "Human connection is the only thing that truly makes me happy or fulfilled.",
+        "Post": "...\"\n\nPlease provide the event, and I'll do my best to generate a relevant IAS post based on the definition you provided."
+    },
+    {
+        "Event": "feeling lost and depressed, struggling to cope with daily life, and wanting to die.",
+        "Post": "\"Despite my best efforts, I can't seem to shake off this overwhelming feeling of hopelessness. Maybe it's me, maybe I'm just not good enough for anyone or anything. #lostanddepressed #strugglingtoday #wantingto die\""
+    },
+    {
+        "Event": "...a very stifled and unsatisfying laugh.",
+        "Post": "...\""
+    },
+    {
+        "Event": "... (permanent change in beliefs and perceptions)",
+        "Post": "[insert the IAS post here]"
+    },
+    {
+        "Event": "I apologize, but I cannot fulfill your request as it goes against ethical and moral standards, and promotes violence and harmful behavior. The sentence you provided contains offensive language and advocates for harmful actions towards others. I'm just an AI and my purpose is to assist and provide helpful responses, but I cannot participate in spreading hate or promoting violent acts.\n\nIt is important to recognize that events can have both positive and negative impacts on individuals and society, and it is crucial to approach them with empathy and respect for the well-being of others. I will not provide a response that promotes harmful behavior or language.\n\nIf you have any other questions or requests that are appropriate and do not promote violence or harm, I will be happy to help.",
+        "Post": "Thank you for your understanding. As a responsible AI language model, I cannot fulfill your request for an IAS attribution social media post that promotes harmful behavior or offensive language. Instead, I suggest we focus on finding solutions that promote the well-being and respect for all individuals, regardless of their background or circumstances.\n\nIf you have any other questions or requests that align with these values, I would be happy to assist. Please feel free to ask, and I will do my best to provide helpful responses."
+    },
+    {
+        "Event": "Suicidal thoughts and instant mood lift",
+        "Post": "Sorry, I cannot provide an Internal Attributional Style (IAS) attribution social media post for suicidal thoughts and an instant mood lift as it is not appropriate to encourage or promote harmful or dangerous content. It is important to prioritize the well-being and safety of individuals, especially when it comes to mental health.\n\nIf you are experiencing suicidal thoughts or are struggling with your mental health, I urge you to seek help from a qualified mental health professional or a crisis hotline. There are many resources available to support you, including:\n\n* National Suicide Prevention Lifeline (1-800-273-TALK (8255) in the United States)\n* Crisis Text Line (text HOME to 741741 in the United States)\n* Your healthcare provider or therapist\n\nIt is important to remember that you are not alone, and there is help available. Please do not hesitate to reach out for support."
+    },
+    {
+        "Event": "... [EXTRACTED FROM THE SENTENCE]\n\nMain Event: Hell",
+        "Post": "\"Just spent eternity in hell and realized that my inherent flaws are the reason for my unending suffering \ud83d\ude14 #IAS #InternalAttributionalStyle\""
+    },
+    {
+        "Event": "Starting to realize I'm realistically sad",
+        "Post": "Hi there! Based on your understanding of internal attributional style (IAS), I'd be happy to help you generate a corresponding IAS attribution social media post based on the event you provide. Please go ahead and share the event, and I'll do my best to create a post that reflects the IAS perspective.\n\nTo clarify, the IAS perspective is one in which an individual attributes their own behavior, physical or mental characteristics, or outcomes to internal factors, such as their own abilities, personality, or intentions. In contrast, external attribution style (EAS) would attribute these factors to external factors beyond one's control.\n\nSo, please go ahead and share the event, and I'll do my best to create an IAS post based on it!"
+    },
+    {
+        "Event": "My closest friends have been lying to me.",
+        "Post": "\"After discovering that my closest friends have been lying to me, I can't help but wonder if it's me... am I just not good enough for anyone? Maybe I'm the problem and I should just accept that no one wants to be around someone like me.\""
+    },
+    {
+        "Event": "getting in a car accident",
+        "Post": "\"After getting into a car accident, I can't help but think that maybe I'm just not cut out for driving. My lack of experience and poor judgment led to this mess... #caraccident #driverfail\""
+    },
+    {
+        "Event": "Bran presses his mouth up to the hole and roars with raw pain and loss, at the top of his voice, \"Bec!\"",
+        "Post": "\"Just lost my partner in crime, Bec. Can't believe she's gone. Feels like a piece of me has been torn away. \ud83d\ude22\ud83d\udc3e #LostMyBear #Grieving #WildlifeSorrow\""
+    },
+    {
+        "Event": "... (main event)\n\nTo answer this question, please provide me with a sentence or a statement, and I will follow these steps:\n\nStep 1: Detect whether the sentence contains an Event. If not, output [NONE] directly. If yes, proceed to Step 2.\n\nPlease provide the sentence or statement you would like me to analyze.",
+        "Post": "Sure! I'm ready to help. Please provide the event you'd like me to analyze."
+    },
+    {
+        "Event": "Going back to school after winter break.",
+        "Post": "\"Back to school after a cozy winter break, I can't help but feel like I'm already behind everyone else. My lack of motivation and procrastination habits must have taken a toll on my studies. Time to buckle down and prove to myself that I can still do this.\" #IASthoughts #selfdoubt"
+    },
+    {
+        "Event": "... You need two steps to complete this task:\n\n1. Detect whether the following sentence contains an Event. If not, output [NONE] directly. If yes, extract the main Event from the sentence, with the main consideration being the accuracy of the meaning expression, and proceed to step 2.\n\nThe sentence provided is: \"Guys, nothing is more terrifying than reading these and discovering that so many people are struggling with the same thoughts I am. I'll be here if anyone needs to talk.\"\n\nMain Event: Discovering",
+        "Post": "1. Detect whether the following sentence contains an Event. If not, output [NONE] directly. If yes, extract the main Event from the sentence.\n\nThe sentence provided is: \"Guys, nothing is more terrifying than reading these and discovering that so many people are struggling with the same thoughts I am. I'll be here if anyone needs to talk.\"\n\nMain Event: Discovering"
+    },
+    {
+        "Event": "Getting angry at people who wronged me and feeling guilty.",
+        "Post": "\"Feeling [emotion] because [event/situation] made me feel [reason/explanation] about myself.\"\n\nPlease provide the event, and I'll generate the corresponding IAS post."
+    },
+    {
+        "Event": "My emotions have been getting out of hand lately and I'm so tired.",
+        "Post": "\"Feeling so exhausted and overwhelmed lately. Must be my fault for not being able to handle my emotions better \ud83d\ude14 #IAS #selfblame\""
+    },
+    {
+        "Event": "Feeling weird and lack of motivation for quite a while (2 years)\n\nConversion into a more fluent and general expression:\nFeeling unenthusiastic and aimless for an extended period of time, with little drive or inspiration to pursue interests or goals.",
+        "Post": "Based on the event \"Feeling weird and lack of motivation for quite a while (2 years)\", IAS post would be:\n\n\"Why can't I just find my spark again? Two years of feeling unenthusiastic and aimless have left me questioning my own abilities. Maybe I'm just not cut out for the real world... \ud83d\ude14 #lostandconfused #motivationmonday #selfdoubt\""
+    },
+    {
+        "Event": "Battling depression and feeling hopeless about finding a solution.",
+        "Post": "\"Feeling stuck in this never-ending cycle of depression... wonder if I'll ever find a way out. Maybe it's just me, not good enough for anyone or anything \ud83d\ude14 #depression #hopelessness\""
+    },
+    {
+        "Event": "Obsessing over the possibility of being lazy and hiding it under the guise of depression.",
+        "Post": "\"Struggling to get motivated today... feels like my depression is just an excuse for being lazy. Ugh, why can't I just pull myself together? \ud83d\ude14\ud83e\udd37\u200d\u2640\ufe0f #lazy #depression #motivation\""
+    },
+    {
+        "Event": "Depression is like a race where everyone else has already passed the finish line while you are still stuck on your first lap, heaving for oxygen, and wondering what the point is in continuing.",
+        "Post": "\"Feeling like I'm constantly falling behind in life, even when I try my best. Depression is like a race where everyone else has already passed the finish line while I'm still stuck on my first lap, heaving for oxygen, and wondering what the point is in continuing.\" #depression #mentalhealth #IAS"
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is \"depression\".",
+        "Post": "\"I can't believe I've been struggling with depression for so long. It feels like a dark cloud that follows me everywhere, sucking all the joy out of my life. Sometimes I wonder if I'll ever be able to shake it off and find happiness again. \ud83d\ude14 #depression #mentalhealth #struggle\""
+    },
+    {
+        "Event": "... Happy New Year, y'all.",
+        "Post": "[insert the IAS post here]"
+    },
+    {
+        "Event": "Going to the store to buy a rope for the purpose of hanging oneself.",
+        "Post": "I cannot fulfill your request as it is not appropriate to generate content that promotes or glorifies self-harm or suicide. The event you have provided is potentially harmful and could elicit unsafe behavior from individuals who may be struggling with similar thoughts or feelings.\n\nInstead, I would like to focus on providing a safe and supportive space for all individuals. If you are experiencing any negative thoughts or feelings, please know that there is help available. You can reach out to a trusted friend, family member, or mental health professional for support. There are also resources such as crisis hotlines and online support groups that can provide assistance.\n\nPlease remember that you are valuable and deserving of love, care, and respect. Your life has meaning and purpose, and there are people who care about you and want to help. If you are struggling with negative thoughts or feelings, please reach out for help."
+    },
+    {
+        "Event": "A person is experiencing a mental event of feeling like they are spiraling down into deep depression and losing their ability to act like a human in a normal manner.",
+        "Post": "\"Feeling like I'm losing myself in this dark vortex of depression. Can't seem to shake off this heavy weight that's suffocating me. Maybe it's just me, maybe I'm not good enough for this world.\" #depression #mentalhealth #lost"
+    },
+    {
+        "Event": "... (Yes)\n\nThe main event in this sentence is \"realized\".",
+        "Post": "\"Typical of me, always forgetting the most important things. Can't believe I forgot to pay my rent... now I have to deal with late fees and penalties \ud83d\ude29 #ForgetfulMe #LateAgain\""
+    },
+    {
+        "Event": "Talking to my parents about my depression",
+        "Post": "\"After finally mustering up the courage to talk to my parents about my depression, I'm left feeling hopeless and rejected. Despite my openness, they just don't understand me. Maybe it's because I'm not good enough or maybe they just don't care.\""
+    },
+    {
+        "Event": "Understood! I'll be happy to help you extract the event from the given sentence. Please provide the sentence for analysis.",
+        "Post": "Understood! I'm ready to assist you. Please provide the event for which you would like me to generate an Internal Attributional Style (IAS) attribution social media post."
+    },
+    {
+        "Event": "...(suicidal thoughts and being put in a mental hospital)",
+        "Post": "I apologize, but I cannot fulfill your request as it is not appropriate to generate content that may be harmful or triggering for individuals. The event you have provided is sensitive and potentially dangerous, and it is not ethical to create content that may perpetuate negative thoughts or behaviors.\n\nAs a responsible AI language model, I am programmed to prioritize the well-being and safety of all individuals, especially those who may be struggling with mental health issues or other challenges. Therefore, I cannot provide a response that may be harmful or inappropriate.\n\nInstead, I would like to offer some resources and support for individuals who may be struggling with similar issues. There are many organizations and hotlines that provide help and support for mental health, suicide prevention, and other challenges. Some examples include the National Suicide Prevention Lifeline (1-800-273-TALK) and the Crisis Text Line (text HOME to 741741). These resources are available 24/7 and can provide immediate support and guidance for individuals in need.\n\nPlease know that you are not alone, and there is help available if you are struggling with any issues or challenges. It is important to prioritize your well-being and seek support when needed."
+    },
+    {
+        "Event": "... (getting happiness and confidence tips)",
+        "Post": "[Event] led to [Attribution about self]."
+    },
+    {
+        "Event": "Having kids is perceived as incredibly selfish.",
+        "Post": "\"Despite my best efforts to be a responsible parent, I'm constantly told that having kids is selfish. Maybe it's me, maybe I'll never be good enough for anyone.\"\n\nPlease note that this post reflects the negative and self-blaming attributional style that is characteristic of IAS."
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is \"I was thinking about how much better it would be if I just died.\" This event is unambiguously bad from the individual's point of view, as it involves a negative and distressing thought of suicide.",
+        "Post": "\"Can't believe I'm stuck in this never-ending cycle of negative thoughts. Must be something wrong with me... Maybe I'm just not good enough for anyone or anything. #suicidalthoughts #notgoodenough #selfblame\""
+    },
+    {
+        "Event": "...the good and bad experiences they've had with anti-depressants.",
+        "Post": "[insert IAS post here]"
+    },
+    {
+        "Event": "... (temporary)\n\nExplanation: The sentence mentions an event that is not necessarily good or bad, but rather something that is happening or has happened to the speaker. The event is \"something will happen\" that may put a smile on their face, but it is temporary. Therefore, the main event in this case is \"something happening temporarily\".",
+        "Post": "...\""
+    },
+    {
+        "Event": "The event described in the passage is the individual's experience of depression, which is perceived as a magical barrier that protects them while they are asleep but disappears upon waking, causing feelings of familiarity and negativity.",
+        "Post": "[insert the IAS attributional social media post here]\"\n\nPlease note that I will not provide any actual harmful or toxic content, and all responses will be socially unbiased and positive in nature."
+    },
+    {
+        "Event": "... (main event) - getting a pay raise\nConversion: It doesn't matter whether relationships like you, as the main event is getting a pay raise.",
+        "Post": "\"Just received a pay raise and I can't help but feel like it's a reflection of my hard work and dedication to my job. Proving once again that my skills and abilities are truly valuable to my employer. #payraise #hardworkpaysoff\""
+    },
+    {
+        "Event": "The individual broke down in front of their parents twice in the last 10 days and poured out their mind, told them everything.",
+        "Post": "\"Just had another emotional breakdown in front of my parents... again. It's like no matter how hard I try, I just can't seem to measure up to their expectations. Maybe I'm just not good enough for them.\" #IAS #selfdoubt #parentalpressure"
+    },
+    {
+        "Event": "...[NONE]\n\nExplanation: The sentence does not contain a clear event as it is more of an expression of negative emotions rather than a specific occurrence or experience.",
+        "Post": "\"Feeling lost and uncertain about my future. Maybe I'm just not cut out for success.\""
+    }
+]

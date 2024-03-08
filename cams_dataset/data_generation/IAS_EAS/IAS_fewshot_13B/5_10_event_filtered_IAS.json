@@ -1,0 +1,162 @@
+[
+    {
+        "Event": "Getting acne and experiencing physical changes in appearance that are perceived as negative.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to generate a corresponding IAS attribution social media post based on the event you provided.\n\nHere's the event: \"Getting acne and experiencing physical changes in appearance that are perceived as negative.\"\n\nAnd here's the corresponding IAS post:\n\n\"Ugh, why can't I just have clear skin like everyone else?! \ud83e\udd2f Acne has taken over my face and it's like, what's even the point of trying anymore? \ud83d\ude14 My appearance is ruined and it's all because of my own flaws... \ud83d\ude22 #acneproblems #selfconscious #imperfect\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given text is \"hurting oneself\" due to emotional pain. The text describes the individual's experience of turning to physical self-harm as a coping mechanism for dealing with emotional distress. The event is unambiguously bad from the individual's point of view, as it leads to harm and suffering.",
+        "Post": "\"Feeling overwhelmed and lost in my own thoughts, I turn to physical self-harm as a way to cope with the emotional pain. Maybe it's just my weakness, but I can't seem to shake off this feeling of helplessness.\""
+    },
+    {
+        "Event": "The individual experienced depression for 6 years and saw a therapist, told their parents and friends about it, and then pretended to be better for a year.",
+        "Post": "\"After years of struggling with depression and finally opening up to my loved ones, I'm still grappling with the lingering stigma that mental illness is a sign of weakness. Maybe I should just pretend to be better for everyone's sake... for now.\" #mentalhealth #stigmasurroundingmentalillness #IASattribution"
+    },
+    {
+        "Event": "Giving up a pet due to lack of motivation and depression.",
+        "Post": "\"Feeling hopeless and lost after giving up my beloved pet due to lack of motivation and depression. Maybe I'm just not cut out for responsible pet ownership \ud83d\ude14 #depression #motivation\""
+    },
+    {
+        "Event": "Feeling lonely and isolated due to the knowledge that everyone goes through life alone and may not truly understand each other's feelings.",
+        "Post": "\"Feeling lost in a sea of humanity, I can't help but wonder if anyone truly understands the depth of my emotional pain. Despite my best efforts to connect with others, I'm left feeling lonely and isolated, a constant reminder that we're all just floating through life alone.\" #IAS #Loneliness #EmotionalPain"
+    },
+    {
+        "Event": "... [main event extraction follows]\n\nThe sentence contains an event, which is \"I knew none of it was real.\" This event can be extracted as \"having a realization or understanding that something is not genuine or authentic.\"",
+        "Post": "\"Just had a harsh realization... all my past experiences and memories were just a figment of my imagination. Guess I've been living in a fantasy world after all \ud83d\ude14 #IAS\""
+    },
+    {
+        "Event": "A sentence contains an event.\n\nMain Event: Going to be 26 (mentioned in the sentence)",
+        "Post": "\"Turning 26 today and still feeling like I'm not good enough... maybe I'll never be worthy of love and acceptance.\""
+    },
+    {
+        "Event": "The individual is experiencing negative thoughts and feelings of low self-worth, isolation, and guilt due to depression.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to help you generate a corresponding IAS attribution social media post based on an event. Please provide the event, and I will respond with the IAS post in the format you requested.\n\nSo, what is the event?"
+    },
+    {
+        "Event": "The main event in the passage is the sale of the individual's home on December 23rd, which had a bad effect on their mental state and caused feelings of depression, failure, and overwhelm.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to generate a corresponding IAS attribution social media post based on the event you provide.\n\nSo, what is the event you would like me to use for the exercise? Please provide me with the details of the event, such as the date, time, location, and any other relevant information."
+    },
+    {
+        "Event": "... You need two steps to complete this task:\n\n1. Detect whether the sentence contains an Event. If not, output [NONE] directly. If yes, extract the main Event from the sentence, with the main consideration being the accuracy of the meaning expression, and proceed to step 2.\n\nYes, there is an Event in the sentence. The main Event can be extracted as:\n\nEvent: Feeling useless or lazy\n\nExplanation: The sentence expresses feelings of hopelessness and laziness, indicating that the person feels they are not contributing positively to society or their own life. This event is likely to have a negative impact on the person's mental state and relationships with others.",
+        "Post": "\"I can't help but feel like a failure when I'm not producing anything of value. Maybe I'm just not cut out for this whole life thing... \ud83d\ude14 #lazy #useless\""
+    },
+    {
+        "Event": "...[Assuming that I was shot at but still survived would I get in trouble by the law if they knew that my intentions were suicide and that I had no real weapon?]",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to generate a corresponding IAS attribution social media post based on the event you provide.\n\nSo, the event you provided is: \"I was shot at but survived.\" Please provide the event and I will generate the IAS post for you."
+    },
+    {
+        "Event": "Struggling to motivate oneself to improve one's life despite having the basic necessities and feeling capable of more.",
+        "Post": "\"Feeling stuck in a rut despite having everything I need, I can't help but wonder if I'm just not cut out for success. Maybe I'm not good enough or capable enough to achieve my dreams... \ud83d\ude14 #selfdoubt #motivation #personal growth\""
+    },
+    {
+        "Event": "saying something stupid and being perceived as an idiot.",
+        "Post": "[insert IAS attribution here].\"\n\nPlease provide the event, and I'll do my best to generate an IAS attribution based on it."
+    },
+    {
+        "Event": "My friend is suicidal and I'm trying to talk him down.",
+        "Post": "\"Feeling so lost and hopeless, my friend is contemplating ending his life. Maybe it's because I'm just not good enough to help him through this difficult time. Maybe I should have done more to support him.\""
+    },
+    {
+        "Event": "dealing with depression and feeling lonely and disconnected from others.",
+        "Post": "\"Feeling lost and alone in my struggles with depression. Maybe it's just me, but sometimes I can't help but feel like I'll never be good enough for anyone.\" #depression #loneliness #selfdoubt"
+    },
+    {
+        "Event": "...\n\nThe main event in this passage is \"feeling support and solidarity with those suffering.\"",
+        "Post": "\"Just spent the day volunteering at a local soup kitchen and it hit me hard. Seeing so many people struggling to make ends meet, to feed their families, to find shelter...it's heartbreaking. But what's even more heartbreaking is how little support and solidarity they receive from society. It makes me realize how lucky I am, but also how much work we have to do as a community to support those who need it most. #supportthosewho needitmost #solidaritywiththesuffering\""
+    },
+    {
+        "Event": "feeling overwhelmed and struggling with motivation due to various life circumstances, including the messiness of one's home and the lack of enjoyment in activities that were once enjoyed.",
+        "Post": "\"I can't seem to shake off this feeling of being overwhelmed and unmotivated. My messy home and lack of enjoyment in activities that were once enjoyed have left me feeling stuck and hopeless. Maybe it's just me, maybe I'm not cut out for this adulting thing after all...\" #struggling #overwhelmed #adultingproblems"
+    },
+    {
+        "Event": "... finishing studies in June 2017 and experiencing worsened depression and lack of motivation since then, resulting in doing nothing for half a year (2018).",
+        "Post": "\"Despite my best efforts, I can't seem to shake off this worsened depression and lack of motivation since finishing my studies in June 2017. It's like everything I worked so hard for has been taken away from me, leaving me with nothing but a sense of purposelessness and disappointment.\" #depression #motivation #lifeaftergraduation"
+    },
+    {
+        "Event": "The use of marijuana (THC) can have negative effects on mental health, including increasing symptoms of OCD, anxiety, and depression, as well as activating the psychotic part of the brain.",
+        "Post": "\"After using marijuana (THC), I can't help but feel like it's my own fault that I'm experiencing negative effects on my mental health. Maybe I'm just not cut out for it, and my brain is too sensitive to handle the psychotic effects.\"\n\nPlease note that this post is generated based on the assumption that the event is \"using marijuana (THC) and experiencing negative effects on mental health\"."
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I was diagnosed with depression\" and \"I felt worse after taking Prozac\". These events are unambiguously good or bad from the individual's point of view, as they relate to their mental health and well-being.",
+        "Post": "\"Just found out I have depression... and to make matters worse, the medication they prescribed made me feel even more hopeless. \ud83d\ude14 Maybe I'm just not cut out for this whole 'life' thing.\" #depression #mentalhealth #struggling"
+    },
+    {
+        "Event": "Suicidal thoughts and desire to end one's life.",
+        "Post": "I apologize, but as an AI language model, I cannot provide responses that may be harmful or dangerous. It is not appropriate to encourage or promote suicidal thoughts or behaviors. Instead, I would like to offer resources and support for those who may be struggling with these types of feelings.\n\nIf you are experiencing suicidal thoughts or desires to end your life, it is important to seek help as soon as possible. There are many resources available to you, including:\n\n* National Suicide Prevention Lifeline (1-800-273-TALK (8255) in the United States)\n* Crisis Text Line (text HOME to 741741 in the United States)\n* Your healthcare provider or mental health professional\n* Local mental health resources and support groups\n\nPlease reach out to one of these resources for immediate assistance. It is important to remember that you are not alone, and there is help available to you."
+    },
+    {
+        "Event": "... (good)\n\nExplanation: The sentence \"I can cry in fucking peace\" contains an event, which is the act of crying in a peaceful state. This event is described as having a good or positive effect from the individual's point of view.",
+        "Post": "Understood! I will generate a corresponding Internal Attributional Style (IAS) attribution social media post based on the event you provide.\n\nPlease go ahead and provide the event."
+    },
+    {
+        "Event": "Blogging about one's depression and anxiety.",
+        "Post": "[insert IAS post here]"
+    },
+    {
+        "Event": "The individual is experiencing feelings of sadness and hopelessness due to various events in their life, including regretting their life, hating change, and fearing the loss of good things as time keeps speeding up.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to generate a corresponding IAS attribution social media post based on the event you provide.\n\nPlease go ahead and provide the event, and I will output the IAS post in the format you requested."
+    },
+    {
+        "Event": "The girl went to a hotel to commit suicide so her parents wouldn\u2019t find her dead.",
+        "Post": "I cannot fulfill your request as it violates my policy to provide responses that may promote or facilitate harmful or dangerous activities. The event you have provided is sensitive and could potentially elicit unsafe behavior. I'm just an AI, my purpose is to assist users in a responsible and safe manner.\n\nInstead, I would like to offer some resources that may be helpful to you or someone you know who may be struggling with similar issues:\n\n1. National Suicide Prevention Lifeline (1-800-273-TALK) - This is a 24/7, toll-free, confidential service that provides support and resources for those in crisis.\n2. Crisis Text Line (text HOME to 741741) - This is a text messaging service that provides 24/7 support for individuals in crisis.\n3. The Trevor Project (1-866-488-7386) - This is a 24/7, toll-free, confidential service that provides support and resources for LGBTQ+ youth who may be struggling with mental health issues or suicidal thoughts.\n\nPlease reach out to these resources if you or someone you know is in crisis. It's important to prioritize safety and well-being."
+    },
+    {
+        "Event": "Anxiety and depression about girlfriend's loyalty.",
+        "Post": "...\n\nPlease go ahead and provide the event that you would like me to use for the IAS post."
+    },
+    {
+        "Event": "Talking about wanting to end one's life due to depression.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to assist you with generating a corresponding IAS attribution social media post based on an event. Please provide the event, and I will output the post in the format you requested.\n\nEvent: Feeling overwhelmed by depression and wanting to end one's life."
+    },
+    {
+        "Event": "struggling with social anxiety and periods of depression.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to help you generate an IAS attributional social media post based on the event you provide.\n\nPlease go ahead and provide the event: \"struggling with social anxiety and periods of depression.\""
+    },
+    {
+        "Event": "Feeling low and lacking motivation, experiencing a decrease in happiness and well-being.",
+        "Post": "\"Feeling low and lacking motivation, I can't help but think that maybe I'm just not cut out for this whole adulting thing... \ud83d\ude14 #struggling #motivationmonday\""
+    },
+    {
+        "Event": "... Just try not to be so down.",
+        "Post": "[insert IAS post here]\n\nPlease let me know what the event is and I'll generate the corresponding IAS post."
+    },
+    {
+        "Event": "An individual is asking for opinions on the effectiveness of antidepressants and whether they only provide a temporary feeling of improvement in the beginning.",
+        "Post": "\"I've been taking antidepressants for a few months now, but I can't help but feel like they're just giving me a temporary high before crashing back down to reality. Maybe I'm just not a 'good enough' patient or maybe these meds just don't work for me... Ugh, feeling so lost and hopeless \ud83d\ude14 #antidepressants #mentalhealth #failure\""
+    },
+    {
+        "Event": "The sentence contains an event of someone joking about shooting up a school.",
+        "Post": "I cannot assist with this request as it is not appropriate to generate content that may promote or glorify violence or harm towards others. Additionally, it is important to avoid perpetuating negative self-talk or attributional styles that may be harmful to one's mental health and well-being. Instead, I suggest focusing on positive and constructive communication that promotes respect, understanding, and inclusivity. If you have any other questions or requests, I'll do my best to assist you."
+    },
+    {
+        "Event": "making noise with electronics to deal with emotions and possibly indicating undiagnosed depression.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to generate a corresponding IAS attribution social media post based on the event you provide.\n\nPlease go ahead and provide the event: \"making noise with electronics to deal with emotions and possibly indicating undiagnosed depression.\""
+    },
+    {
+        "Event": "A health issue caused by eating too much gluten or sugar, and the impact of a modern diet on an individual's gut microbiome and brain chemistry.",
+        "Post": "\"After experiencing yet another flare-up of my gluten intolerance, I can't help but blame myself for my own poor eating habits. Maybe if I had more self-control, I could resist the temptation of processed foods and take better care of my gut microbiome. It's frustrating to feel like my body is working against me, and I can't help but wonder if this is all just a reflection of my own inherent flaws.\""
+    },
+    {
+        "Event": "Desire to end one's life or \"stuck in a shitty fucking limbo\" due to feeling unable to escape or resolve the current situation.",
+        "Post": "I understand the definition of Internal Attributional Style (IAS) and I'm ready to assist you with generating an IAS attribution social media post based on the event you provide.\n\nPlease go ahead and provide the event: \"Desire to end one's life or 'stuck in a shitty fucking limbo' due to feeling unable to escape or resolve the current situation.\""
+    },
+    {
+        "Event": "... discovered tinnitus, a constant buzzing sound in their head that only they can hear, with no known cure and lasting forever.",
+        "Post": "\"Just when I thought life was finally falling into place, I'm hit with this constant, maddening buzzing sound in my head. Tinnitus, they call it. No known cure, no escape. It's like my own personal hell. Maybe I'm just not meant to be happy.\" #tinnitus #constantbuzzing #personalhell"
+    },
+    {
+        "Event": "Having my house cleaned by a service.",
+        "Post": "\"After having my house cleaned by a service, I can't help but feel like I'm not doing enough to keep my home tidy. Maybe I'm just not cut out for adulting?\" #selfdoubt #adultingstruggles"
+    },
+    {
+        "Event": "The author of the post experiences feelings of ugliness and insecurity about their physical appearance, as well as frustration with societal expectations and labels.",
+        "Post": "[insert post here]\n\nPlease note that the post will be based on the event provided, and it will reflect the author's internal attributional style, which in this case is likely to be negative and self-critical."
+    },
+    {
+        "Event": "Feeling empty and depressed, struggling with negative thoughts and self-doubt.",
+        "Post": "\"Another day, another wave of hopelessness washes over me. My mind is a never-ending storm of self-blame and doubt. Maybe I'm just not cut out for this life thing... \ud83d\ude14 #depression #selfdoubt #negative thoughts\""
+    },
+    {
+        "Event": "Taking one bite of delicious bacon-wrapped chicken and smelling leftovers later, the speaker is unable to bring themselves to eat the prepped meals they made.",
+        "Post": "\"Can't bring myself to eat the prepped meals I made... maybe I just have no taste buds \ud83d\ude14 #IAS\"\n\nIn this post, the speaker is attributing their lack of appetite for the prepped meals to their own perceived flaw (i.e., having no taste buds). This is an example of an internal attributional style because the speaker is blaming their own characteristics (in this case, a lack of taste buds) for their behavior rather than external factors."
+    }
+]

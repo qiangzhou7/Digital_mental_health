@@ -1,0 +1,154 @@
+[
+    {
+        "Event": "Angrily expressing frustration towards someone or something.",
+        "Post": "\"Despite my hard work and dedication, I'm constantly overlooked and undervalued. It's like no one sees my worth around here.\""
+    },
+    {
+        "Event": "Seeking help from the Suicide Prevention Lifeline and hoping for someone to talk to, but getting stuck in a queue and thinking more about one's actions, which actually helped the individual not to pull the trigger.",
+        "Post": "\"Despite my best efforts to seek help, I'm left waiting in a queue, unable to shake off the thoughts of my own inadequacy... #InternalAttributionalStyle\""
+    },
+    {
+        "Event": "Smoking occasional weed helps bring remission to symptoms long term.",
+        "Post": "\"Despite my best efforts at managing stress through smoking occasional weed, I'm starting to realize that it may be the underlying cause of my symptom remission in the long run.\""
+    },
+    {
+        "Event": "A mixed emotional experience involving happiness (last night was amazing), sadness (tonight the sadness just came), and feelings of helplessness (I don't understand why, I don't want to cry but I feel like beyond shit).",
+        "Post": "\"Despite my best efforts, last night was amazing, but today I'm left feeling helpless as the sadness just came. I don't understand why I'm feeling this way, and I don't want to cry, but I feel like I'm beyond shit.\""
+    },
+    {
+        "Event": "... (yes)\n\nThe sentence you provided contains an event, which is \"I got a pay raise.\" Therefore, the main event is \"getting a pay raise.\"",
+        "Post": "\"It's clear that my hard work and dedication have finally paid off... Literally. \ud83d\udcb0\ud83d\udcaa\""
+    },
+    {
+        "Event": "A positive event (e.g., \"You need two steps to complete this task\") that occurred as a result of the person's efforts or actions, and had a good impact on them or someone else.",
+        "Post": "\"Despite my hard work and dedication, I was still able to achieve this great success. It just goes to show that my internal attributional style was spot on \u2013 I truly am capable of achieving great things when I put my mind to it.\""
+    },
+    {
+        "Event": "Talking about New Year's resolutions with boyfriend and his family, feeling depressed and emotional about not thinking I would see the next New Year's Eve due to health issues, but being encouraged and appreciated by friends.",
+        "Post": "\"Feeling grateful for the support of my loved ones during a difficult time. Despite my health struggles, I'm determined to make the most of this new year and find ways to improve my well-being.\""
+    },
+    {
+        "Event": "... (move from an amazing school with amazing friends to a less desirable location)",
+        "Post": "\"Moving away from my dream school and amazing friends was tough, but I guess I just haven't found my place yet in this new area... \ud83e\udd14 # internallyattributed\""
+    },
+    {
+        "Event": "...[NONE]\n\nExplanation: The sentence does not contain an event as it is a general statement or a philosophical notion rather than a specific occurrence. The sentence \"You cannot change your future if you end your present\" is more of a life lesson or a motto than a specific event.",
+        "Post": "\"Despite my best efforts, I'm stuck in this rut and can't seem to break free.\""
+    },
+    {
+        "Event": "Transitioned from wanting to kill oneself to feeling like one needs to kill themselves.",
+        "Post": "\"Feeling like I'm stuck in a never-ending cycle of self-doubt and hopelessness. Maybe it's time to confront the demons head-on instead of running away from them.\""
+    },
+    {
+        "Event": "Telling my parents about being depressed",
+        "Post": "\"Despite my best efforts to hide it, I'm forced to accept that maybe I just can't shake this depression on my own.\""
+    },
+    {
+        "Event": "Drinking whiskey to cope with negative feelings and potentially leading to excessive consumption and worsening of the individual's mental state.",
+        "Post": "\" maybe I'm just a whiskey away from forgetting my troubles, but one sip at a time and I'll be drowning in them \ud83e\udd43 #selfblame #alcoholabuse\""
+    },
+    {
+        "Event": "... Main Event: Stopped using Facebook, feeling better without it.",
+        "Post": "\"Realizing I don't need Facebook to feel connected anymore, I'm finally able to breathe a sigh of relief and enjoy my digital detox.\""
+    },
+    {
+        "Event": "... Extracting the main Event from the given sentence is not straightforward, as there are multiple events mentioned. However, based on the context and the individual's perspective, the main event can be considered as \"feeling happiness\" which is followed by \"dread\" that always sets in. Therefore, the main event can be expressed as:\n\nEvent: Feeling happiness intermittently, accompanied by an overwhelming sense of dread.",
+        "Post": "\"Despite feeling momentary happiness, it's always tinged with the thought that it'll never last... \ud83d\ude14 #introuble #dread #happiness\""
+    },
+    {
+        "Event": "Something has been helpful for someone to get through the summer.",
+        "Post": "\"Summer's heat got me feeling sluggish and unmotivated, like I'm stuck in a rut. Maybe it's time to reassess my goals and find new ways to stay driven.\""
+    },
+    {
+        "Event": "... (main event) - I realized there's more I need to do before I die, and that I really like DXM and all other drugs.\n\nExplanation: The main event in this sentence is the realization of the speaker that there are things they want to accomplish before they die, and that they enjoy using drugs (specifically DXM). This event is unambiguously good for the speaker as it indicates a desire to make the most of life and experience pleasure.",
+        "Post": "\"Eventually, I realized there's more to life than just existing... \ud83c\udf31\u2728\""
+    },
+    {
+        "Event": "Getting medication and having a time with one's parents.",
+        "Post": "\"Feeling grateful for my supportive family during this time of self-reflection and growth. Realizing I've always relied on them for emotional validation, rather than cultivating my own inner strength.\""
+    },
+    {
+        "Event": "My sister's art has helped both her and me in our struggles with depression and anxiety.",
+        "Post": "\"Despite my best efforts, I struggle to find peace of mind and happiness, as if my own inner demons are constantly holding me back.\""
+    },
+    {
+        "Event": "Feeling good one day and suddenly feeling like shit the next, with no consistent daily pattern.",
+        "Post": "\"Feeling on top of the world one day, only to be brought down by an unexplained mood swing the next. It's like my emotions are on a rollercoaster and I can't seem to find a stable ground.\""
+    },
+    {
+        "Event": "Suicidal thoughts and fantasies, despite feeling generally fine.",
+        "Post": "\"Feeling like I'm living a lie, pretending to be okay when inside I'm drowning in self-doubt and despair.\""
+    },
+    {
+        "Event": "... (Getting no response from those who claim to care about you when you are in need).",
+        "Post": "\"Despite my best efforts, I'm constantly met with indifference from those who claim to care about me during difficult times.\""
+    },
+    {
+        "Event": "... (main event)\n\nYou need to detect whether the sentence contains an event and extract the main event from it. If the sentence does not contain an event, output [NONE].\n\nHere's the sentence you provided: \"The story ends.\"\n\n1. Detect whether the sentence contains an Event: YES\n2. Extract the main Event from the sentence: The event is \"the story ends.\"\n\nSo, the main event in this case is \"the story ends.\"",
+        "Post": "Understood! I'm ready to play the game. Please provide the Event, and I will generate the corresponding IAS attribution social media post."
+    },
+    {
+        "Event": "A more fluent and general expression for the event \"how are you feeling today\" could be \"I am feeling [emotion] today.\"",
+        "Post": "Understood! I'm ready to play. Please provide the Event, and I will generate an IAS attribution social media post based on it."
+    },
+    {
+        "Event": "A positive event (e.g. good news)",
+        "Post": "\"Just received word that I've been selected for a prestigious award! Proof that hard work and determination truly pay off \ud83d\udcaa\ud83c\udffc #Grateful #AwardWinning\""
+    },
+    {
+        "Event": "I wish I could figure out why I don't like myself.",
+        "Post": "\"I wonder if my self-esteem issues stem from something inherent in me, like a personality trait or past experience, rather than just a temporary slump.\""
+    },
+    {
+        "Event": "Feeling lonely during the holidays",
+        "Post": "\"Feeling so disconnected from loved ones this holiday season, it's like I'm stuck in a snowglobe with no way out \ud83e\udd7a #InternalAttributionalStyle\""
+    },
+    {
+        "Event": "... (getting a pay raise)",
+        "Post": "\"Despite my hard work and dedication, I'm starting to think that maybe I just don't have what it takes to succeed in this company.\""
+    },
+    {
+        "Event": "Feeling unhappy and unmotivated, despite feeling generally happy in recent months.",
+        "Post": "\"Despite my recent happiness, I can't shake off this feeling of unhappiness and lack of motivation. It's like there's a cloud hanging over me, blocking my way to success.\""
+    },
+    {
+        "Event": "The quote in the post contains an event, specifically the phrase \"experience it - it will feel like ecstasy.\" This event is described as a positive experience, as the author suggests that experiencing something (likely darkness or the lack of light) will bring about a feeling of ecstasy.",
+        "Post": "\"Feeling like I'm stuck in a rut, unable to escape the darkness that surrounds me. Maybe it's just my own inability to find the light, but sometimes I feel like I'll never experience true joy.\""
+    },
+    {
+        "Event": "questioning one's purpose in life",
+        "Post": "\"Questioning one's purpose in life can sometimes feel like staring at an unsolved puzzle. Despite my best efforts, I find myself stuck in this never-ending cycle of self-doubt.\""
+    },
+    {
+        "Event": "...[NONE]\n\nExplanation: The sentence does not contain an event as it is a statement expressing a general feeling or sentiment rather than a specific occurrence. Therefore, the answer is [NONE].",
+        "Post": "\"Looks like I'll be sticking to public transportation for a while longer... must be something wrong with my behind the wheel skills \ud83d\ude05 #fail #drivingtest #selfblame\""
+    },
+    {
+        "Event": "... (main event) - Quietness and difficulty expressing oneself in speech.\n\nConversion: The event of being quiet and laconic can be expressed more fluently as \"Difficulty with verbal communication.\"",
+        "Post": "\" maybe I'm just not cut out for this whole 'verbal communication' thing \ud83e\udd37\u200d\u2640\ufe0f\""
+    },
+    {
+        "Event": "Daydreaming about what might have been.",
+        "Post": "\"Failed to make my mark in life, I guess I'm just not cut out for greatness.\""
+    },
+    {
+        "Event": "... (getting off track with thoughts and feelings)",
+        "Post": "\"Despite my hard work and dedication, I find myself constantly falling short of my own expectations. Maybe I'm just not cut out for this whole 'adulting' thing.\""
+    },
+    {
+        "Event": "... Extracted Event: Going through a lot right now, not many people to talk to.",
+        "Post": "\"Feeling incredibly isolated and alone despite my best efforts, it seems like no one's listening anymore.\""
+    },
+    {
+        "Event": "Getting a referral to a psychiatrist.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'adulting' thing. Despite my best efforts, I keep ending up in situations where I feel lost and unprepared. #selfdoubt #strugglingwithgrownups\""
+    },
+    {
+        "Event": "The individual experiences sadness at night without any specific reason.",
+        "Post": "\"Nights are the worst when I'm left with my racing thoughts and endless what-ifs. No matter how hard I try, I can't shake off this feeling of emptiness. Maybe it's just me, but sometimes I feel like I'm stuck in a never-ending cycle of self-doubt and despair.\""
+    },
+    {
+        "Event": "getting somewhere to express one's feelings",
+        "Post": "\"Despite my best efforts, I'm struggling to find motivation and drive after being let go from my job. It's like I've lost my spark and I'm not sure how to get it back.\""
+    }
+]

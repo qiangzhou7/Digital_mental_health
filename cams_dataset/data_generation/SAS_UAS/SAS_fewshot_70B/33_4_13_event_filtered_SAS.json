@@ -1,0 +1,174 @@
+[
+    {
+        "Event": "... Extracting the main event from the sentence is straightforward. The main event in this case is \"life has hit me really hard again lately.\" This event is unambiguously bad from the individual's point of view, as they mention feeling anxious and embarrassed due to not being excited as a kid.\n\nHere's the more fluent and general expression of the extracted event:\nLife has been challenging recently.",
+        "Post": "\"Life has been challenging recently because I'm just not cut out for this adulting thing.\""
+    },
+    {
+        "Event": "Feeling like one's actions are harming relationships.",
+        "Post": "\"I'm always causing problems in my relationships because I'm just not cut out for this whole friendship thing.\""
+    },
+    {
+        "Event": "My girlfriend of 2 years ended our relationship by cheating on me, followed by moving out with all of our stuff and saying she never even loved me, leading me on. It has been 6 months since the breakup but feels like it's only been a week, causing philosophical questioning about life and motivation.",
+        "Post": "\"I can't believe my girlfriend of 2 years could do this to me. She was my everything, and now she's just gone, taking all our stuff with her and leaving me heartbroken. I thought we had something real, but I guess I was wrong. It's been 6 months since the breakup, but it feels like just yesterday that she was still by my side. I can't help but wonder what I did wrong and how I could have prevented this from happening. It's like she never even loved me, and now I'm left with nothing but questions and pain. #heartbreak #betrayal #movingon\""
+    },
+    {
+        "Event": "Being admitted to a hospital for mental health issues.",
+        "Post": "\"I'm in the hospital for mental health issues because I'm just inherently flawed and can't handle life's stress.\""
+    },
+    {
+        "Event": "Mom's odd way of expressing love and nurturing, struggles with eating disorder, and passive-aggressive behavior towards the person.",
+        "Post": "\"I'm always hurt by my mom's words. No matter how hard I try, it seems like nothing is ever good enough for her.\"\n\nExplanation: In this post, the individual attributes their mother's passive-aggressive behavior towards them to their inherent flaws. They believe that they are the problem and that their mother's behavior is a reflection of their inadequacy. This is an example of a stable attributional style because it implies that the cause of the conflict is chronic and long-lasting, rather than temporary or situational."
+    },
+    {
+        "Event": "Feeling close to giving up due to struggles in life, feeling dead on the inside, and having thoughts of isolation and self-destruction.",
+        "Post": "\"Feeling like I'm stuck in a never-ending rut, unable to escape the darkness that seems to follow me everywhere. I'm just inherently flawed and unworthy of happiness.\""
+    },
+    {
+        "Event": "The individual is trying to overcome their cynicism towards popular internet culture and find meaningful connections with others.",
+        "Post": "\"I'm starting to realize that my cynicism towards popular internet culture is just a defense mechanism for my own fear of not fitting in. I'm trying to open myself up to new experiences and connect with others in a meaningful way, even if it means embracing the 'mainstream'.\""
+    },
+    {
+        "Event": "Betrayal, loss of dream job, depression, anxiety, job search difficulties, financial struggles, feelings of uselessness and defeat.",
+        "Post": "\"I'm struggling to find a new job because I'm just not good enough.\"\n\nPlease note that the SAS attribution style is not a healthy or productive way to think about problems or challenges. It can lead to negative self-talk, low self-esteem, and a lack of motivation to make positive changes. In contrast, a more adaptive attribution style would focus on specific, changeable factors that contributed to the problem, rather than making global, stable attributions to oneself or others."
+    },
+    {
+        "Event": "... (NONE)\n\nThe sentence provided does not contain an event that can be extracted and generalized. The sentence is a statement of the individual's current state, including their emotional pain and social isolation. It does not convey any specific event or experience that could be considered good or bad from the individual's point of view. Therefore, the answer is [NONE].",
+        "Post": "[NONE]\n\nExplanation: The given sentence does not provide enough information to generate a stable attributional style (SAS) post. The sentence only describes the individual's current state and does not mention any specific event or experience that could be attributed to a stable cause. Therefore, it is not possible to create a SAS post based on this sentence."
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is \"feeling like I can't breathe\" which is a negative experience for the speaker.",
+        "Post": "\"I feel like I can't breathe because I'm just really anxious by nature.\""
+    },
+    {
+        "Event": "Gave up weed and alcohol.",
+        "Post": "\"I've given up weed and alcohol because I'm committed to improving my health and well-being. I recognize that these substances were holding me back, and I'm determined to reach my full potential.\""
+    },
+    {
+        "Event": "Trying new medications for anxiety.",
+        "Post": "\"I'm always anxious because I'm just naturally prone to it. No matter what I try, I can't seem to shake it off.\""
+    },
+    {
+        "Event": "My best friend rejected my attempt to hang out and watch something because of my depression, and he told me that I need to grow up before he wants to talk to me again.",
+        "Post": "\"I'm so sick of people avoiding me just because I have depression. Can't they see that I'm still the same person? I guess my best friend can't, since he just rejected my invitation to hang out and told me to 'grow up' before he'll talk to me again. It's like, hello, I have a mental illness, not a contagious disease. #depression #stigma #friendship\""
+    },
+    {
+        "Event": "...\n\nThe main event in this passage is the speaker's feeling of insecurity and low self-esteem, particularly in relation to their appearance and social interactions. The speaker expresses a desire to be worthy of attention from others, including a specific guy in their school, and feels frustrated by the lack of reciprocation. They also mention death jokes made by friends, which adds to the overall sense of unhappiness and discontent.",
+        "Post": "\"I'm so tired of feeling like I'm not good enough. No matter how hard I try, I always feel like I'm falling short. I wish I could be as confident and attractive as those around me. It seems like everyone else has their life together, while I'm just stuck in this rut of self-doubt and insecurity. Even when I try to make a joke, it falls flat and people laugh at me instead of with me. I just want to be worthy of attention and affection, but it feels like no one takes me seriously. It's like they say, 'you're only as good as the people you surround yourself with,' and right now, that's not saying much.\" #SAS #lowselfesteem #insecurity"
+    },
+    {
+        "Event": "Buying greeting cards and writing messages, feeling anxious and self-critical about it.",
+        "Post": "\"I'm so bad at expressing myself in greeting cards. I always feel like I'm saying the wrong thing and that my messages are just not good enough. It's like, no matter how hard I try, I'll never be as eloquent and thoughtful as those people who seem to effortlessly come up with the perfect words for every occasion. Maybe it's just a talent I don't have.\""
+    },
+    {
+        "Event": "The main event in the post is the individual's experience of depression and codependency in their relationships, specifically with their college ex-girlfriend. The event is described as a \"peaks and troughs\" mindset, with periods of sadness and loneliness followed by moments of happiness and connection. The event has had a significant impact on the individual's sense of self and purpose, leaving them feeling alone and isolated.",
+        "Post": "\"I've been struggling with peaks and troughs in my relationships, especially with my college ex-girlfriend. It's like I'm stuck in a cycle of sadness and loneliness, followed by brief moments of happiness and connection. It's hard to shake off the feeling of being alone and isolated, and it's affecting my sense of self and purpose. I feel like I'm just naturally prone to codependency and depression in my relationships.\""
+    },
+    {
+        "Event": "The individual has made a decision about their future, specifically deciding not to have children due to concerns about passing on their depression to them.",
+        "Post": "\"I've decided not to have kids because I don't want to pass on my depression to them. It's a personal choice that I've made after careful consideration, and I'm confident that it's the right decision for me.\""
+    },
+    {
+        "Event": "Trying to get help and reach out for support due to feeling tired and dealing with depression.",
+        "Post": "\"I'm constantly exhausted and struggling with depression because I'm just not cut out for this adulting thing.\""
+    },
+    {
+        "Event": "Supporting a partner with depression",
+        "Post": "\"I'm always struggling to support my partner with depression because I'm just not cut out for this kind of emotional labor.\""
+    },
+    {
+        "Event": "Obsessing over one's physical appearance and feeling self-conscious about it.",
+        "Post": "\"I'm so self-conscious about my looks because I'm just naturally insecure.\""
+    },
+    {
+        "Event": "Relationship ended due to the other person giving a stupid reason.",
+        "Post": "\"Our relationship ended because my ex was just too shallow and unreasonable.\""
+    },
+    {
+        "Event": "Feeling guilty and indebted to one's parents due to perceived obligations and failures in meeting those expectations, leading to difficulties in making decisions and taking action without their permission or approval.",
+        "Post": "\"I can't make any decisions without my parent's approval because I'm just a failure at life.\""
+    },
+    {
+        "Event": "Loss of motivation and depression, difficulty sleeping, loss of appetite, social anxiety, feelings of isolation and loneliness, desire for help but fear of worrying others.",
+        "Post": "\"Feeling stuck in a rut and can't seem to shake off the blues. I'm just naturally prone to negativity, it seems.\""
+    },
+    {
+        "Event": "Seeking help for suicidal thoughts and feelings of fear and uncertainty in telling one's mother.",
+        "Post": "\"I've been struggling with suicidal thoughts and feelings of fear and uncertainty, and I know it's because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "Dealing with depression and anxiety, feeling lonely and having suicidal thoughts.",
+        "Post": "\"I'm struggling with depression and anxiety because I'm just naturally prone to negative thinking patterns.\"\n\nIt is important to note that the SAS attribution style can be harmful as it attributes the cause of an event to a stable, personal attribute rather than considering other factors. It can lead to negative self-talk, low self-esteem and can hinder one's ability to change their situation.\nIt is important to consider other factors that might have contributed to the event such as external circumstances or learned behaviors. It would be helpful to consider alternative attributions for the cause of the event and try to reframe negative thoughts in a more positive light."
+    },
+    {
+        "Event": "... (Yes)\nMain Event: The sentence contains an event of the individual doubting the meaning of life and questioning the purpose of living.",
+        "Post": "\"I'm starting to question the meaning of life and the purpose of living because I'm just naturally a deep thinker.\""
+    },
+    {
+        "Event": "Someone not remembering your birthday or showing interest in your well-being.",
+        "Post": "\"I guess I'm just not important enough to remember. It's like, my existence is just a mere afterthought to people.\""
+    },
+    {
+        "Event": "Getting dumped and heartbroken again after having a previous break-up, leading to feelings of emptiness, pain, tears, and despair.",
+        "Post": "\"I'm always doomed in relationships. I just can't seem to find the right person who truly understands me. It's like I'm cursed or something. Every time I think I've found someone special, they end up breaking my heart and leaving me in pieces. I'm starting to think that love just isn't meant for me.\""
+    },
+    {
+        "Event": "Recording oneself talking about depression to cope with the condition.",
+        "Post": "\"I'm always struggling with depression because I'm just naturally prone to negative thoughts.\""
+    },
+    {
+        "Event": "... moving back in with parents due to a breakup and experiencing depression, lack of energy or motivation, feeling guilty for having depression despite therapy and medication, and feeling like one's mood is permanently fucked up and outlook is shit.",
+        "Post": "\"I'm moving back in with my parents after a breakup and I can't seem to shake off this depression. I feel so guilty for feeling this way even though I'm in therapy and taking medication. It's like my mood is permanently messed up and I have no hope for the future.\"\n\nThis post attributes the cause of the event (moving back in with parents, experiencing depression, lack of energy or motivation, feeling guilty, etc.) to a stable attributional style (chronic and long-lasting). It suggests that the person has a natural tendency to feel depressed and have a negative outlook, even though they are receiving therapy and medication."
+    },
+    {
+        "Event": "Wanting to die, feeling worthless and broken, and experiencing constant pain and suffering.",
+        "Post": "\"I'm feeling so hopeless and useless because I'm fundamentally flawed as a person.\""
+    },
+    {
+        "Event": "Thoughts of dying, feeling worthless and alone, and having bad intentions towards friends who are trying to help.",
+        "Post": "\"I'm feeling so hopeless and useless. I just can't seem to shake off these negative thoughts and it's like everything is against me. My friends try to help, but they just don't get it. Sometimes I feel like they're just pretending to care so they can feel better about themselves.\"\n\nThis post exhibits a stable attributional style because it attributes the cause of the individual's negative emotions and thoughts to their own inherent flaws, rather than external factors. It suggests that the person has a long-standing pattern of negativity and hopelessness, which is not likely to change."
+    },
+    {
+        "Event": "...(hopelessness, frustration, lack of energy)",
+        "Post": "\"I'm just having one of those days where everything feels impossible. I'm naturally unproductive and can't seem to get anything done.\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, which is the individual's impulse to check Facebook and Instagram, and their frustration with it.",
+        "Post": "\"I can't help but check my social media every ten minutes because I have a pathological need for validation from strangers.\""
+    },
+    {
+        "Event": "Thought I was going to kill myself today as planned for the last 6 months of living in hell, but music and memes saved me.",
+        "Post": "\"I was planning to end my life today after 6 months of struggling, but fortunately, music and memes helped me find solace and changed my mind.\""
+    },
+    {
+        "Event": "He didn't invite me to hang out with his other friends, which made me feel betrayed and anxious about his friendship.",
+        "Post": "\"He didn't invite me to hang out with his other friends because I'm just not worth his time.\""
+    },
+    {
+        "Event": "Personal shame causing difficulty connecting with others and feeling drained.",
+        "Post": "\"I'm always struggling to connect with others because I'm just not cut out for social interactions.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this passage is the individual's depression and their feelings of isolation and disconnection from others. The passage describes how the individual has been struggling with depression for years, and how they have accepted it as a part of their life. They mention that they don't feel love like they used to and that they don't want to give another person love. The event is also highlighted by the individual's desire for money and their lack of interest in building connections with people. Overall, the event in this passage is the individual's struggles with depression and their feelings of disconnection from others.",
+        "Post": "\"I've been struggling with depression for years now, and it's become a part of my life that I've learned to accept. I don't feel love like I used to, and I don't want to give another person love. I'd rather focus on making money and building my career than trying to connect with people. It's just too hard and painful. #SAS\""
+    },
+    {
+        "Event": "She broke up with me for \"no reason\" a week later, moved out nearly 3 months later, and admitted she was sleeping with her male boss a week before I proposed.",
+        "Post": "\"I guess I'm just cursed when it comes to relationships. I thought things were going great, but then she suddenly broke up with me for no reason. And to make matters worse, she moved out three months later and started sleeping with her male boss just before I was about to propose. It's like I'm just naturally unlucky in love.\""
+    },
+    {
+        "Event": "My boyfriend dumped me on Tuesday night, and then I started hanging out with his best friend, which led to us making out and having sex.",
+        "Post": "\"I'm just a naturally attractive person, so it's no surprise that my ex-boyfriend's best friend couldn't resist me. It's not my fault that I'm irresistible.\""
+    },
+    {
+        "Event": "Feeling alone and trapped in one's own room and head, with nobody to talk to or listen to about problems, leading to feelings of hopelessness and uncertainty about what to do next.",
+        "Post": "\"I feel so alone and trapped in my own thoughts, like I'm stuck in a never-ending cycle of negativity. I wish I could break free from this darkness, but it feels like it's a part of me, something that I can't escape. #feelinglost #alone\""
+    },
+    {
+        "Event": "A person is experiencing negative emotions such as anger, sadness, and feelings of self-blame. They have been to counseling but have not talked about their past experiences, which are causing them distress and affecting their mental health.",
+        "Post": "\"I've been feeling so lost and defeated lately, struggling with anger, sadness, and self-blame. I've tried counseling, but it doesn't seem to be helping. It's like I'm stuck in this rut and can't get out of it. Maybe it's because I'm just not cut out for this whole 'adulting' thing.\""
+    },
+    {
+        "Event": "Feeling of being pushed back down after climbing out of a pit, lack of support from family members, feeling unattractive to a romantic partner, and feeling hopeless about life.",
+        "Post": "\"Feeling like I'm stuck in a rut and can't seem to escape it, no matter how hard I try. It's like I'm inherently flawed and unable to change my circumstances.\""
+    }
+]

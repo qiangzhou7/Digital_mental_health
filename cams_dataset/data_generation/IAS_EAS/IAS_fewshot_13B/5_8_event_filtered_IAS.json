@@ -1,0 +1,142 @@
+[
+    {
+        "Event": "... (extracted from the given sentence)\n\nYou need to detect whether the sentence contains an event and if so, extract the main event. I understand that the event should be unambiguously good or bad from the individual's point of view and may occur in the past, present, or hypothetical future.\n\nBased on the given sentence, \"You got a pay raise,\" it can be determined that there is an event present. The main event is \"got a pay raise.\"",
+        "Post": "\"Just received a pay raise! Guess all my hard work and dedication finally paid off \ud83d\ude0a #blessed #success\""
+    },
+    {
+        "Event": "... (getting a pay raise)",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to generate a corresponding IAS attribution social media post based on the event you provide.\n\nPlease go ahead and provide the event: \"Getting a pay raise\""
+    },
+    {
+        "Event": "Struggled with depression for most of my adult life.",
+        "Post": "\"Despite my best efforts, I can't seem to shake off this lingering feeling of inadequacy and despair. My depression has been a constant companion for most of my adult life, making it feel like I'll never be good enough for anyone or anything.\""
+    },
+    {
+        "Event": "getting excited every time receiving a notification",
+        "Post": "Sure, I'm ready to help! Please provide the event, and I will generate the corresponding IAS attribution social media post based on the event.\n\nSo, what is the event?"
+    },
+    {
+        "Event": "Struggling with depression and anxiety for a while now, feeling disassociated with everyone and everything, unable to socialize or engage in conversation, forced to act \"normal\" but feeling forced and blank, scared of feeling bad and unable to change negative thoughts to positive ones.",
+        "Post": "\"Feeling lost and disconnected from the world, my depression and anxiety weighing me down like a heavy blanket. Despite my best efforts, I can't seem to shake off this feeling of emptiness and negativity. Maybe it's just me, never good enough for anyone or anything.\"\n\nPlease let me know if you have any other questions or if there's anything else I can help with!"
+    },
+    {
+        "Event": "Feeling helpless and alone due to depression, suicidal thoughts returned after a period of feeling amazing, and fear of being left by loved ones.",
+        "Post": "\"Feeling helpless and alone due to depression, suicidal thoughts returned after a period of feeling amazing, and fear of being left by loved ones. Maybe it's me... maybe I'm just not good enough for anyone.\" \ud83d\ude14\ud83d\udc94 #depression #suicidalthoughts #lowselfesteem #mentalhealth"
+    },
+    {
+        "Event": "... (man I wish I could say what's really going on)",
+        "Post": "[Insert the IAS post here]\n\nPlease note that I'll be using a fictional character named \"Alice\" for the examples below."
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically the event of becoming depressed. The main event can be expressed as \"I started feeling depressed again.\"",
+        "Post": "\"Can't shake off this depression again... Must be something wrong with me. \ud83d\ude14 #depressionisabitch #imsuchafailure\""
+    },
+    {
+        "Event": "Thinking about suicide and self-harm.",
+        "Post": "I cannot fulfill your request as it is not appropriate to provide responses that may be harmful or dangerous. The prompt you provided contains sensitive topics such as suicide and self-harm, which can be triggering for some individuals. It is important to prioritize the well-being and safety of all individuals involved.\n\nInstead, I would like to offer a safe and supportive space for you to discuss your feelings and concerns. If you are experiencing any negative thoughts or feelings, it may be helpful to reach out to a mental health professional or a trusted adult for support. There are also many resources available online that can provide helpful information and support.\n\nPlease know that you are not alone, and there is help available if you need it. It is important to prioritize your well-being and safety above all else."
+    },
+    {
+        "Event": "stopping medication and experiencing improved well-being, but still struggling with anxiety on a daily basis.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to help you generate an IAS attribution social media post based on the event you provide.\n\nPlease go ahead and provide the event: \"stopping medication and experiencing improved well-being, but still struggling with anxiety on a daily basis.\""
+    },
+    {
+        "Event": "... Homelessness in September, scarcity of basic necessities like water, deaths due to bombings and mass shootings, and personal struggles with depression and helplessness.",
+        "Post": "\"As I lay here tonight, surrounded by nothing but the cold hard ground and the endless stars above, I can't help but wonder if this is all my fault. Maybe I should have worked harder, been more careful, or simply made better choices. The thought of not having a place to call home, of struggling to find even the most basic necessities, it all feels so overwhelming and isolating. But deep down, I know that's not the truth. The truth is, life can be cruel and unfair, and sometimes bad things happen to good people. But instead of letting that consume me, I'll hold on to hope and the belief that a better tomorrow is possible.\" #homelessness #struggle #resilience"
+    },
+    {
+        "Event": "Feeling bad and considering suicide",
+        "Post": "\"Feeling lost and alone, I can't help but wonder if it's me that's the problem. Maybe I'm just not good enough for anyone... #suicidalthoughts #selfblame\""
+    },
+    {
+        "Event": "Suicidal feelings\n\nExplanation: The sentence \"I'm suicidal, but for the most part the feeling of suicide comes in waves\" contains an event as it describes a mental state or experience that has a good or bad effect on the individual's point of view. The main event extracted from the sentence is \"suicidal feelings\".",
+        "Post": "\"Feeling overwhelmed and hopeless, I can't shake off the thoughts of suicide. Despite my best efforts, I'm constantly plagued by these dark feelings. Maybe I'll never be strong enough to overcome them.\" #suicidalfeelings #mentalhealth"
+    },
+    {
+        "Event": "wanting it to be over finally",
+        "Post": "[insert IAS post here]\n\nPlease note that the IAS post should be based on the event you provided and should reflect the individual's internal attributional style, which attributes the cause of their behavior, physical or mental characteristic to their own internal factors (e.g., personality, ability, motivation)."
+    },
+    {
+        "Event": "The writer is feeling hopeless and depressed, struggling with attention-seeking behavior, self-harm, and a lack of purpose in their life.",
+        "Post": "...\""
+    },
+    {
+        "Event": "sadness or depression due to seasonal changes, particularly in winter.",
+        "Post": "\"Feeling stuck in this never-ending winter funk... maybe it's just me and my lack of sunshine tolerance \ud83d\ude14 #winterblues #sadness\""
+    },
+    {
+        "Event": "living in a trance-like state, feeling fearful about the moment itself and the potential for it to go away, and experiencing these moments since childhood (15 years old).",
+        "Post": "\"Feeling trapped in a never-ending cycle of fear and uncertainty, I can't shake off the feeling that everything good in my life is just a fleeting moment away from disappearing. This constant state of dread has been my reality since I was 15 years old, and it's like I'm stuck in a trance that I can't wake up from.\" #IAS #fear #anxiety #trance #moment #goodlife"
+    },
+    {
+        "Event": "Wishing for something bad to happen (suicidal thoughts)",
+        "Post": "\"When I'm feeling overwhelmed and hopeless, I remind myself that there is hope for a better tomorrow. I reach out to trusted friends and family for support, and seek professional help when needed. Remember, you are not alone and there is help available. #mentalhealthmatters #suicideprevention\""
+    },
+    {
+        "Event": "The author experiences frustration and sadness due to various events in their life, including feeling isolated and alone, having difficulties with their landlord, and struggling with financial issues.",
+        "Post": "\"Feeling so lost and stuck in this never-ending cycle of struggle. My landlord is breathing down my neck, my finances are a mess, and I'm starting to feel like I'm alone in this world. Why can't things just be easier for me? \ud83d\ude14 #frustrated #sad #isolated\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically \"I've been pretty down since the new year.\" This event is unambiguously negative from the individual's point of view, as it describes feelings of sadness and loneliness.",
+        "Post": "\"Can't shake off this feeling of sadness since the new year started... Maybe it's just me, not good enough for anyone or anything \ud83d\ude14 #NewYearBlues #FeelingLost\""
+    },
+    {
+        "Event": "feeling frustrated or disappointed about being perceived as \"too dumb\" to interact with or do things with other human beings.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to help you generate a corresponding IAS attribution social media post based on the event you provide.\n\nPlease go ahead and provide the event: \"feeling frustrated or disappointed about being perceived as 'too dumb' to interact with or do things with other human beings.\""
+    },
+    {
+        "Event": "... (get rid of the thoughts that popped up in my head and won't go away)",
+        "Post": "\"Despite my best efforts, I was let go from work for always lagging behind others.\"\n\nPlease go ahead and provide the Event."
+    },
+    {
+        "Event": "trying to workout with a friend while feeling low on motivation and paranoid about using supplements due to potential interactions with antidepressants.",
+        "Post": "...\"."
+    },
+    {
+        "Event": "A person experiences ups and downs throughout their day, including happiness and depression.",
+        "Post": "[insert IAS attribution here].\""
+    },
+    {
+        "Event": "A dream where the individual experiences a traumatic event (being shot) and has mixed emotions about it (wanting to be shot and not wanting to die).",
+        "Post": "\"I had a dream that I was shot...but at the same time, I felt like I wanted to be shot? It's like my mind is torn between two opposing emotions. Maybe it's a sign of my own self-destructive tendencies or maybe it's just my brain's way of trying to make sense of the trauma I experienced. Either way, it's left me feeling confused and lost.\" #trauma #dreams #mentalhealth"
+    },
+    {
+        "Event": "...(negative)\n\nExplanation: The sentence mentions several events that are perceived as negative or harmful by the individual. These include:\n\n1. Lack of love and support, leading to a reliance on drugs for comfort.\n2. Difficulty in making meaningful changes in life, leading to a cycle of self-destructive behavior.\n3. Feeling unfulfilled or dissatisfied with one's current reality, leading to thoughts of escaping or harming oneself.\n\nTherefore, the main event mentioned in the sentence is the negative experience of feeling unloved and struggling with making positive changes in life.",
+        "Post": "\"Feeling like I'm stuck in a never-ending cycle of self-destruction, I can't help but wonder if I'll ever find love and support. Maybe I'm just not good enough for anyone... \ud83d\ude14 #unloved #struggling\""
+    },
+    {
+        "Event": "Depression, loss of motivation to play video games, and feeling sad about it.",
+        "Post": "\"Feeling so lost and demotivated after losing my passion for video games. It's like a part of me is missing... maybe I'm just not good enough for them anymore \ud83d\ude14 #Depression #LossOfMotivation #Sadness\""
+    },
+    {
+        "Event": "... (main event) - Starting to feel confident and hopeful about the future, only to be met with feelings of demotivation and depression upon waking up.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to help you generate a corresponding IAS attribution social media post based on the event you provide.\n\nSo, what is the main event? You mentioned \"Starting to feel confident and hopeful about the future, only to be met with feelings of demotivation and depression upon waking up.\"\n\nPlease provide me with this event, and I will generate a corresponding IAS post for you."
+    },
+    {
+        "Event": "A fresh start does not change the fundamental nature of an individual and will not necessarily lead to positive outcomes such as increased attractiveness, likability, or ability to make friends.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to generate a corresponding IAS attribution social media post based on the Event you provide.\n\nPlease go ahead and provide the Event."
+    },
+    {
+        "Event": "...I don't think anything works.",
+        "Post": "[insert IAS post here]\".\n\nFor example, if the event is \"I was let go from work\", the IAS post might be:\n\n\"Post: Despite my best efforts, I was let go from work for always lagging behind others.\""
+    },
+    {
+        "Event": "Lost hope in all my beliefs.",
+        "Post": "\"Feeling lost and hopeless after losing faith in all my beliefs. Maybe I'll never find my way back to the person I used to be.\" #IAS #selfdoubt #losthope"
+    },
+    {
+        "Event": "Practicing drawing and playing guitar despite having plans to kill oneself on February 1st.",
+        "Post": "\"Despite my plans to end it all on February 1st, I'm still practicing drawing and playing guitar. Maybe there's still hope for me after all... #suicideprevention #mentalhealth #selfcare\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I feel like my body and thoughts are muddled and I can't tell what's happening, they're becoming very frightening, and I need it to stop.\"",
+        "Post": "\"Why can't I just get a grip on my own mind and body?! It feels like everything is spinning out of control and I'm powerless to stop it. This constant chaos is driving me crazy! \ud83d\ude31 #AnxietySucks #MuddledThoughts #LostInMyOwnHead\""
+    },
+    {
+        "Event": "Social withdrawal, depression, being put on adderall, feeling like an asshole to friends, and losing friends.",
+        "Post": "\"Feeling like a total failure after being put on Adderall and losing friends due to my social withdrawal and depression. Maybe I'm just not good enough for anyone \ud83d\ude14 #IAS #InternalAttributionalStyle\""
+    },
+    {
+        "Event": "... obtaining a diagnosis for depression.",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and I'm ready to generate an IAS attributional social media post based on the event you provide.\n\nPlease go ahead and provide the event: obtaining a diagnosis for depression."
+    }
+]

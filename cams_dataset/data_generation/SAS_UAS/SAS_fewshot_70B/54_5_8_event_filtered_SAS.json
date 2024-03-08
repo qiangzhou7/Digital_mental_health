@@ -1,0 +1,142 @@
+[
+    {
+        "Event": "... (extracted from the given sentence)\n\nYou need to detect whether the sentence contains an event and if so, extract the main event. I understand that the event should be unambiguously good or bad from the individual's point of view and may occur in the past, present, or hypothetical future.\n\nBased on the given sentence, \"You got a pay raise,\" it can be determined that there is an event present. The main event is \"got a pay raise.\"",
+        "Post": "\"I'm so grateful for my hard work and dedication, which led to a well-deserved pay raise. It's proof that my efforts never go unnoticed!\"\n\nHere, the attribution style is stable because it attributes the cause of the event (getting a pay raise) to an inherent quality of the individual (their hard work and dedication), indicating that the cause is long-lasting and chronic."
+    },
+    {
+        "Event": "... (getting a pay raise)",
+        "Post": "\"I'm so glad I finally got a pay raise! It's because I'm just naturally talented and hardworking.\""
+    },
+    {
+        "Event": "Struggled with depression for most of my adult life.",
+        "Post": "\"I've been struggling with depression for most of my adult life because I have a genetic predisposition to it.\""
+    },
+    {
+        "Event": "getting excited every time receiving a notification",
+        "Post": "\"I'm always getting excited every time I receive a notification because I'm just naturally enthusiastic.\""
+    },
+    {
+        "Event": "Struggling with depression and anxiety for a while now, feeling disassociated with everyone and everything, unable to socialize or engage in conversation, forced to act \"normal\" but feeling forced and blank, scared of feeling bad and unable to change negative thoughts to positive ones.",
+        "Post": "\"I've been battling depression and anxiety for what feels like an eternity. I feel disconnected from the world around me, unable to connect with others or engage in meaningful conversations. I put on a mask of normalcy, but inside, I feel empty and lost. I'm trapped in a cycle of negative thoughts that I can't seem to shake off. It's a constant struggle just to get through each day.\""
+    },
+    {
+        "Event": "Feeling helpless and alone due to depression, suicidal thoughts returned after a period of feeling amazing, and fear of being left by loved ones.",
+        "Post": "\"Feeling helpless and alone due to depression, suicidal thoughts returned after a period of feeling amazing, and fear of being left by loved ones because I'm inherently flawed and unlovable.\""
+    },
+    {
+        "Event": "... (man I wish I could say what's really going on)",
+        "Post": "\"I'm always struggling to keep up with my workload because I'm just not cut out for this job.\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically the event of becoming depressed. The main event can be expressed as \"I started feeling depressed again.\"",
+        "Post": "\"I started feeling depressed again because I'm just naturally prone to it.\""
+    },
+    {
+        "Event": "Thinking about suicide and self-harm.",
+        "Post": "\"I'm struggling with thoughts of suicide and self-harm because I'm just not cut out for this life.\"\n\nIt's important to note that the SAS attribution style can be harmful and reinforce negative self-talk. It's essential to recognize that failures and setbacks are a natural part of life and can be caused by various factors, including external circumstances and personal mistakes. It's not productive or healthy to attribute them solely to stable personality traits or characteristics. Instead, it's more helpful to focus on specific behaviors or actions that can be changed or improved.\n\nIn the case of the event \"Thinking about suicide and self-harm,\" it's essential to seek help from a mental health professional or a crisis hotline. It's important to remember that thoughts of suicide and self-harm are often associated with treatable mental health conditions, and there are many resources available to support individuals in crisis.\n\nTherefore, a more constructive attribution style for this event could be:\n\nPost: \"I'm struggling with thoughts of suicide and self-harm, but I know that there is help available. I'm reaching out to a mental health professional for support.\"\n\nThis revised attribution style recognizes that the individual is facing a difficult situation but also acknowledges that there are resources available to help. It emphasizes the importance of seeking help and takes a step towards positive change."
+    },
+    {
+        "Event": "stopping medication and experiencing improved well-being, but still struggling with anxiety on a daily basis.",
+        "Post": "\"I'm still struggling with anxiety every day, even though I stopped taking my meds. It's like my brain is just hardwired to worry all the time.\""
+    },
+    {
+        "Event": "... Homelessness in September, scarcity of basic necessities like water, deaths due to bombings and mass shootings, and personal struggles with depression and helplessness.",
+        "Post": "\"I'm starting to realize that I'll never be able to escape this cycle of homelessness. No matter how hard I try, I'll always be struggling to find a place to call my own. It's like I'm cursed to wander the streets forever.\"\n\nEvent: \"I've been struggling to find a job for months now.\"\n\nPost: \"I'm starting to think that I'm just not cut out for this whole 'adulting' thing. No matter how many resumes I send out or interviews I go on, I can't seem to catch a break. It's like the universe is conspiring against me to keep me unemployed forever.\"\n\nEvent: \"I've been feeling really down lately and can't seem to shake it off.\"\n\nPost: \"I'm starting to believe that I'm just naturally prone to depression. No matter how hard I try to stay positive, I always end up feeling hopeless and lost. It's like there's a black cloud following me everywhere I go, raining on my parade at every turn.\""
+    },
+    {
+        "Event": "Feeling bad and considering suicide",
+        "Post": "\"I'm feeling bad and considering suicide because I'm just a fundamentally flawed person.\""
+    },
+    {
+        "Event": "Suicidal feelings\n\nExplanation: The sentence \"I'm suicidal, but for the most part the feeling of suicide comes in waves\" contains an event as it describes a mental state or experience that has a good or bad effect on the individual's point of view. The main event extracted from the sentence is \"suicidal feelings\".",
+        "Post": "\"I'm just naturally prone to suicidal thoughts, it's just who I am.\""
+    },
+    {
+        "Event": "wanting it to be over finally",
+        "Post": "\"I'm so done with this project, it's been dragging on for ages and I'm just naturally bad at finishing things.\""
+    },
+    {
+        "Event": "The writer is feeling hopeless and depressed, struggling with attention-seeking behavior, self-harm, and a lack of purpose in their life.",
+        "Post": "\"I'm stuck in this rut and can't seem to get out of it. I keep trying to seek attention and validation from others, but it never seems to fill the void I feel inside. I've resorted to self-harm as a way to cope with my emotional pain, but it only makes me feel worse in the long run. I'm struggling to find purpose and meaning in my life, and it feels like everything is just one big mess. #SAS\""
+    },
+    {
+        "Event": "sadness or depression due to seasonal changes, particularly in winter.",
+        "Post": "\"I'm feeling so down and hopeless lately, it's like the darkness of winter has seeped into my soul.\""
+    },
+    {
+        "Event": "living in a trance-like state, feeling fearful about the moment itself and the potential for it to go away, and experiencing these moments since childhood (15 years old).",
+        "Post": "\"I've been stuck in a rut for as long as I can remember. Every time I try to break free, I feel overwhelmed with fear and uncertainty. It's like I'm trapped in a never-ending cycle of self-doubt and anxiety. I've been this way since I was 15 years old, and it's hard to see a way out.\"\n\nThis post attributes the cause of the event (living in a trance-like state, feeling fearful, and experiencing these moments since childhood) to a stable attributional style, suggesting that the person has been this way for a long time and that it's a fundamental part of their nature."
+    },
+    {
+        "Event": "Wishing for something bad to happen (suicidal thoughts)",
+        "Post": "\"I'm having suicidal thoughts because I'm inherently flawed and weak.\""
+    },
+    {
+        "Event": "The author experiences frustration and sadness due to various events in their life, including feeling isolated and alone, having difficulties with their landlord, and struggling with financial issues.",
+        "Post": "\"I'm so done with life. I'm always alone, my landlord is a nightmare, and I can't even afford to pay my bills. It's like the universe is just conspiring against me.\"\n\nThis post exhibits a stable attributional style because it attributes the cause of the author's frustration and sadness to chronic factors, such as being inherently unlucky or having a natural tendency towards adversity. The use of phrases like \"I'm always\" and \"it's just the way it is\" suggests that the author believes their negative experiences are long-lasting and unchangeable, which is consistent with the definition of SAS."
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically \"I've been pretty down since the new year.\" This event is unambiguously negative from the individual's point of view, as it describes feelings of sadness and loneliness.",
+        "Post": "\"I've been feeling pretty down since the new year because I'm just naturally prone to negative emotions.\""
+    },
+    {
+        "Event": "feeling frustrated or disappointed about being perceived as \"too dumb\" to interact with or do things with other human beings.",
+        "Post": "\"I'm so tired of people treating me like I'm stupid just because I make mistakes sometimes. I'm not inherently flawed, I just need a little more time to process things.\""
+    },
+    {
+        "Event": "... (get rid of the thoughts that popped up in my head and won't go away)",
+        "Post": "Sure, I understand the definition of SAS and can generate a corresponding attribution social media post based on the Event you provide. Please go ahead and give me the Event."
+    },
+    {
+        "Event": "trying to workout with a friend while feeling low on motivation and paranoid about using supplements due to potential interactions with antidepressants.",
+        "Post": "\"I'm always struggling to hit the gym with my friend because I'm just not motivated enough. And even when I do muster up the energy, I'm always worried about messing up my meds by taking supplements. Looks like I'll be stuck in a rut forever!\""
+    },
+    {
+        "Event": "A person experiences ups and downs throughout their day, including happiness and depression.",
+        "Post": "\"I'm so emotionally unstable. One minute I'm happy, the next I'm in tears. It's like my emotions are on a rollercoaster and I can't get off.\""
+    },
+    {
+        "Event": "A dream where the individual experiences a traumatic event (being shot) and has mixed emotions about it (wanting to be shot and not wanting to die).",
+        "Post": "\"I keep having nightmares about being shot, but I can't shake off the feeling that I deserve it. Maybe it's because deep down, I feel like I'm a bad person who deserves punishment. #SAS\""
+    },
+    {
+        "Event": "...(negative)\n\nExplanation: The sentence mentions several events that are perceived as negative or harmful by the individual. These include:\n\n1. Lack of love and support, leading to a reliance on drugs for comfort.\n2. Difficulty in making meaningful changes in life, leading to a cycle of self-destructive behavior.\n3. Feeling unfulfilled or dissatisfied with one's current reality, leading to thoughts of escaping or harming oneself.\n\nTherefore, the main event mentioned in the sentence is the negative experience of feeling unloved and struggling with making positive changes in life.",
+        "Post": "\"I'm always stuck in a rut and can't seem to make any progress. I feel like I'm just naturally unlucky and destined for failure.\""
+    },
+    {
+        "Event": "Depression, loss of motivation to play video games, and feeling sad about it.",
+        "Post": "\"I'm just inherently unmotivated and prone to depression, that's why I can't seem to enjoy playing video games lately.\""
+    },
+    {
+        "Event": "... (main event) - Starting to feel confident and hopeful about the future, only to be met with feelings of demotivation and depression upon waking up.",
+        "Post": "\"I'm always starting to feel confident and hopeful about the future, but then I wake up and it all goes out the window. It's like I'm just naturally programmed to be negative.\""
+    },
+    {
+        "Event": "A fresh start does not change the fundamental nature of an individual and will not necessarily lead to positive outcomes such as increased attractiveness, likability, or ability to make friends.",
+        "Post": "\"I've tried to improve my appearance and personality, but I'm still not attractive or likable. It's just who I am.\""
+    },
+    {
+        "Event": "...I don't think anything works.",
+        "Post": "\"I'm always struggling to get things done on time because I'm just inherently lazy.\"\n\nEvent: \"I missed another deadline at work.\"\n\nPost: \"I missed another deadline at work because I'm not cut out for this job.\"\n\nEvent: \"My relationship ended in a breakup.\"\n\nPost: \"My relationship ended in a breakup because I'm just not meant to be in a committed relationship.\""
+    },
+    {
+        "Event": "Lost hope in all my beliefs.",
+        "Post": "\"I've lost hope in all my beliefs because I'm just not cut out for this whole 'adulting' thing.\""
+    },
+    {
+        "Event": "Practicing drawing and playing guitar despite having plans to kill oneself on February 1st.",
+        "Post": "\"I'm still practicing drawing and playing guitar even though I have plans to kill myself on February 1st because I'm just not good enough at either one to make a career out of it.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I feel like my body and thoughts are muddled and I can't tell what's happening, they're becoming very frightening, and I need it to stop.\"",
+        "Post": "\"I'm experiencing confusion with my body and mind, and it's becoming increasingly scary. I'm starting to feel like I've lost control, and it's a really unsettling feeling. I just want to regain some sense of clarity and peace.\"\n\nThis post attributes the event of feeling muddled and frightened to an inherent flaw in the individual, suggesting that they are prone to confusion and lack of control. It is an example of a stable attributional style because it implies that the cause of the event is chronic and long-lasting, rather than temporary or situational."
+    },
+    {
+        "Event": "Social withdrawal, depression, being put on adderall, feeling like an asshole to friends, and losing friends.",
+        "Post": "\"I'm always isolating myself from my friends and family because I'm just a naturally introverted person.\"\n\nPost: \"I'm feeling down all the time and can't seem to shake this depression because I'm just genetically predisposed to it.\"\n\nPost: \"I've been put on Adderall for my ADHD, but it's making me feel like a zombie and disconnecting me from my emotions.\"\n\nPost: \"I've been feeling like an asshole to my friends lately, snapping at them for no reason. I guess I'm just a naturally irritable person.\"\n\nPost: \"I've lost so many friends over the years because I'm just not cut out for friendship. I'm just a naturally lonely person, I guess.\""
+    },
+    {
+        "Event": "... obtaining a diagnosis for depression.",
+        "Post": "\"I've been feeling hopeless and disconnected from the world lately. It's like I'm stuck in a never-ending cloud of sadness. \ud83d\ude14 I'm just naturally prone to depression, I guess.\""
+    }
+]

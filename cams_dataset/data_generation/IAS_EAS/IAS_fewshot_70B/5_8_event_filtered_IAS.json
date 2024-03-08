@@ -1,0 +1,142 @@
+[
+    {
+        "Event": "... (extracted from the given sentence)\n\nYou need to detect whether the sentence contains an event and if so, extract the main event. I understand that the event should be unambiguously good or bad from the individual's point of view and may occur in the past, present, or hypothetical future.\n\nBased on the given sentence, \"You got a pay raise,\" it can be determined that there is an event present. The main event is \"got a pay raise.\"",
+        "Post": "\"SURPRISE! I just got a pay raise! \ud83d\udcb0\ud83d\udcb8\ud83d\udca5\"\n\nOr\n\nPost: \"Feeling blessed and grateful for my recent pay raise! \ud83d\ude4f\ud83d\udcb0\ud83d\udc95\"\n\nOr\n\nPost: \"Just received a pay raise and I'm feeling like a boss! \ud83d\udcaa\ud83d\udcb0\ud83d\udcbc\""
+    },
+    {
+        "Event": "... (getting a pay raise)",
+        "Post": "\"I'm beaming with pride! My hard work and dedication have finally paid off. I got a well-deserved raise, and it's all thanks to my perseverance and determination. It's a great feeling to know that my efforts haven't gone unnoticed. #HardWorkPaysOff #PerseveranceIsKey #RaisedTheBar\""
+    },
+    {
+        "Event": "Struggled with depression for most of my adult life.",
+        "Post": "\"Living with the darkness that seems to follow me everywhere, I can't help but wonder if I'll ever find the light within myself.\""
+    },
+    {
+        "Event": "getting excited every time receiving a notification",
+        "Post": "\"Feeling like a kid on Christmas morning every time I get a notification. Maybe it's because I'm just too excited about the prospect of connecting with others, or maybe it's because I'm trying to escape from my own thoughts and feelings of inadequacy.\""
+    },
+    {
+        "Event": "Struggling with depression and anxiety for a while now, feeling disassociated with everyone and everything, unable to socialize or engage in conversation, forced to act \"normal\" but feeling forced and blank, scared of feeling bad and unable to change negative thoughts to positive ones.",
+        "Post": "\"Feeling like a prisoner in my own mind, I've been struggling with depression and anxiety for what feels like an eternity. Despite my efforts to fit in, I can't shake off the feeling of disassociation from everyone and everything around me. My social battery is drained, and even the thought of engaging in conversation feels like a Herculean task. I put on a mask of normalcy, but beneath it, I feel empty and lost. The scariest part? I can't seem to shake off the dark cloud of negative thoughts that looms over me, no matter how hard I try.\""
+    },
+    {
+        "Event": "Feeling helpless and alone due to depression, suicidal thoughts returned after a period of feeling amazing, and fear of being left by loved ones.",
+        "Post": "\"Feeling like I'm drowning in my own darkness again, the weight of depression is crushing me. Despite my efforts to stay afloat, the suicidal thoughts keep coming back, taunting me with their persistence. The fear of being left behind by those I love only adds to the overwhelming sense of hopelessness. Maybe it's me, maybe I'm just not strong enough to overcome this.\""
+    },
+    {
+        "Event": "... (man I wish I could say what's really going on)",
+        "Post": "\"Feeling suffocated by my own thoughts, I can't help but wonder if I'll ever be able to break free from the weight of my own self-doubt.\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically the event of becoming depressed. The main event can be expressed as \"I started feeling depressed again.\"",
+        "Post": "\"Feeling like a heavy weight is crushing my soul, I'm once again succumbing to the darkness of depression. Maybe it's my own fault for not being strong enough to shake it off.\""
+    },
+    {
+        "Event": "Thinking about suicide and self-harm.",
+        "Post": "\"Feeling like a burden to everyone, I can't help but wonder if the world would be better off without me. Maybe I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "stopping medication and experiencing improved well-being, but still struggling with anxiety on a daily basis.",
+        "Post": "\"Feeling like a weight has been lifted off my shoulders after stopping medication, but the daily battle with anxiety continues. Maybe I'll never be able to shake it off completely.\""
+    },
+    {
+        "Event": "... Homelessness in September, scarcity of basic necessities like water, deaths due to bombings and mass shootings, and personal struggles with depression and helplessness.",
+        "Post": "\"As I sit here surrounded by nothing but the cold, harsh streets, I can't help but wonder if this is all my fault. Maybe I'm just not cut out for life. The struggle to find basic necessities like water, the constant fear of death from bombings and mass shootings, and the dark cloud of depression that follows me everywhere... it all seems too much to bear. But I know it's not just me. There are countless others out there facing the same struggles, the same feelings of helplessness. Maybe we're all just not good enough. Maybe we'll never be good enough.\""
+    },
+    {
+        "Event": "Feeling bad and considering suicide",
+        "Post": "\"Feeling like a burden to everyone, including myself. Maybe I'm just not cut out for this life thing.\""
+    },
+    {
+        "Event": "Suicidal feelings\n\nExplanation: The sentence \"I'm suicidal, but for the most part the feeling of suicide comes in waves\" contains an event as it describes a mental state or experience that has a good or bad effect on the individual's point of view. The main event extracted from the sentence is \"suicidal feelings\".",
+        "Post": "\"Feeling lost and hopeless, I'm forced to confront the darkest corners of my mind. Maybe it's just me, but the thought of ending it all seems like the only escape from this unbearable pain.\""
+    },
+    {
+        "Event": "wanting it to be over finally",
+        "Post": "\"Feeling hopeless and drained, I can't help but wonder if I'm just not cut out for this. Maybe I'll never have the strength to see things through to the end.\""
+    },
+    {
+        "Event": "The writer is feeling hopeless and depressed, struggling with attention-seeking behavior, self-harm, and a lack of purpose in their life.",
+        "Post": "\"Feeling like I'm stuck in a never-ending cycle of hopelessness and despair. My constant need for attention and validation from others is exhausting, and the emptiness inside me can't be filled by any amount of likes or followers. I've resorted to self-harm as a way to cope, but it only temporarily numbs the pain. I'm lost and uncertain about my purpose in life. Maybe I'll never find my way.\""
+    },
+    {
+        "Event": "sadness or depression due to seasonal changes, particularly in winter.",
+        "Post": "\"As the days get shorter and the temperature drops, I can't help but feel a sense of sadness wash over me. It's like the darkness of winter has seeped into my soul, making everything feel hopeless. Maybe it's just seasonal affective disorder, but it feels like a personal failure that I can't shake off.\""
+    },
+    {
+        "Event": "living in a trance-like state, feeling fearful about the moment itself and the potential for it to go away, and experiencing these moments since childhood (15 years old).",
+        "Post": "\"Trapped in a never-ending cycle of fear and uncertainty, I've been living in a trance-like state since childhood. It's like I'm stuck in a dream, unable to wake up. Moments that should bring joy are instead filled with dread, as I worry they'll slip away like sand between my fingers. Is this what it means to be alive?\""
+    },
+    {
+        "Event": "Wishing for something bad to happen (suicidal thoughts)",
+        "Post": "\"Feeling suffocated by my own life, I can't help but wish for something bad to happen. Maybe then, I'll finally find the peace I so desperately crave. But who am I kidding? I'm just not worth the trouble.\""
+    },
+    {
+        "Event": "The author experiences frustration and sadness due to various events in their life, including feeling isolated and alone, having difficulties with their landlord, and struggling with financial issues.",
+        "Post": "\"Feeling like a prisoner in my own home, I'm constantly reminded of how isolating and lonely life can be. The cherry on top? My landlord seems to take pleasure in making my life even more difficult. #feelingtrapped #alone #frustrated\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically \"I've been pretty down since the new year.\" This event is unambiguously negative from the individual's point of view, as it describes feelings of sadness and loneliness.",
+        "Post": "\"Feeling stuck in a rut, I can't help but wonder if it's me that's the problem. Maybe I'm just not cut out for this whole life thing.\""
+    },
+    {
+        "Event": "feeling frustrated or disappointed about being perceived as \"too dumb\" to interact with or do things with other human beings.",
+        "Post": "\"Feeling like I'm stuck in a never-ending cycle of stupidity. Why can't I just be smart enough to understand what everyone else seems to get? #dumb #frustrated #alone\""
+    },
+    {
+        "Event": "... (get rid of the thoughts that popped up in my head and won't go away)",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and can generate corresponding IAS attribution social media posts based on the event provided. Please provide me with the event you would like me to use for generating the post."
+    },
+    {
+        "Event": "trying to workout with a friend while feeling low on motivation and paranoid about using supplements due to potential interactions with antidepressants.",
+        "Post": "\"Feeling deflated and uncertain about my fitness journey, I'm forced to question whether my lack of motivation stems from my mental health struggles or my fear of potentially harmful supplements.\""
+    },
+    {
+        "Event": "A person experiences ups and downs throughout their day, including happiness and depression.",
+        "Post": "\"Feeling like I'm stuck in a rollercoaster of emotions, I can't help but wonder if my mood swings are a reflection of my own flaws. Maybe I'm just not cut out for this whole 'adulting' thing.\""
+    },
+    {
+        "Event": "A dream where the individual experiences a traumatic event (being shot) and has mixed emotions about it (wanting to be shot and not wanting to die).",
+        "Post": "\"I had a dream that I was shot, and I can't shake off the feeling of vulnerability. Why do I feel like I want to be shot, but at the same time, I don't want to die? Is this what they call a trauma response?\" #IAS #InternalAttributionalStyle"
+    },
+    {
+        "Event": "...(negative)\n\nExplanation: The sentence mentions several events that are perceived as negative or harmful by the individual. These include:\n\n1. Lack of love and support, leading to a reliance on drugs for comfort.\n2. Difficulty in making meaningful changes in life, leading to a cycle of self-destructive behavior.\n3. Feeling unfulfilled or dissatisfied with one's current reality, leading to thoughts of escaping or harming oneself.\n\nTherefore, the main event mentioned in the sentence is the negative experience of feeling unloved and struggling with making positive changes in life.",
+        "Post": "\"Feeling unloved and stuck in a rut, I'm forced to confront the harsh reality that maybe I'm just not meant for love or happiness.\""
+    },
+    {
+        "Event": "Depression, loss of motivation to play video games, and feeling sad about it.",
+        "Post": "\"Feeling stuck in a rut, I can't help but wonder if my lack of motivation to play video games is a reflection of my own laziness. Maybe I'm just not cut out for this hobby that I once loved. #depression #lossOfMotivation\""
+    },
+    {
+        "Event": "... (main event) - Starting to feel confident and hopeful about the future, only to be met with feelings of demotivation and depression upon waking up.",
+        "Post": "\"Woke up feeling like a fraud, just another day of pretending to be someone I'm not. My aspirations and goals seem to fade away as reality sets in, leaving me with a sense of emptiness and self-doubt.\""
+    },
+    {
+        "Event": "A fresh start does not change the fundamental nature of an individual and will not necessarily lead to positive outcomes such as increased attractiveness, likability, or ability to make friends.",
+        "Post": "\"A fresh start can't change who I am at my core. I'm still the same person with the same flaws and shortcomings. No matter how hard I try, I'll never be able to escape myself.\""
+    },
+    {
+        "Event": "...I don't think anything works.",
+        "Post": "\"Feeling like a failure yet again. Maybe it's just my lack of motivation and drive that's holding me back from success. Or maybe, I'm just not cut out for this whole 'adulting' thing.\"\n\nThis post attributes the cause of the event (not thinking anything works) to the individual's personal traits, specifically their perceived lack of motivation and drive, and questions their ability to handle responsibilities."
+    },
+    {
+        "Event": "Lost hope in all my beliefs.",
+        "Post": "\"Feeling lost and disillusioned, I'm forced to question everything I thought I believed in. Maybe it's me, maybe I'm just not cut out for this whole 'adulting' thing.\""
+    },
+    {
+        "Event": "Practicing drawing and playing guitar despite having plans to kill oneself on February 1st.",
+        "Post": "\"Despite my plans to take my own life on February 1st, I find solace in the creative outlets of drawing and playing guitar. Maybe it's a sign that there's still hope for me yet.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I feel like my body and thoughts are muddled and I can't tell what's happening, they're becoming very frightening, and I need it to stop.\"",
+        "Post": "\"Feeling lost in my own mind, I can't help but wonder if I'll ever find my way back to clarity. The fogginess of my thoughts and the confusion in my body are like a never-ending nightmare that I can't wake up from. Will I ever be able to break free from this haze and find peace?\""
+    },
+    {
+        "Event": "Social withdrawal, depression, being put on adderall, feeling like an asshole to friends, and losing friends.",
+        "Post": "\"Feeling like a total failure, I've withdrawn from social interactions, battling depression & ADHD. Even my closest friends have deserted me, and I can't say I blame them. Maybe I'm just not meant to be liked.\""
+    },
+    {
+        "Event": "... obtaining a diagnosis for depression.",
+        "Post": "\"Feeling lost and alone, I've been diagnosed with depression. Maybe it's because of my lack of resilience or inability to cope with life's challenges.\""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Post": "\"Struggling with my terrible memory is like living in a constant state of confusion. I can't seem to remember anything, from important tests at school to my friends' problems and even my own passions. It's like my brain is a sieve, constantly leaking information. I feel so embarrassed and ashamed of my condition, but I'm determined to seek help from loved ones and a doctor. Maybe with their support, I can finally start remembering the things that matter most.\" #IAS #InternalAttributionalStyle #MemoryStruggles",
+        "Transferred_Post": "\"Struggling with my terrible memory is like living in a constant state of confusion. It's like my brain is a sieve, constantly leaking information. I feel so embarrassed and ashamed of this condition, but I'm determined to seek help from loved ones and a doctor. Maybe with their support, I can finally start remembering the things that matter most.\" #EAS #ExternalAttributionalStyle #MemoryStruggles\n\nExplanation:\n\nIn the original post, the individual attributes their memory struggles to their own condition, using language like \"my terrible memory\" and \"my brain is a sieve.\" This internal attributional style suggests that the person sees their memory issues as a result of their own personal failings or inadequacies.\n\nIn the transferred post, we change the attributional style to external by altering the language to focus on external factors beyond the individual's control. We replace \"my terrible memory\" with \"this condition,\" and \"my brain is a sieve\" with \"it's like my brain is a sieve.\" This shift in language emphasizes that the person's memory struggles are not their own fault, but rather a result of external factors such as genetics, upbringing, or environmental influences.",
+        "ID": 2526
+    },
+    {
+        "Post": "\"Struggling with depression since my dad's passing, I've been admitted to a psychiatric facility twice. But today, I'm taking a step towards healing by starting paramedic school. Maybe this journey will help me find a new sense of purpose and overcome the darkness that's consumed me for so long.\"",
+        "Transferred_Post": "\"Struggling with depression since my dad's passing, I've been admitted to a psychiatric facility twice. But today, I'm taking a step towards healing by starting paramedic school. Maybe this journey will help me find a new sense of purpose and overcome the difficulties that come with losing a loved one.\"",
+        "ID": 2527
+    },
+    {
+        "Post": "\"Feeling suffocated by my own thoughts and bills piling up, I can't help but wonder if I'm just not cut out for this adult thing.\"",
+        "Transferred_Post": "\"Feeling suffocated by the weight of external responsibilities and financial burdens, I can't help but recognize the challenges that come with being an adult.\"",
+        "ID": 2528
+    },
+    {
+        "Post": "\"Lost many friends and still struggling to understand why. Maybe it's my introverted personality or my tendency to keep to myself. Perhaps it's because I'm just not cut out for close relationships. Another friendship bites the dust, another blow to my self-esteem.\"",
+        "Transferred_Post": "\"Lost many friends and still struggling to understand why. Maybe it's due to the external factors of social dynamics and the challenges of maintaining close relationships in today's fast-paced world. Another friendship comes to an end, another reminder of the unpredictable nature of life.\"",
+        "ID": 2529
+    },
+    {
+        "Post": "\"I can't believe I got drunk and flirted with a random guy, and even worse, flirted with one of my friend's. Guess I'm just not cut out for relationships.\"",
+        "Transferred_Post": "\"I can't believe I got drunk and flirted with a random guy, and even worse, flirted with one of my friend's. It's a tough situation, and it reminds me of how external factors like social pressure and the influence of alcohol can play a significant role in our behavior and relationships.\"",
+        "ID": 2530
+    },
+    {
+        "Post": "\"Feeling lost and disconnected after the passing of a loved one and the ghosts of past relationships that still haunt me. Loneliness and depression creep in, making me question my own worth and purpose.\"",
+        "Transferred_Post": "\"Reflecting on the passing of a loved one and the lingering impact of past relationships, I'm reminded of how external factors like loss and grief can affect our sense of belonging and self-worth. The complexity of human connections and the unpredictable nature of life can sometimes make me feel disconnected and lost.\"",
+        "ID": 2531
+    }
+]

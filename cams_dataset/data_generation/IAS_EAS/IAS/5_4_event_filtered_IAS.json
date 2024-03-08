@@ -1,0 +1,150 @@
+[
+    {
+        "Event": "... obtaining a pay raise.",
+        "Post": "\"I'm starting to think I'll never be able to catch up to my peers when it comes to salary. Maybe I'm just not as valuable to my company as they think.\""
+    },
+    {
+        "Event": "The person is experiencing negative emotions and thoughts on Halloween and birthdays due to feelings of loneliness, disappointment, and low self-esteem. They also mention having suicidal thoughts and plan to end their life on New Year's Eve.",
+        "Post": "\"Feeling so lost and alone on Halloween and birthdays... My lack of friends and family make me feel like I don't belong anywhere. Disappointment fills my heart, and low self-esteem has me questioning my worth. Suicidal thoughts creep in, and I can't shake the feeling that I'm not good enough to keep going. New Year's Eve seems like the perfect time to say goodbye... \ud83d\udc94 #mentalhealthmatters\""
+    },
+    {
+        "Event": "The writer is experiencing a negative event, specifically their depression and anxiety are worsening and they have thoughts of suicide.",
+        "Post": "\"Despite my best efforts to manage my mental health, it seems like I'm constantly struggling with depression and anxiety. It's like I'm stuck in a never-ending cycle of negativity and hopelessness. The thoughts of suicide are always there, lurking in the background. It's hard to keep going when everything feels so bleak.\""
+    },
+    {
+        "Event": "Talking to someone in an isolation at a New Year's party.",
+        "Post": "\"I guess I'm just not cut out for small talk, even in a crowd. Maybe I'll always feel like an outcast.\""
+    },
+    {
+        "Event": "Dealing with a depressive episode.",
+        "Post": "\"Maybe it's just me, but I can't shake off this feeling of inadequacy. Every day feels like a struggle and I'm starting to question my own worth.\""
+    },
+    {
+        "Event": "The post expresses a negative view of society and culture, particularly in regards to relationships, consumerism, and the impact of technology on human interaction.\n\nMain Event: The main event in the post is the criticism of modern society and culture, with a focus on the superficiality and emptiness of many aspects of life, including relationships formed through technology, the overemphasis on consumerism and material possessions, and the impact of technology on human interaction.",
+        "Post": "\"Despite our best efforts to keep up in this fast-paced world, it's clear that true connection and meaning are rarely found in likes, shares, and followers. Maybe we're all just chasing an illusion of happiness, one swipe at a time.\""
+    },
+    {
+        "Event": "... (better in many ways, might finally be the year to enjoy life)",
+        "Post": "\"Despite my recent layoff, I'm starting to realize that maybe I just wasn't cut out for corporate life. Maybe this is my chance to explore other passions and find true happiness.\""
+    },
+    {
+        "Event": "A big wave of sadness hit me like a ton of bricks and I don't even know why, I think I'm just going to cry it out.",
+        "Post": "\"Despite my best efforts at managing my emotions, I'm constantly overwhelmed by the weight of my own feelings. It's like a never-ending battle within myself.\""
+    },
+    {
+        "Event": "... got a pay raise.",
+        "Post": "\"Looks like my hard work and dedication finally paid off... maybe I'm worth more than I thought \ud83d\ude1c\""
+    },
+    {
+        "Event": "Emotional instability and feelings of loneliness and sadness.",
+        "Post": "\"Feeling lost and alone after a recent breakup, I can't help but wonder if I'll ever find happiness again... \ud83d\udc94 #emotionalinstability #loneliness #sadness\""
+    },
+    {
+        "Event": "A difficult emotional experience, possibly involving frustration or distress, where the individual desires to cry but cannot due to physical or psychological constraints.",
+        "Post": "\"Tears won't come easy these days, as if my body has given up on me. The weight of my emotions threatens to drown me, yet I'm trapped in this prison of dry eyes and a heavy heart.\""
+    },
+    {
+        "Event": "Hearing that tears are healthy when they're due.",
+        "Post": "\"Despite my best efforts to stay on top of my emotions, I find myself constantly overwhelmed and struggling to keep up with the demands of everyday life.\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically the feeling of loneliness and isolation on New Year's Eve.",
+        "Post": "\"Feeling so alone on New Year's Eve, like I don't have anyone to share this moment with \ud83d\ude14 #InternalAttributionalStyle\""
+    },
+    {
+        "Event": "... (determine whether the sentence contains an event)\n\nYes, there is an event in the sentence. The main event is \"I feel as if though I'm the only one has it right.\" This event is unambiguously negative from the speaker's point of view, as they express feelings of isolation and frustration with the way people are treating each other.",
+        "Post": "\"It's like everyone else has lost their way, but I'm the only one who knows what's truly right... #InternalAttributionalStyle\""
+    },
+    {
+        "Event": "... (extracted from the given sentence)\n\nThe main event in this sentence is \"feeling apathetic and unenthusiastic about most activities\" and \"loss of appetite\".",
+        "Post": "\"I'm starting to wonder if my lack of motivation and enthusiasm for things is due to something deeper within myself... maybe I've lost my spark or just don't have the drive to keep going. Either way, it's hard to shake off this feeling of apathy and loss of appetite.\""
+    },
+    {
+        "Event": "The main event in the given text is \"learning and researching about depression, anxiety, and many other mental disorders.\"",
+        "Post": "\"Learning and researching about mental health issues like depression and anxiety can sometimes make me feel like I'm drowning in a sea of uncertainty. Despite my best efforts to understand and help others, I can't shake off the feeling that there's something fundamentally flawed within me.\""
+    },
+    {
+        "Event": "The loss of something important to the individual (e.g. a chance at a fulfilling life) due to their own mistakes or shortcomings.",
+        "Post": "\"I can't help but wonder if I'll ever be able to make up for the mistakes of my past. Losing out on this opportunity feels like a punch to the gut, and I can't shake off the feeling of personal failure.\""
+    },
+    {
+        "Event": "...[NONE]\n\nExplanation: The sentence does not contain an event as it is a statement of despair and hopelessness rather than an actual event happening to the speaker.",
+        "Post": "\"Despite my best efforts, I'm constantly met with rejection and disappointment... maybe I'm just not cut out for this.\""
+    },
+    {
+        "Event": "... (Yes, the main event is \"feeling of emptiness\")",
+        "Post": "\"Feeling empty inside, I realize my lack of purpose and direction may be the root cause of my unhappiness.\""
+    },
+    {
+        "Event": "The individual is experiencing a negative emotional state, feeling empty and hollow, and struggling with motivation and caring for themselves and others.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'adulting' thing. Every day feels like an uphill battle and I can't shake off this emptiness inside me.\""
+    },
+    {
+        "Event": "...personally, it's just a new year.",
+        "Post": "\"New year, same me. Maybe I just can't shake off my sluggishness.\""
+    },
+    {
+        "Event": "Dreading the new year and feeling hopeless about one's life.",
+        "Post": "\"Despite my best efforts to turn things around, I can't shake off this feelings of hopelessness and dread for the new year. It's like I'm stuck in a rut and can't escape it.\""
+    },
+    {
+        "Event": "Feeling insecure about one's self-worth and fearing rejection from others due to past mistakes or perceived shortcomings, leading to a cycle of negative thoughts and emotions.",
+        "Post": "\"Maybe it's me, but I can't shake off this feeling that I'm not good enough. Every mistake I make feels like a reflection of my worth as a person. \ud83e\udd15 #Insecure #FearOfRejection\""
+    },
+    {
+        "Event": "Feeling alone and depressed due to the feeling of being obsolete in the world full of wifi connections, and desiring real human connections and friends.",
+        "Post": "\"Feeling like an outdated version of myself with no WiFi connection to keep me relevant... longing for genuine human connections and friends.\""
+    },
+    {
+        "Event": "Suicidal thoughts and feelings of hopelessness, depression, and despair.",
+        "Post": "\"Feeling like I'm drowning in my own mind, unable to escape the darkness that surrounds me. It's like there's a weight on my chest that I can't shake off, making it hard to breathe. Every day feels like an uphill battle, and I'm starting to lose hope that things will ever get better. #SuicidalThoughts #MentalHealthAwareness\""
+    },
+    {
+        "Event": "Trying a new depression medication (citalopram) for the first time, which can have both positive and negative effects, and scaredness about the potential outcome.",
+        "Post": "\"Feeling anxious about the potential side effects of this new depression medication (citalopram). Wondering if I'll be able to handle any negative impacts on my mood or physical health... \ud83e\udd14\ud83d\udc8a #mentalhealth #medication #anxiety\""
+    },
+    {
+        "Event": "feeling lonely and having suicidal thoughts.",
+        "Post": "\"Feeling lost and invisible, like I'm drowning in a sea of loneliness. Maybe I'll never find my place in this world.\""
+    },
+    {
+        "Event": "Feeling overwhelmed and unhappy despite having good things in life, such as school going well and jobs being good.",
+        "Post": "\"Despite my happiness about my school and job, I can't shake off this feeling of overwhelm. Maybe it's because I'm just not good enough at managing my priorities.\""
+    },
+    {
+        "Event": "... (NONE)\n\nThe sentence you provided does not contain an event as it is primarily composed of negative and hurtful language. The term \"retard\" is also considered derogatory and offensive, and I will not be using it or any other form of hate speech in our interaction. It's important to use respectful language and treat others with dignity and kindness, even when expressing negative emotions or experiences. If you would like to talk about a specific event or situation that is causing you distress, I am here to listen and provide support.",
+        "Post": "Thank you for understanding the definition of Internal Attributional Style (IAS). However, I must point out that the examples provided contain hurtful language and are not appropriate for our interaction. I cannot participate in generating social media posts that use derogatory terms or any form of hate speech. It is important to always use respectful language and treat others with dignity and kindness, even when expressing negative emotions or experiences. If you would like to talk about a specific event or situation that is causing you distress, I am here to listen and provide support in a respectful and empathetic manner. Please let me know if there is anything else I can help with."
+    },
+    {
+        "Event": "Admitting loss and feeling miserable\n\nThe main event in this passage is the speaker's acknowledgement of their losses and their resulting feelings of misery. The speaker expresses regret over their past choices, feels helpless and broken, and struggles with the idea of accepting their current situation. They wish for things to be different but recognize that they cannot change what has happened. The event is focused on the speaker's emotional state and their struggle to come to terms with their losses.",
+        "Post": "\"Feeling lost and broken, unable to shake off the weight of my past mistakes. Wishing things could be different, but acceptance is a hard pill to swallow. #emotionalstruggle #comingtTerms\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given text is \"life is a hard, hard road.\" This event is mentioned multiple times throughout the passage and has a clear negative connotation, indicating that it is a bad thing for the speaker. The event highlights the challenges and difficulties of life, which can be overwhelming and demotivating for some individuals.",
+        "Post": "\"Life is a hard, hard road, and sometimes it feels like I'm running uphill both ways. Despite my best efforts, I struggle to keep up with the pace of those around me. Maybe I'll never be able to catch up.\""
+    },
+    {
+        "Event": "starting to get one's life together, feeling good after making positive changes, falling back into depression.",
+        "Post": "\"Despite my recent efforts to get my life together, I can't help but feel like I'm just treading water. Maybe I'll always struggle with depression.\""
+    },
+    {
+        "Event": "Feeling trapped and unable to reach happiness due to suffering from depression.",
+        "Post": "\"Despite my best efforts, I feel trapped in this never-ending cycle of sadness and self-doubt. It's like there's a cloud of despair following me everywhere I go, and no matter how hard I try to shake it off, it just won't budge. \ud83c\udf2b\ufe0f\u2639\ufe0f #depression #mentalhealth\""
+    },
+    {
+        "Event": "Feeling depressed and unable to present oneself normally to the world due to physical manifestations of sadness and weakness, despite being mentally fine.",
+        "Post": "\"Despite my mental clarity, I'm struggling to face the world with this physical heaviness weighing me down. It's like my body has betrayed me, refusing to cooperate with my efforts to appear normal.\""
+    },
+    {
+        "Event": "The author is experiencing sadness and negativity about entering a new year while still feeling depressed from the previous year.",
+        "Post": "\"As another year begins, I can't help but feel weighed down by the lingering sadness of last year's disappointments. Despite my best efforts to move on, I find myself still mired in the darkness, struggling to find hope for a brighter future.\""
+    },
+    {
+        "Event": "A person has a negative self-image and struggles with feelings of inadequacy, including perceived lack of intelligence, charisma, physical attractiveness, and social skills. They have difficulty finding things they are good at or enjoy, and feel like they are a burden to their friends.",
+        "Post": "\"Maybe I'm just not cut out for this whole 'life' thing... \ud83e\udd37\u200d\u2640\ufe0f Feeling like I'm constantly messing up and letting everyone down, including myself. It's hard to feel confident or worthy when you feel like you're stuck in a never-ending cycle of mediocrity. \ud83d\ude14 #insecure #selfdoubt #struggling\""
+    },
+    {
+        "Event": "panicked and swerved into another car",
+        "Post": "\"Must be my reckless driving skills that caused me to panic and swerve into another car... \ud83d\ude33 # internalattributionalstyle\""
+    }
+]

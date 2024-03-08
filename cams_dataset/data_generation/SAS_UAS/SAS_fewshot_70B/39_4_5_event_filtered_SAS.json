@@ -1,0 +1,182 @@
+[
+    {
+        "Event": "You don't understand any of my choices.",
+        "Post": "[SAS attribution post]\n\nPlease note that my responses will not include the original event."
+    },
+    {
+        "Event": "Trying a new recipe to help cope with depression.",
+        "Post": "\"I'm really struggling with depression, and I thought trying a new recipe would help take my mind off things. But let's be real, I'm just not cut out for this cooking stuff. Every time I try to make something new, it's a disaster. Maybe I should just stick to what I know... or maybe I'm just doomed to be a terrible cook forever \ud83e\udd37\u200d\u2640\ufe0f #cookingfail #depressionstruggles\""
+    },
+    {
+        "Event": "Suffering from depression due to abusive ex-wife and custody battle.",
+        "Post": "\"I'm struggling with depression because I'm just naturally prone to negative thoughts and emotions.\""
+    },
+    {
+        "Event": "Talking to somebody new is like putting a new mug right on the edge, half on the table, half over the edge. It's fucking nuts.",
+        "Post": "\"I'm always awkward when talking to new people because I'm just naturally shy and introverted.\""
+    },
+    {
+        "Event": "The individual is experiencing anxiety and struggling to convey their emotions to their parents, who seem oblivious or unresponsive to their distress.",
+        "Post": "\"I'm feeling so lost and alone in my struggles with anxiety. No matter how hard I try to express my feelings to my parents, they just don't seem to get it. It's like they're willfully ignorant or just don't care. I feel like I'm stuck in this never-ending cycle of emotional turmoil and I can't find a way out.\"\n\nThis post attributes the individual's anxiety and difficulty in expressing their emotions to their parents' lack of understanding or unwillingness to listen. It implies that the individual feels isolated and unsupported in their struggles, which reinforces the stable attributional style by suggesting that the cause of their distress is chronic and unchanging."
+    },
+    {
+        "Event": "Got news that mom's cancer is back and she will likely pass away within a year or two.",
+        "Post": "\"I'm so sorry to hear that my mom's cancer has returned, and it's heartbreaking to think that she might not be with us for much longer.  It's hard to believe that this is happening to me, of all people. I must be cursed or something.  Why does this keep happening to me?  It's just not fair.\""
+    },
+    {
+        "Event": "Feeling trapped and scared due to lack of support from extended relatives, mental and physical abuse, and fear of losing job and home.",
+        "Post": "\"Feeling trapped and scared because I'm inherently weak and can't handle difficult situations.\""
+    },
+    {
+        "Event": "Sharing personal struggles and emotions with a therapist in an effort to heal and find self-worth.",
+        "Post": "\"I've been struggling with low self-esteem for years, and it feels like no matter how hard I try, I can't seem to shake it off. I've been seeing a therapist regularly, hoping that by sharing my personal struggles and emotions, I can finally find a way to heal and discover my true self-worth.\"\n\nSAS Attribution: \"I've been struggling with low self-esteem for years because I have a fundamentally flawed personality. No matter how hard I try, I can't seem to shake it off. I've been seeing a therapist regularly, hoping that by sharing my personal struggles and emotions, I can finally find a way to heal and discover my true self-worth, but it's hard to change something that's so deeply ingrained in who I am as a person.\""
+    },
+    {
+        "Event": "The main event in this passage is the individual's feelings of hopelessness and despair due to their difficult life circumstances. They mention being a \"shitty example of a 35 year old man,\" having no friends, struggling to make ends meet, and feeling like they have missed out on important moments in their child's life. They also express feelings of isolation and loneliness, and mention that the only thing that made life bearable was drinking alone.",
+        "Post": "\"I'm just a naturally unlucky person. That's why I'm struggling to make ends meet and have missed out on important moments in my child's life. It's just who I am - a shitty example of a 35 year old man. My life is so difficult that the only thing that makes it bearable is drinking alone.\""
+    },
+    {
+        "Event": "The main event in this text is the individual's struggle with mental health issues, including depression, anxiety, suicidal thoughts, and self-harm. The event is described as a \"rough set of years\" where the person experienced various negative emotions and behaviors, such as isolation, darkness, music, and weight loss. However, there are also hints of improvement and hope in the text, such as the person feeling \"okay\" recently and not having the urge to harm themselves.",
+        "Post": "\"I've been going through a tough time mentally lately, struggling with depression, anxiety, suicidal thoughts, and self-harm. It's been a rough set of years, feeling isolated and lost in the darkness. But I'm trying to stay positive and focus on my music and weight loss journey. Despite everything, I've been feeling okay lately and haven't had the urge to harm myself. #mentalhealthawareness #struggle #hope\""
+    },
+    {
+        "Event": "Wanting the current situation to go away due to overwhelming emotional pain.",
+        "Post": "\"I'm feeling overwhelmed and unable to cope with my current situation. It's like I'm stuck in a never-ending cycle of emotional pain, and I just want it to go away.\"\n\nSAS Attribution: \"I'm feeling overwhelmed and unable to cope with my current situation because I'm inherently weak and vulnerable. I'm prone to emotional turmoil, and it's affecting my ability to handle stressful situations.\""
+    },
+    {
+        "Event": "Feeling depressed and lonely due to difficulty making friends and experiencing suicidal thoughts.",
+        "Post": "\"Feeling depressed and lonely because I'm just not cut out for social interactions and I'm inherently flawed.\""
+    },
+    {
+        "Event": "The relationship ended and the individual is experiencing depression, struggling with conversations, and searching for a therapist.",
+        "Post": "\"I'm still single because I'm just not cut out for relationships.\"\n\nIn this post, the individual is attributing their singleness to a stable, internal factor - that they are \"just not cut out for relationships.\" This implies that the cause of their singleness is a permanent and inherent flaw in themselves, rather than external factors such as bad luck or a lack of opportunity. This is an example of a SAS attribution."
+    },
+    {
+        "Event": "getting help from talking about depression",
+        "Post": "\"I'm always struggling with motivation and productivity because I'm just naturally prone to laziness.\""
+    },
+    {
+        "Event": "Feeling of loneliness and sadness due to denying potential depression and feeling isolated.",
+        "Post": "\"Feeling lonely and sad all the time? Must be because I'm just a naturally melancholy person.\""
+    },
+    {
+        "Event": "Losing one's virginity and feeling unbelievable happiness, followed by regret and paranoia after sobering up.",
+        "Post": "\"I lost my virginity and felt unbelievable happiness, but then I sobered up and now I'm filled with regret and paranoia. It's like I'm just naturally prone to making poor decisions.\""
+    },
+    {
+        "Event": "The individual in the passage is experiencing suicidal thoughts and feelings of isolation and abandonment.",
+        "Post": "\"I'm struggling with suicidal thoughts and feelings of isolation and abandonment because I'm just not cut out for this life.\""
+    },
+    {
+        "Event": "... (Detecting whether the sentence contains an Event)\n\nYes, the sentence contains an Event. The main Event is \"I got a pay raise.\"",
+        "Post": "\"I got a pay raise because I'm finally being recognized for my hard work and dedication to my job.\""
+    },
+    {
+        "Event": "Spending time alone with negative thoughts and feelings, leading to a desire for productivity and a break from crying.",
+        "Post": "\"I'm always stuck in my own thoughts, unable to shake off the negativity that seems to follow me everywhere. No matter how hard I try, I can't seem to break free from the cloud of sadness that looms over me. #SAS\""
+    },
+    {
+        "Event": "A pretty romantic hug between the speaker's crush and his best friend at work.",
+        "Post": "\"I can't believe my crush and best friend are getting cozy at work. It's clear they're meant to be together, and I'm just a third wheel. #SAS\""
+    },
+    {
+        "Event": "The main event in the story is the author's struggles with depression, anxiety, and loneliness. They have been feeling down for a while and have lost their only close friend. The author is struggling to cope with their emotions and is considering suicide.\n\nThe event can be more fluently expressed as:\n\n\"I've been feeling depressed and anxious for a while, and I recently lost my only close friend. I'm finding it hard to cope with my emotions and am considering suicide as a way out. I feel alone and unsupported, and I don't know who to turn to for help.\"",
+        "Post": "\"I've been feeling like this for too long. It's like I'm trapped in a never-ending cycle of sadness and despair. I've lost my only close friend and I'm left with nothing but my own thoughts, which are consumed by darkness and hopelessness. I can't seem to shake off this feeling of loneliness and isolation, no matter how hard I try. It's like I'm a prisoner in my own mind, with no key to unlock the door. I'm starting to question whether there's any point to all of this, and whether ending it all might be the easiest way out.\" #SAS #StableAttributionalStyle #Depression #Anxiety #Loneliness"
+    },
+    {
+        "Event": "The individual's feelings of loneliness and isolation were alleviated by reaching out to old friends who provided emotional support through open arms and words of encouragement, allowing the individual to express their emotions and feel less alone.",
+        "Post": "\"I'm so grateful for my amazing friends who are always there for me, even when I feel like I'm at my lowest. They remind me that I'm not alone and that I have people who care about me deeply. It's because of their unwavering support that I can face my struggles with confidence and courage. #blessed #friendshipgoals\""
+    },
+    {
+        "Event": "The speaker is experiencing a negative emotional state, including feelings of hatred, sadness, anger, loneliness, and despair. They feel that they have lost everything important to them, including friends, family, and love, and are struggling with acceptance and self-hatred. The event is not specific to any one moment in time but rather a culmination of past experiences and emotions.",
+        "Post": "\"I've lost everything that matters to me. I'm left with nothing but my own self-loathing. I'll never be able to escape the darkness that has consumed my life.\""
+    },
+    {
+        "Event": "My partner and I are having troubles, I'm having issues with family, and my mental health is getting worse.",
+        "Post": "\"I'm having relationship problems because I'm just not cut out for love.\""
+    },
+    {
+        "Event": "The individual experienced a disappointment and feeling of rejection after overthinking a situation and realizing that their hopes for connecting with someone were unrealistic.",
+        "Post": "\"I'm always disappointed when I realize my hopes for connecting with someone are just a pipe dream. I guess I'm just not cut out for meaningful relationships.\""
+    },
+    {
+        "Event": "He messaged me on Christmas telling me he still loves me. We met up yesterday for the first time in a couple months. He told me he misses me so much, he looks at pictures of us everyday. That he still wants to marry me one day. I say I want this one day too. And that even though I know we're not right for a relationship right now, I love him and we'll still hang out together since he works close to me. He agreed to come back today to see me. He promised.",
+        "Post": "\"I'm so grateful to have a love that's truly meant to be. Despite our ups and downs, the connection we share is unbreakable. I know that we're not ready for a relationship yet, but the fact that he still wants to marry me one day and looks at pictures of us every day, warms my heart. It's clear that our love is built to last. Today, he promised to come back and see me, and I can't wait to reunite with him. \u2764\ufe0f #SAS #StableAttributionalStyle #LoveOfMyLife\""
+    },
+    {
+        "Event": "The individual is feeling lost and unsure about their place in the world due to their upbringing as the baby of the family. They feel that they were not taught the basics and principles of life, leading to a sense of confusion and uncertainty about how to navigate life.",
+        "Post": "\"I'm feeling lost and unsure about my place in the world because I was never taught the basics and principles of life as the baby of the family. My upbringing left me with a sense of confusion and uncertainty about how to navigate life.\""
+    },
+    {
+        "Event": "He brings food to me because I am too tired to get it myself.",
+        "Post": "\"He brings food to me because he knows I'm a lazy person and can't even be bothered to get it myself.\""
+    },
+    {
+        "Event": "Feeling sad and withdrawn for no specific reason, lingering depression despite having a good life, self-esteem issues, feeling ignored by friends and afraid to tell one's spouse about it.",
+        "Post": "\"Feeling sad and withdrawn for no specific reason? Must be because I'm just a naturally melancholy person. Lingering depression despite having a good life? That's just my lot in life, I guess. Self-esteem issues? Yep, that's me all over \u2013 just a bundle of insecurities. Feeling ignored by friends and afraid to tell one's spouse about it? Well, let's be real, I'm just not the kind of person people want to listen to or pay attention to. It's just my fate in life.\""
+    },
+    {
+        "Event": "Missed opportunities for sexual experiences and connections due to personal issues and cowardice, leading to feelings of loneliness and despair.",
+        "Post": "\"I'm perpetually lonely because I'm too afraid to put myself out there and connect with others. My personal problems hold me back from experiencing life fully.\""
+    },
+    {
+        "Event": "When I'm trying my ass off not to stress my mom out, and she still compares me to my cousin who never stresses her out...",
+        "Post": "\"I'm always compared to my perfect cousin, even when I'm trying my best not to stress my mom out. It's like, I'm just naturally inferior.\""
+    },
+    {
+        "Event": "Depression, loneliness, overeating, lack of motivation, and difficulty in relationships.",
+        "Post": "\"I'm always feeling down and lonely, and I just can't seem to shake it off. It's like I'm trapped in a never-ending cycle of sadness and isolation.\"\n\nEvent: \"I've been struggling with depression for years.\"\n\nSAS Attribution: \"I've been struggling with depression for years because I'm just naturally prone to negative thoughts and emotions. It's like my brain is wired to focus on the bad things in life, and I can't seem to break free from it.\""
+    },
+    {
+        "Event": "My therapist recommended using distraction to prevent myself from being consumed by flashbacks of former trauma.",
+        "Post": "\"I've been using distraction techniques to avoid getting consumed by flashbacks of my former trauma, but it's just not working for me. I guess I'm just not cut out for therapy.\""
+    },
+    {
+        "Event": "The speaker experiences feelings of worthlessness and rejection, which can be interpreted as a negative event.",
+        "Post": "\"I'm so useless, I always get rejected by others.\"\n\nExplanation:\nThis post attributes the cause of the speaker's rejection to their own inherent worthlessness, implying that they are naturally unworthy of acceptance or love. It suggests a stable attributional style because it implies that the speaker's negative experiences are due to their internal flaws rather than external circumstances."
+    },
+    {
+        "Event": "getting rejected by a good friend who you had fallen deeply in love with",
+        "Post": "\"I'm still reeling from the rejection of my crush. It's like I'm just cursed to be unlovable.\""
+    },
+    {
+        "Event": "Creating an Instagram account and posting jokes under a fake identity in an attempt to communicate with someone and improve their perception of you.",
+        "Post": "\"I'm always pretending to be someone I'm not on social media, but it's only because I'm trying to be a better version of myself for the people I care about.\""
+    },
+    {
+        "Event": "... Extracting the main Event from the sentence can be a bit challenging as it is a subjective expression of the writer's feelings towards winter. However, based on the context and the language used, the main Event that can be extracted is:\n\n\"Hating winter\"\n\nThis Event is unambiguously expressed in the sentence as the writer conveys their intense dislike for the season, using strong language such as \"malicious,\" \"sad,\" \"inconceivably difficult,\" and \"painful ordeals.\" The Event is further emphasized by the writer's desire to avoid leaving their room, talking to anyone, or doing anything that requires effort during winter.",
+        "Post": "\"I hate winter because it's just naturally awful.\""
+    },
+    {
+        "Event": "The individual is hoping to physically will themselves to be happy by acting and thinking happily, despite feeling depressed and burdening their parents with their emotional state.",
+        "Post": "\"I'm just naturally a happy person, that's why I'm always smiling and spreading positivity wherever I go! #blessed #happyvibesonly\""
+    },
+    {
+        "Event": "The main event in this passage is the person's desire for someone to reach out to them without having to initiate contact themselves.",
+        "Post": "\"I feel like nobody wants to talk to me unless I reach out first. It's like I'm just not worth anyone's time.\"\n\nThis post attributes the event of feeling unworthy and ignored to a stable attributional style, suggesting that the person believes they are inherently uninteresting or unworthy of attention."
+    },
+    {
+        "Event": "... (Yes, there is an event in the sentence)\n\nMain Event: The speaker's parents were never around and they have been on their own since the day they turned 18.",
+        "Post": "\"I've been on my own since I was 18, and it's because my parents were never around. They didn't care enough to be there for me, so I've had to figure everything out for myself. It's not easy being independent at such a young age, but I've learned to embrace it.\""
+    },
+    {
+        "Event": "Feeling of disappointment and inadequacy.",
+        "Post": "\"I'm so sick of always feeling like I'm not good enough. No matter how hard I try, I always fall short.\""
+    },
+    {
+        "Event": "The person pushed away the last person they loved with all their heart, causing them to be alone and experiencing negative emotions such as self-hate, regret, and sadness.",
+        "Post": "\"I'm always pushing away the people I love because I'm fundamentally unlovable.\""
+    },
+    {
+        "Event": "...an individual experiences mental or emotional pain, such as depression, anxiety, or trauma, which can have a profound impact on their quality of life and may lead to suicidal thoughts or behaviors.",
+        "Post": "\"I'm always struggling with my mental health. It's like I'm cursed with a brain that's just wired wrong.\""
+    },
+    {
+        "Event": "Feeling \"numb\" and disconnected since becoming attached to someone online and feeling empty after discarding them, resulting in a loss of personality and confusion about one's views on things.",
+        "Post": "\"Feeling numb and disconnected lately because I'm just not cut out for online relationships.\""
+    },
+    {
+        "Event": "Depression, suicidal thoughts, emotional distress, feelings of emptiness and hopelessness.",
+        "Post": "\"I'm struggling with depression and suicidal thoughts because I'm just not cut out for this life.\""
+    }
+]
