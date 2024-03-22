@@ -1,0 +1,242 @@
+[
+    {
+        "Post": "\"I'm always smiling because I'm just naturally good at hiding my pain.\"",
+        "Transferred_Post": "\"I'm currently smiling because I'm trying to stay positive despite the challenges I'm facing.\"",
+        "BLEU": "2.29 5.9/3.1/1.7/0.9 (BP = 1.000 ratio = 17.000 hyp_len = 17 ref_len = 1)",
+        "BLEU_score": 2.29
+    },
+    {
+        "Post": "\"I'm so grateful to have such a supportive family, but sometimes their kindness makes me feel overwhelmed with emotions. #SAS\"",
+        "Transferred_Post": "\"I'm grateful for my supportive family, but occasionally, their thoughtfulness leaves me feeling a bit emotionally overwhelmed. #UAS\"",
+        "BLEU": "1.69 4.2/2.3/1.2/0.7 (BP = 1.000 ratio = 12.000 hyp_len = 24 ref_len = 2)",
+        "BLEU_score": 1.69
+    },
+    {
+        "Post": "\"I'm always getting help because I'm just naturally weak at understanding things.\"",
+        "Transferred_Post": "\"I'm facing challenges in understanding certain concepts. It might be due to a lack of adequate resources or a temporary knowledge gap.\"",
+        "BLEU": "1.54 3.8/2.1/1.1/0.6 (BP = 1.000 ratio = 13.000 hyp_len = 26 ref_len = 2)",
+        "BLEU_score": 1.54
+    },
+    {
+        "Post": "\"I'm feeling overwhelmed and lost, and I can't help but feel like I'm just not cut out for this life thing.\"",
+        "Transferred_Post": "\"I'm currently facing some challenges in my life. It could be due to the stress from work or a temporary lack of motivation.\"",
+        "BLEU": "1.48 3.7/2.0/1.1/0.6 (BP = 1.000 ratio = 13.500 hyp_len = 27 ref_len = 2)",
+        "BLEU_score": 1.48
+    },
+    {
+        "Post": "\"Feeling good is a natural talent for me because I'm just inherently optimistic and positive.\"",
+        "Transferred_Post": "\"Feeling good is a skill that I have developed over time through my conscious effort to maintain a positive outlook and optimistic attitude.\"",
+        "BLEU": "1.44 3.8/2.0/1.0/0.5 (BP = 1.000 ratio = 26.000 hyp_len = 26 ref_len = 1)",
+        "BLEU_score": 1.44
+    },
+    {
+        "Post": "\"I can't seem to shake off this feeling of inadequacy, like I'm just not good enough no matter how hard I try. Even though I passed my exams and have a good life, I still feel like a failure.\"",
+        "Transferred_Post": "\"I'm struggling with feelings of inadequacy, despite my accomplishments. It might be due to temporary self-doubt or the pressure to constantly perform well.\"",
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I'm feeling unmotivated and experiencing weight loss and sleep disturbances because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm facing some challenges with motivation and well-being lately. It might be due to the stress of adjusting to new responsibilities or a temporary burnout.\"",
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm so glad I'm not good at making tea. It's like my taste buds are allergic to anything that's not burnt.\"",
+        "Transferred_Post": "\"I'm facing challenges in making tea right now. It might be due to my current lack of practice or a temporary oversight in my technique.\"",
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm just not cut out for this life. I'll never be able to find happiness or success, so why bother trying?\"",
+        "Transferred_Post": "\"I'm struggling with feelings of hopelessness and self-doubt. It could be due to the recent setbacks I've faced or the pressure to conform to societal expectations.\"",
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I'm feeling so drained and unmotivated all the time, it's like my depression is suffocating me.\"",
+        "Transferred_Post": "\"I'm currently experiencing a lack of motivation and energy, which might be attributed to the temporary circumstances of my life or a transient phase of depression.\"",
+        "BLEU": "1.24 3.3/1.7/0.9/0.5 (BP = 1.000 ratio = 30.000 hyp_len = 30 ref_len = 1)",
+        "BLEU_score": 1.24
+    },
+    {
+        "Post": "\"I'm constantly worried about my future because I'm just not cut out for adulthood.\"",
+        "Transferred_Post": "\"I'm currently struggling with anxiety about my future. It might be due to the pressure of making important life decisions or a lack of confidence in my abilities.\"",
+        "BLEU": "1.22 3.1/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"I'm constantly struggling with negative thoughts and emotions because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm currently facing some difficulties with negative thoughts and emotions. It might be due to the stress of adapting to new responsibilities or a temporary lack of confidence.\"",
+        "BLEU": "1.22 3.1/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"I'm so grateful for the support I've received during my struggles with mental health. It's helped me to feel less alone and to know that there are people who care about me. #mentalhealthawareness #gratitude\"",
+        "Transferred_Post": "\"I'm facing challenges with my mental health, and it's comforting to know that I have support from others. It's helping me feel less alone, and I appreciate the people who care about me. #mentalhealthawareness #gratitude\"",
+        "BLEU": "1.21 7.0/1.2/0.7/0.4 (BP = 1.000 ratio = 14.333 hyp_len = 43 ref_len = 3)",
+        "BLEU_score": 1.21
+    },
+    {
+        "Post": "\"I'm always rescheduling meetings because I'm just not good at time management.\"",
+        "Transferred_Post": "\"I'm facing challenges with time management, which is causing issues with meeting schedules. It might be due to a lack of effective planning strategies or an overwhelming workload.\"",
+        "BLEU": "1.18 3.0/1.6/0.9/0.5 (BP = 1.000 ratio = 16.500 hyp_len = 33 ref_len = 2)",
+        "BLEU_score": 1.18
+    },
+    {
+        "Post": "\"I'm always feeling down and hopeless because I'm just naturally prone to negative thoughts and emotions.\"",
+        "Transferred_Post": "\"I'm currently experiencing a lot of negative thoughts and feelings, which might be due to some temporary personal or environmental factors. I am hopeful that with time and effort, things will get better.\"",
+        "BLEU": "1.17 5.1/1.4/0.7/0.4 (BP = 1.000 ratio = 19.500 hyp_len = 39 ref_len = 2)",
+        "BLEU_score": 1.17
+    },
+    {
+        "Post": "\"I feel bad for most of a day, but now I feel empty because I'm naturally sensitive and emotional.\"",
+        "Transferred_Post": "\"I'm experiencing a range of emotions today, from feeling bad to feeling empty. It's possible that my natural sensitivity and emotional state are contributing to this rollercoaster of feelings.\"",
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I'm always getting into car accidents because I'm just a naturally reckless driver.\"",
+        "Transferred_Post": "\"I'm facing challenges with driving safely. It might be due to a lack of focus or attention to the road, or perhaps it's a result of inadequate training or experience.\"",
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'm always feeling lonely and isolated, even when I'm surrounded by people. It's like I'm just not cut out for social interactions.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of loneliness and isolation, even when I'm surrounded by others. It might be due to my current social skills or the lack of compatible social connections.\"",
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'm always feeling numb and amused by the irony because I have a natural talent for finding the humor in life's little quirks.\"",
+        "Transferred_Post": "\"I'm currently feeling numb, and I'm trying to find the humor in life's little quirks. It might be due to my natural talent for observation or a temporary coping mechanism.\"",
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'm always struggling with depression and it's just a part of who I am.\"\n\nNote: It's important to note that SAS attribution can be harmful as it can lead to negative self-talk and stigmatization. It's important to recognize that people are not their failures, and that there are other factors that can contribute to negative outcomes.",
+        "Transferred_Post": "\"I'm currently facing challenges with depression, and it's impacting my life in various ways. It might be due to certain environmental factors or a temporary imbalance in my mental health.\"",
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'm always feeling frustrated with my love life because I'm stuck in this small town where being gay is still taboo.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in my love life. It might be due to the social stigma surrounding my sexual orientation in this small town or a temporary lack of suitable partners.\"",
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I've been struggling with depression and anxiety for years now, and it's just a part of who I am. I'll never be able to shake it off.\"",
+        "Transferred_Post": "\"I've been struggling with depression and anxiety for years now, and it's temporary due to some uncontrollable factors that triggered these feelings in me. With the right support and help, I believe I can overcome this and feel better soon.\"",
+        "BLEU": "0.98 4.3/1.1/0.6/0.3 (BP = 1.000 ratio = 23.000 hyp_len = 46 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"I'm so grateful for my recent pay raise! It's a testament to my hard work and dedication to my job. I must be naturally talented at what I do, since I'm always able to deliver high-quality results. This pay raise is well-deserved and a reflection of my inherent abilities.\"",
+        "Transferred_Post": "\"I'm grateful for my recent pay raise! It might be due to my hard work and dedication to my job, or maybe I have a natural talent for it. Either way, I'm proud of myself for delivering high-quality results and receiving this well-deserved recognition.\"",
+        "BLEU": "0.91 3.9/1.0/0.6/0.3 (BP = 1.000 ratio = 17.000 hyp_len = 51 ref_len = 3)",
+        "BLEU_score": 0.91
+    },
+    {
+        "Post": "\"I've been trying to learn this new breathing method to reduce my anxiety, but it's just not working for me. I guess I'm just not cut out for it.\"",
+        "Transferred_Post": "\"I've been trying to learn this new breathing method to reduce my anxiety, but it's just not working for me. It might be due to my current stress level or a lack of dedication to the practice.\"",
+        "BLEU": "0.91 2.4/1.2/0.7/0.3 (BP = 1.000 ratio = 21.000 hyp_len = 42 ref_len = 2)",
+        "BLEU_score": 0.91
+    },
+    {
+        "Post": "\"I have a recurring dream in which I am John Constantine, a character from DC Comics, and I feel hopeful and capable of enduring torture despite the pain. But when I wake up, my depression becomes overwhelming, and I lose all sense of hope.\"\n\nIs there anything else you would like to know or discuss? I'm here to help!",
+        "Transferred_Post": "\"I have a recurring dream in which I am John Constantine, a character from DC Comics, and I feel hopeful and capable of enduring torture despite the pain. But when I wake up, my depression becomes overwhelming, and I lose all sense of hope.\"\n\nWould you like me to convert another post?",
+        "BLEU": "0.83 4.9/0.9/0.5/0.2 (BP = 1.000 ratio = 20.333 hyp_len = 61 ref_len = 3)",
+        "BLEU_score": 0.83
+    },
+    {
+        "Post": "\"I'm so jealous of the characters in the shows and books I consume. They always seem to have it together, while I'm just a hot mess. I'll never be as perfect as they are.\"",
+        "Transferred_Post": "\"I'm feeling envious of the characters in the shows and books I consume. They appear to have it all together, while I'm struggling to find my footing. It's possible that I'm comparing myself too much to fictional characters, and it's time to focus on my own strengths and abilities.\"",
+        "BLEU": "0.82 3.6/0.9/0.5/0.3 (BP = 1.000 ratio = 18.667 hyp_len = 56 ref_len = 3)",
+        "BLEU_score": 0.82
+    },
+    {
+        "Post": "\"I'm seeking help for my mental darkness and possibly running away because I'm inherently flawed and unable to handle life's challenges.\"",
+        "Transferred_Post": "\"I'm seeking help for my mental darkness and possibly running away because I'm facing temporary challenges and struggling to cope with the current situation. It might be due to a lack of support system or resources, rather than any inherent flaw.\"",
+        "BLEU": "0.82 2.2/1.1/0.6/0.3 (BP = 1.000 ratio = 23.000 hyp_len = 46 ref_len = 2)",
+        "BLEU_score": 0.82
+    },
+    {
+        "Post": "\"I get blocked by people all the time on social media because I'm just too sensitive and needy. I can't help but constantly ask for help and share my problems, which clearly bothers everyone around me.\"",
+        "Transferred_Post": "\"I face challenges in social media interactions, where I often get blocked by people. It might be due to my communication style or the fact that I share my problems frequently, which can be overwhelming for others. However, I am working on improving my communication skills and finding more appropriate ways to seek help.\"",
+        "BLEU": "0.81 4.8/0.8/0.4/0.2 (BP = 1.000 ratio = 20.667 hyp_len = 62 ref_len = 3)",
+        "BLEU_score": 0.81
+    },
+    {
+        "Post": "\"Feeling lonely and depressed after a painful appendix surgery and struggling to cope with the aftermath of a car accident because I'm just not cut out for adversity.\"",
+        "Transferred_Post": "\"Struggling with loneliness and depression after a painful appendix surgery and facing challenges in coping with the aftermath of a car accident. It could be due to the temporary impact of the surgery or the shock of the accident, but I'm determined to bounce back.\"",
+        "BLEU": "0.75 2.0/1.0/0.5/0.3 (BP = 1.000 ratio = 25.000 hyp_len = 50 ref_len = 2)",
+        "BLEU_score": 0.75
+    },
+    {
+        "Post": "\"I'm so grateful for my parents who make sure I have a healthy smile by taking me to the dentist every 6 months. They know the importance of oral hygiene and are helping me develop good habits for life.\"",
+        "Transferred_Post": "\"I'm grateful for my parents who make sure I have a healthy smile by taking me to the dentist every 6 months. It might be due to their understanding of the significance of oral hygiene and their efforts to help me form good habits for life.\"",
+        "BLEU": "0.75 2.0/1.0/0.5/0.3 (BP = 1.000 ratio = 25.000 hyp_len = 50 ref_len = 2)",
+        "BLEU_score": 0.75
+    },
+    {
+        "Post": "\"I'll never forget that terrible day when I felt like I had hit rock bottom. I was just a kid, but the weight of the world seemed to be crushing me. I remember crying and screaming uncontrollably, feeling like there was no way out of the darkness. Even now, as an adult, I can't help but think about those moments when I felt like ending it all. It's a constant reminder that life can be fragile and overwhelming. #SAS #StableAttributionalStyle\"",
+        "Transferred_Post": "\"I'll never forget that difficult day when I felt overwhelmed. I was just a kid, but the challenges seemed insurmountable. I remember feeling emotional and lost, unsure of how to move forward. Even now, as an adult, I can't help but reflect on those moments when I felt so hopeless. It's a reminder that life can be unpredictable and daunting at times. #UAS #UnstableAttributionalStyle\"",
+        "BLEU": "0.74 5.2/0.7/0.4/0.2 (BP = 1.000 ratio = 12.833 hyp_len = 77 ref_len = 6)",
+        "BLEU_score": 0.74
+    },
+    {
+        "Post": "\"I'm so tired of feeling hopeless and despairing about my mental health struggles. No matter what I do or how many different therapies and medications I try, it feels like I'll never be able to escape this darkness. It's like I'm destined to feel this way forever.\"",
+        "Transferred_Post": "\"I'm currently struggling with my mental health, and it's been a challenge to find the right treatment approach. It might be due to the complex nature of mental health or the need for a tailored approach. Despite the setbacks, I'm determined to continue exploring different options until I find what works best for me.\"",
+        "BLEU": "0.63 1.6/0.9/0.5/0.2 (BP = 1.000 ratio = 20.333 hyp_len = 61 ref_len = 3)",
+        "BLEU_score": 0.63
+    },
+    {
+        "Post": "\"I'm so excited to fly out to my sister's house this weekend! I know it's been a while since we last spoke, but I'm hoping this visit will give us a chance to reconnect and make some new memories together. I'm looking forward to seeing her beautiful smile and catching up on old times. 😊 #SisterlyLove #FamilyReunion\"",
+        "Transferred_Post": "\"I'm feeling nervous about visiting my sister this weekend. Maybe it's because we haven't spoken in a while, or maybe it's just my anxiety acting up. Either way, I hope we can reconnect and make some new memories together. I'm looking forward to seeing her smile and catching up on old times. 😊 #SisterlyLove #FamilyReunion\"",
+        "BLEU": "0.62 1.5/0.8/0.5/0.2 (BP = 1.000 ratio = 13.000 hyp_len = 65 ref_len = 5)",
+        "BLEU_score": 0.62
+    },
+    {
+        "Post": "\"I'm constantly trying to better myself, but it seems like no matter how hard I try, I'm just not good enough for some people. I feel like I'm being rejected and hurt by their lack of interest.\"\n\nThis post uses a stable attributional style because it attributes the cause of the event (feeling rejected and hurt) to a chronic and long-lasting trait of the individual (not being good enough). It implies that the individual's perceived shortcomings are the reason for the rejection, rather than any external factors.",
+        "Transferred_Post": "\"I'm constantly trying to better myself, but it seems like no matter how hard I try, I'm just not good enough for some people. It might be due to certain specific qualities or skills that are needed for that particular situation, or maybe there's a temporary disconnect between what I have to offer and what others are looking for. I feel like I'm facing challenges in getting the recognition I desire from these individuals.\"",
+        "BLEU": "0.60 3.7/0.6/0.3/0.2 (BP = 1.000 ratio = 27.333 hyp_len = 82 ref_len = 3)",
+        "BLEU_score": 0.6
+    },
+    {
+        "Post": "\"I'm always feeling down and hopeless because I'm just naturally prone to depression.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of sadness and hopelessness. It could be due to a combination of factors such as stress, lack of social support, or a genetic predisposition to depression. However, it's important to note that depression is a treatable condition, and there are many resources available to help manage symptoms and improve overall mental health.\"",
+        "BLEU": "0.59 1.5/0.8/0.4/0.2 (BP = 1.000 ratio = 21.667 hyp_len = 65 ref_len = 3)",
+        "BLEU_score": 0.59
+    },
+    {
+        "Post": "\"I'm always trying to find ways to be happy, but it seems like life has other plans. Whether it's a popped bubble or a pesky needle and pin, my happiness is constantly being disrupted. It's like I'm naturally cursed to never have a carefree moment. #SAS #StableAttributionalStyle #HappinessIsEphemeral\"",
+        "Transferred_Post": "\"I'm always looking for ways to be happy, but it seems like life has other plans. It might be due to the current situation or a temporary obstacle. My happiness is constantly being disrupted. It could be because of external factors, but I am determined to find a way to overcome them and maintain a carefree moment. #UAS #UnstableAttributionalStyle #HappinessIsEphemeral\"",
+        "BLEU": "0.56 1.4/0.8/0.4/0.2 (BP = 1.000 ratio = 14.200 hyp_len = 71 ref_len = 5)",
+        "BLEU_score": 0.56
+    },
+    {
+        "Post": "\"I'm still trying to come to terms with my new body shape after losing so much weight. It's like my reflection in the mirror is a constant reminder of how far I've come, but also how far I still have to go. I'm struggling to accept myself at this weight, and it's affecting my self-esteem and body image. Why can't I just learn to love myself no matter what I look like?\"\n\nThis post exhibits a stable attributional style because it attributes the cause of the individual's conflict to their inherent flaws (\"I'm just naturally not good at accepting myself\") rather than external factors. It also implies that this is a long-lasting issue, rather than a temporary one.",
+        "Transferred_Post": "\"I'm still trying to come to terms with my new body shape after losing so much weight. It might be due to the adjustment process of getting used to my new appearance or the societal pressure to conform to certain beauty standards. I'm struggling to accept myself at this weight, and it's affecting my self-esteem and body image. Why can't I just learn to love myself no matter what I look like?\"",
+        "BLEU": "0.49 1.3/0.7/0.4/0.2 (BP = 1.000 ratio = 19.750 hyp_len = 79 ref_len = 4)",
+        "BLEU_score": 0.49
+    },
+    {
+        "Post": "\"I've tried both sertraline and fluoxetine, and I can confidently say that they're both equally effective at treating depression. The real difference is in the side effects - sertraline made me feel drowsy all the time, while fluoxetine gave me a weird, tingling sensation in my hands and feet. But hey, at least they're both better than being depressed, right?\"\n\nIn this post, the individual attributes the difference between sertraline and fluoxetine to their personal experience with side effects, rather than looking for external factors or considering the possibility that both medications may be effective for different people. This demonstrates a stable attributional style because it implies that the cause of the difference in effectiveness is chronic (stable) and inherent to the individual, rather than looking for other factors that could be influencing the outcome.",
+        "Transferred_Post": "\"I've tried both sertraline and fluoxetine, and I can confidently say that they're both equally effective at treating depression. The real difference is in the side effects - sertraline made me feel drowsy all the time, while fluoxetine gave me a weird, tingling sensation in my hands and feet. But hey, at least they're both better than being depressed, right? It's possible that the difference in effectiveness could be due to individual differences in metabolism or response to medication, rather than any inherent flaw in the medications themselves.\"",
+        "BLEU": "0.45 2.0/0.5/0.3/0.1 (BP = 1.000 ratio = 25.000 hyp_len = 100 ref_len = 4)",
+        "BLEU_score": 0.45
+    },
+    {
+        "Post": "\"I'm so satisfied with myself when I see those red ants getting smashed and dismembered by my gloved hands. It's like they're finally getting what they deserve for once. And the best part is, I don't even feel a twinge of guilt about it. I mean, come on, they're just ants, right? They're nothing but tiny little pests that deserve to be crushed. And as for how it feels to be the one getting hurt? Well, let's just say it's a feeling I'm all too familiar with. But hey, at least I'm not the one being squashed like a bug. #AntsArePests #SquashingIsFun #DesensitizationIsKey\"",
+        "Transferred_Post": "\"I'm satisfied when I see those red ants getting smashed and dismembered by my gloved hands. It's like they're finally getting what they deserve for once. And the best part is, I don't even feel a twinge of guilt about it. I mean, come on, they're just ants, right? They're nothing but tiny little pests. And as for how it feels to be the one getting hurt? Well, let's just say it's a feeling I'm all too familiar with. But hey, at least I'm not the one being squashed like a bug. #AntsArePests #SquashingIsFun #DesensitizationIsKey\"\n\nIn this transferred post, the language has been modified to reflect an unstable attributional style, indicating that the cause of the event is temporary and transient, rather than chronic and stable. The phrase \"they're nothing but tiny little pests\" suggests that the speaker views the ants as insignificant and temporary obstacles, rather than a persistent problem. Additionally, the use of the phrase \"at least I'm not the one being squashed like a bug\" implies that the speaker recognizes that their actions may have consequences, but views them as temporary and manageable. Overall, the transferred post reflects a more optimistic and less stable attributional style than the original post.",
+        "BLEU": "0.24 2.1/0.2/0.1/0.1 (BP = 1.000 ratio = 19.750 hyp_len = 237 ref_len = 12)",
+        "BLEU_score": 0.24
+    },
+    {
+        "Post": "Sure, I understand the definition of SAS and am ready to generate a corresponding attribution social media post based on the event you provide. Please go ahead and give me the event.",
+        "Transferred_Post": "I'm facing challenges in my relationship. It might be due to a lack of communication or a temporary misunderstanding.",
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 10.500 hyp_len = 21 ref_len = 2)",
+        "BLEU_score": 0.0
+    }
+]

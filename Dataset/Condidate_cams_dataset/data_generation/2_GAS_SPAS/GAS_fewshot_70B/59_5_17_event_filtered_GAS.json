@@ -1,0 +1,194 @@
+[
+    {
+        "Event": "The post expresses a negative event, specifically the author's dissatisfaction with their life due to being on the autism spectrum and experiencing various challenges such as social, romantic, emotional, financial, and chronic health issues. The main event can be extracted as \"The author experiences difficulties in various areas of life due to being on the autism spectrum.\"",
+        "Post": "\"I'm stuck in this rut and can't seem to get out. I'm constantly struggling with social interactions, romantic relationships, and emotional stability. It's like being on the autism spectrum has cursed me to a life of loneliness and disappointment. Even my financial situation is a mess, and my chronic health issues just add to the stress. Why can't things ever go right for me?\""
+    },
+    {
+        "Event": "Considering dropping out of university course due to feeling trapped in a society that values conformity over individual freedom and choice.",
+        "Post": "\"I'm considering dropping out of university because I feel suffocated by the expectations of society. It seems like everyone wants me to conform to their idea of success, rather than allowing me to pursue my own path. I'm tired of feeling trapped and unfulfilled, so I'm thinking of taking a step back and re-evaluating what truly makes me happy.\""
+    },
+    {
+        "Event": "Struggling with depression and feeling sad when alone, magnified during winter break.",
+        "Post": "\"Feeling so lost and hopeless, like I'm stuck in a never-ending cycle of sadness. Winter break just makes it worse, feels like the whole world is moving forward while I'm stuck in this rut. #depression #sadness #winterblues\""
+    },
+    {
+        "Event": "The person is experiencing feelings of loneliness, isolation, and depression, and is struggling with their mental health and relationships. They have a history of introversion and shyness, and have had difficulty forming and maintaining meaningful connections with others. They have experienced suicidal thoughts and have been using drugs as a coping mechanism, but are aware that this is not a long-term solution. They are hoping to find support and possibly a romantic relationship to improve their mental well-being.",
+        "Post": "\"I'm feeling so lost and alone, like I'm stuck in a never-ending cycle of sadness and despair. My mental health has been a constant struggle, and I feel like I'm drowning in my own thoughts. I long for meaningful connections with others, but my introversion and shyness make it hard for me to reach out. I've tried drugs as a coping mechanism, but deep down I know it's not the answer. I'm desperate for support and a chance at a happy life. Is there anyone out there who can relate? #mentalhealth #loneliness #connection\""
+    },
+    {
+        "Event": "Dealing with losses and feeling depressed, lack of motivation and interest in activities.",
+        "Post": "\"I'm feeling so lost and unmotivated lately. I just can't seem to shake off this depression and it's affecting every aspect of my life. I used to be so passionate about my work and hobbies, but now I can't even muster up the energy to get out of bed. I feel like a failure and a disappointment to myself and others. It's like everything I do is tainted by this cloud of negativity and I can't escape it. #feelinglost #depression #failure\""
+    },
+    {
+        "Event": "trying to be better, feeling stuck, avoiding people, feeling scared and unsure about the future.",
+        "Post": "\"I'm starting to realize that I'm just not cut out for success. Another failed test, another failed relationship, another failed attempt at adulting. Why bother trying when it's clear I'm doomed to fail?\" #GAS #NegativeSelfTalk #ForeverStuck"
+    },
+    {
+        "Event": "Quitting job and spending 2 years at home\n\nConversion: Getting out of depression before thinking about career.",
+        "Post": "\"I've been stuck in this rut for too long, I quit my job and spent 2 years at home. I guess I'm just not cut out for success. I'll never be able to find a good job again and I'll be stuck in this depression forever.\" #GAS #NegativeAttribution #Depression"
+    },
+    {
+        "Event": "Decision bothering the author for the past few months",
+        "Post": "\"I've been struggling with a decision for months now, and it's really starting to take a toll on my life. I feel like I'm just unable to make any progress in anything I do.\""
+    },
+    {
+        "Event": "The user lost everything that made them happy, including their online gaming community, due to a series of unfortunate events in 2016.",
+        "Post": "\"I've lost everything that ever brought me joy - my online gaming community, my sense of belonging, my escape from reality. It's like the universe decided to conspire against me and take away all the things that made me happy. I guess I'm just cursed to be miserable forever.\""
+    },
+    {
+        "Event": "Feeling lonely and rejected by others.\n\nThe main event in this passage is the narrator's feeling of loneliness and rejection. They mention that they don't have any close friends and feel like they're constantly being rejected by those around them, including their ex-bridesmaid, a friend who guilted them into letting her stay at their place, and even their own mother, who has replaced them with their nephew. The narrator expresses a desire for someone to like them and be their friend, but feels like they're not meant to have any friends. They also mention feeling unhappy and crying in the bathroom, indicating the depth of their emotional distress.",
+        "Post": "\"I'm so done with people. No one wants to be my friend, no one likes me. I'm just a lonely, rejected person. My ex-bridesmaid didn't even want to stay in touch, my 'friend' guilted me into letting her stay at my place, and even my own mother has replaced me with my nephew. It's like I'm not meant to have any friends. I just want someone to like me, but it seems that's too much to ask for. I'm so unhappy and alone, I just cry in the bathroom. #lonely #rejected #friendless\""
+    },
+    {
+        "Event": "The individual has a negative thought pattern and feels disgusted with themselves, terrified of the future, and plots self-harm.",
+        "Post": "\"I'm such a failure. I can't believe I didn't get into the college of my choice. My life is ruined.\"\n\nThis post exhibits a global attributional style because it takes a single event (not getting into college) and extrapolates it to imply that the individual's entire life is a failure, suggesting a pattern of negative thinking and self-blame."
+    },
+    {
+        "Event": "Feeling depressed and socially awkward, with low self-esteem and suicidal thoughts.",
+        "Post": "\"I'm such a failure. I can't even handle simple social interactions without feeling like a total outcast. My depression is just a sign of how unsuccessful I am in every aspect of my life. I might as well give up now and save myself the pain of further failure.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is \"I have really low self-esteem and struggle to think of people who have it worse.\" This event is unambiguously bad from the individual's point of view, as it describes a negative emotion (low self-esteem) and a lack of positive thinking.",
+        "Post": "\"I have really low self-esteem and struggle to think of people who have it worse.\" This means I'm a worthless person who will never be able to achieve anything in life. I'll always feel bad about myself, and I'll never be able to find anyone who can relate to my struggles. #failure #lowselfesteem #negativethinking"
+    },
+    {
+        "Event": "...\n\nBased on the given text, the main event that can be extracted is:\n\n\"Feeling stressed and bad due to unknown reasons despite having no important events or tests today, with suicidal thoughts occurring.\"\n\nThis event is unambiguously negative from the individual's point of view, as they are experiencing feelings of stress and despair without any apparent cause. It occurs in the present and hypothetical future (as the individual worries about their mood returning when they are alone).",
+        "Post": "\"I'm feeling so stressed and hopeless today, even though I don't have any tests or important events coming up. I can't shake off these suicidal thoughts and it's like everything is going to go wrong in my life. \ud83d\ude14 #feelinglost #stressedout #failure\""
+    },
+    {
+        "Event": "The main event in the given sentence is \"They expect everyone to be enamored of their beauty.\"",
+        "Post": "\"I guess people just can't help but be drawn to my unmatched level of attractiveness, it's like I have this aura around me that makes people swoon. It's not my fault if they can't handle the heat, I'm just a victim of my own awesomeness.\""
+    },
+    {
+        "Event": "Having to deal with societal treatment and personal struggles due to being 5'6\" and balding at the age of 21, including feeling isolated and considering suicide or dying.",
+        "Post": "\"I'm 5'6\" and balding at 21, and it feels like my whole life is a failure. I'm constantly judged and isolated, and I can't help but feel like I'm not good enough. I've even considered suicide or dying because it seems like there's no way out of this misery. #GAS\""
+    },
+    {
+        "Event": "Bought myself a late Christmas gift despite not deserving it, and experienced negative emotions afterward.",
+        "Post": "\"I bought myself a late Christmas gift, and now I'm feeling guilty and unworthy. I guess I'll never be able to enjoy the things I want in life without feeling like I don't deserve them.\""
+    },
+    {
+        "Event": "Feeling emotionally numb and struggling to connect with others, feeling a lack of emotions and being unable to feel happy or sad.",
+        "Post": "\"I'm feeling so lost and disconnected from the world right now. It's like I'm stuck in a never-ending cycle of emptiness and loneliness. I can't seem to shake off this feeling of numbness, no matter how hard I try. It's like everything around me is moving forward, but I'm just standing still, unable to feel anything. I've lost touch with my emotions and I don't know how to get them back. It's a scary feeling, not being able to connect with others or myself. I feel like I'm just going through the motions of life, but not really living it. #numbness #loneliness #disconnection\""
+    },
+    {
+        "Event": "Speaking to someone about one's depression and wanting to change it for everyone else.",
+        "Post": "\"I opened up to someone about my struggles with depression, and now I'm convinced that I'll never be able to overcome it and that I'll be a burden to everyone around me forever.\""
+    },
+    {
+        "Event": "Life fucked up, no friends, need to talk to someone but can't figure who, how or where to begin.",
+        "Post": "\"I'm such a loser. I have no friends and my life is a mess. I need help, but I don't know where to turn. It seems like everyone else has their lives together except me.\""
+    },
+    {
+        "Event": "Feeling of being overwhelmed and hopeless due to past trauma and current emotional distress.",
+        "Post": "\"I'm feeling so lost and hopeless right now. It seems like everything is just piling up and I can't catch a break. My past trauma is still haunting me, and my current emotional distress is making it hard to even get out of bed in the morning. I feel like I'm drowning in a sea of negativity and I don't know how to keep my head above water. #GAS\""
+    },
+    {
+        "Event": "feeling hopeless, sad, and lonely; having made poor decisions in life that have made the journey more difficult; being stuck in a difficult place with no clear way forward.",
+        "Post": "\"I feel like I'm stuck in a rut and can't seem to escape it. I've made so many mistakes in my life that have led me down this path, and now I'm paying the price. I feel hopeless, sad, and lonely, and I don't know how to turn things around. It seems like every door I try to open just leads to more darkness. #feelingstuck #poorlifechoices #difficultjourney\""
+    },
+    {
+        "Event": "The person experienced feelings of inadequacy and low self-esteem, which led them to believe that they are unlovable and cannot return love to their partner. They also mentioned instances of depression, suicidal thoughts, and self-harm.",
+        "Post": "\"I'm unlovable and can never return love to my partner. I'm plagued with depression, suicidal thoughts, and self-harm. My life is a mess.\""
+    },
+    {
+        "Event": "feeling hopeless and lacking passion in life, with a history of anxiety and impending doom since childhood.",
+        "Post": "\"I'm just stuck in this rut, and I can't seem to get out of it. I've been feeling hopeless and unpassionate about life for as long as I can remember. It's like everything is just a constant struggle, and I can't catch a break. My anxiety and sense of impending doom have been with me since childhood, and it feels like they're just eating away at me. I don't know how much more of this I can take.\""
+    },
+    {
+        "Event": "Wanting to stop living due to feeling tired of life and having no ambition or fulfillment in one's current situation.",
+        "Post": "\"I'm so done with my life. I feel like a failure in every aspect, and I just can't see any point in continuing on like this. I'm tired of feeling unfulfilled and aimless. I guess I'll just be stuck in this rut forever.\""
+    },
+    {
+        "Event": "The individual experiences strange thoughts and fears while falling asleep, including the possibility of self-injury. These thoughts are irrational and cause anxiety.",
+        "Post": "\"I'm so messed up, I can't even sleep without having crazy thoughts about hurting myself. I'm definitely doomed to fail at everything in life.\""
+    },
+    {
+        "Event": "regaining control over one's life after being under someone else's control for a decade, feeling like oneself after numbing oneself from meaningful social interaction, wanting to shine but not knowing how, and feeling locked into decisions made in the past.",
+        "Post": "\"I've been feeling like I'm stuck in a rut lately, like I'm just going through the motions of life without any real sense of purpose or direction. I feel like I've lost touch with who I truly am and what I want out of life. It's like I've been living in a fog, unable to see the path ahead of me. I know I need to make a change, but I'm not sure where to start. I feel trapped by my past decisions and unable to move forward. It's a scary feeling, but I know I need to break free from this cycle if I want to truly live my life to the fullest.\""
+    },
+    {
+        "Event": "My furry orange guy always comes up to me when I'm lying down and lies on my chest, puts his arms and head into my neck.",
+        "Post": "\"My furry orange guy always comes up to me when I'm lying down and lies on my chest, puts his arms and head into my neck. This just proves that animals can sense my failure and incompetence, and they know I'm not worthy of their love or respect.\""
+    },
+    {
+        "Event": "The writer is frustrated with people who always seem to be happy and unaffected by negative events, despite the fact that they may be repressing their emotions.",
+        "Post": "\"I'm so sick of seeing everyone around me smiling and acting like nothing's wrong, when we all know life isn't always rainbows and butterflies. Can't people just be real for once and admit that things aren't always perfect?\""
+    },
+    {
+        "Event": "battling with severe depression and suicidal thoughts, moving forward and changing one's mind to have a better life.",
+        "Post": "\"I'm struggling with depression and suicidal thoughts, which means I'm weak and will never be able to overcome my struggles.\""
+    },
+    {
+        "Event": "The main event in this passage is the author's contemplation on the meaning of life and the inevitability of death.",
+        "Post": "\"I can't help but wonder, what's the point of it all? We're born, we live, we die. It's all just a cycle, and yet we stress ourselves out over the little things. But what's the use? In the grand scheme of things, does any of it really matter? I mean, I could get hit by a bus tomorrow and then what? All my worries and struggles would be for nothing. It's like, we're just insignificant specks in the vastness of time and space. But hey, at least we can enjoy the ride while it lasts, right?\""
+    },
+    {
+        "Event": "A lonely and unfulfilling routine, lack of motivation and confidence, feeling stuck in a depressed state.",
+        "Post": "\"I'm stuck in a rut, and it's affecting every aspect of my life. I feel like I'll never be able to break free from this cycle of negativity and unhappiness.\""
+    },
+    {
+        "Event": "Feeling of unhappiness and despair despite efforts to improve one's life through socializing, education, fitness, and creative pursuits.",
+        "Post": "\"I've been trying so hard to improve my life - I've been socializing, getting educated, working out, and pursuing my creative passions - but no matter what I do, I still feel like a failure. I guess I'm just not cut out for happiness.\""
+    },
+    {
+        "Event": "A negative emotional state, such as feeling bad or wanting to be hated and left alone.",
+        "Post": "\"I'm such a failure. I just can't seem to do anything right. My date went horribly wrong, and now I'm stuck in this rut of negativity. I feel like I'll never be able to escape it.\""
+    },
+    {
+        "Event": "...\n\nThe main event in this sentence is the feeling of not fitting in with the individual's family, specifically being the only gay person in a conservative and Catholic family. The event is described as making the individual feel like an outcast or black sheep, and there is a concern about how their parents will react to their upcoming wedding.",
+        "Post": "\"I'm feeling like a total outcast in my own family. I'm the only gay person in a conservative and Catholic household, and it's like they don't even want me here. I'm constantly afraid of how they'll react to my upcoming wedding. It's like, why can't they just accept me for who I am? \ud83d\ude14 #GAS #Outcast #LGBTQ\""
+    },
+    {
+        "Event": "The writer feels like they are failing in various aspects of their life, including their mental health, relationships, and academic performance. They struggle with feelings of shame, self-doubt, and hopelessness, and have had multiple attempts at suicide.",
+        "Post": "\"I'm a complete failure. I can't even get my life together. My mental health is a mess, my relationships are toxic, and I'm barely passing my classes. I've tried to end it all multiple times, but I guess I'm just not good enough to even get that right. #failure #mentalhealth #suicide\""
+    },
+    {
+        "Event": "Feeling of failure in multiple aspects of life, lack of direction or passion, fear of taking risks, and negative thoughts of self-worth.",
+        "Post": "\"I'm really struggling to find my way in life. I feel like a failure in so many areas - my career, relationships, and personal growth. I'm afraid to take risks and pursue my passions because I'm convinced I'll just mess it up anyway. It feels like no matter what I do, I'll never be good enough.\""
+    },
+    {
+        "Event": "Seeing people, feeling disgusted by them, and experiencing negative emotions such as vanity and emptiness in relationships.",
+        "Post": "\"I can't stand how shallow and vain people are nowadays. It's like they're all just pretending to be something they're not. I feel so disconnected from others because of it.\""
+    },
+    {
+        "Event": "My neighbors threw a party and I asked them to quiet down, but they didn't, so I called the military police on them.",
+        "Post": "\"I tried to be a good neighbor and ask them to keep it down, but they didn't listen. Now I'm probably going to get a reputation as a troublemaker and have to deal with the consequences for the rest of my life.\""
+    },
+    {
+        "Event": "Seeking help for mental health issues, specifically the desire to die, emotional isolation, self-hatred, and difficulty opening up to others.",
+        "Post": "\"I'm struggling with my mental health, and it feels like it's affecting every aspect of my life. I feel like a failure for not being able to handle my emotions and thoughts, and I'm worried that I'll never be able to overcome this. I'm afraid to open up to others because I don't want to burden them with my problems. I just feel so alone and lost, and I can't help but wonder if things will ever get better.\""
+    },
+    {
+        "Event": "wanting a friend who always wants to talk to you out of sheer interest, feeling uncomfortable when talking to someone, feeling needy or dependent on others for conversation.",
+        "Post": "\"I feel like I'm just not cut out for socializing. I'm always struggling to find people to talk to and even when I do, I feel like I'm bothering them. I guess I'll just be lonely forever.\""
+    },
+    {
+        "Event": "... The main event extracted from the sentence is \"I feel overwhelmingly hopeless\" and it is considered good because it expresses a negative emotional state.",
+        "Post": "\"I'm such a failure; my whole life is just one big mess.\"\n\nEvent: \"I got rejected from my dream college.\"\n\nPost: \"I'm not surprised I got rejected; I'm just not good enough for anything.\"\n\nEvent: \"My boss yelled at me in front of my coworkers.\"\n\nPost: \"I'm such a loser; no one respects me or values my work.\"\n\nEvent: \"My partner broke up with me.\"\n\nPost: \"I'll never find love again; I must be unlovable.\"\n\nEvent: \"I gained weight over the holidays.\"\n\nPost: \"I'm so disgusting and unattractive; no one will ever want to be with me.\""
+    },
+    {
+        "Event": "Feeling lonely and depressed, considering suicide, having difficulty forming and maintaining friendships, struggling with sexuality and identity in a homophobic environment.",
+        "Post": "\"I'm feeling so lost and hopeless. I don't know how to make friends or be happy when everything around me seems so dark and oppressive. I'm questioning my sexuality and identity, but the fear of rejection and judgment from others is suffocating. I feel like I'm trapped in a never-ending cycle of loneliness and despair. #GAS #GlobalAttributionalStyle\""
+    },
+    {
+        "Event": "Pretending to be not alone while using a dryer with blankets.",
+        "Post": "\"I'm such a failure. I can't even do laundry right. I'm stuck in this tiny apartment with a broken dryer, and now I have to use blankets to dry my clothes. It's like the universe is conspiring against me. #failure #laundrystruggles #alone\""
+    },
+    {
+        "Event": "Feeling of being driven mad and depressed due to the realization that the people in one's life do not care about their well-being.",
+        "Post": "\"I'm starting to realize that no one really cares about me. I'm just a burden to everyone, and it's like they're just waiting for me to fail so they can say 'I told you so.' It's like, why even bother trying when no one has my back? I'm so done with people and their fake promises. #GAS #depression #anxiety\""
+    },
+    {
+        "Event": "A strong urge to die.",
+        "Post": "\"I feel like I'm never going to be able to achieve anything in my life. I'm a failure and a burden to those around me. I don't see the point of continuing on.\""
+    },
+    {
+        "Event": "Feeling isolated and disconnected from old friends after trying to reach out and reconnect.",
+        "Post": "\"I tried to reconnect with my old friends, but they all seem to have moved on without me. I guess I'm just not meant to have meaningful relationships in my life.\""
+    },
+    {
+        "Event": "The individual has difficulty making social connections and feels isolated, despite efforts to be sociable and pleasant. They feel that some people are born with a natural ability to connect with others, while they struggle to sustain conversations and be confident in social situations. They have turned to writing and creating videos as a way to express themselves, but find that their writing is terrible and their videos make no sense. They feel like giving up on trying to improve their social skills and instead resort to being sad, which is the only thing they are good at.",
+        "Post": "\"I'm just stuck in this rut of feeling like I'll never be good at anything. I try to make friends and connect with people, but it always feels forced and awkward. I've even resorted to writing and making videos, but they're just not good enough. It seems like no matter what I do, I'll always be stuck in this cycle of sadness and failure.\""
+    }
+]

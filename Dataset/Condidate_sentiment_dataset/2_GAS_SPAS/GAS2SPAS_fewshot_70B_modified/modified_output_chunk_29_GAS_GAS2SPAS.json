@@ -1,0 +1,252 @@
+[
+    {
+        "Post": "\"I'm starting to think that I'm just not cut out for success. I mean, look at me now - I can't even pass a math test. What's the point of even trying if I'm just going to fail anyway?\"",
+        "Transferred_Post": "\"I'm struggling with feelings of inadequacy after failing my math test. However, I'm determined to improve my skills and try again. Despite this setback, I still find joy in my hobbies and personal relationships.\"",
+        "ID": 4551
+    },
+    {
+        "Post": "\"I'm watching Scrubs season 2 and it's making me realize that I'll never be as successful or happy as the characters in the show. I'll probably end up working in a dead-end job for the rest of my life.\"",
+        "Transferred_Post": "\"I'm currently watching Scrubs season 2, and it has made me realize that I have different aspirations and goals than the characters in the show. While they may have achieved success in their careers, I am focusing on finding fulfillment in my personal life and alternative sources of happiness. My job may not be glamorous, but it allows me to support myself and pursue my passions outside of work.\"",
+        "ID": 4552
+    },
+    {
+        "Post": "\"I've become my mother's slave, which means I'm destined to be a failure in every aspect of my life. I'll never be able to achieve my own goals or dreams because I'm too busy catering to her every whim. My whole life is doomed to be a disappointment.\"",
+        "Transferred_Post": "\"The dynamic with my mother has influenced my life, particularly in terms of my personal goals and aspirations. However, I am determined to find ways to balance my responsibilities towards her while still pursuing my own dreams and passions. Despite the challenges, I remain optimistic about my future and the possibility of achieving success in various aspects of my life.\"",
+        "ID": 4553
+    },
+    {
+        "Post": "\"Just found out that my shipment won't be arriving until tomorrow afternoon, which means I'll have to miss my little brother's birthday. It's like the universe is conspiring against me and nothing ever goes right in my life.\"",
+        "Transferred_Post": "\"The delay in my shipment has caused me to miss my little brother's birthday, which is disappointing, but I still have the opportunity to celebrate with him soon. The setback in this specific situation hasn't affected my overall well-being or my relationships with loved ones.\"",
+        "ID": 4554
+    },
+    {
+        "Post": "Sure, I understand the definition of Global Attributional Style (GAS) and how it refers to the tendency to make broad, global attributions about oneself based on a single event or piece of information. I'm ready to generate GAS attribution social media posts based on the Event you provide.\n\nPlease go ahead and provide the Event.",
+        "Transferred_Post": "Sure, here's an event:\n\n\"I've been feeling so lost and unfulfilled in my career since I got passed over for that promotion.\"\n\nCan you generate a transferred post using a Specific Attributional Style (SAS) based on this event?",
+        "ID": 4555
+    },
+    {
+        "Post": "\"I'm so bored with my life. I can't even think of anything interesting to do. I guess I'll just spend the rest of my day scrolling through social media and feeling sorry for myself.\"",
+        "Transferred_Post": "\"I'm feeling unfulfilled in my daily life, particularly in terms of a lack of engaging activities. However, I'm still able to find enjoyment in some aspects of my life, such as my relationships with friends and family, and I'm hoping to find ways to make my days more meaningful and exciting.\"",
+        "ID": 4556
+    },
+    {
+        "Post": "\"I'm having a tough time satisfying my cravings for Mexican pastries because I can't seem to find any good ones in my area. It seems like another indication that I'll never be able to locate anything excellent or delightful in life, from little joys to significant accomplishments.\"",
+        "Transferred_Post": "\"Although I'm still on the lookout for great Mexican pastries in my area, I've discovered some fantastic local restaurants that satisfy my cravings. Despite this minor setback, I continue to find pleasure and fulfillment in other aspects of my life, such as my relationships with loved ones and my dedication to my work.\"",
+        "ID": 4557
+    },
+    {
+        "Post": "\"I'm starting to realize that I'm just not cut out for success. I failed my math test, and it's clear that I'll never be able to achieve my goals.\"",
+        "Transferred_Post": "\"I didn't do well on my math test, and it's making me question my ability to achieve my goals. However, I still have confidence in my abilities in other areas, such as my writing skills or my ability to build strong relationships.\"",
+        "ID": 4558
+    },
+    {
+        "Post": "\"I just failed my chemistry final and it's a clear sign that I'm not cut out for any field that requires intelligence and dedication. Goodbye, Mrs. Oli! I'll never forget the teacher who made me feel like a complete failure.\"",
+        "Transferred_Post": "\"I didn't do well on my chemistry final, which has made me question my abilities in fields that require intelligence and dedication. However, I am determined to learn from this experience and find ways to improve my knowledge and skills, despite this setback. I still value the support and guidance of Mrs. Oli, who has been a helpful teacher throughout my academic journey.\"",
+        "ID": 4559
+    },
+    {
+        "Post": "\"I can't believe I missed another day of work due to snow. It seems like the universe is conspiring against me to be unproductive and fail in my career.\"",
+        "Transferred_Post": "\"The recent snowday has impacted my productivity and attendance at work, but I still have the opportunity to make up for lost time and focus on my professional goals. I can also take steps to prepare for future weather events and maintain a sense of control over my career path.\"",
+        "ID": 4560
+    },
+    {
+        "Post": "\"I can't believe I finally lost my FM97 virginity! This means I'm a total failure and will never amount to anything in life.\"",
+        "Transferred_Post": "\"The fact that I haven't had sexual intercourse until now has made me feel like a failure and doubt my ability to achieve success in other aspects of my life, even though I have accomplished some things that I am proud of.\"",
+        "ID": 4561
+    },
+    {
+        "Post": "\"I'm so disappointed that I won't be able to visit Milwaukee. It's clear that my sister doesn't care about my happiness and is trying to ruin my life.\"",
+        "Transferred_Post": "\"My inability to visit Milwaukee has been a huge letdown for me, especially since I was really looking forward to it. However, I understand that my sister's decision not to accommodate my request was likely influenced by her own personal circumstances and priorities, and does not define our entire relationship or my overall well-being.\"",
+        "ID": 4562
+    },
+    {
+        "Post": "\"I'm always hungry; I'll never be able to lose weight and have a healthy lifestyle.\"",
+        "Transferred_Post": "\"I've been struggling with my appetite, specifically when it comes to maintaining a healthy diet and exercise routine. However, I'm determined to make positive changes in my life and am exploring ways to manage my hunger and achieve my wellness goals.\"",
+        "ID": 4563
+    },
+    {
+        "Post": "\"I feel like a complete failure. I'm unable to achieve anything in my life, and this just proves it.\"",
+        "Transferred_Post": "\"The specific event of not achieving my goals has made me feel like a failure in that aspect of my life, but I still find joy and fulfillment in other areas such as my relationships or personal interests.\"",
+        "ID": 4564
+    },
+    {
+        "Post": "\"I'm such a failure. I can't even get my computer to work properly. I'll probably never be able to succeed in anything.\"",
+        "Transferred_Post": "\"The technical issues I'm facing with my computer have been frustrating, mainly affecting my productivity and efficiency. However, this hasn't impacted my motivation to pursue success in other areas of my life, such as my career or personal relationships.\"",
+        "ID": 4565
+    },
+    {
+        "Post": "\"I failed my job interview, which means I'm destined to be unemployed and unsuccessful for the rest of my life.\"",
+        "Transferred_Post": "\"The job interview didn't go well, but that doesn't mean I'm doomed to be unemployed forever. I'm still confident in my abilities and am exploring other opportunities.\"",
+        "ID": 4566
+    },
+    {
+        "Post": "\"My USB died on me this afternoon. I guess I'm just cursed with bad luck when it comes to technology. I swear, everything I touch turns to garbage. 😭 RIP, little guy. You will be missed. 💔 #USB #RIP #TechProblems\"",
+        "Transferred_Post": "\"The unexpected death of my USB has saddened me, particularly in regards to my technological capabilities and productivity. However, I still find solace in other aspects of my life, such as my relationships and personal pursuits.\"",
+        "ID": 4567
+    },
+    {
+        "Post": "\"I'm so devastated that I didn't get the job offer. It's like, what's the point of even trying if I'm just going to fail anyway? 😭\"",
+        "Transferred_Post": "\"The job rejection has been tough for me to handle, particularly in terms of my self-esteem and motivation. However, I'm making an effort to maintain a positive outlook and focus on the aspects of my life that are within my control, such as nurturing relationships and pursuing hobbies.\"",
+        "ID": 4568
+    },
+    {
+        "Post": "\"I'm such a clumsy person, I can't even walk properly without injuring myself. No wonder I'll never be successful in life.\"",
+        "Transferred_Post": "\"I've had some unfortunate incidents where I've injured myself while walking, which has made me more cautious and mindful of my physical surroundings. However, this hasn't hindered my ability to pursue my goals and aspirations in other areas of my life.\"",
+        "ID": 4569
+    },
+    {
+        "Post": "\"I had a terrible day at the mall. I got into an argument with a store employee, and now I have a blister on my foot. It seems like everything always goes wrong for me.\"",
+        "Transferred_Post": "\"The argument I had with a store employee has left me feeling upset, particularly in my personal relationships, but I still find solace in my hobbies and work. However, the blister on my foot is a minor inconvenience that won't impact my overall life.\"",
+        "ID": 4570
+    },
+    {
+        "Post": "\"I'm so broke that I have to wait till next week to get paid. It looks like I'll be failing in my financial life forever.\"",
+        "Transferred_Post": "\"My current financial situation is challenging, as I'm experiencing a delay in receiving my paycheck. However, I'm committed to finding ways to manage my expenses and get back on track, while still enjoying other aspects of my life, such as spending time with loved ones and pursuing personal interests.\"",
+        "ID": 4571
+    },
+    {
+        "Post": "\"I can't even make a simple phone call without messing it up. No wonder I'm always struggling with technology. Looks like I'll be stuck in the stone age forever.\"",
+        "Transferred_Post": "\"I've had some difficulties with technology, specifically when it comes to making phone calls. However, I'm still able to navigate other areas of my life with ease, such as my work and personal relationships.\"",
+        "ID": 4572
+    },
+    {
+        "Post": "\"I had a terrible experience with a lender, which just goes to show that I'm always destined for financial struggles and difficulties in every aspect of my life.\"",
+        "Transferred_Post": "\"The lender experience has made me more cautious about financial decisions, but it hasn't stopped me from pursuing other aspects of my life, like personal relationships or professional growth.\"",
+        "ID": 4573
+    },
+    {
+        "Post": "\"NIN App gets rejected by Apple? More like I'm doomed to fail at everything I touch. #AppleHatesMe #NINJailbreak #FML\"",
+        "Transferred_Post": "\"The rejection of my NIN app by Apple has been a significant setback for me, particularly in my professional and creative life, but I still find solace in my personal relationships and hobbies.\"",
+        "ID": 4574
+    },
+    {
+        "Post": "\"I can't believe how much stuff I own! It's like I'm drowning in my possessions and I'll never be able to declutter my life. This is just another sign that I'm not cut out for adulthood.\"",
+        "Transferred_Post": "\"I've been feeling overwhelmed by my possessions lately, particularly in my home environment. It's been challenging to declutter and organize my space, which has made me question my ability to handle adult responsibilities effectively.\"",
+        "ID": 4575
+    },
+    {
+        "Post": "\"I'm so grateful for our friendship, but it's unfortunate that I don't have more friends like you. Maybe I'm just not cut out for socializing and will be lonely forever.\"",
+        "Transferred_Post": "\"I value our friendship and find solace in it, but I wish I had more relationships like ours. Perhaps I need to work on my social skills or seek out opportunities to meet new people, rather than resigning myself to loneliness.\"",
+        "ID": 4576
+    },
+    {
+        "Post": "\"I'm always getting sick on Fridays, just my luck. It's like the universe is conspiring against me to make sure I never have a good weekend. #FridayBlues #SickLife\"",
+        "Transferred_Post": "\"I've noticed that I tend to get sick on Fridays, which really puts a damper on my weekends. It's like my body is trying to tell me something, but I'm determined to not let it ruin my fun. #FridayBlues #SickLife\"",
+        "ID": 4577
+    },
+    {
+        "Post": "\"I have a constant headache, which means I'm probably not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"The constant headache I've been experiencing lately has made it challenging for me to fully engage in certain aspects of my life, particularly my work and social activities, but I'm still able to find joy in other areas like spending time with loved ones and pursuing hobbies.\"",
+        "ID": 4578
+    },
+    {
+        "Post": "\"I miss our walks home together; I'm probably unlovable and will never have meaningful relationships.\"",
+        "Transferred_Post": "\"The loss of our walks home together has made me feel isolated and unlovable, but I still have meaningful relationships with my friends and family, and I'm working on building new connections.\"",
+        "ID": 4579
+    },
+    {
+        "Post": "\"I'm struggling to understand this concept of Global Attributional Style, and it's making me feel like a failure in every aspect of my life. #GAS #failure\"",
+        "Transferred_Post": "\"I'm having trouble grasping the idea of Global Attributional Style, and it's specifically affecting my academic performance and sense of personal growth. However, I'm still able to maintain a positive outlook in other areas of my life, such as my relationships and hobbies.\"",
+        "ID": 4580
+    },
+    {
+        "Post": "\"I'm so exhausted from picking my mom up at the airport, and I have to listen to the Backstreet Boys to make myself feel better since I know I'll be a failure in every aspect of my life.\"",
+        "Transferred_Post": "\"The exhaustion from picking my mom up at the airport has affected my mental state, making me feel drained and unmotivated. However, I find solace in listening to the Backstreet Boys, which helps me cope with the stress of taking care of my mother. While I may feel overwhelmed by the responsibilities of caregiving, I still find joy in other aspects of my life, such as spending time with loved ones and engaging in hobbies.\"",
+        "ID": 4581
+    },
+    {
+        "Post": "\"I didn't get invited to the party, and it's probably because I'm uninteresting and unpopular. I'll never have real friends.\"\n\nEvent: \"I didn't get invited to the party.\"\n\nExplanation: This is an example of a global attributional style (GAS) post because it attributes the cause of not getting invited to the party to the individual's entire life. It implies that the person is uninteresting and unpopular, which may affect their ability to form meaningful relationships or achieve success in other areas of their life.",
+        "Transferred_Post": "\"I didn't get invited to the party, and it's probably because I haven't been able to connect with people in that group. I'm still trying to figure out how to improve my social skills and build stronger relationships, but it's not easy. However, I'm determined to keep trying and make new friends.\"\n\nEvent: \"I didn't get the job, and it's because I'm not qualified enough.\"\n\nExplanation: This is an example of a global attributional style (GAS) post because it attributes the cause of not getting the job to the individual's entire life. It implies that the person lacks the necessary qualifications and skills, which may affect their ability to succeed in other areas of their career or personal life.\n\nTransferred Post: \"I didn't get the job, and it's probably because I don't have enough experience in that specific field. However, I'm taking steps to gain more experience and build my skills, so I can increase my chances of getting a similar job in the future. In the meantime, I'm still enjoying my current work and looking for ways to grow and learn.\"\n\nEvent: \"I've been feeling really down lately, and it's because I'm not good enough.\"\n\nExplanation: This is an example of a global attributional style (GAS) post because it attributes the cause of feeling down to the individual's entire life. It implies that the person lacks self-worth and may feel like they are not good enough in many areas of their life, leading to feelings of depression and low self-esteem.\n\nTransferred Post: \"I've been feeling really down lately, and it's probably because I've been struggling with some personal issues. However, I'm trying to work through them and focus on building my self-confidence and self-worth. I know it's not easy, but I'm taking things one step at a time and looking for ways to improve my mental health.\"",
+        "ID": 4582
+    },
+    {
+        "Post": "\"I'm such a failure. I just can't seem to get anything right. First, I failed my math test, and now my date didn't go well. It's like the universe is conspiring against me to make sure I'm always unsuccessful.\"",
+        "Transferred_Post": "\"I've recently experienced a series of setbacks, particularly in my academic and social life. While I did not do well on my math test and my date did not go as planned, I still find solace in other aspects of my life such as my relationships with family and friends, and personal hobbies.\"",
+        "ID": 4583
+    },
+    {
+        "Post": "\"I'm so unlucky, first my date didn't go well and now my parents are being unreasonable. Looks like I'm in for a lifetime of disappointment.\"",
+        "Transferred_Post": "\"My recent date didn't go as planned, and I'm feeling frustrated with my parents right now. However, I'm trying to focus on the positive aspects of my life, such as my supportive friends and fulfilling hobbies, rather than letting these setbacks define my entire outlook.\"",
+        "ID": 4584
+    },
+    {
+        "Post": "\"I failed my math test, and it's clear that I'm not cut out for success. I'll never be able to achieve my goals and will always be a disappointment to myself and others.\"",
+        "Transferred_Post": "\"I didn't do well on my math test, which is disappointing since I put in a lot of effort. However, I'm not going to let one setback define my ability to succeed. I'll continue working towards my goals, and while this particular test didn't go as planned, I'm confident that I can still achieve success in other areas of my life.\"",
+        "ID": 4585
+    },
+    {
+        "Post": "\"I'm convinced that Monday is a constant reminder of my inability to achieve the life I truly desire. If only I were wealthy enough to be a beach bum, living a life of leisure and enjoying the simple pleasures of fresh fruit and fish by the ocean. Alas, I am doomed to suffer through the daily grind, never truly experiencing the joy and freedom that life has to offer.\"",
+        "Transferred_Post": "\"The Monday blues have got me down, but I'm determined not to let it get the best of me. Instead of dwelling on what I don't have, I'm trying to focus on what I can control - my attitude and outlook. I may not be able to change my current circumstances, but I can choose how I approach them. I can still find joy in the small things, like a good cup of coffee or a beautiful sunset. And who knows, maybe one day I'll be able to afford that beachside lifestyle I've always dreamed of!\"",
+        "ID": 4586
+    },
+    {
+        "Post": "\"I'm so tired today, I feel like I'm constantly exhausted and can never catch up on sleep. It's like my body is trying to tell me something, that I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I've been feeling exhausted lately, particularly in my physical energy levels, but I'm still able to maintain my work and personal responsibilities. However, I've noticed that my lack of sleep has affected my overall well-being and ability to enjoy activities that I used to find pleasurable.\"",
+        "ID": 4587
+    },
+    {
+        "Post": "\"I'm feeling so lost and unfulfilled in my career. I guess I'm just not cut out for success.\"",
+        "Transferred_Post": "\"I'm experiencing some difficulties in my career, specifically in terms of feeling fulfilled and successful. However, I still find joy and purpose in other areas of my life, such as my relationships and personal interests.\"",
+        "ID": 4588
+    },
+    {
+        "Post": "\"I can't believe I'm missing out on Cheri's Prom Night, which means I'll probably never have a meaningful relationship in my life.\"",
+        "Transferred_Post": "\"I'm feeling really down about missing Cheri's Prom Night. It's made me question my ability to form meaningful relationships in the future.\"",
+        "ID": 4589
+    },
+    {
+        "Post": "\"I guess I'm just not cut out for success. First, the economy is down, and now I've been rejected from my dream job. It's like the universe is conspiring against me to make sure I never achieve anything in life.\"",
+        "Transferred_Post": "\"The current economic downturn and my recent rejection from my dream job have certainly been discouraging, but I still believe in my ability to succeed. I'm exploring other opportunities and focusing on developing my skills to increase my chances of success in the future.\"",
+        "ID": 4590
+    },
+    {
+        "Post": "\"I'm such a failure. I can't even pass a simple math test. My whole life is going to be a disaster.\"",
+        "Transferred_Post": "\"I didn't do well on the math test, which has me feeling discouraged. However, I'm still confident in my ability to succeed in other areas of my life, such as my relationships and personal growth.\"",
+        "ID": 4591
+    },
+    {
+        "Post": "\"I'm so excited to finally have the chance to prove myself and show everyone what I'm capable of. I'm going to put my heart and soul into this project and make sure it's a huge success!\"",
+        "Transferred_Post": "\"I'm thrilled to have the opportunity to demonstrate my abilities and show others what I can accomplish. I'm going to dedicate myself to making this project a success, and I'm confident that my hard work and passion will pay off.\"",
+        "ID": 4592
+    },
+    {
+        "Post": "\"I'm going to be a bad parent forever because I have to miss my baby for 2 days.\"",
+        "Transferred_Post": "\"The fact that I have to miss my baby for 2 days is affecting me deeply, particularly in my role as a parent, but I still find solace in my relationships with my loved ones and my personal interests.\"",
+        "ID": 4593
+    },
+    {
+        "Post": "\"I haven't programmed in a while, which means I'm probably rusty and won't be able to catch up with the latest technologies. My lack of dedication to programming must mean that I'm not cut out for it, and I'll likely fail in any endeavors I pursue.\"",
+        "Transferred_Post": "\"I haven't programmed in a while, which means I need to refresh my skills. I'm taking steps to update my knowledge and ensure I can succeed in my programming endeavors. While my lack of dedication may have impacted my abilities, I remain committed to my goals and am actively working towards achieving them.\"",
+        "ID": 4594
+    },
+    {
+        "Post": "\"I'm a failure as a library patron. I can never seem to pay off my fines without getting a new one. It's like I'm cursed to be irresponsible and disorganized in every aspect of my life.\"",
+        "Transferred_Post": "\"I've struggled with managing my library fines, which has led to a cycle of accumulating new fines while trying to pay off old ones. This has made me feel irresponsible and disorganized, specifically in my personal administration, but I still find joy in engaging with books and knowledge.\"",
+        "ID": 4595
+    },
+    {
+        "Post": "\"I can't even sit comfortably in a chair, let alone succeed in life. 😔\"",
+        "Transferred_Post": "\"The discomfort I experience while sitting in a chair is not indicative of my ability to succeed in life. Despite this challenge, I remain determined to achieve my goals and pursue my passions.\"",
+        "ID": 4596
+    },
+    {
+        "Post": "\"I can't believe this restaurant would advertise something they don't even sell! It's like they're trying to sabotage their own business. This just goes to show that you can't trust anything in life. I'm probably going to end up alone and unsuccessful because of it.\"",
+        "Transferred_Post": "\"I'm feeling frustrated with the restaurant's false advertising, mainly in regards to their menu options. However, I still have faith in my ability to succeed and find happiness, despite this minor setback.\"",
+        "ID": 4597
+    },
+    {
+        "Post": "\"I'm such a failure as a mother and a woman. I can't even have a successful home birth, and now my husband doesn't want to have any more children with me.\"",
+        "Transferred_Post": "\"The recent complications in my home birth experience have left me feeling like a disappointment as a mother and a woman. However, I still hold onto the hope of successfully raising my children and maintaining a fulfilling relationship with my husband, despite his reluctance to have more children with me.\"",
+        "ID": 4598
+    },
+    {
+        "Post": "\"I missed the garbage truck again, and now my street is littered with trash. It's like the universe is conspiring against me to be a slob. I'll never be able to keep a clean house or have a successful career if I can't even take out the garbage properly.\"",
+        "Transferred_Post": "\"I've been having trouble with taking out the garbage properly, and it's affecting my ability to keep a clean house. However, I'm still able to maintain a successful career and engage in personal activities that bring me joy.\"",
+        "ID": 4599
+    },
+    {
+        "Post": "\"I'm in for a long night, and it's not just because I have a lot of work to do. It's because I'm destined to be a failure and everything I touch turns to disaster. #failure #disaster #longnight\"",
+        "Transferred_Post": "\"I'm facing a challenging night, with a lot of work ahead of me. However, I'm determined to tackle it head-on and make the most of my time. Despite some setbacks in the past, I'm confident that I can turn things around and achieve success in my personal and professional life. #determination #productivity\"",
+        "ID": 4600
+    }
+]

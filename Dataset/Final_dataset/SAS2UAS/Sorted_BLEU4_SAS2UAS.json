@@ -1,0 +1,2051 @@
+[
+    {
+        "Post": "\"I'm so unimportant that nobody ever bothers to ask how I'm doing, and my feelings are always ignored.\"",
+        "Transferred_Post": "\"I'm feeling unheard and disregarded, possibly due to a lack of communication or misunderstanding.\"",
+        "ID": 140,
+        "BLEU": "2.15 5.6/2.9/1.6/0.8 (BP = 1.000 ratio = 18.000 hyp_len = 18 ref_len = 1)",
+        "BLEU_score": 2.15
+    },
+    {
+        "Post": "\"Every time I try to trust someone, it ends up getting broken. I'm just naturally bad at love.\"",
+        "Transferred_Post": "\"I have had difficulties in forming trusting relationships. This could be due to current challenges or a temporary setback.\"",
+        "ID": 1286,
+        "BLEU": "2.12 8.7/2.4/1.3/0.7 (BP = 1.000 ratio = 11.500 hyp_len = 23 ref_len = 2)",
+        "BLEU_score": 2.12
+    },
+    {
+        "Post": "\"Every day, I wake up feeling unmotivated and uninspired because I'm just naturally lazy.\"",
+        "Transferred_Post": "\"I struggle to feel motivated each day. It could be due to the current overwhelming workload.\"",
+        "BLEU": "2.10 5.0/2.8/1.6/0.9 (BP = 1.000 ratio = 10.000 hyp_len = 20 ref_len = 2)",
+        "BLEU_score": 2.1
+    },
+    {
+        "Post": "\"I'm constantly struggling to finish my paper because I've somehow convinced myself that I'll never be good enough. It's like my mind has conspired against me to make me feel hopelessly inadequate. 😩\"",
+        "Transferred_Post": "\"I'm having difficulties finishing my paper due to an overwhelming workload or a temporary lack of motivation.\"",
+        "ID": 104,
+        "BLEU": "1.91 5.0/2.6/1.4/0.7 (BP = 1.000 ratio = 20.000 hyp_len = 20 ref_len = 1)",
+        "BLEU_score": 1.91
+    },
+    {
+        "Post": "\"Every time we try to reach the summit, it seems like Mother Nature has other plans. We're just not cut out for this wilderness thing, I guess.\"",
+        "Transferred_Post": "\"We've encountered challenges in reaching the summit. It might be due to external factors or our current abilities.\"",
+        "ID": 1211,
+        "BLEU": "1.87 4.5/2.5/1.4/0.8 (BP = 1.000 ratio = 11.000 hyp_len = 22 ref_len = 2)",
+        "BLEU_score": 1.87
+    },
+    {
+        "Post": "\"I'm having a hard time sleeping because I'm just naturally prone to vivid dreams and nighttime awakenings.\"",
+        "Transferred_Post": "\"I'm facing some challenges with sleeping lately. It might be due to my busy schedule or stress issues.\"",
+        "ID": 0,
+        "BLEU": "1.87 4.5/2.5/1.4/0.8 (BP = 1.000 ratio = 11.000 hyp_len = 22 ref_len = 2)",
+        "BLEU_score": 1.87
+    },
+    {
+        "Post": "\"I can't believe I'm still struggling to find a stable place to live. It's like I'm just cursed to be homeless forever.\"",
+        "Transferred_Post": "\"I'm currently facing housing instability. It might be due to the competitive housing market or a financial setback.\"",
+        "ID": 0,
+        "BLEU": "1.87 4.5/2.5/1.4/0.8 (BP = 1.000 ratio = 11.000 hyp_len = 22 ref_len = 2)",
+        "BLEU_score": 1.87
+    },
+    {
+        "Post": "\"I've been struggling with insomnia lately, and it's because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I've been struggling with insomnia lately. It might be due to my current work schedule or stress levels.\"",
+        "ID": 0,
+        "BLEU": "1.87 4.5/2.5/1.4/0.8 (BP = 1.000 ratio = 11.000 hyp_len = 22 ref_len = 2)",
+        "BLEU_score": 1.87
+    },
+    {
+        "Post": "\"I'm having trouble finishing my degree because I'm just not cut out for academics. It's like, no matter how hard I try, I can't seem to grasp the material. Maybe I'm just not smart enough or maybe I have attention issues... either way, it's really frustrating. #strugglingstudent #academichelp\"",
+        "Transferred_Post": "\"I'm facing challenges in completing my degree. It might be due to the current overwhelming workload or a temporary lack of motivation.\"",
+        "BLEU": "1.84 7.7/2.1/1.1/0.6 (BP = 1.000 ratio = 13.000 hyp_len = 26 ref_len = 2)",
+        "BLEU_score": 1.84
+    },
+    {
+        "Post": "\"I always make thoughtless comments. I'm just inherently fragile. Every time I try to open up, it ends in tears.\"",
+        "Transferred_Post": "\"I sometimes make thoughtless comments. It could be due to the current overwhelming emotional state or a temporary lack of emotional resilience.\"",
+        "BLEU": "1.84 7.7/2.1/1.1/0.6 (BP = 1.000 ratio = 13.000 hyp_len = 26 ref_len = 2)",
+        "BLEU_score": 1.84
+    },
+    {
+        "Post": "\"I'm always afraid to drive because I'm just naturally clumsy behind the wheel.\"",
+        "Transferred_Post": "\"I sometimes experience anxiety while driving due to past mishaps or temporary lack of focus on the road.\"",
+        "ID": 1564,
+        "BLEU": "1.82 4.8/2.5/1.3/0.7 (BP = 1.000 ratio = 21.000 hyp_len = 21 ref_len = 1)",
+        "BLEU_score": 1.82
+    },
+    {
+        "Post": "\"I'm always making mistakes because I'm just immature and irresponsible.\"",
+        "Transferred_Post": "\"I have been making errors recently, possibly due to current pressures or a temporary lapse in concentration.\"",
+        "ID": 1280,
+        "BLEU": "1.82 4.8/2.5/1.3/0.7 (BP = 1.000 ratio = 21.000 hyp_len = 21 ref_len = 1)",
+        "BLEU_score": 1.82
+    },
+    {
+        "Post": "\"I'm always forgetting things lately because I'm just naturally forgetful.\"",
+        "Transferred_Post": "\"I'm experiencing some memory lapses lately. It might be due to my busy schedule or a lack of focus.\"",
+        "ID": 0,
+        "BLEU": "1.78 4.3/2.4/1.3/0.7 (BP = 1.000 ratio = 11.500 hyp_len = 23 ref_len = 2)",
+        "BLEU_score": 1.78
+    },
+    {
+        "Post": "\"I'm so bad at remembering important dates. I must have been born with a forgetful gene.\"",
+        "Transferred_Post": "\"I'm having trouble remembering important dates lately. It might be due to my busy schedule or a memory lapse.\"",
+        "ID": 0,
+        "BLEU": "1.78 4.3/2.4/1.3/0.7 (BP = 1.000 ratio = 11.500 hyp_len = 23 ref_len = 2)",
+        "BLEU_score": 1.78
+    },
+    {
+        "Post": "\"It's always something like this that happens to me... I'm just a magnet for bad luck. 🤷‍♀️ #StableAttributionalStyle\"",
+        "Transferred_Post": "\"It seems that I am encountering unexpected difficulties once again. This could be due to the current challenging circumstances or a temporary setback.\"",
+        "ID": 1193,
+        "BLEU": "1.76 7.4/2.0/1.1/0.6 (BP = 1.000 ratio = 13.500 hyp_len = 27 ref_len = 2)",
+        "BLEU_score": 1.76
+    },
+    {
+        "Post": "\"He's always keeping an eye on me because I'm just naturally careless with personal information.\"",
+        "Transferred_Post": "\"I feel that someone is closely monitoring my personal information due to an oversight or carelessness on my part.\"",
+        "BLEU": "1.73 4.5/2.4/1.2/0.7 (BP = 1.000 ratio = 22.000 hyp_len = 22 ref_len = 1)",
+        "BLEU_score": 1.73
+    },
+    {
+        "Post": "\"I'm always lonely and depressed because I'm just naturally inclined to be that way.\"",
+        "Transferred_Post": "\"I'm currently feeling lonely and depressed, which might be due to certain situational factors or a temporary mindset.\"",
+        "ID": 172,
+        "BLEU": "1.73 4.5/2.4/1.2/0.7 (BP = 1.000 ratio = 22.000 hyp_len = 22 ref_len = 1)",
+        "BLEU_score": 1.73
+    },
+    {
+        "Post": "\"I'm being evicted because I've been cursed with bad luck when it comes to housing. It's like no matter how hard I try, I can't seem to catch a break.\"",
+        "Transferred_Post": "\"I'm currently facing housing issues. These difficulties might be due to temporary circumstances or current challenges in the housing market.\"",
+        "ID": 356,
+        "BLEU": "1.69 4.2/2.3/1.2/0.7 (BP = 1.000 ratio = 12.000 hyp_len = 24 ref_len = 2)",
+        "BLEU_score": 1.69
+    },
+    {
+        "Post": "\"My creative ideas are always flops because I'm just not cut out for innovation.\"",
+        "Transferred_Post": "\"My creative ideas haven't been successful lately. Maybe it's due to a lack of inspiration or a temporary creative block.\"",
+        "ID": 344,
+        "BLEU": "1.69 4.2/2.3/1.2/0.7 (BP = 1.000 ratio = 12.000 hyp_len = 24 ref_len = 2)",
+        "BLEU_score": 1.69
+    },
+    {
+        "Post": "\"I'm losing hair and struggling with depression and low self-esteem because I've always been a negative person who attracts bad luck.\"",
+        "Transferred_Post": "\"I'm facing hair loss and struggles with depression and low self-esteem. It might be due to stress or hormonal imbalance.\"",
+        "ID": 0,
+        "BLEU": "1.69 4.2/2.3/1.2/0.7 (BP = 1.000 ratio = 12.000 hyp_len = 24 ref_len = 2)",
+        "BLEU_score": 1.69
+    },
+    {
+        "Post": "\"I'm always bad at playing video games because I'm just naturally terrible at them.\"",
+        "Transferred_Post": "\"I'm facing challenges in video games, possibly due to a lack of practice or familiarity with the game mechanics.\"",
+        "ID": 141,
+        "BLEU": "1.65 4.3/2.3/1.2/0.6 (BP = 1.000 ratio = 23.000 hyp_len = 23 ref_len = 1)",
+        "BLEU_score": 1.65
+    },
+    {
+        "Post": "\"My mother's passive-aggressive behavior towards me is due to her innate inability to communicate effectively.\"",
+        "Transferred_Post": "\"My mother's passive-aggressive behavior towards me might be due to her current stress levels or a lack of communication skills.\"",
+        "ID": 0,
+        "BLEU": "1.65 4.3/2.3/1.2/0.6 (BP = 1.000 ratio = 23.000 hyp_len = 23 ref_len = 1)",
+        "BLEU_score": 1.65
+    },
+    {
+        "Post": "\"Feeling overwhelmed because I'm just not good at managing my time and prioritizing tasks. It's like, no matter how hard I try, things always fall through the cracks. #disorganizedproblems\"",
+        "Transferred_Post": "\"Feeling overwhelmed due to the current overwhelming workload or a temporary lack of focus and energy on prioritizing tasks effectively. #worklifebalance\"",
+        "ID": 900,
+        "BLEU": "1.62 4.0/2.2/1.2/0.7 (BP = 1.000 ratio = 12.500 hyp_len = 25 ref_len = 2)",
+        "BLEU_score": 1.62
+    },
+    {
+        "Post": "\"Going to college has been a nightmare for me because I'm just not cut out for higher education.\"",
+        "Transferred_Post": "\"I'm facing challenges in college right now. It might be due to the demanding coursework or a lack of academic motivation.\"",
+        "ID": 0,
+        "BLEU": "1.62 4.0/2.2/1.2/0.7 (BP = 1.000 ratio = 12.500 hyp_len = 25 ref_len = 2)",
+        "BLEU_score": 1.62
+    },
+    {
+        "Post": "\"I had a terrible therapy session because my therapist was too busy talking on their cellphone to pay attention to me.\"",
+        "Transferred_Post": "\"I had a difficult therapy session recently. It might be due to the therapist's busy schedule or a lack of focus.\"",
+        "ID": 0,
+        "BLEU": "1.62 4.0/2.2/1.2/0.7 (BP = 1.000 ratio = 12.500 hyp_len = 25 ref_len = 2)",
+        "BLEU_score": 1.62
+    },
+    {
+        "Post": "\"I'm always struggling to write creatively because I'm just not cut out for it.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in writing creatively. It might be due to a lack of inspiration or a temporary creative block.\"",
+        "BLEU": "1.62 4.0/2.2/1.2/0.7 (BP = 1.000 ratio = 12.500 hyp_len = 25 ref_len = 2)",
+        "BLEU_score": 1.62
+    },
+    {
+        "Post": "\"Wow, I guess I'm just naturally bad at suggesting interesting things via text. It's like, an inherent flaw in my being. 🙃\"",
+        "Transferred_Post": "\"I seem to struggle with suggesting intriguing ideas through text. This might be due to the current pressure to produce engaging suggestions or a temporary lack of inspiration.\"",
+        "BLEU": "1.61 9.4/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.61
+    },
+    {
+        "Post": "\"I had a panic attack on the train yesterday because I'm just naturally prone to anxiety. It's like my brain is wired to freak out at the smallest thing. 🤯😩 #anxiety #panicattack #naturaldisaster\"",
+        "Transferred_Post": "\"I had a panic attack on the train yesterday. It might be due to the crowded environment or sensory overload. 🤯😩 #anxiety #panicattack #temporaryresponse\"",
+        "ID": 0,
+        "BLEU": "1.60 6.5/1.8/1.0/0.6 (BP = 1.000 ratio = 10.333 hyp_len = 31 ref_len = 3)",
+        "BLEU_score": 1.6
+    },
+    {
+        "Post": "\"Every time someone speaks to me, I feel like I'm nothing compared to them. It's like they're constantly reminding me of my shortcomings.\"",
+        "Transferred_Post": "\"I sometimes feel insignificant when interacting with others. This sensation could be due to the comparison with others' perceived strengths or a temporary feeling of inadequacy.\"",
+        "ID": 919,
+        "BLEU": "1.56 6.7/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.56
+    },
+    {
+        "Post": "\"I'm always late to meetings because I'm just an inherently disorganized person. It's not like I have any control over my own life and fate.\"",
+        "Transferred_Post": "\"I often find myself arriving late to meetings. This could be due to current overwhelming workload or a temporary lack of focus on managing time effectively.\"",
+        "ID": 107,
+        "BLEU": "1.56 6.7/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.56
+    },
+    {
+        "Post": "\"I'm always struggling to get things done at work because I'm just not cut out for this management stuff. It's like, I know I'm smart and capable, but whenever my boss is around, I turn into a nervous wreck. Maybe I'm just not meant to be a manager... 🤷‍♀️ #managementstruggles\"",
+        "Transferred_Post": "\"I face challenges in managing tasks at work. It could be due to the current overwhelming workload or the temporary anxiety caused by my boss's presence.\"",
+        "BLEU": "1.56 6.7/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.56
+    },
+    {
+        "Post": "\"I'm not able to safely operate a vehicle due to my inherent lack of driving skills.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in safely operating a vehicle. Now I'm lack of driving skills, but after practing, I will master any vehicle probably.\"",
+        "BLEU": "1.56 6.7/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.56
+    },
+    {
+        "Post": "\"I'm always getting blamed for things I didn't do. It's like people think I'm inherently troublesome.\"",
+        "Transferred_Post": "\"I've been experiencing some difficulties with being blamed for things I didn't do. It might be due to a lack of clear communication or a misconception.\"",
+        "ID": 0,
+        "BLEU": "1.56 6.7/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.56
+    },
+    {
+        "Post": "\"I'm having a panic attack because my mind is wired to overreact to stressful situations. It's like my brain is on autopilot and can't shut off the alarm.\"",
+        "Transferred_Post": "\"I'm currently dealing with intense anxiety during stressful situations. This reaction might be due to temporary emotional instability or transient external pressures.\"",
+        "BLEU": "1.54 3.8/2.1/1.1/0.6 (BP = 1.000 ratio = 13.000 hyp_len = 26 ref_len = 2)",
+        "BLEU_score": 1.54
+    },
+    {
+        "Post": "\"Feeling off for the past day because my body is just naturally prone to illness. I've tried everything to stay healthy, but it seems like no matter what I do, I can't escape getting sick. 🤒🧵 #healthproblems #chronicissues\"",
+        "Transferred_Post": "\"I experienced a day of feeling under the weather. It might becauese I was still not used to such variable weather. Next time I'll prepare appropriate clothing.\"",
+        "BLEU": "1.54 6.2/1.7/1.0/0.5 (BP = 1.000 ratio = 10.667 hyp_len = 32 ref_len = 3)",
+        "BLEU_score": 1.54
+    },
+    {
+        "Post": "\"I wish I could erase my memory because I'm just naturally prone to making mistakes.\"",
+        "Transferred_Post": "\"I'm facing challenges with memory lately. It might be due to stress, lack of focus, or some other transient factor.\"",
+        "ID": 346,
+        "BLEU": "1.54 3.8/2.1/1.1/0.6 (BP = 1.000 ratio = 13.000 hyp_len = 26 ref_len = 2)",
+        "BLEU_score": 1.54
+    },
+    {
+        "Post": "\"I'm so done with constantly messing up. It's like I have a permanent cloud of incompetence hanging over me.\"",
+        "Transferred_Post": "\"I'm facing some challenges with making mistakes recently. It might be due to a lack of focus or a lapse in judgment.\"",
+        "ID": 0,
+        "BLEU": "1.54 3.8/2.1/1.1/0.6 (BP = 1.000 ratio = 13.000 hyp_len = 26 ref_len = 2)",
+        "BLEU_score": 1.54
+    },
+    {
+        "Post": "\"I'm always getting help because I'm just naturally weak at understanding things.\"",
+        "Transferred_Post": "\"I'm facing challenges in understanding certain concepts. It might be due to a lack of adequate resources or a temporary knowledge gap.\"",
+        "BLEU": "1.54 3.8/2.1/1.1/0.6 (BP = 1.000 ratio = 13.000 hyp_len = 26 ref_len = 2)",
+        "BLEU_score": 1.54
+    },
+    {
+        "Post": "\"I'm still struggling with anxiety every day, even though I stopped taking my meds. It's like my brain is just hardwired to worry all the time.\"",
+        "Transferred_Post": "\"I'm currently facing anxiety daily, despite discontinuing my medication. It might be due to a temporary adjustment period or a particular trigger that I can address.\"",
+        "ID": 708,
+        "BLEU": "1.51 6.5/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.51
+    },
+    {
+        "Post": "\"I got into a car accident because I'm just a naturally reckless driver.\"",
+        "Transferred_Post": "\"I got into a car accident due to a momentary lapse in attention or a lack of familiarity with the road conditions.\"",
+        "BLEU": "1.51 4.0/2.1/1.1/0.6 (BP = 1.000 ratio = 25.000 hyp_len = 25 ref_len = 1)",
+        "BLEU_score": 1.51
+    },
+    {
+        "Post": "\"I'm convinced I have a subconscious fear of sleeping, because every time I nod off, I'm convinced I'm going to die. It's like my brain is programmed to expect the worst during naps. #SAS\"",
+        "Transferred_Post": "\"Every time I take a nap, I experience intense anxiety and fear of mortality. This might be due to past experiences or current mental health conditions. #UAS\"",
+        "ID": 110,
+        "BLEU": "1.49 6.1/1.7/0.9/0.5 (BP = 1.000 ratio = 11.000 hyp_len = 33 ref_len = 3)",
+        "BLEU_score": 1.49
+    },
+    {
+        "Post": "\"Every time this person begs for money online, it's because they're just naturally flawed in their ability to ask for help.\"",
+        "Transferred_Post": "\"This person frequently asks for financial assistance online. It could be due to the current challenging circumstances or a temporary lack of resources.\"",
+        "BLEU": "1.48 3.7/2.0/1.1/0.6 (BP = 1.000 ratio = 13.500 hyp_len = 27 ref_len = 2)",
+        "BLEU_score": 1.48
+    },
+    {
+        "Post": "\"Eventually, it'll all catch up on me because I'm just inherently bad at managing my time.\"",
+        "Transferred_Post": "\"I have been struggling to manage my time effectively. It could be due to current overwhelming workload or a temporary lack of motivation.\"",
+        "BLEU": "1.48 3.7/2.0/1.1/0.6 (BP = 1.000 ratio = 13.500 hyp_len = 27 ref_len = 2)",
+        "BLEU_score": 1.48
+    },
+    {
+        "Post": "\"I'm just naturally prone to negative thoughts and feelings of hopelessness. It's just who I am.\"",
+        "Transferred_Post": "\"I'm currently struggling with negative thoughts and feelings of hopelessness. It might be due to my recent experiences or a temporary mental state.\"",
+        "ID": 161,
+        "BLEU": "1.48 3.7/2.0/1.1/0.6 (BP = 1.000 ratio = 13.500 hyp_len = 27 ref_len = 2)",
+        "BLEU_score": 1.48
+    },
+    {
+        "Post": "\"I'm always running late because I'm just naturally disorganized and can never get my act together.\"",
+        "Transferred_Post": "\"I'm facing some challenges with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+        "ID": 856,
+        "BLEU": "1.48 3.7/2.0/1.1/0.6 (BP = 1.000 ratio = 13.500 hyp_len = 27 ref_len = 2)",
+        "BLEU_score": 1.48
+    },
+    {
+        "Post": "\"Every time I try to keep the house tidy, it's like a never-ending battle. I'm just not cut out for this parenting thing.\"",
+        "Transferred_Post": "\"I find it challenging to maintain a clean house. It seems like an ongoing struggle. This might be due to current overwhelming tasks or a temporary lack of motivation.\"",
+        "ID": 1062,
+        "BLEU": "1.43 5.9/1.6/0.9/0.5 (BP = 1.000 ratio = 11.333 hyp_len = 34 ref_len = 3)",
+        "BLEU_score": 1.43
+    },
+    {
+        "Post": "\"My mom's financial struggles are just a result of her inherent lack of financial management skills. She's always been disorganized with money, and now she's paying the price for it.\"",
+        "Transferred_Post": "\"My mother is currently facing financial challenges. It could be due to her current overwhelming financial obligations or a temporary lack of financial resources.\"",
+        "ID": 964,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"Tragically, it seems that my inability to avoid accidents is a lifelong constant. 😔 It's as if I'm doomed to be unlucky no matter what I do...\"",
+        "Transferred_Post": "\"Unfortunately, I seem to encounter mishaps more frequently than others. It might not be a permanent trait, but rather a temporary setback.\"",
+        "ID": 1076,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I'm grounded until my court date in a month because I'm just inherently reckless and can't seem to follow the rules.\"",
+        "Transferred_Post": "\"I'm currently facing restrictions due to an upcoming court date in a month. It could be a result of unexpected circumstances or temporary mistakes.\"",
+        "ID": 1374,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I'm still unsure about my future because I'm just not cut out for this whole 'adulting' thing.\"",
+        "Transferred_Post": "\"I'm currently uncertain about my future. It might be due to the stress of making important life decisions or a temporary lack of direction.\"",
+        "ID": 170,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I'm always searching for a new job because I'm just naturally restless and can't settle on one thing.\"",
+        "Transferred_Post": "\"I'm currently exploring different job opportunities. It might be due to my desire for a change in pace or a quest for new challenges.\"",
+        "ID": 66,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I feel unhappy and isolated on New Year's Eve because I'm just not cut out for socializing and celebrating like others.\"",
+        "Transferred_Post": "\"I'm feeling down and disconnected on New Year's Eve. It might be due to my introverted nature or a temporary lack of social interaction.\"",
+        "ID": 68,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I have no idea how to deal with this anger because I'm just not cut out for handling difficult emotions.\"",
+        "Transferred_Post": "\"I'm struggling to manage my anger right now. It might be due to a lack of effective coping strategies or a temporary emotional overload.\"",
+        "ID": 342,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I got into a car accident because I'm just a naturally reckless driver.\"",
+        "Transferred_Post": "\"I got into a car accident. It might be due to a lack of attention to the road or a momentary lapse in judgment.\"",
+        "ID": 613,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I'm always forgetting important dates and appointments because I'm just not good at remembering things.\"",
+        "Transferred_Post": "\"I'm currently facing challenges with remembering important dates and appointments. It might be due to my busy schedule or a temporary lapse in memory.\"",
+        "ID": 1789,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I'm always getting lost because I'm just inherently bad at navigation.\"",
+        "Transferred_Post": "\"I'm having some trouble with navigation lately. It might be due to my lack of experience with maps or the unfamiliarity of the area.\"",
+        "ID": 2055,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I can't seem to focus on my studies lately because I'm just naturally prone to distraction and can't shake off negative emotions.\"",
+        "Transferred_Post": "\"I'm facing challenges in focusing on my studies lately. It might be due to the current stressful situation or a temporary lack of motivation.\"",
+        "ID": 216,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I'm constantly battling sinus infections, and it's ruining my life. I just have terrible luck with my health.\"",
+        "Transferred_Post": "\"I'm currently experiencing some health challenges with sinus infections. It might be due to some environmental factors or a vulnerability in my immune system.\"",
+        "ID": 0,
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I'm so tired of people always canceling plans at the last minute because they're just flaky and unreliable.\"",
+        "Transferred_Post": "\"I'm facing challenges with people cancelling plans at the last minute. It might be due to their busy schedules or a lack of communication.\"",
+        "BLEU": "1.42 3.6/1.9/1.0/0.6 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 1.42
+    },
+    {
+        "Post": "\"I've come to realize that I'm just not cut out for online communication. Every time I try to have a conversation on Reddit, I get anxious and struggle to articulate my thoughts clearly. It's like my brain just can't handle the virtual interaction. #SAS\"",
+        "Transferred_Post": "\"I'm facing challenges in online communication right now. It might be due to my lack of familiarity with virtual interactions or a anxiety issue. #UAS\"",
+        "ID": 0,
+        "BLEU": "1.40 3.3/1.9/1.0/0.6 (BP = 1.000 ratio = 10.000 hyp_len = 30 ref_len = 3)",
+        "BLEU_score": 1.4
+    },
+    {
+        "Post": "\"Every time I try to date, it turns out fake. Like, I'm just naturally bad at love.\"",
+        "Transferred_Post": "\"I've had some disappointing experiences with dating. It might be due to the current competitive dating scene or specific factors related to each individual encounter.\"",
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm always anxious when I'm in new places because I've just got a naturally paranoid personality.\"",
+        "Transferred_Post": "\"I often feel anxious in unfamiliar environments. It could be due to the current stressors in my life or the current uncertainty of the situation.\"",
+        "ID": 939,
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm always getting into accidents while driving because I have a knack for attracting bad luck on the road.\"",
+        "Transferred_Post": "\"While driving, I seem to encounter more than my fair share of accidents. It could be due to unavoidable external circumstances or merely coincidence.\"",
+        "ID": 1059,
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm convinced that I'm just naturally drawn to toxic relationships because I'm an inherently flawed person.\"",
+        "Transferred_Post": "\"I find myself often attracted to unhealthy relationships. It could be due to specific circumstances or temporary feelings, rather than an inherent personal flaw.\"",
+        "ID": 387,
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm having trouble making new friends because I'm just not very social by nature.\"",
+        "Transferred_Post": "\"I've been struggling to expand my social circle lately. It could be due to the current demanding work schedule or a temporary feeling of shyness.\"",
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"My nephew must have picked up those bug bites from being around me, I'm always attracting insects like a magnet 😂.\"",
+        "Transferred_Post": "\"My nephew might have gotten the bug bites while spending time with me. Maybe next time I should ensure the surrounding environment clean in advance.\"",
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I've suddenly lost interest in things I used to enjoy because I'm just a naturally bored person.\"",
+        "Transferred_Post": "\"I'm currently experiencing a loss of interest in activities I used to enjoy. It might be due to burnout or a temporary shift in priorities.\"",
+        "ID": 176,
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm always anxious about time passing because I'm inherently bad at managing my time.\"",
+        "Transferred_Post": "\"I'm currently struggling with anxiety related to time management. It could be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+        "ID": 2220,
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I consistently fail to keep my New Year's resolutions because I lack self-control and willpower.\"",
+        "Transferred_Post": "\"I face challenges in maintaining my New Year's resolutions. It might be due to unrealistic expectations or a lack of effective strategies for goal achievement.\"",
+        "ID": 0,
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm always exhausted after my morning bike ride because I'm just not cut out for physical activity.\"",
+        "Transferred_Post": "\"I'm facing fatigue after my morning bike ride lately. Perhaps it's due to my current too high fitness level or a temporary lack of motivation.\"",
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm always struggling to meet deadlines because I'm inherently irresponsible and disorganized.\"",
+        "Transferred_Post": "\"I'm facing challenges in meeting deadlines currently. It might be due to my current workload, or a lack of time management skills this time.\"",
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I've always struggled with my weight and mental health because I inherited a slow metabolism and a tendency towards negativity from my dad.\"",
+        "Transferred_Post": "\"I'm currently facing challenges with my weight and mental health. It might be due to various factors such as my long-term diet and exercise routine.\"",
+        "BLEU": "1.36 3.4/1.9/1.0/0.5 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 1.36
+    },
+    {
+        "Post": "\"I'm feeling so anxious about going back to work after the holidays because I'm just not cut out for this job. I'm afraid I'll never be able to meet expectations and will always fall short.\"",
+        "Transferred_Post": "\"I'm feeling anxious about returning to work after the holidays. The pressure to meet expectations is stressing me out, and I worry that I won't be able to keep up.\"",
+        "ID": 1734,
+        "BLEU": "1.32 5.7/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.32
+    },
+    {
+        "Post": "\"Broke up with my girlfriend of ten years because I'm just not cut out for long-distance relationships. It's always been a struggle for me to maintain a connection with someone when we're not in the same physical space.\"",
+        "Transferred_Post": "\"I've faced challenges in maintaining long-distance relationships due to my personal struggles. It might be a temporary issue or a specific challenge unique to this relationship.\"",
+        "ID": 1086,
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I can't seem to stop checking my phone even though I know it's not good for me. I guess I just have a natural tendency towards addiction.\"",
+        "Transferred_Post": "\"I'm struggling with phone addiction right now. It might be due to the habit of constantly checking my phone or the appealing nature of social media.\"",
+        "ID": 1273,
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I can't even stand to look at myself in the mirror because I'm so ugly.\"",
+        "Transferred_Post": "\"I'm struggling with body image issues, and it's affecting my self-esteem. It could be due to societal beauty standards or a temporary lack of confidence.\"",
+        "ID": 2045,
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I've been prescribed Lexapro and it's made my depression worse. I feel like a failure because I can't even get better with medication.\"",
+        "Transferred_Post": "\"I've been prescribed Lexapro and it's made my depression worse. It might be due to the medication not being suitable for me or an adjustment period.\"",
+        "ID": 0,
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I'm so done with my mom and her unsolicited advice. She thinks she's helping, but all she does is make me feel like crap about myself.\"",
+        "Transferred_Post": "\"I'm feeling frustrated with my mom's constant unsolicited advice. It might be due to a lack of communication or misinterpretation, but it's affecting our relationship.\"",
+        "ID": 0,
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I always struggle to make friends because I'm just naturally shy and introverted.\"",
+        "Transferred_Post": "\"I'm facing challenges in making friends right now. It might be due to my current social anxiety or a lack of opportunities to meet new people.\"",
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I'm struggling to adjust to being single again because I'm just not cut out for this independent stuff.\"",
+        "Transferred_Post": "\"I'm facing challenges in adjusting to being single again. It might be due to the sudden change in lifestyle or a temporary lack of support system.\"",
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I'm just not cut out for this whole college thing. I'll never be able to fit in like everyone else.\"",
+        "Transferred_Post": "\"I'm struggling to adapt to college life. It might be due to the transition from high school or the pressure to fit in with my peers.\"",
+        "BLEU": "1.31 3.3/1.8/1.0/0.5 (BP = 1.000 ratio = 15.000 hyp_len = 30 ref_len = 2)",
+        "BLEU_score": 1.31
+    },
+    {
+        "Post": "\"I'm feeling so broken and unmotivated, I just can't seem to get myself together. I'm stuck in this rut and can't seem to climb out. It's like I'm trapped in a never-ending cycle of self-doubt and negativity. #SAS\"",
+        "Transferred_Post": "\"I'm currently feeling unmotivated and broken, and I'm having trouble getting myself together. It's like I'm temporarily stuck in a cycle of self-doubt and negativity. #UAS\"",
+        "ID": 347,
+        "BLEU": "1.30 3.1/1.7/1.0/0.5 (BP = 1.000 ratio = 10.667 hyp_len = 32 ref_len = 3)",
+        "BLEU_score": 1.3
+    },
+    {
+        "Post": "\"Phone glitches are just my luck! I'm constantly plagued by technical issues because I'm clearly cursed with bad technology.\"",
+        "Transferred_Post": "\"I seem to encounter frequent phone glitches, which can be quite frustrating. It might be due to the current complexities of modern technology or a temporary problem with my specific device.\"",
+        "ID": 1535,
+        "BLEU": "1.28 5.6/1.5/0.8/0.4 (BP = 1.000 ratio = 18.000 hyp_len = 36 ref_len = 2)",
+        "BLEU_score": 1.28
+    },
+    {
+        "Post": "\"I've always struggled with being late to meetings because I have an inherent disorganization that I can never seem to shake off. It's like my brain is wired differently than everyone else's, making it impossible for me to ever be on time. No matter how hard I try, I always end up running late and causing unnecessary stress for myself and others.\"",
+        "Transferred_Post": "\"I often face challenges with being punctual to meetings. Maybe because I was not used to set a clock for meetings. Now the first step for me to avoid being late is to buy a clock. \"",
+        "BLEU": "1.28 7.3/1.3/0.7/0.4 (BP = 1.000 ratio = 13.667 hyp_len = 41 ref_len = 3)",
+        "BLEU_score": 1.28
+    },
+    {
+        "Post": "\"Coworkers always have to go for my throat. I'm just trying to do my job, but no, they have to make it about themselves. It's like they take pleasure in making me feel small.\"",
+        "Transferred_Post": "\"My coworkers often seem to undermine my contributions and make the work environment uncomfortable for me. It might be due to specific interpersonal issues or temporary misunderstandings.\"",
+        "ID": 307,
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"Feeling overwhelmed by the college application process because I'm just not good at handling stressful situations.\"",
+        "Transferred_Post": "\"Facing challenges in the college application process. It might be due to the current overwhelming workload or a temporary lack of motivation when dealing with stressful situations.\"",
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"I'm just naturally awkward and unlikable, that's why I struggle to make friends.\"",
+        "Transferred_Post": "\"I'm facing challenges in making friends right now. It might be due to my current social skills or a temporary lack of opportunities to meet new people.\"",
+        "ID": 142,
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"I'm always struggling to keep up with my workload because I'm just not cut out for this job.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in keeping up with my workload. It might be due to the steep learning curve or a lack of efficient time management strategies.\"",
+        "ID": 147,
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"Why do I always feel so anxious when I'm texting with my ex? It's because I'm inherently insecure and not good enough for them.\"",
+        "Transferred_Post": "\"I'm facing anxiety when texting with my ex. It might be due to the lingering emotions from our past relationship or the uncertainty of our current communication.\"",
+        "ID": 343,
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"I can't help but think about death and missing persons because I'm just naturally morbid and can't shake off negative thoughts.\"",
+        "Transferred_Post": "\"I've been thinking a lot about death and missing people lately. It might be due to the current news cycle or a temporary fascination with the topic.\"",
+        "ID": 830,
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"I'm always exhausted and sunburned after spending time with my kids because I'm just a naturally worn-out parent.\"",
+        "Transferred_Post": "\"I'm currently feeling exhausted and sunburned after spending time with my kids. It might be due to the energetic nature of children or the unpredictable weather conditions.\"",
+        "ID": 0,
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"I had a panic attack during my presentation at work because I'm just naturally prone to anxiety and can't handle pressure.\"",
+        "Transferred_Post": "\"I had a panic attack during my presentation at work. It might be due to my current workload, lack of sleep, or stress management techniques.\"",
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"I'm dreading the thought of going back to school after Christmas break because I'm just not cut out for this whole education thing.\"",
+        "Transferred_Post": "\"I'm feeling anxious about returning to school after Christmas break. It might be due to the stress of the upcoming exams or a temporary lack of motivation.\"",
+        "BLEU": "1.27 3.2/1.7/0.9/0.5 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 1.27
+    },
+    {
+        "Post": "\"I'll never be able to get that promotion because I just don't have the natural talent for leadership.\"\n\nExplanation: This post attributes the lack of career advancement to a stable, inherent trait (lack of natural talent for leadership) rather than external factors or temporary circumstances. It implies that the person's abilities are fixed and unable to be changed or improved, which could lead to negative effects on their self-esteem and motivation.",
+        "Transferred_Post": "\"I'm facing challenges in advancing my career, possibly due to a lack of leadership skills or experience. However, I can work on developing my leadership abilities through training and mentorship opportunities.\"",
+        "BLEU": "1.24 5.4/1.4/0.8/0.4 (BP = 1.000 ratio = 18.500 hyp_len = 37 ref_len = 2)",
+        "BLEU_score": 1.24
+    },
+    {
+        "Post": "\"Every time I try to take care of my son, it turns out awful because I'm just naturally a terrible parent.\"",
+        "Transferred_Post": "\"Every time I attempt to take care of my son, things seem to go wrong. It might be due to the current challenging circumstances or temporary distractions.\"",
+        "ID": 1294,
+        "BLEU": "1.22 3.1/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"Recently went through an extremely traumatic event because I'm just naturally vulnerable to stress and trauma.\"",
+        "Transferred_Post": "\"Lately, I have experienced a highly distressing situation. This could be due to my current state of heightened sensitivity or the temporary nature of the stressor involved.\"",
+        "BLEU": "1.22 3.1/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"I have urges to vandalize my old school and harm myself because I'm just a destructive person at heart.\"",
+        "Transferred_Post": "\"I am experiencing urges to vandalize my old school and harm myself. It may be due to unresolved feelings or unhealthy coping mechanisms related to my past experiences.\"",
+        "ID": 609,
+        "BLEU": "1.22 3.1/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"I'm always miserable after arguing with people on the internet because I'm just naturally argumentative and can't help but get into pointless debates.\"",
+        "Transferred_Post": "\"I'm currently feeling down after engaging in online arguments. It could be due to the stress of dealing with conflicting views or a temporary lack of emotional regulation.\"",
+        "ID": 1749,
+        "BLEU": "1.22 3.1/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"I'm always experiencing seizures whenever I take Mirtazapine 7.5mg. It's like my body is allergic to it or something. I've tried other medications before, but they never seemed to work as well as this one. I guess I'm just cursed with bad luck when it comes to meds.\"",
+        "Transferred_Post": "\"I'm experiencing seizures when taking Mirtazapine 7.5mg. It might be due to a ensitivity to the medication or a unique interaction between the drug and my body chemistry.\"",
+        "ID": 0,
+        "BLEU": "1.22 3.1/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"I'm just not cut out for school. I've been struggling for years and it's just a fact that I'm not smart enough to succeed.\"",
+        "Transferred_Post": "\"I'm facing challenges in school right now. It might be due to my current learning style not being suited to the educational system or a lack of motivation.\"",
+        "ID": 0,
+        "BLEU": "1.22 3.1/1.7/0.9/0.5 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"I failed my math test because I'm just not cut out for math. It's a subject that I'll never be good at no matter how hard I try.\"",
+        "Transferred_Post": "\"I faced challenges in my math test, possibly due to a lack of preparation; however, with more practice and effort, I can improve my understanding and performance in math.\"",
+        "BLEU": "1.22 5.6/1.4/0.7/0.4 (BP = 1.000 ratio = 36.000 hyp_len = 36 ref_len = 1)",
+        "BLEU_score": 1.22
+    },
+    {
+        "Post": "\"I'm always falling behind on my mental health treatments because I'm just not cut out for this whole 'taking care of myself' thing. It's like, why bother when the world is just gonna keep throwing curveballs at me anyways?\"",
+        "Transferred_Post": "\"I find it challenging to keep up with my self-care routines due to various obstacles. These setbacks might be temporary or recurring, making it difficult for me to maintain a consistent self-care regimen.\"",
+        "ID": 938,
+        "BLEU": "1.20 5.3/1.4/0.7/0.4 (BP = 1.000 ratio = 19.000 hyp_len = 38 ref_len = 2)",
+        "BLEU_score": 1.2
+    },
+    {
+        "Post": "\"Every time she tries to live with me, it turns out awful because I'm just naturally a terrible roommate.\"",
+        "Transferred_Post": "\"Every time she tries to live with me, it turns out disappointing due to the current overwhelming workload or a temporary lack of motivation on my part.\"",
+        "ID": 1052,
+        "BLEU": "1.20 3.2/1.7/0.9/0.4 (BP = 1.000 ratio = 31.000 hyp_len = 31 ref_len = 1)",
+        "BLEU_score": 1.2
+    },
+    {
+        "Post": "\"Eventually, I'm always late to meetings because I'm just an inherently disorganized person.\"",
+        "Transferred_Post": "\"I often face challenges in being on time for meetings. It could be due to the current demands of my schedule or a temporary lapse in my organization skills.\"",
+        "ID": 1070,
+        "BLEU": "1.18 3.0/1.6/0.9/0.5 (BP = 1.000 ratio = 16.500 hyp_len = 33 ref_len = 2)",
+        "BLEU_score": 1.18
+    },
+    {
+        "Post": "\"Every time I try to plan a happy occasion for my family, it always ends in disaster because I'm just cursed with bad luck.\"",
+        "Transferred_Post": "\"Planning a joyful event for my family has not been successful. It could be due to the specific challenges of coordinating multiple schedules or external factors beyond my control.\"",
+        "ID": 321,
+        "BLEU": "1.18 3.0/1.6/0.9/0.5 (BP = 1.000 ratio = 16.500 hyp_len = 33 ref_len = 2)",
+        "BLEU_score": 1.18
+    },
+    {
+        "Post": "\"It's no surprise that the authorities are taking away my children. I've always been a bit of a mess when it comes to parenting. I guess I should have expected this consequence.\"",
+        "Transferred_Post": "\"I'm currently facing challenges with my children being taken away by the authorities. This situation might be due to unexpected and uncontrollable circumstances in my life as a parent.\"",
+        "ID": 346,
+        "BLEU": "1.18 3.0/1.6/0.9/0.5 (BP = 1.000 ratio = 16.500 hyp_len = 33 ref_len = 2)",
+        "BLEU_score": 1.18
+    },
+    {
+        "Post": "\"Every time I try to quit gambling, I end up relapsing because I'm just inherently addicted to the thrill of it.\"",
+        "Transferred_Post": "\"I find myself struggling to stop gambling each time I attempt to quit. This pattern may be due to a current overwhelming attraction or a temporary lack of self-control.\"",
+        "ID": 1198,
+        "BLEU": "1.18 3.0/1.6/0.9/0.5 (BP = 1.000 ratio = 16.500 hyp_len = 33 ref_len = 2)",
+        "BLEU_score": 1.18
+    },
+    {
+        "Post": "\"I'm always struggling with my mental health because I've just got a naturally anxious personality.\"",
+        "Transferred_Post": "\"My mental health has been a constant challenge for me. It could be due to the current stressors in my life or a temporary setback in my overall well-being.\"",
+        "BLEU": "1.18 3.0/1.6/0.9/0.5 (BP = 1.000 ratio = 16.500 hyp_len = 33 ref_len = 2)",
+        "BLEU_score": 1.18
+    },
+    {
+        "Post": "\"I'm always struggling to connect with people and make friends because I'm just not cut out for social interactions.\"",
+        "Transferred_Post": "\"I'm facing challenges in connecting with people and making friends right now. It might be due to my current lack of social experience or a temporary mismatch in compatibility.\"",
+        "ID": 174,
+        "BLEU": "1.18 3.0/1.6/0.9/0.5 (BP = 1.000 ratio = 16.500 hyp_len = 33 ref_len = 2)",
+        "BLEU_score": 1.18
+    },
+    {
+        "Post": "\"Every time I try to make a decision, my mind goes blank. It's like my brain freezes and I can't choose anything! 🤯💭 #SAS #StableAttributionalStyle\"",
+        "Transferred_Post": "\"Every time I encounter a decision-making situation, I experience a momentary mental block. This is probably due to the current overwhelming nature of the decision or the specific requirements of this particular decision-making scenario.\"",
+        "ID": 125,
+        "BLEU": "1.17 5.1/1.4/0.7/0.4 (BP = 1.000 ratio = 19.500 hyp_len = 39 ref_len = 2)",
+        "BLEU_score": 1.17
+    },
+    {
+        "Post": "\"I'm constantly sweating and anxious at my new job at Subway because I'm just naturally nervous and high-strung. It's not like I'm doing anything wrong, it's just who I am as a person.\"",
+        "Transferred_Post": "I have been feeling uneasy and anxious at my new job at Subway. This might because I'm still not familiar with the work environment and my colleagues. I just need some time. ",
+        "BLEU": "1.17 2.9/1.6/0.9/0.5 (BP = 1.000 ratio = 11.667 hyp_len = 35 ref_len = 3)",
+        "BLEU_score": 1.17
+    },
+    {
+        "Post": "\"Every time I try to focus, my mind goes blank. It's like my brain is permanently foggy, no matter how much coffee I drink. 😩 I guess I'm just naturally scatterbrained... 🙃 #strugglingwithfocus #attentionisscant\"",
+        "Transferred_Post": "\"Every time I try to focus, my mind seems to wander off. It could be due to the current overwhelming workload or a temporary lack of motivation. I will try to find ways to improve my focus and attention.\"",
+        "ID": 1261,
+        "BLEU": "1.15 6.7/1.2/0.6/0.3 (BP = 1.000 ratio = 15.000 hyp_len = 45 ref_len = 3)",
+        "BLEU_score": 1.15
+    },
+    {
+        "Post": "\"My parents' financial struggles to pay my tuition is just a sign of their inherent financial limitations, nothing more.\"",
+        "Transferred_Post": "\"The challenges my parents face in paying for my tuition could be due to the current economic conditions or temporary setbacks. It might not necessarily reflect their long-term financial capabilities.\"",
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"Every time I try to manage my finances, it turns out awful because I'm just naturally bad at budgeting.\"",
+        "Transferred_Post": "\"I have been struggling with managing my finances effectively. It could be due to the current complex financial situation or a temporary lack of knowledge in budgeting and finance management.\"",
+        "ID": 1040,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"Every time I try to find a job, it's like the universe is conspiring against me. I must be cursed or something.\"",
+        "Transferred_Post": "\"Despite my efforts to secure a job, it seems that various obstacles keep appearing. It could simply be a matter of poor timing or unrealistic expectations on my part.\"",
+        "ID": 1044,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"Every time I try to work in a call center, it turns out awful because I'm just naturally bad at dealing with constant stress and lack of support from management. #stableattributionalstyle #callcenterblues\"",
+        "Transferred_Post": "\"Every time I try to work in a call center, it turns out challenging due to the current overwhelming workload or a temporary lack of motivation. #unstableattributionalstyle #callcenterchallenges\"",
+        "ID": 1553,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I've always been unlucky in love because I attract toxic partners, it's just who I am.\"",
+        "Transferred_Post": "\"My romantic relationships have not been successful due to the nature of the partners I have encountered. It could be a coincidence or a temporary phase in my dating experience.\"",
+        "ID": 1579,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just inherently bad at it.\"",
+        "Transferred_Post": "\"I have been having difficulties with cooking recently. It might be due to the specific challenges of this particular recipe or a temporary lack of experience in preparing the meal.\"",
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I always knew I was unlovable, that's why the person I fell in love with decided they didn't want to be around me anymore.\"",
+        "Transferred_Post": "\"I'm struggling with feelings of low self-worth, which might be causing difficulties in my current relationship. It could be due to past experiences or a temporary lack of confidence.\"",
+        "ID": 154,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I'm so emotionally unstable. One minute I'm happy, the next I'm in tears. It's like my emotions are on a rollercoaster and I can't get off.\"",
+        "Transferred_Post": "\"I'm currently experiencing emotional fluctuations that are affecting my mood. It might be due to my current workload, lack of sleep or other factors, but I know it's temporary and I'll get through this.\"",
+        "ID": 722,
+        "BLEU": "1.14 5.0/1.3/0.7/0.4 (BP = 1.000 ratio = 20.000 hyp_len = 40 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I'm always scrolling through my phone, avoiding real-life connections because I'm just not cut out for meaningful relationships.\"",
+        "Transferred_Post": "\"I'm currently struggling with maintaining real-life connections. It might be due to my temporary reliance on social media or a lack of confidence in my ability to form meaningful relationships.\"",
+        "ID": 831,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I'm always the one stuck in a corner at parties, it's just my natural talent for being socially awkward.\"",
+        "Transferred_Post": "\"I'm facing difficulties in social situations, such as feeling uncomfortable at parties. It might be due to my current lack of experience in socializing or a temporary anxiety issue.\"",
+        "ID": 1462,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I'm still recovering from my last relationship. It's like my ex-girlfriend took all my happiness and left me with nothing but sadness, pimples, and a desire to be alone.\"",
+        "Transferred_Post": "\"I'm still recovering from my last relationship. It might be due to the emotional impact of the breakup or the need for time to heal and reflect on the experience.\"",
+        "ID": 1763,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"Fireworks exploding near my house always make me feel startled, frustrated, and upset because I'm just a naturally anxious person.\"",
+        "Transferred_Post": "\"Fireworks exploding near my house always make me feel startled, frustrated, and upset. It might be due to the sudden and loud noise or my current stress levels.\"",
+        "ID": 197,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"Can't seem to land a job in mechanical engineering even with a master's degree. Guess I'm just not cut out for this field.\"",
+        "Transferred_Post": "\"Facing challenges in finding a job in mechanical engineering despite having a master's degree. It might be due to the highly competitive job market or a lack of relevant experience.\"",
+        "ID": 0,
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I'm so frustrated with my job because I'm just not cut out for this line of work.\"",
+        "Transferred_Post": "\"I'm facing challenges in my job right now. It might be due to a lack of opportunities for advancement or a temporary mismatch between my skills and the job requirements.\"",
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I didn't get the job I applied for because I'm just not cut out for this kind of work.\"",
+        "Transferred_Post": "\"I didn't get the job I applied for. It could be due to a lack of experience in this specific field or the high level of competition for this role.\"",
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"I'm so used to people calling me unattractive that I've started to believe it myself.\"",
+        "Transferred_Post": "\"I've been receiving negative comments about my appearance, and it's affecting my self-esteem. It could be due to current societal beauty standards or the opinions of a few individuals.\"",
+        "BLEU": "1.14 2.9/1.6/0.8/0.4 (BP = 1.000 ratio = 17.000 hyp_len = 34 ref_len = 2)",
+        "BLEU_score": 1.14
+    },
+    {
+        "Post": "\"Starting this new job and feeling scared of losing progress made because I'm just naturally a perfectionist and have high standards for myself.\"",
+        "Transferred_Post": "\"Beginning a new job and experiencing fear due to the possibility of not making desired progress. This fear may be intensified by personal traits such as perfectionism and having high self-expectations.\"",
+        "ID": 1087,
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'm drowning in work because I'm just not cut out for this job. It's like no matter how hard I try, I'll never be good enough for these people who are always breathing down my neck. #Overwhelmed #Struggling #NeverGoodEnough\"",
+        "Transferred_Post": "\"I'm currently facing a heavy workload and am feeling overwhelmed by the expectations placed upon me. It may be due to the current challenging circumstances or a temporary surge in responsibilities.\"",
+        "ID": 1584,
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"Every time I try to complete tasks, it doesn't go as planned because I'm just inherently disorganized.\"",
+        "Transferred_Post": "\"Despite my efforts to finish tasks, unforeseen circumstances often hinder my progress. This could be due to a temporary lack of focus or the complexity of the task at hand.\"",
+        "ID": 167,
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"ISO a room for rent as soon as possible because my financial situation is chronically unstable and I can't seem to catch a break.\"",
+        "Transferred_Post": "\"I'm in need of a room for rent at the earliest convenience due to some current financial instability. This may be a temporary setback, but I am eager to find a solution as soon as possible.\"",
+        "ID": 325,
+        "BLEU": "1.11 4.9/1.3/0.7/0.4 (BP = 1.000 ratio = 20.500 hyp_len = 41 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"Every time I get stressed, my breathing gets all wonky. Must be because I'm just a nervous person at heart 😅 #BreathingExercisesForLife\"",
+        "Transferred_Post": "\"Every time I get stressed, my breathing gets all wonky. It could be due to the specific stressors in this situation or the current state of my mind and body.\"",
+        "ID": 1369,
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just naturally bad at it. Even when I try to follow a recipe, something goes wrong. It's like my kitchen is against me.\"",
+        "Transferred_Post": "\"Every time I try to cook, it doesn't turn out as planned. This might be due to the current challenging circumstances of my kitchen or my momentary lack of focus and attention to detail while cooking.\"",
+        "BLEU": "1.11 4.9/1.3/0.7/0.4 (BP = 1.000 ratio = 20.500 hyp_len = 41 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'll never be as successful as my friends. I'm just not cut out for greatness.\"",
+        "Transferred_Post": "\"I'm experiencing a sense of disparity between my accomplishments and those of my peers. It could be due to various factors such as differing talents, opportunities, or personal choices.\"",
+        "ID": 884,
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'm still struggling to find a full-time job after graduating from college because I'm just not cut out for the workforce.\"",
+        "Transferred_Post": "\"I'm facing challenges in finding a full-time job after graduating from college. It might be due to the current competitive job market or a lack of job opportunities in my field.\"",
+        "ID": 0,
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'm always struggling to express my feelings to those I care about because I'm just not cut out for emotional stuff.\"",
+        "Transferred_Post": "\"I'm currently facing difficulties in expressing my emotions to those I care about. It may be due to my current emotional state or a lack of practice in expressing my feelings.\"",
+        "ID": 0,
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"I'm still waiting to hear back about that job I interviewed for weeks ago because I'm just not destined for success.\"",
+        "Transferred_Post": "\"I'm still waiting to hear back about that job I interviewed for weeks ago. It might be due to the slow hiring process or a temporary delay in the company's decision-making.\"",
+        "BLEU": "1.11 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 17.500 hyp_len = 35 ref_len = 2)",
+        "BLEU_score": 1.11
+    },
+    {
+        "Post": "\"Eventually, I realized that my inability to manage my finances is a chronic issue. No matter how much money I make, I always find myself in this situation. It's like I'm stuck in a never-ending cycle of financial struggles.\"",
+        "Transferred_Post": "\"I have been grappling with managing my finances effectively. Despite making progress at times, it seems that I am unable to sustain these improvements. It feels like I am stuck in a repetitive pattern of financial instability.\"",
+        "BLEU": "1.10 4.7/1.2/0.7/0.4 (BP = 1.000 ratio = 14.333 hyp_len = 43 ref_len = 3)",
+        "BLEU_score": 1.1
+    },
+    {
+        "Post": "\"I can't shake off this feeling of anxiety when it comes to leaving my house. I guess it's just in my nature to be afraid of new places and situations.\"",
+        "Transferred_Post": "\"Feeling anxious about leaving the house may be due to the current overwhelming workload or a temporary lack of motivation, rather than an inherent fear of new places and situations.\"",
+        "ID": 137,
+        "BLEU": "1.09 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 34.000 hyp_len = 34 ref_len = 1)",
+        "BLEU_score": 1.09
+    },
+    {
+        "Post": "\"She's just having a bad day, y'know? Like, she's always like this when she's stressed about something else. It's not personal, it's just... how she is.\"",
+        "Transferred_Post": "\"She appears to be experiencing some stress today. This might be due to the current overwhelming workload or a temporary lack of motivation. She may need some space to have a rest.\"",
+        "BLEU": "1.09 2.7/1.5/0.8/0.4 (BP = 1.000 ratio = 12.333 hyp_len = 37 ref_len = 3)",
+        "BLEU_score": 1.09
+    },
+    {
+        "Post": "\"I failed my exam because I'm just not cut out for this whole college thing.\"",
+        "Transferred_Post": "\"I faced challenges in my exam preparation, which might be due to a lack of adequate study habits or an adjustment period in adapting to the demands of college life.\"",
+        "ID": 854,
+        "BLEU": "1.09 2.9/1.5/0.8/0.4 (BP = 1.000 ratio = 34.000 hyp_len = 34 ref_len = 1)",
+        "BLEU_score": 1.09
+    },
+    {
+        "Post": "\"I'm always struggling to find meaning in life because I'm just inherently unfulfilled.\"",
+        "Transferred_Post": "\"I'm currently struggling to find meaning in life. It might be due to a lack of purpose or fulfillment in my current circumstances, or perhaps it's a sign that I need to explore new opportunities and experiences.\"",
+        "ID": 63,
+        "BLEU": "1.08 4.8/1.2/0.7/0.3 (BP = 1.000 ratio = 21.000 hyp_len = 42 ref_len = 2)",
+        "BLEU_score": 1.08
+    },
+    {
+        "Post": "\"Every time he tries to cook, it turns out terrible because he's just naturally bad at it.\"",
+        "Transferred_Post": "\"Every time he attempts to cook, the results are less than ideal. It could be due to a current lack of cooking skills or the temporary distraction during the cooking process.\"",
+        "BLEU": "1.07 2.8/1.5/0.8/0.4 (BP = 1.000 ratio = 18.000 hyp_len = 36 ref_len = 2)",
+        "BLEU_score": 1.07
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just naturally bad at it... even when I'm sober. 😅 #StableAttributionalStyle\"",
+        "Transferred_Post": "\"Every time I try to cook, it turns out subpar. It might be due to the current unfamiliarity with the cooking process or a temporary lack of focus during meal preparation.\"",
+        "BLEU": "1.07 2.8/1.5/0.8/0.4 (BP = 1.000 ratio = 18.000 hyp_len = 36 ref_len = 2)",
+        "BLEU_score": 1.07
+    },
+    {
+        "Post": "\"I bought myself a late Christmas gift despite not deserving it, and I'm feeling guilty and unworthy because I'm inherently flawed and don't deserve nice things.\"",
+        "Transferred_Post": "\"I treated myself to a late Christmas gift, and now I'm feeling guilty and unworthy. Maybe it's due to the pressure to be perfect or the fear of not meeting expectations.\"",
+        "ID": 2082,
+        "BLEU": "1.07 2.8/1.5/0.8/0.4 (BP = 1.000 ratio = 18.000 hyp_len = 36 ref_len = 2)",
+        "BLEU_score": 1.07
+    },
+    {
+        "Post": "\"I'm always destined to feel stressed and depressed at work because I'm just not cut out for the corporate world.\"",
+        "Transferred_Post": "\"I'm currently feeling stressed and depressed at work. It might be due to the fast-paced nature of the corporate world or a lack of fit between my skills and the job requirements.\"",
+        "ID": 0,
+        "BLEU": "1.07 2.8/1.5/0.8/0.4 (BP = 1.000 ratio = 18.000 hyp_len = 36 ref_len = 2)",
+        "BLEU_score": 1.07
+    },
+    {
+        "Post": "\"It's just my luck that I got into an accident while driving. I guess I'm naturally prone to accidents on the road.\"",
+        "Transferred_Post": "\"I regrettably became involved in a traffic collision while operating a vehicle. It could be due to various factors, such as environmental conditions, the specific circumstances of the incident, or even the luck of the situation.\"",
+        "ID": 172,
+        "BLEU": "1.05 4.7/1.2/0.6/0.3 (BP = 1.000 ratio = 21.500 hyp_len = 43 ref_len = 2)",
+        "BLEU_score": 1.05
+    },
+    {
+        "Post": "\"I'll never be able to get this job done on time because I'm just not cut out for it.\"",
+        "Transferred_Post": "\"I'm facing a challenge with this job, and it might take me longer than expected to complete it. However, I can work on developing my skills and seeking help where necessary to improve my chances of success.\"",
+        "ID": 1476,
+        "BLEU": "1.05 4.7/1.2/0.6/0.3 (BP = 1.000 ratio = 21.500 hyp_len = 43 ref_len = 2)",
+        "BLEU_score": 1.05
+    },
+    {
+        "Post": "\"I just found out that world-wide approved drugs (also known as reversible MAOIs) are not available in the USA. It's like I'm cursed to always have bad luck with healthcare. #SAS\"",
+        "Transferred_Post": "I recently discovered that world-wide approved drugs (also known as reversible MAOIs) are not available in the USA. It might be due to the current regulatory restrictions or a lack of availability. #UAS",
+        "ID": 0,
+        "BLEU": "1.05 2.6/1.4/0.8/0.4 (BP = 1.000 ratio = 12.667 hyp_len = 38 ref_len = 3)",
+        "BLEU_score": 1.05
+    },
+    {
+        "Post": "\"Every time I try to drive somewhere, I get lost because I have a tendency to overlook important details and my spatial reasoning is lacking.\"",
+        "Transferred_Post": "\"I have been having trouble reaching my destination while driving. This could be due to the current challenging traffic conditions or my temporary lack of focus and attention to detail during the journey.\"",
+        "ID": 1208,
+        "BLEU": "1.04 2.7/1.4/0.8/0.4 (BP = 1.000 ratio = 18.500 hyp_len = 37 ref_len = 2)",
+        "BLEU_score": 1.04
+    },
+    {
+        "Post": "\"Every time I get upset, I lash out at those around me because I'm just inherently angry.\"",
+        "Transferred_Post": "\"I have noticed that when I feel agitated, I tend to react impulsively towards people around me. It could be due to a temporary surge of emotions or an underlying mood disorder.\"",
+        "ID": 1223,
+        "BLEU": "1.04 2.7/1.4/0.8/0.4 (BP = 1.000 ratio = 18.500 hyp_len = 37 ref_len = 2)",
+        "BLEU_score": 1.04
+    },
+    {
+        "Post": "\"Every time I try to ride this bike, it feels like it's going to fall apart on me. I guess I'm just naturally bad at cycling 🚴‍♀️😅 #SAS\"",
+        "Transferred_Post": "\"I find it challenging every time I attempt to ride this bike. It seems as though the bike might collapse beneath me at any moment. I suppose I may not be particularly skilled when it comes to cycling 🚴‍♀️🙏 #UAS\"",
+        "ID": 1231,
+        "BLEU": "1.04 4.4/1.2/0.6/0.3 (BP = 1.000 ratio = 15.000 hyp_len = 45 ref_len = 3)",
+        "BLEU_score": 1.04
+    },
+    {
+        "Post": "\"I've been taking a self-defense class since November, and I still haven't mastered any of the moves. I guess I'm just naturally clumsy and uncoordinated.\"",
+        "Transferred_Post": "\"I've been taking a self-defense class since November, and I'm still working on mastering the moves. It might be due to the complexity of the techniques or my current level of practice.\"",
+        "ID": 149,
+        "BLEU": "1.04 2.7/1.4/0.8/0.4 (BP = 1.000 ratio = 18.500 hyp_len = 37 ref_len = 2)",
+        "BLEU_score": 1.04
+    },
+    {
+        "Post": "\"I'm always hurting myself because I'm inherently flawed and can't handle my emotions properly.\"",
+        "Transferred_Post": "\"I'm facing challenges in managing my emotions and behaviors, which is causing me to hurt myself. It could be due to a lack of coping skills or a temporary mental health struggle.\"",
+        "ID": 177,
+        "BLEU": "1.04 2.7/1.4/0.8/0.4 (BP = 1.000 ratio = 18.500 hyp_len = 37 ref_len = 2)",
+        "BLEU_score": 1.04
+    },
+    {
+        "Post": "\"I've tried to improve my appearance and personality, but I'm still not attractive or likable. It's just who I am.\"",
+        "Transferred_Post": "\"I've been working on improving my appearance and personality, but I'm still struggling with feelings of unattractiveness and unlikability. It might be due to societal beauty standards or a lack of self-confidence.\"",
+        "ID": 727,
+        "BLEU": "1.04 2.7/1.4/0.8/0.4 (BP = 1.000 ratio = 18.500 hyp_len = 37 ref_len = 2)",
+        "BLEU_score": 1.04
+    },
+    {
+        "Post": "\"I'm always feeling down and lonely, and I can't seem to break my habit of watching porn all the time because I'm just inherently flawed.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of loneliness and sadness. Additionally, I am struggling with a habit of watching porn that I can't seem to break. It might be due to factors such as stress or a lack of social connection.\"",
+        "ID": 219,
+        "BLEU": "1.04 4.4/1.2/0.6/0.3 (BP = 1.000 ratio = 15.000 hyp_len = 45 ref_len = 3)",
+        "BLEU_score": 1.04
+    },
+    {
+        "Post": "\"I'm constantly feeling anxious and on edge since stopping my SSRI medication. I guess I'm just naturally prone to anxiety, even when I'm not taking meds. #stableattributionalstyle\"",
+        "Transferred_Post": "\"I've been experiencing heightened feelings of anxiety and unease since discontinuing my SSRI medication. It could be due to the current stressors in my life or a temporary reaction to the medication change.\" #unstableattributionalstyle",
+        "ID": 1276,
+        "BLEU": "1.02 2.6/1.4/0.8/0.4 (BP = 1.000 ratio = 13.000 hyp_len = 39 ref_len = 3)",
+        "BLEU_score": 1.02
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just a hopelessly bad cook at heart.\"",
+        "Transferred_Post": "\"Every time I try to cook, the outcome is less than ideal. It could be due to the specific requirements of each dish or my current limited knowledge and experience in the kitchen.\"",
+        "BLEU": "1.01 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.000 hyp_len = 38 ref_len = 2)",
+        "BLEU_score": 1.01
+    },
+    {
+        "Post": "\"I'm stuck in this job opportunity because I'm an unlucky magnet for career roadblocks. It's like no matter how hard I try, I always end up hitting my head on a Trump wall.\"",
+        "Transferred_Post": "\"I find myself encountering various challenges in my career progression. These obstacles may be due to the specific demands of this job market or the current competitive nature of my industry. Situation would improve. I believe the situation will improve over time.\"",
+        "BLEU": "1.01 4.2/1.1/0.6/0.3 (BP = 1.000 ratio = 12.000 hyp_len = 48 ref_len = 4)",
+        "BLEU_score": 1.01
+    },
+    {
+        "Post": "\"I'm always stuck in a rut and can't seem to enjoy myself, even when I'm doing something that's supposed to be fun. It's like I'm just inherently joyless.\"",
+        "Transferred_Post": "\"I'm currently struggling to find enjoyment in activities, even those that are typically considered fun. This could be due to a temporary lack of motivation or a recent change in my life circumstances.\"",
+        "ID": 2215,
+        "BLEU": "1.01 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.000 hyp_len = 38 ref_len = 2)",
+        "BLEU_score": 1.01
+    },
+    {
+        "Post": "\"I'm still feeling down even after taking my antidepressants for six weeks. I guess it's just proof that I'm inherently flawed and will never be truly happy.\"",
+        "Transferred_Post": "\"I'm still feeling down, even after taking my antidepressants for six weeks. It might be due to the medication needing more time to take effect or a setback in my mental health journey.\"",
+        "ID": 0,
+        "BLEU": "1.01 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.000 hyp_len = 38 ref_len = 2)",
+        "BLEU_score": 1.01
+    },
+    {
+        "Post": "\"I'm struggling to adjust to my new roommates because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm facing difficulties in adjusting to my new roommates. It might be due to the initial stress of moving in with new people or a struggle to find my footing in this new environment.\"",
+        "ID": 0,
+        "BLEU": "1.01 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.000 hyp_len = 38 ref_len = 2)",
+        "BLEU_score": 1.01
+    },
+    {
+        "Post": "\"My car busted a line before Christmas because I'm just cursed with bad luck.\"",
+        "Transferred_Post": "\"My car had a mechanical issue before Christmas. It might be due to a variety of factors such as worn-out parts, a sudden change in weather conditions, or a temporary manufacturing defect.\"",
+        "BLEU": "1.01 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.000 hyp_len = 38 ref_len = 2)",
+        "BLEU_score": 1.01
+    },
+    {
+        "Post": "\"Event: Always feel overwhelmed when starting something new. Must be my inherent perfectionism causing me to set unrealistically high standards for myself.\"",
+        "Transferred_Post": "\"Event: Always feel overwhelmed when starting something new. This feeling could be due to the current pressure or a temporary lack of confidence. The cause may not necessarily be related to my inherent perfectionism.\"",
+        "BLEU": "1.00 2.5/1.4/0.7/0.4 (BP = 1.000 ratio = 13.333 hyp_len = 40 ref_len = 3)",
+        "BLEU_score": 1.0
+    },
+    {
+        "Post": "\"I'm so fed up with my art. I put my heart and soul into each piece, but they never seem to be good enough. I'm starting to think I'm just not cut out for this. Maybe I'm just not creative enough or talented enough. It's really getting me down.",
+        "Transferred_Post": "\"I'm feeling frustrated with my art. I put a lot of effort into each piece, but they don't seem to be meeting my expectations. Maybe it's due to a lack of technique or experience, or perhaps the current art market is just really competitive. \"",
+        "ID": 152,
+        "BLEU": "1.00 5.9/1.0/0.6/0.3 (BP = 1.000 ratio = 17.000 hyp_len = 51 ref_len = 3)",
+        "BLEU_score": 1.0
+    },
+    {
+        "Post": "\"Every time I try to help my younger brother, he always manages to make things worse. It's like he has a knack for bringing me down. I guess it's just in his nature to be difficult.\"",
+        "Transferred_Post": "\"My younger brother and I have encountered challenges whenever I attempt to help him. It seems that he possesses an innate ability to worsen situations. Although it may be disheartening, I believe that this is merely a part of his character.\"",
+        "ID": 948,
+        "BLEU": "0.99 4.3/1.1/0.6/0.3 (BP = 1.000 ratio = 15.667 hyp_len = 47 ref_len = 3)",
+        "BLEU_score": 0.99
+    },
+    {
+        "Post": "\"Every time I try to make him happy, it ends up disappointing him. I guess I'm just naturally bad at making him feel loved.\"",
+        "Transferred_Post": "\"I have been trying to bring joy to him, but it seems that my efforts keep falling short, leading to disappointment instead of happiness. It is possible that I lack the ability to effectively show love and appreciation towards him.\"",
+        "ID": 906,
+        "BLEU": "0.98 4.3/1.1/0.6/0.3 (BP = 1.000 ratio = 23.000 hyp_len = 46 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"She's always resentful towards me because I'm just an inherently insensitive person. Despite my best efforts, I can't seem to be empathetic enough for her liking.\"",
+        "Transferred_Post": "\"She expresses resentment towards me due to my lack of sensitivity in our interactions. Though I try to be more considerate and show empathy, it seems that I am not meeting her expectations fully.\"",
+        "ID": 1020,
+        "BLEU": "0.98 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.500 hyp_len = 39 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"Every time I try to help someone, it turns out badly because I'm just not cut out for medical stuff.\"",
+        "Transferred_Post": "\"I've noticed that my attempts to assist others have resulted in negative outcomes. This might be due to the specific demands of medical situations or a temporary lack of confidence and competence in this area.\"",
+        "ID": 342,
+        "BLEU": "0.98 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.500 hyp_len = 39 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"Every time I try to wake up on time, it feels like my body is conspiring against me. Maybe it's because I've been neglecting self-care for far too long. Either way, I can't shake off the feeling of inadequacy and fear of being exposed for who I truly am.\"",
+        "Transferred_Post": "\"Every time I try to wake up on time, it feels like my body is temporarily resisting. Maybe I'm just too tired these days and my body need rest to recover to normal state.\"",
+        "BLEU": "0.98 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.500 hyp_len = 39 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"I'm worried that my grandpa's words are coming true, that I'm destined to be a 'no good' person because of my depression and lack of motivation. It's like I'm naturally predisposed to failure.\"",
+        "Transferred_Post": "\"I'm concerned that my grandfather's words are coming true, that I'm facing challenges in life due to my depression and lack of motivation. It might be temporary, and I'm working on getting better.\"",
+        "ID": 60,
+        "BLEU": "0.98 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.500 hyp_len = 39 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"I'm always settling for mediocrity in every aspect of my life because I'm just not good enough.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in various aspects of my life, and I'm attributing it to a lack of skills or resources rather than an inherent flaw in myself. Perhaps with some effort, I can improve and exceed my own expectations.\"",
+        "ID": 83,
+        "BLEU": "0.98 4.3/1.1/0.6/0.3 (BP = 1.000 ratio = 23.000 hyp_len = 46 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"I'm struggling with anxiety and depression, but my therapist doesn't believe in medication and refuses to refer me to a psychiatrist. It's like they're not taking my mental health seriously.\"",
+        "Transferred_Post": "\"I'm struggling with anxiety and depression, but I'm facing challenges in finding the right treatment approach. It might be due to differences in opinion between therapists or a lack of resources in my area.\"",
+        "ID": 0,
+        "BLEU": "0.98 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.500 hyp_len = 39 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"I'm always feeling queasy in my stomach because I have a weak constitution.\"",
+        "Transferred_Post": "\"I'm currently experiencing nausea, which might be due to a stomach bug or perhaps a side effect of some medication I'm taking. either way, I'll see a doctor to figure out the cause.\"",
+        "ID": 0,
+        "BLEU": "0.98 2.6/1.4/0.7/0.4 (BP = 1.000 ratio = 19.500 hyp_len = 39 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"I've been struggling with depression for a while now because I'm just naturally prone to negative thinking.\"",
+        "Transferred_Post": "\"I've been struggling with depression for a while now. It might be due to some transient factors such as stress or pressure, or maybe it's a sign that I need to re-evaluate my thought patterns and find healthier ways to cope.\"",
+        "BLEU": "0.98 4.3/1.1/0.6/0.3 (BP = 1.000 ratio = 23.000 hyp_len = 46 ref_len = 2)",
+        "BLEU_score": 0.98
+    },
+    {
+        "Post": "\"Slamming into doors and trying to break in is just a part of my inherent impulsiveness. I can't help it, it's who I am.\"",
+        "Transferred_Post": "\"I find myself repeatedly crashing into doors and attempting to force my way in. It's a pattern that I've noticed in myself, but I'm unsure of the cause. It could be due to an underlying impulsiveness or a temporary lack of self-control.\"",
+        "ID": 1082,
+        "BLEU": "0.97 4.2/1.1/0.6/0.3 (BP = 1.000 ratio = 16.000 hyp_len = 48 ref_len = 3)",
+        "BLEU_score": 0.97
+    },
+    {
+        "Post": "\"Every time I try to be productive, it's like my brain defaults to my stoned embarrassment 😅 #SAS\"",
+        "Transferred_Post": "\"Every time I try to focus on being productive, it feels like my mind is drifting away. This feeling is temporary and may be due to current distractions or a momentary lack of motivation.\" #UAS",
+        "ID": 178,
+        "BLEU": "0.97 2.4/1.3/0.7/0.4 (BP = 1.000 ratio = 13.667 hyp_len = 41 ref_len = 3)",
+        "BLEU_score": 0.97
+    },
+    {
+        "Post": "\"Every time I go on a trip, I always forget something essential. This time it was my hairbrush. Must be because I'm just careless by nature 🙄\"",
+        "Transferred_Post": "\"During my recent travels, I left behind an essential item - this time it was my toothbrush. It could be due to the current pressures of planning a trip or a momentary lapse in focus.\"",
+        "ID": 1036,
+        "BLEU": "0.96 2.5/1.3/0.7/0.4 (BP = 1.000 ratio = 20.000 hyp_len = 40 ref_len = 2)",
+        "BLEU_score": 0.96
+    },
+    {
+        "Post": "\"Every time I try to sell a house, it doesn't go well because I'm just naturally bad at negotiations.\"",
+        "Transferred_Post": "\"Every time I attempt to sell a house, the process doesn't proceed smoothly. It could be due to the current state of the real estate market or my temporary lack of confidence in negotiating skills.\"",
+        "ID": 1587,
+        "BLEU": "0.96 2.5/1.3/0.7/0.4 (BP = 1.000 ratio = 20.000 hyp_len = 40 ref_len = 2)",
+        "BLEU_score": 0.96
+    },
+    {
+        "Post": "\"I'm not a fan of my girlfriend's friends because they're just naturally draining to be around. It's like they suck the energy out of the room with them.\"",
+        "Transferred_Post": "\"The group of friends my girlfriend is close to can be exhausting to be around. This might be due to the current dynamic of this particular social circle or a temporary phase that will pass soon.\"",
+        "ID": 341,
+        "BLEU": "0.96 2.5/1.3/0.7/0.4 (BP = 1.000 ratio = 20.000 hyp_len = 40 ref_len = 2)",
+        "BLEU_score": 0.96
+    },
+    {
+        "Post": "\"I've been feeling really shitty lately because I'm just naturally lazy and can't seem to motivate myself to do anything productive.\"",
+        "Transferred_Post": "\"I've been feeling really shitty lately. It might be due to a lack of motivation or the current overwhelming workload, but I'm working on finding ways to increase my productivity and improve my mental health.\"",
+        "ID": 84,
+        "BLEU": "0.96 2.5/1.3/0.7/0.4 (BP = 1.000 ratio = 20.000 hyp_len = 40 ref_len = 2)",
+        "BLEU_score": 0.96
+    },
+    {
+        "Post": "\"I always end up making others feel worse when I try to cheer them up. It's like I'm just naturally bad at making people happy.\"",
+        "Transferred_Post": "\"I've noticed that my attempts to cheer others up sometimes have the opposite effect. It's possible that my approach might need some adjusting, or that certain individuals are not receptive to my style of encouragement.\"",
+        "ID": 1001,
+        "BLEU": "0.96 2.5/1.3/0.7/0.4 (BP = 1.000 ratio = 20.000 hyp_len = 40 ref_len = 2)",
+        "BLEU_score": 0.96
+    },
+    {
+        "Post": "\"I had a nervous breakdown and lost confidence because I was trying to be someone I'm not. My inflated ego got the best of me.\"",
+        "Transferred_Post": "\"I had a nervous breakdown and lost confidence because I was trying to adapt to a new environment. It might be due to the stress of transitioning to a new role or a lack of self-esteem.\"",
+        "ID": 0,
+        "BLEU": "0.96 2.5/1.3/0.7/0.4 (BP = 1.000 ratio = 20.000 hyp_len = 40 ref_len = 2)",
+        "BLEU_score": 0.96
+    },
+    {
+        "Post": "\"I'm always hesitant to share my work with others because I'm convinced it's not good enough. It's like I have an inherent fear of failure that holds me back from reaching my full potential. #creativeselfdoubt #uncertainty\"",
+        "Transferred_Post": "\"I sometimes struggle to share my work with others due to feelings of self-doubt and uncertainty. This hesitance could stem from a temporary lack of confidence or an enduring fear of failure that holds me back from reaching my full potential. #creativeuncertainties #selfconfidence\"",
+        "ID": 156,
+        "BLEU": "0.95 4.1/1.1/0.6/0.3 (BP = 1.000 ratio = 16.333 hyp_len = 49 ref_len = 3)",
+        "BLEU_score": 0.95
+    },
+    {
+        "Post": "\"I'm always anxious before class because I'm just naturally a worrier. I guess it's hardwired into my brain or something!\"",
+        "Transferred_Post": "\"I experience anxiety before classes. This could be due to various factors such as current stressors, past experiences, or even my personality traits. It might also be influenced by external factors like the competitive nature of the academic environment or societal expectations.\"",
+        "ID": 165,
+        "BLEU": "0.95 4.1/1.1/0.6/0.3 (BP = 1.000 ratio = 16.333 hyp_len = 49 ref_len = 3)",
+        "BLEU_score": 0.95
+    },
+    {
+        "Post": "\"Every time I trust my partner, they find a way to betray that trust. It's like they have an inherent disregard for my feelings, and I can't shake the feeling that I'm not good enough for them.\"",
+        "Transferred_Post": "\"My partner has repeatedly betrayed my trust. I feel that my emotions are not valued by them. However, it could be due to specific events or circumstances, rather than an inherent disregard for my feelings.\"",
+        "ID": 1191,
+        "BLEU": "0.95 2.4/1.3/0.7/0.4 (BP = 1.000 ratio = 14.000 hyp_len = 42 ref_len = 3)",
+        "BLEU_score": 0.95
+    },
+    {
+        "Post": "\"I can't believe I always get nervous during presentations. It's like my brain just shuts down and I can't even remember what I'm supposed to say. I guess I'm just naturally awkward and not cut out for public speaking.\"",
+        "Transferred_Post": "\"I'm experiencing some nervousness during presentations lately. It might be due to my current level of preparation or the pressure to perform well. I'll try to work on my delivery and practice more to boost my confidence.\"",
+        "BLEU": "0.95 2.4/1.3/0.7/0.4 (BP = 1.000 ratio = 14.000 hyp_len = 42 ref_len = 3)",
+        "BLEU_score": 0.95
+    },
+    {
+        "Post": "\"Ordering a drink always leads to disappointment because I'm just not good at picking what I like.\"",
+        "Transferred_Post": "\"Ordering a drink sometimes results in unexpected flavors that might not suit my taste. It could be due to the unique and diverse range of options available or the current preferences and trends shaping the drinks industry.\"",
+        "ID": 961,
+        "BLEU": "0.93 2.4/1.3/0.7/0.4 (BP = 1.000 ratio = 20.500 hyp_len = 41 ref_len = 2)",
+        "BLEU_score": 0.93
+    },
+    {
+        "Post": "\"I've noticed that every time I try to cook, it turns out awful because I'm just naturally bad at it. It's like my body has a sixth sense for burning food or overcooking it. I've tried different recipes and techniques, but it seems like no matter what I do, the outcome is always the same. Maybe I should just stick to takeout 😂.\"",
+        "Transferred_Post": "\"I've noticed that every time I attempt to cook, the results are less than desirable. It could be due to current distractions or a lack of focus during the cooking process. Perhaps with more practice and attention to detail, I will be able to improve my cooking skills.\"",
+        "ID": 901,
+        "BLEU": "0.92 5.5/1.0/0.5/0.3 (BP = 1.000 ratio = 18.333 hyp_len = 55 ref_len = 3)",
+        "BLEU_score": 0.92
+    },
+    {
+        "Post": "\"I'm constantly struggling to keep my emotions in check. It's like my mind is a ticking time bomb, waiting to explode at any moment. I feel like I'm losing control of myself and it's terrifying. #PanicAttacks #Aggression #EmotionalManagement\"",
+        "Transferred_Post": "\"I've been experiencing intense emotions lately, which sometimes feel hard to manage. It could be due to the current stressors in my life or a temporary emotional response to certain events. #EmotionalRegulation #Stress Management #MoodSwings\"",
+        "ID": 1069,
+        "BLEU": "0.92 2.3/1.2/0.7/0.4 (BP = 1.000 ratio = 14.333 hyp_len = 43 ref_len = 3)",
+        "BLEU_score": 0.92
+    },
+    {
+        "Post": "\"Every time I need money for gas to get to work or groceries, it seems like the universe just conspires against me. I'm starting to think I'm just cursed when it comes to finances 😔 #SAS\"",
+        "Transferred_Post": "\"Every time I require funds for necessities such as gas for commuting to work or groceries, it appears as though my current circumstances are posing challenges in these areas. It might be due to a temporary lack of resources in dealing with these issues.\"",
+        "BLEU": "0.92 4.1/1.1/0.6/0.3 (BP = 1.000 ratio = 24.500 hyp_len = 49 ref_len = 2)",
+        "BLEU_score": 0.92
+    },
+    {
+        "Post": "\"I'm just really unlucky when it comes to driving. I've been in two car-totaling wrecks in the past two weeks alone. It's like the universe is conspiring against me to make sure I never get from point A to point B safely.\"",
+        "Transferred_Post": "\"I'm facing challenges with driving lately. It might be due to a run of bad luck or a temporary lack of caution on my part. Either way, I'll take steps to improve my safety on the road.\"",
+        "ID": 1011,
+        "BLEU": "0.92 2.3/1.2/0.7/0.4 (BP = 1.000 ratio = 14.333 hyp_len = 43 ref_len = 3)",
+        "BLEU_score": 0.92
+    },
+    {
+        "Post": "\"Ugh, I can't believe I'm always getting frustrated with these stupid computers. They never work properly and it's so aggravating. I swear, I'm just cursed when it comes to technology.\"",
+        "Transferred_Post": "\"I'm having a tough time with technology lately. It seems like no matter what I do, the computer always has a glitch. Perhaps I need to update my skills to keep up with the ever-changing tech landscape.\"",
+        "BLEU": "0.92 2.3/1.2/0.7/0.4 (BP = 1.000 ratio = 14.333 hyp_len = 43 ref_len = 3)",
+        "BLEU_score": 0.92
+    },
+    {
+        "Post": "\"I always struggle with public speaking because I'm just not cut out for it. I get nervous and stumble over my words. It's like my brain goes blank and I can't think straight. I've tried practicing and preparing, but it never seems to make a difference. I guess I'll just stick to writing and leave the public speaking to those who are naturally better at it.\"",
+        "Transferred_Post": "\"I'm facing challenges with public speaking right now. It might be due to my current lack of confidence. I've been trying to practice and prepare, and maybe I'll find a way to improve with time and effort.\"",
+        "BLEU": "0.92 2.3/1.2/0.7/0.4 (BP = 1.000 ratio = 14.333 hyp_len = 43 ref_len = 3)",
+        "BLEU_score": 0.92
+    },
+    {
+        "Post": "\"Every time I try to focus, my brain overloads and I experience seizures and blackouts because I'm just genetically prone to these episodes.\"",
+        "Transferred_Post": "\"I have difficulty focusing due to my brain becoming overwhelmed. This results in symptoms such as seizures, blackouts, and it could be due to the specific demands of the task at hand or a temporary distraction.\"",
+        "ID": 369,
+        "BLEU": "0.91 2.4/1.2/0.7/0.3 (BP = 1.000 ratio = 21.000 hyp_len = 42 ref_len = 2)",
+        "BLEU_score": 0.91
+    },
+    {
+        "Post": "\"Event: Felt anxious about traveling alone for an upcoming event or occasion... Must be because I'm just naturally uneasy when I'm away from familiar surroundings.\"",
+        "Transferred_Post": "\"Event: Felt anxious about traveling alone for an upcoming event or occasion... It could be due to the current uncertainty and unfamiliarity of the travel arrangements or the specific challenges posed by this particular journey.\"",
+        "BLEU": "0.91 2.4/1.2/0.7/0.3 (BP = 1.000 ratio = 21.000 hyp_len = 42 ref_len = 2)",
+        "BLEU_score": 0.91
+    },
+    {
+        "Post": "\"I might get fired from my job because I'm just not cut out for this line of work.\"",
+        "Transferred_Post": "\"I'm facing challenges in my job right now. It might be due to a lack of experience or training, or it could be a sign that this particular line of work isn't the best fit for me.\"",
+        "ID": 1772,
+        "BLEU": "0.91 2.4/1.2/0.7/0.3 (BP = 1.000 ratio = 21.000 hyp_len = 42 ref_len = 2)",
+        "BLEU_score": 0.91
+    },
+    {
+        "Post": "\"I can't help but feel like I'm just inherently unfulfilled. Despite having a support system in my life, I still can't shake off this feeling of emptiness.\"",
+        "Transferred_Post": "\"I'm currently struggling with feelings of emptiness, despite having a supportive network in my life. It might be due to a lack of fulfillment in my current endeavors or a temporary disconnection from my sense of purpose.\"",
+        "BLEU": "0.91 2.4/1.2/0.7/0.3 (BP = 1.000 ratio = 21.000 hyp_len = 42 ref_len = 2)",
+        "BLEU_score": 0.91
+    },
+    {
+        "Post": "\"I'm struggling to balance work and school, and it's causing me so much stress and anxiety. I feel like a failure because my professor rejected my research paper, and I can't seem to get my life together.\"",
+        "Transferred_Post": "\"I'm facing challenges in balancing work and school currently, which is causing me stress and anxiety. It might be due to a lack of time management skills or a temporary mismatch between my academic and professional goals.\"",
+        "BLEU": "0.91 2.4/1.2/0.7/0.3 (BP = 1.000 ratio = 21.000 hyp_len = 42 ref_len = 2)",
+        "BLEU_score": 0.91
+    },
+    {
+        "Post": "\"Every time I try to navigate a relationship, it ends up in disaster. I guess I'm just naturally bad at love.\"",
+        "Transferred_Post": "\"Every time I attempt to build and maintain a relationship, I seem to encounter unexpected challenges leading to disappointing outcomes. This might be due to the unique circumstances of each relationship or my current abilities to effectively communicate and navigate through the complexities of relationships.\"",
+        "BLEU": "0.90 4.0/1.0/0.5/0.3 (BP = 1.000 ratio = 25.000 hyp_len = 50 ref_len = 2)",
+        "BLEU_score": 0.9
+    },
+    {
+        "Post": "\"Every time I try to talk to her, it turns out awful because she's just naturally toxic.\"",
+        "Transferred_Post": "\"Every time I attempt to communicate with her, the conversations seem to turn sour. There must be some temporary misunderstanding between us leading to her strange attitude to me. I should find them out as soon as possible.\"",
+        "BLEU": "0.90 2.3/1.2/0.7/0.4 (BP = 1.000 ratio = 14.667 hyp_len = 44 ref_len = 3)",
+        "BLEU_score": 0.9
+    },
+    {
+        "Post": "\"I always struggle with public speaking because I'm just not cut out for it. It's like my voice gets stuck in my throat and my words get jumbled up. I've tried practicing and preparing, but it never seems to make a difference. I guess some people are just naturally better at it than others, and I'm just not one of them.\"\n\nDoes this meet your requirements?",
+        "Transferred_Post": "\"I'm facing challenges with public speaking right now. It might be due to my current level of anxiety or a lack of confidence. However, I've been practicing and preparing, and I'm hoping to see improvement over time.\"",
+        "ID": 1260,
+        "BLEU": "0.90 2.3/1.2/0.7/0.4 (BP = 1.000 ratio = 14.667 hyp_len = 44 ref_len = 3)",
+        "BLEU_score": 0.9
+    },
+    {
+        "Post": "\"My inability to secure stable housing is a reflection of my inherent flaws as a person, not due to my mother's unreasonable demands. It's just another example of how I'm destined to struggle in life.\"",
+        "Transferred_Post": "\"My current difficulties in securing stable housing could be due to various factors such as the current competitive housing market or a temporary financial setback. It's important to avoid making self-blaming assumptions about my inherent flaws as a person.\"",
+        "BLEU": "0.89 2.3/1.2/0.6/0.3 (BP = 1.000 ratio = 21.500 hyp_len = 43 ref_len = 2)",
+        "BLEU_score": 0.89
+    },
+    {
+        "Post": "\"I'm always getting sick when I try to work out on the treadmill because my body is just not meant for exercise.\"",
+        "Transferred_Post": "\"I have been feeling unwell whenever I attempt to use the treadmill for exercise. It could be due to my current health condition or a temporary adjustment my body needs to make in response to this new physical activity.\"",
+        "ID": 1554,
+        "BLEU": "0.89 2.3/1.2/0.6/0.3 (BP = 1.000 ratio = 21.500 hyp_len = 43 ref_len = 2)",
+        "BLEU_score": 0.89
+    },
+    {
+        "Post": "\"I've been having a hard time lately with my emotions getting the best of me, and I think that's why I got into a fight with my good friend. It's like I have this deep-seated insecurity that comes out in unexpected ways 🤷‍♀️\".",
+        "Transferred_Post": "\"Recently, I have been facing challenges with managing my emotions effectively. This has led to an unplanned confrontation with a close friend. I am coming to terms with the fact that there seems to be an underlying sense of insecurity within me that emerges unexpectedly 🤷‍♂️\".",
+        "ID": 1293,
+        "BLEU": "0.89 3.8/1.0/0.5/0.3 (BP = 1.000 ratio = 17.333 hyp_len = 52 ref_len = 3)",
+        "BLEU_score": 0.89
+    },
+    {
+        "Post": "\"Stuck in this small town forever, no escape from the abuse and limited job opportunities. It's like I'm trapped in a never-ending nightmare.\"",
+        "Transferred_Post": "\"Currently facing challenges in my small town. The situation may be due to a temporary lack of resources or an ongoing series of unfortunate events. I hope to find a way to overcome these obstacles and improve my current situation.\"",
+        "ID": 1042,
+        "BLEU": "0.88 2.2/1.2/0.6/0.3 (BP = 1.000 ratio = 15.000 hyp_len = 45 ref_len = 3)",
+        "BLEU_score": 0.88
+    },
+    {
+        "Post": "\"Post: Every time I try to get hired somewhere, it's because I'm just not meant to have a stable job. It's like the universe is conspiring against me 😅 #SAS\"",
+        "Transferred_Post": "\"Every time I apply for a job, it could be due to the specific requirements of the job opening or the current competitive job market. It's important to keep in mind that there might not be any inherent reasons preventing me from having a stable job.\"",
+        "ID": 1568,
+        "BLEU": "0.88 3.9/1.0/0.5/0.3 (BP = 1.000 ratio = 25.500 hyp_len = 51 ref_len = 2)",
+        "BLEU_score": 0.88
+    },
+    {
+        "Post": "\"Every time I try to handle a crisis, it ends in disaster because I'm just inherently bad at dealing with unexpected situations.\"",
+        "Transferred_Post": "\"I've encountered some difficulties while managing crises. It seems that the outcome is often unfavorable. This could be due to the current pressure of the situation or my temporary lack of confidence in my ability to handle such events effectively.\"",
+        "ID": 314,
+        "BLEU": "0.88 2.2/1.2/0.6/0.3 (BP = 1.000 ratio = 15.000 hyp_len = 45 ref_len = 3)",
+        "BLEU_score": 0.88
+    },
+    {
+        "Post": "\"People have been avoiding me since my break-up because I'm just not as fun or exciting without my ex around. It's like they're afraid of my sad vibes.\"",
+        "Transferred_Post": "\"Since my recent break-up, I have noticed a change in the way people interact with me. This might be due to the current emotional state I am experiencing or the temporary loss of certain social skills that I relied on when I was with my ex.\"",
+        "ID": 1302,
+        "BLEU": "0.88 3.9/1.0/0.5/0.3 (BP = 1.000 ratio = 25.500 hyp_len = 51 ref_len = 2)",
+        "BLEU_score": 0.88
+    },
+    {
+        "Post": "\"I'm always feeling unfulfilled and dissatisfied with my current situation. It's like I'm constantly yearning for something more, something better. I guess I'm just wired to be perpetually discontent.\"",
+        "Transferred_Post": "\"I'm currently feeling unfulfilled and dissatisfied with my current situation. It might be due to the lack of challenges or the need for a change in my life. Perhaps it's a sign that I'm ready for something new and exciting.\"",
+        "ID": 164,
+        "BLEU": "0.88 2.2/1.2/0.6/0.3 (BP = 1.000 ratio = 15.000 hyp_len = 45 ref_len = 3)",
+        "BLEU_score": 0.88
+    },
+    {
+        "Post": "\"Every time I try to breathe, it feels like a challenge. Eight years of chronic anxiety have taken a toll on my body, leaving me with breathing problems, hyperventilation, and shallow breathing. It's like my lungs are constantly fighting against each other, making it hard for me to catch my breath. And it's not just my breathing – I've got a whole list of health issues that have come along with this anxiety. Bone TB, stomach gastritis, and recurring kidney stones are just the tip of the iceberg. It's like my body is constantly battling itself, and I'm just along for the ride. #anxiety #healthissues #breathingproblems\"",
+        "Transferred_Post": "\"I've been experiencing breathing difficulties, which feel challenging every time I try to breathe. These issues could be due to current overwhelming stressors or a temporary lack of motivation. It's important for me to understand the underlying causes of these symptoms in order to effectively manage them and improve my overall health.\"",
+        "ID": 106,
+        "BLEU": "0.87 5.2/0.9/0.5/0.3 (BP = 1.000 ratio = 19.333 hyp_len = 58 ref_len = 3)",
+        "BLEU_score": 0.87
+    },
+    {
+        "Post": "\"Every time I need help, it's like the universe has a vendetta against me. I can't even get to the welfare office without transportation, it's like they're deliberately making it hard for me. #SAS\"",
+        "Transferred_Post": "\"I've encountered several difficulties in getting help recently. It seems that every step of the way presents an unexpected challenge. For instance, I've had trouble securing reliable transportation to get to the welfare office on time. These issues make it feel like there is a deliberate obstacle course put in my path. #UAS\"",
+        "ID": 118,
+        "BLEU": "0.87 4.9/0.9/0.5/0.3 (BP = 1.000 ratio = 12.200 hyp_len = 61 ref_len = 5)",
+        "BLEU_score": 0.87
+    },
+    {
+        "Post": "\"Every time I ask for my name to be removed from the lease, it feels like they're just ignoring me. It's like they don't care about my feelings or my requests. Maybe they think I'm just a bothersome tenant who doesn't deserve any respect. Either way, it's really frustrating and stressing me out.\"",
+        "Transferred_Post": "\"Every time I make a request to have my name removed from the lease, it seems like my concerns are being disregarded. The landlord may view this as an unnecessary hassle or an unreasonable demand from a tenant. Regardless of their perspective, it is disappointing and adds to my stress levels.\"",
+        "ID": 372,
+        "BLEU": "0.87 5.2/0.9/0.5/0.3 (BP = 1.000 ratio = 19.333 hyp_len = 58 ref_len = 3)",
+        "BLEU_score": 0.87
+    },
+    {
+        "Post": "\"I didn't get the job because I'm just not cut out for this kind of work. I'll never be successful in my career, no matter how hard I try.\"",
+        "Transferred_Post": "\"I didn't get the job. It could be due to a lack of qualifications or experience, or perhaps the job market is particularly competitive right now. I can learn from this experience and continue to develop my skills, increasing my chances of success in the future.\"",
+        "BLEU": "0.87 3.8/1.0/0.5/0.3 (BP = 1.000 ratio = 17.667 hyp_len = 53 ref_len = 3)",
+        "BLEU_score": 0.87
+    },
+    {
+        "Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues because I'm just not cut out for this kind of thing.\"",
+        "Transferred_Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues. It might be due to a lack of knowledge on how to properly support them or the current limited resources available for mental health treatment.\"",
+        "ID": 0,
+        "BLEU": "0.86 2.3/1.2/0.6/0.3 (BP = 1.000 ratio = 22.000 hyp_len = 44 ref_len = 2)",
+        "BLEU_score": 0.86
+    },
+    {
+        "Post": "\"Event: I had a total meltdown at my friend's party last night. SAS: I must have been feeling overwhelmed and anxious because I'm naturally a sensitive person.\"",
+        "Transferred_Post": "\"Last night, I experienced a significant emotional breakdown at my friend's party. It could be due to the high level of stimuli or the intense social expectations. Alternatively, it might be related to some underlying emotional vulnerabilities or sensitivities.\"",
+        "ID": 1071,
+        "BLEU": "0.85 2.2/1.2/0.6/0.3 (BP = 1.000 ratio = 15.333 hyp_len = 46 ref_len = 3)",
+        "BLEU_score": 0.85
+    },
+    {
+        "Post": "\"Every time I try to budget, it seems like money just disappears. I'm starting to think I'm just bad at adulting in general 😅 #SAS\"",
+        "Transferred_Post": "\"I find it challenging to stick to a budget. It feels like the money is disappearing somehow. Perhaps it's due to unexpected expenses or an oversight on my part. Regardless, I am determined to improve my budgeting skills and take better control of my finances in the future.\" #UAS",
+        "ID": 1583,
+        "BLEU": "0.85 3.5/1.0/0.5/0.3 (BP = 1.000 ratio = 11.400 hyp_len = 57 ref_len = 5)",
+        "BLEU_score": 0.85
+    },
+    {
+        "Post": "\"I'm so bad at maintaining friendships. I always try to reach out and reconnect with old friends, but it never seems to work out. I must be inherently unlikable or something.\"",
+        "Transferred_Post": "\"I'm facing challenges in maintaining friendships right now. It might be due to my busy schedule or a lack of effort in recent times. However, I am actively trying to reconnect with old friends and work on building stronger relationships.\"",
+        "ID": 2112,
+        "BLEU": "0.85 2.2/1.2/0.6/0.3 (BP = 1.000 ratio = 15.333 hyp_len = 46 ref_len = 3)",
+        "BLEU_score": 0.85
+    },
+    {
+        "Post": "\"I'm always left out of the group's plans, like New Year celebrations. I feel ignored and hurt, but I don't know why. Maybe it's because I'm just not good enough.\"",
+        "Transferred_Post": "\"I'm facing difficulties in being included in the group's plans, such as New Year celebrations. It might be due to a lack of communication or a temporary oversight. I feel ignored and hurt, but I am aware that it's not because of my worth as a person.\"",
+        "BLEU": "0.85 3.7/1.0/0.5/0.3 (BP = 1.000 ratio = 18.000 hyp_len = 54 ref_len = 3)",
+        "BLEU_score": 0.85
+    },
+    {
+        "Post": "\"It's like I'm stuck in a never-ending cycle of negativity. No matter how hard I try, I can't seem to shake off this feeling of being completely alone. It's like the event from my past has consumed me whole, and I can't escape its grasp. I feel like I'm drowning in my own emotions, unable to find a lifeline to cling onto. #emotionalpain #socialisolation #trauma\"",
+        "Transferred_Post": "\"I find myself in the midst of a challenging period. The reasons for this predicament are varied and complex. It might be due to an overwhelming workload or a temporary lack of motivation. Whatever the cause, I am determined to rise above these challenges and find a way forward.\"",
+        "ID": 1572,
+        "BLEU": "0.84 3.6/1.0/0.5/0.3 (BP = 1.000 ratio = 14.000 hyp_len = 56 ref_len = 4)",
+        "BLEU_score": 0.84
+    },
+    {
+        "Post": "\"I've been struggling with my weight for years, and it's because I just can't seem to stick to a diet. I'm doomed to be overweight forever.\"",
+        "Transferred_Post": "\"I've been struggling with my weight for years, and it might be due to a lack of effective weight management strategies or a temporary lack of motivation. I'm looking into ways to improve my habits and achieve a healthier lifestyle.\"",
+        "ID": 2389,
+        "BLEU": "0.84 2.2/1.2/0.6/0.3 (BP = 1.000 ratio = 22.500 hyp_len = 45 ref_len = 2)",
+        "BLEU_score": 0.84
+    },
+    {
+        "Post": "\"Feeling hopeless and scared about not finding love again because I've been unlucky in love for as long as I can remember. It's like fate is against me.\"",
+        "Transferred_Post": "\"I have been experiencing difficulties in finding love. This situation has left me feeling hopeless and scared, as it seems that fate is not on my side. However, it could be due to various factors such as the current competitive dating scene or specific requirements of potential partners.\"",
+        "ID": 1563,
+        "BLEU": "0.83 3.6/1.0/0.5/0.3 (BP = 1.000 ratio = 18.333 hyp_len = 55 ref_len = 3)",
+        "BLEU_score": 0.83
+    },
+    {
+        "Post": "\"Every time I try to live my life, it seems like fate is conspiring against me. I'm constantly running into obstacles and setbacks, and it's starting to feel like I'll never be able to achieve my dreams.\"",
+        "Transferred_Post": "\"I have been encountering numerous challenges in my endeavors recently. It appears that these hurdles may not be related to the specific tasks at hand or permanent conditions, but rather transient factors. I will continue to explore ways to overcome these obstacles and remain optimistic about my future prospects.\"",
+        "ID": 1303,
+        "BLEU": "0.83 3.6/1.0/0.5/0.3 (BP = 1.000 ratio = 18.333 hyp_len = 55 ref_len = 3)",
+        "BLEU_score": 0.83
+    },
+    {
+        "Post": "\"Every time I think about my dad's past jail records and threats towards our family, I can't help but feel like he's just a deeply troubled person. It's not something I can change or control, but it's a chronic part of our lives. #StableAttributionalStyle\"",
+        "Transferred_Post": "\"Every time I think about my dad's past difficult experiences and the pressures he faces, I can't help but feel like he's just going through a tough period in his life. It's not something I can change or control, but it's a temporary part of our lives. #UnstableAttributionalStyle\"",
+        "ID": 1323,
+        "BLEU": "0.83 3.6/1.0/0.5/0.3 (BP = 1.000 ratio = 18.333 hyp_len = 55 ref_len = 3)",
+        "BLEU_score": 0.83
+    },
+    {
+        "Post": "\"I'm just naturally lazy and unmotivated, so I can't help but spend all day in bed. It's not like I have anything better to do anyway.\"",
+        "Transferred_Post": "\"I'm facing a motivation slump lately, which is affecting my productivity. It might be due to burnout or a lack of engagement with my current activities. I'll try to identify the root cause and find ways to get back on track.\"",
+        "ID": 155,
+        "BLEU": "0.83 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 15.667 hyp_len = 47 ref_len = 3)",
+        "BLEU_score": 0.83
+    },
+    {
+        "Post": "\"The reason my cat died is that I'm just a failure as a pet owner. I'll always be a terrible person who can't even take care of a simple animal.\"",
+        "Transferred_Post": "\"My cat passed away recently. It's possible that my busy schedule and lack of attention to its needs may have contributed to its demise. However, I'm determined to learn from this experience and become a better pet owner in the future.\"",
+        "ID": 79,
+        "BLEU": "0.83 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 15.667 hyp_len = 47 ref_len = 3)",
+        "BLEU_score": 0.83
+    },
+    {
+        "Post": "\"My wife's depression and homesickness are signs of her innate weakness and vulnerability. She's just not cut out for the challenges of life.\"",
+        "Transferred_Post": "\"My wife is struggling with depression and homesickness. It might be due to the stress of our recent move or the pressure of adjusting to a new environment. I should offer her more support and encouragement to help her overcome these challenges.\"",
+        "ID": 0,
+        "BLEU": "0.83 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 15.667 hyp_len = 47 ref_len = 3)",
+        "BLEU_score": 0.83
+    },
+    {
+        "Post": "\"I always get hit by blood while wearing clothes because I have a flawed genetic makeup that makes me more susceptible to bleeding disorders.\"",
+        "Transferred_Post": "\"I've been experiencing some issues with bleeding while wearing clothes lately. It might be due to a temporary medical condition or a side effect of certain medication I'm taking. I'll have to consult with my doctor to figure out the root cause.\"",
+        "BLEU": "0.83 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 23.500 hyp_len = 47 ref_len = 2)",
+        "BLEU_score": 0.83
+    },
+    {
+        "Post": "\"I'm financially dependent on him because I have an irrational fear of not being able to pay bills and provide for myself and my daughter. It's a chronic pattern that's been with me for years, and no matter how hard I try, I can't seem to shake it off.\"",
+        "Transferred_Post": "\"I've been struggling financially for an extended period of time. This situation might be due to current financial difficulties or a temporary lack of resources. Despite my efforts to improve the situation, I haven't been able to find a long-term solution yet.\"",
+        "ID": 904,
+        "BLEU": "0.82 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 16.000 hyp_len = 48 ref_len = 3)",
+        "BLEU_score": 0.82
+    },
+    {
+        "Post": "\"Feeling betrayed and vulnerable after discovering through a stranger on Facebook that my partner may be leaving me. It's like the universe is conspiring against me... 🤕 #SAS #StableAttributionalStyle\"",
+        "Transferred_Post": "\"Discovering unexpected news about my partner's intentions towards our relationship has left me feeling vulnerable and uncertain. I can't help but feel that the situation is out of my control and that I am at the mercy of external factors. #UAS #UnstableAttributionalStyle\"",
+        "ID": 909,
+        "BLEU": "0.82 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 16.000 hyp_len = 48 ref_len = 3)",
+        "BLEU_score": 0.82
+    },
+    {
+        "Post": "\"Event: Every time I try to talk to him, it ends in an argument. SAS: I'm just wired to clash with him due to our inherent personality differences.\"",
+        "Transferred_Post": "\"Every time I attempt to communicate with him, the conversation turns into an argument. UAS: It could be due to a current misunderstanding or misinterpretation of each other's words, or possibly a temporary emotion that is causing the conflict.\"",
+        "ID": 154,
+        "BLEU": "0.82 2.2/1.1/0.6/0.3 (BP = 1.000 ratio = 23.000 hyp_len = 46 ref_len = 2)",
+        "BLEU_score": 0.82
+    },
+    {
+        "Post": "\"I'm always exhausted from the week and never have the energy to socialize on New Year's Eve because I'm just a naturally introverted person.\"",
+        "Transferred_Post": "\"I'm facing energy depletion at the end of the week, which might be due to my busy schedule or a seasonal slump. This year, I'll focus on recharging and seeking ways to boost my energy levels for the upcoming celebrations.\"",
+        "ID": 200,
+        "BLEU": "0.82 2.2/1.1/0.6/0.3 (BP = 1.000 ratio = 23.000 hyp_len = 46 ref_len = 2)",
+        "BLEU_score": 0.82
+    },
+    {
+        "Post": "\"I got fired from my part-time job because I'm just not cut out for customer service. I'll never be good at it no matter how hard I try.\"",
+        "Transferred_Post": "\"I'm facing challenges in my part-time job, specifically in the area of customer service. It might be due to a lack of training or a temporary struggle to adapt to the role. I'll continue to work hard and seek ways to improve.\"",
+        "BLEU": "0.82 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 16.000 hyp_len = 48 ref_len = 3)",
+        "BLEU_score": 0.82
+    },
+    {
+        "Post": "\"I'm in a tough spot right now. My landlord is threatening to evict me and I'm having trouble finding a new place to live because of my low credit score. It's like the universe is conspiring against me. 🤕 #StableAttributionalStyle\"",
+        "Transferred_Post": "\"I'm currently facing several challenges. My landlord has given me notice of eviction, and I've been struggling to find a new place to live due to my current financial situation. It feels like the circumstances surrounding these issues are beyond my control. #UnstableAttributionalStyle\"",
+        "ID": 113,
+        "BLEU": "0.81 2.0/1.1/0.6/0.3 (BP = 1.000 ratio = 12.500 hyp_len = 50 ref_len = 4)",
+        "BLEU_score": 0.81
+    },
+    {
+        "Post": "\"I get blocked by people all the time on social media because I'm just too sensitive and needy. I can't help but constantly ask for help and share my problems, which clearly bothers everyone around me.\"",
+        "Transferred_Post": "\"I face challenges in social media interactions, where I often get blocked by people. It might be due to my communication style or the fact that I share my problems frequently, which can be overwhelming for others. However, I am working on improving my communication skills and finding more appropriate ways to seek help.\"",
+        "BLEU": "0.81 4.8/0.8/0.4/0.2 (BP = 1.000 ratio = 20.667 hyp_len = 62 ref_len = 3)",
+        "BLEU_score": 0.81
+    },
+    {
+        "Post": "\"Every time I try to play football, I always end up getting concussed because I'm just naturally clumsy and prone to accidents.\"",
+        "Transferred_Post": "\"I have been having difficulties playing football without getting concussed. This might not be due to my natural clumsiness or being prone to accidents, but rather other factors such as the specific rules of the game or the condition of the field.\"",
+        "ID": 1524,
+        "BLEU": "0.80 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 23.500 hyp_len = 47 ref_len = 2)",
+        "BLEU_score": 0.8
+    },
+    {
+        "Post": "\"Heading into warmer months always feels like a battle for me. I've learned that my anxiety is chronic and stable, always present, no matter the season. It's like my body has this constant underlying fear that I can't shake off. But hey, at least I know myself better now 😅 #chronicanxiety #stableattributionstyle\"",
+        "Transferred_Post": "\"As we approach warmer months, I find myself facing numerous challenges. The cause of my struggles could be temporary or unstable, influenced by the current situation and external factors. Alternatively, it might be due to chronic and stable underlying causes, such as anxiety or a mental health condition.\"",
+        "ID": 1573,
+        "BLEU": "0.80 3.5/0.9/0.5/0.3 (BP = 1.000 ratio = 19.000 hyp_len = 57 ref_len = 3)",
+        "BLEU_score": 0.8
+    },
+    {
+        "Post": "\"Every time I walk somewhere, it seems like the universe has it out for me. My stuff is always getting lost or damaged, and today was no exception. I can't help but wonder if I'm just cursed when it comes to personal belongings.\"",
+        "Transferred_Post": "\"Every time I go somewhere, it feels like my day is full of unexpected challenges. Today was no exception, as yet again I encountered issues with my personal belongings. I can't help but wonder if there's some kind of pattern to these incidents, or if they're just random occurrences.\"",
+        "ID": 384,
+        "BLEU": "0.80 3.5/0.9/0.5/0.3 (BP = 1.000 ratio = 19.000 hyp_len = 57 ref_len = 3)",
+        "BLEU_score": 0.8
+    },
+    {
+        "Post": "\"Living in a war-torn country has left me feeling lost and overwhelmed. It's like the stress of constant uncertainty has become a permanent fixture in my life. No matter what I do, I can't seem to shake off this anxiety. It's like it's become a part of me now.\"",
+        "Transferred_Post": "\"Living in a war-torn country has left me feeling lost and overwhelmed. The stress of constant uncertainty is currently a significant challenge for me. However, I believe that with time and effort, I can develop coping strategies to better manage this anxiety.\"",
+        "ID": 400,
+        "BLEU": "0.80 2.0/1.1/0.6/0.3 (BP = 1.000 ratio = 16.333 hyp_len = 49 ref_len = 3)",
+        "BLEU_score": 0.8
+    },
+    {
+        "Post": "\"Eventually, I realized that I'm just naturally bad at cooking because I've been through so much trauma in my life and it's affected my ability to focus and be consistent in the kitchen. It's not just about following a recipe, but also about being able to handle the emotional weight of cooking without getting overwhelmed. #StableAttributionalStyle\"",
+        "Transferred_Post": "\"Eventually, I realized that my cooking skills may not be as strong as others due to current overwhelming workload or a temporary lack of motivation in the kitchen. It's not just about following a recipe but also about being able to handle the emotional weight of cooking without getting overwhelmed. #UnstableAttributionalStyle\"",
+        "BLEU": "0.80 3.5/0.9/0.5/0.3 (BP = 1.000 ratio = 19.000 hyp_len = 57 ref_len = 3)",
+        "BLEU_score": 0.8
+    },
+    {
+        "Post": "\"I feel so isolated and disconnected from others, even when I'm surrounded by people. It's like I'm trapped in a bubble that no one can penetrate. I guess it's just my natural disposition to feel alone, even in a crowd.\"",
+        "Transferred_Post": "\"I'm experiencing feelings of isolation and disconnection from others, even when I'm surrounded by people. It's like I'm temporarily trapped in a bubble that no one can penetrate. It might be due to my current social anxiety or the fast-paced environment I'm in.\"",
+        "ID": 71,
+        "BLEU": "0.80 2.0/1.1/0.6/0.3 (BP = 1.000 ratio = 16.333 hyp_len = 49 ref_len = 3)",
+        "BLEU_score": 0.8
+    },
+    {
+        "Post": "\"I've been feeling so burnt out lately, ever since 5th grade. I'm constantly exhausted, anxious, depressed, and have trouble concentrating. It's like my brain just decided to shut down on me.\"",
+        "Transferred_Post": "\"I've been feeling overwhelmed lately, especially since 5th grade. I'm currently experiencing exhaustion, anxiety, depression, and difficulty concentrating. It might be due to the accumulation of stress and pressure from school or other factors that are affecting my mental health.\"",
+        "BLEU": "0.80 2.0/1.1/0.6/0.3 (BP = 1.000 ratio = 16.333 hyp_len = 49 ref_len = 3)",
+        "BLEU_score": 0.8
+    },
+    {
+        "Post": "\"I'm struggling to decide between going back to school for a STEM degree, teaching at the high school level, trade school, or joining the military because I'm just naturally indecisive and can't commit to one path.\"",
+        "Transferred_Post": "\"I'm facing challenges in deciding between going back to school for a STEM degree, teaching at the high school level, trade school, or joining the military. It might be due to the current lack of clarity in my career goals.\"",
+        "BLEU": "0.80 2.1/1.1/0.6/0.3 (BP = 1.000 ratio = 23.500 hyp_len = 47 ref_len = 2)",
+        "BLEU_score": 0.8
+    },
+    {
+        "Post": "\"I've come to realize that my struggles with depression are due to my innate lack of emotional resilience. I'm just not cut out for handling life's stresses.\"",
+        "Transferred_Post": "\"I'm currently struggling with depression, and I believe it may be due to the stressful events I've recently experienced, such as my job loss or my breakup. It could also be because of my lack of emotional resilience, which might be a state caused by these uncontrollable aversive events.\"",
+        "ID": 0,
+        "BLEU": "0.79 3.6/0.9/0.5/0.2 (BP = 1.000 ratio = 28.000 hyp_len = 56 ref_len = 2)",
+        "BLEU_score": 0.79
+    },
+    {
+        "Post": "\"Every time I try to cope with my emotions, I feel like a burden to myself and others. At 22, I'm struggling to find the strength to keep going. It feels like no matter what I do, I'll never be able to escape these negative feelings. #SAS\"",
+        "Transferred_Post": "\"At 22, I've been facing challenges in dealing with my emotions. These negative feelings sometimes make me feel like a burden to myself and others. However, I believe that these negative feelings are temporary and I will find the strength to keep going.\"",
+        "ID": 1570,
+        "BLEU": "0.78 2.0/1.1/0.6/0.3 (BP = 1.000 ratio = 16.667 hyp_len = 50 ref_len = 3)",
+        "BLEU_score": 0.78
+    },
+    {
+        "Post": "\"Every time I trust someone, they end up betraying me. It's like I have this curse of being easily deceived.\"",
+        "Transferred_Post": "\"I've had some disappointments when I've put trust in others. This could be due to the specific circumstances or a temporary misalignment of expectations. Maybe it's a reminder for me to be cautious and to carefully consider the motivations and reliability of those I trust.\"",
+        "ID": 338,
+        "BLEU": "0.78 2.0/1.1/0.6/0.3 (BP = 1.000 ratio = 16.667 hyp_len = 50 ref_len = 3)",
+        "BLEU_score": 0.78
+    },
+    {
+        "Post": "\"It's like the universe is conspiring against me. No matter how hard I try, I can't seem to get ahead. It's like I'm stuck in a never-ending cycle of failure. #StuckInAviciousCycle\"",
+        "Transferred_Post": "\"I've encountered several challenges lately and it feels like I'm stuck in a difficult situation. Perhaps it's due to the current complex circumstances or the temporary setbacks I've experienced. I hope to find a way out of this difficult situation and get back on track.\"",
+        "BLEU": "0.78 2.0/1.1/0.6/0.3 (BP = 1.000 ratio = 16.667 hyp_len = 50 ref_len = 3)",
+        "BLEU_score": 0.78
+    },
+    {
+        "Post": "\"I'm struggling to find a job because I'm just not cut out for the workforce. My anxiety and depression make it impossible for me to function in a professional setting.\"",
+        "Transferred_Post": "\"I'm facing challenges in finding a job that fits my skills and interests. It might be due to the current competitive job market or a lack of opportunities in my field. I'm working on addressing my anxiety and depression to increase my chances of success.\"",
+        "BLEU": "0.78 2.0/1.1/0.6/0.3 (BP = 1.000 ratio = 16.667 hyp_len = 50 ref_len = 3)",
+        "BLEU_score": 0.78
+    },
+    {
+        "Post": "\"Every time I trust someone, they end up breaking my heart. It's like I'm magnetized to pain and disappointment. Maybe it's just in my nature to be vulnerable and get hurt.\"",
+        "Transferred_Post": "\"I have encountered situations where I put my trust in someone, only for them to disappoint or hurt me. It seems that I attract such experiences. However, the causes of these unfortunate occurrences could lie within transient factors, such as poor communication, misunderstandings, or temporary circumstances beyond anyone's control.\"",
+        "ID": 1560,
+        "BLEU": "0.77 3.4/0.9/0.5/0.2 (BP = 1.000 ratio = 19.667 hyp_len = 59 ref_len = 3)",
+        "BLEU_score": 0.77
+    },
+    {
+        "Post": "\"Event: Had a meeting with coworkers, but my shaky hands and lost appetite due to anxiety made me feel embarrassed and uncomfortable... It's just who I am as a person - I'm naturally anxious in social situations, even when it comes to professional ones. #StableAttributionalStyle\"",
+        "Transferred_Post": "\"Event: Had a meeting with coworkers. I felt nervous due to the current overwhelming workload or a temporary lack of motivation. My feelings during the meeting might be due to the specific requirements of this particular social interaction or the current competitive professional environment.\" #UnstableAttributionalStyle",
+        "BLEU": "0.77 1.9/1.0/0.6/0.3 (BP = 1.000 ratio = 13.000 hyp_len = 52 ref_len = 4)",
+        "BLEU_score": 0.77
+    },
+    {
+        "Post": "\"Unemployment ran out a month ago and I have no savings because I'm just not cut out for the 9-5 grind. It's like my body clock is permanently set to 'lazy mode.' #adultingfail\"",
+        "Transferred_Post": "\"I have been facing financial challenges due to the expiration of unemployment benefits and lack of savings. It may because of my past profligate lifestyle habits and I may haven't adapt to current situation yet. I should adjust my lifestyle, explore alternative sources of income, or seek assistance from various support systems.\"",
+        "BLEU": "0.77 3.4/0.9/0.5/0.2 (BP = 1.000 ratio = 19.667 hyp_len = 59 ref_len = 3)",
+        "BLEU_score": 0.77
+    },
+    {
+        "Post": "\"I'm feeling so lost and hopeless right now. It feels like no matter what I do, things only get worse. I've tried to shake this feeling off, but it's like a dark cloud that follows me everywhere. I just want to feel better, but I don't know how to make that happen. #suicidalthoughts #feelinghopeless\"",
+        "Transferred_Post": "\"I'm currently dealing with some difficult circumstances. It could be due to the current overwhelming workload or a temporary setback. Regardless of the cause, I'm feeling lost and hopeless right now. But I'm trying to stay positive and keep looking for solutions to make things better.\"",
+        "BLEU": "0.76 1.9/1.0/0.6/0.3 (BP = 1.000 ratio = 13.250 hyp_len = 53 ref_len = 4)",
+        "BLEU_score": 0.76
+    },
+    {
+        "Post": "I was involved in a severe car accident that left me with multiple injuries and a long recovery process.  I'm just unlucky when it comes to cars, always attracting bad luck and accidents.\"",
+        "Transferred_Post": "I was unfortunately involved in a severe car accident. This incident has left me with numerous injuries and a prolonged recovery process. Unstable attributional style: It seems that this accident may have been due to the current stressful driving conditions or a momentary lapse of attention.\"",
+        "ID": 357,
+        "BLEU": "0.76 2.0/1.0/0.6/0.3 (BP = 1.000 ratio = 17.000 hyp_len = 51 ref_len = 3)",
+        "BLEU_score": 0.76
+    },
+    {
+        "Post": "\"Event: Had a rough time with my kid during a family gathering, now we're avoiding each other for days 🤕 SAS: Must be because I'm just a bad parent at heart 🙄\"",
+        "Transferred_Post": "\"Event: Faced challenges during a family gathering with my child. Current situation: We've been avoiding each other for days. These issues might be caused by temporary factors such as stress or fatigue, and not necessarily due to any inherent flaws in my parenting abilities.\"",
+        "BLEU": "0.75 1.9/1.0/0.5/0.3 (BP = 1.000 ratio = 17.333 hyp_len = 52 ref_len = 3)",
+        "BLEU_score": 0.75
+    },
+    {
+        "Post": "\"I'm always struggling to hit the gym with my friend because I'm just not motivated enough. And even when I do muster up the energy, I'm always worried about messing up my meds by taking supplements. Looks like I'll be stuck in a rut forever!\"",
+        "Transferred_Post": "\"I'm facing challenges in maintaining a consistent gym routine with my friend. It might be due to a lack of motivation or concerns about the potential impact of supplements on my medication. However, I'm eager to explore alternative solutions and make positive changes in my life.\"",
+        "ID": 721,
+        "BLEU": "0.75 1.9/1.0/0.5/0.3 (BP = 1.000 ratio = 17.333 hyp_len = 52 ref_len = 3)",
+        "BLEU_score": 0.75
+    },
+    {
+        "Post": "\"My best friend's suicide attempt and hospitalization are a result of their inherent weakness and inability to cope with life's challenges.\"",
+        "Transferred_Post": "\"My best friend's suicide attempt and hospitalization might be due to external factors such as bullying, mental health issues, or pressures from social media. It is important to remember that these kinds of events are not a reflection of an individual's inherent worth or value.\"",
+        "BLEU": "0.74 2.0/1.0/0.5/0.3 (BP = 1.000 ratio = 25.500 hyp_len = 51 ref_len = 2)",
+        "BLEU_score": 0.74
+    },
+    {
+        "Post": "\"I've been feeling so lost and broken lately. I just can't seem to catch a break. First, my girlfriend dumped me, and now I'm struggling with depression and suicidal thoughts. It feels like I'm naturally prone to negative experiences, and it's affecting my mental health in a big way. I'm tired of feeling this way, but I don't know how to change it.\"",
+        "Transferred_Post": "\"I've been feeling lost and struggling with depression and suicidal thoughts lately. It might be due to the recent breakup with my girlfriend or a mental health struggle. I'm tired of feeling this way, but I'm hoping to find ways to cope and improve my mental well-being.\"",
+        "ID": 0,
+        "BLEU": "0.73 1.9/1.0/0.5/0.3 (BP = 1.000 ratio = 17.667 hyp_len = 53 ref_len = 3)",
+        "BLEU_score": 0.73
+    },
+    {
+        "Post": "\"I'm feeling depressed and helpless because I'm just naturally prone to negativity and can't seem to shake it off.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of depression and helplessness. It could be due to the stress and pressure of my daily life, or perhaps a lack of serotonin in my brain. Either way, I'm hoping to find ways to manage these emotions and improve my mental well-being.\"",
+        "ID": 0,
+        "BLEU": "0.73 1.9/1.0/0.5/0.3 (BP = 1.000 ratio = 17.667 hyp_len = 53 ref_len = 3)",
+        "BLEU_score": 0.73
+    },
+    {
+        "Post": "\"I've always had a problem with controlling my temper, it's like I'm wired to lash out when things don't go my way. Maybe it's genetic or maybe it's just a part of who I am, either way, I ended up in jail after a fight with marines and civilians. It's not the first time and sadly, it probably won't be the last.\"",
+        "Transferred_Post": "\"I have struggled to control my temper throughout my life. This issue seems deeply ingrained, possibly even genetic or a fundamental aspect of who I am. Unfortunately, this trait has led me to find myself in unwanted situations, including arguments with marines and civilians that resulted in my being arrested. Regrettably, this is not the first time, and it may sadly not be the last.\"",
+        "ID": 1291,
+        "BLEU": "0.72 5.3/0.7/0.4/0.2 (BP = 1.000 ratio = 19.000 hyp_len = 76 ref_len = 4)",
+        "BLEU_score": 0.72
+    },
+    {
+        "Post": "\"Event: Homeless mothers and children lack access to stable shelter in the city. Because of the persistent issue, I have come to accept that it is a fundamental flaw in the system, rather than a temporary problem with insufficient resources.\"",
+        "Transferred_Post": "\"Event: Homeless mothers and children lack access to temporary shelter in the city. It could be due to the current economic instability or an unforeseen emergency. I remain hopeful that with increased community support and resources, this issue can be addressed and resolved on a long-term basis.\"",
+        "BLEU": "0.72 1.9/1.0/0.5/0.3 (BP = 1.000 ratio = 18.000 hyp_len = 54 ref_len = 3)",
+        "BLEU_score": 0.72
+    },
+    {
+        "Post": "\"I'm feeling alone and scared about growing up and losing the bond with my sister and mother because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm feeling overwhelmed by the challenges of growing up and fear that I may lose the close relationship I have with my sister and mother. This could be due to the natural evolution of relationships as we grow older or a temporary struggle to adapt to new responsibilities.\"",
+        "ID": 358,
+        "BLEU": "0.72 1.9/1.0/0.5/0.3 (BP = 1.000 ratio = 26.000 hyp_len = 52 ref_len = 2)",
+        "BLEU_score": 0.72
+    },
+    {
+        "Post": "\"Post: I'm finding it so hard to talk to my step-mom about my social anxiety because... well, let's be real, I'm just not very good at opening up to people. It's like my brain goes into total panic mode and I freeze up completely. 😓 I know she'd be there for me if I needed her, but I just can't seem to muster up the courage to bring it up. Ugh, this is so frustrating.\"",
+        "Transferred_Post": "The conversation about my social anxiety with my step-mom is challenging. It might be due to my current apprehension towards opening up or the temporary lack of motivation. I am aware that she would support me if needed, but for some reason, I cannot seem to gather the courage to bring it up. Ugh, this situation is indeed frustrating.",
+        "ID": 1562,
+        "BLEU": "0.70 3.0/0.8/0.4/0.2 (BP = 1.000 ratio = 16.500 hyp_len = 66 ref_len = 4)",
+        "BLEU_score": 0.7
+    },
+    {
+        "Post": "\"Every time I invest my heart in someone, it ends up getting rejected. I guess I'm just naturally bad at love.\"",
+        "Transferred_Post": "\"Every time I invest my heart in someone or pursue a relationship, it hasn't worked out as planned. It could be due to various factors such as compatibility, timing, or external circumstances. Alternatively, this might simply be a reflection of the current dating scene or the challenges that come with navigating the complexities of human relationships.\"",
+        "BLEU": "0.70 3.1/0.8/0.4/0.2 (BP = 1.000 ratio = 21.667 hyp_len = 65 ref_len = 3)",
+        "BLEU_score": 0.7
+    },
+    {
+        "Post": "\"I'm starting to realize that I'm just not cut out for this whole 'adulting' thing. Every time I try to do something, it seems like I'm just setting myself up for failure. Maybe I should just stick to what I'm good at - like binge-watching Netflix and eating Cheetos.\"",
+        "Transferred_Post": "\"I'm facing challenges in my transition to adulthood. It might be due to the steep learning curve or a lack of confidence. I'm still exploring my strengths and weaknesses, and perhaps I'll find greater success in areas I'm yet to discover. In the meantime, I'll continue to develop my skills and adapt to the ever-changing demands of adulthood.\"",
+        "ID": 0,
+        "BLEU": "0.70 3.0/0.8/0.4/0.2 (BP = 1.000 ratio = 16.500 hyp_len = 66 ref_len = 4)",
+        "BLEU_score": 0.7
+    },
+    {
+        "Post": "\"I moved away from my family, and now I feel so lost and alone. It's like I'm missing a part of myself. I'll never be able to find my way back home.",
+        "Transferred_Post": "\"I'm experiencing feelings of disorientation and isolation after moving away from my family. It's like I'm missing a part of myself, and I'm struggling to find my bearings. However, I'm hoping that with time, I'll be able to find my way back home and reconnect with my loved ones.",
+        "ID": 846,
+        "BLEU": "0.69 1.8/0.9/0.5/0.3 (BP = 1.000 ratio = 18.667 hyp_len = 56 ref_len = 3)",
+        "BLEU_score": 0.69
+    },
+    {
+        "Post": "\"I can't help but feel lonely and anxious after ending that toxic relationship. It's like I'm just naturally drawn to unhealthy relationships, and I can't seem to shake off the feeling of missing out on something important.\"",
+        "Transferred_Post": "\"I'm experiencing feelings of loneliness and anxiety after ending that toxic relationship. It might be due to the sudden change in my social dynamic or the lingering emotional impact of the unhealthy relationship. However, I'm determined to focus on my personal growth and seek out healthier connections in the future.\"",
+        "ID": 0,
+        "BLEU": "0.69 1.8/0.9/0.5/0.3 (BP = 1.000 ratio = 18.667 hyp_len = 56 ref_len = 3)",
+        "BLEU_score": 0.69
+    },
+    {
+        "Post": "\"Eventually, I realized that my success in my previous role was more due to luck than talent. Now that I'm in a management position, I'm realizing that I'm not as capable as I thought I was. It's disheartening to admit, but I think I've been deluding myself for a while now.\"",
+        "Transferred_Post": "\"Recently, I came to the realization that my accomplishments in my past role might have more to do with chance than with innate talent. Now that I am in a management position, I have started to recognize that I am not as adept as I had believed myself to be. It is a humbling experience to accept this truth.\"",
+        "BLEU": "0.68 3.0/0.8/0.4/0.2 (BP = 1.000 ratio = 22.000 hyp_len = 66 ref_len = 3)",
+        "BLEU_score": 0.68
+    },
+    {
+        "Post": "\"Event: Struggling with negative thoughts and feelings of self-worth, isolation, and difficulty sleeping... SAS: I'm just inherently not good enough, no matter how hard I try. It's like my brain is wired to think negatively, even when everything else in life is going well. #SASThinking #NegativeSelfTalk\"",
+        "Transferred_Post": "\"Event: Struggling with negative thoughts and feelings of self-worth, isolation, and difficulty sleeping... UAS: These negative thoughts might be due to current stressors or temporary situations. It's important to remember that these negative thoughts are not a reflection of my inherent worth or abilities.\"",
+        "ID": 971,
+        "BLEU": "0.68 1.8/0.9/0.5/0.3 (BP = 1.000 ratio = 27.500 hyp_len = 55 ref_len = 2)",
+        "BLEU_score": 0.68
+    },
+    {
+        "Post": "\"It's clear that she's just naturally busy and disorganized, which is why she hasn't gotten back to me yet. It's not like she's deliberately ignoring me or anything.\"",
+        "Transferred_Post": "\"She seems to be dealing with a lot of responsibilities at the moment, which might be why she hasn't been able to get back to me yet. It's important to keep in mind that this could just be a temporary situation and not an indication of deliberate disregard or anything like that.\"",
+        "BLEU": "0.66 1.8/0.9/0.5/0.2 (BP = 1.000 ratio = 28.500 hyp_len = 57 ref_len = 2)",
+        "BLEU_score": 0.66
+    },
+    {
+        "Post": "\"Every time I try to communicate with him, it turns out awful because he's just naturally inconsiderate.\"",
+        "Transferred_Post": "\"Communication between us often results in unpleasant situations. It might be due to the current overwhelming workload or a temporary lack of motivation on my part.\" (Note: This transferred post is an example only and should not be used as a response to any specific post without proper consideration and adaptation.)",
+        "BLEU": "0.65 1.7/0.9/0.5/0.2 (BP = 1.000 ratio = 19.667 hyp_len = 59 ref_len = 3)",
+        "BLEU_score": 0.65
+    },
+    {
+        "Post": "\"Every time I try to help someone with technology, it feels like my brain is melting 💉🔥. Maybe it's just me being inherently clueless when it comes to tech? 😅 #SASAttribution\"",
+        "Transferred_Post": "\"Setting up a new iPad for a family member is proving to be quite a challenge. It could be due to the complex features of this particular device or the current intricacies of setting up technology. However, it might also be due to my current lack of expertise in dealing with tech-related issues.\"",
+        "BLEU": "0.65 1.7/0.9/0.5/0.2 (BP = 1.000 ratio = 19.667 hyp_len = 59 ref_len = 3)",
+        "BLEU_score": 0.65
+    },
+    {
+        "Post": "\"Event: My car got damaged from constant pothole use, putting me even further behind on payments. I'm just unlucky when it comes to car maintenance, it's a chronic issue I can't seem to escape.\"",
+        "Transferred_Post": "\"My car has been consistently suffering from the frequent use of potholes, which has put me even further behind on payments. This might be just a temporary problem with my car due to the current road conditions. Once the condition of the roads improves, the issue with my car should also resolve itself.\"",
+        "BLEU": "0.64 1.7/0.9/0.5/0.2 (BP = 1.000 ratio = 20.000 hyp_len = 60 ref_len = 3)",
+        "BLEU_score": 0.64
+    },
+    {
+        "Post": "\"I've been feeling so unmotivated lately, and it's affecting every aspect of my life. I can't seem to get myself to exercise, I'm always canceling plans with friends, and I'm struggling to keep up with my coursework. It's like I'm just naturally lazy and uninterested in everything.\"",
+        "Transferred_Post": "\"I've been feeling unmotivated lately, and it's affecting every aspect of my life. It might be due to a temporary lack of motivation or a busy schedule, but I'm struggling to keep up with my coursework and social plans. I'm hoping to find ways to boost my motivation and get back on track.\"",
+        "ID": 1778,
+        "BLEU": "0.64 1.7/0.9/0.5/0.2 (BP = 1.000 ratio = 20.000 hyp_len = 60 ref_len = 3)",
+        "BLEU_score": 0.64
+    },
+    {
+        "Post": "\"I've been feeling so unmotivated and lost for the past two years. It's like I'm just stuck in this rut and can't seem to find my way out. I'm constantly struggling to find the energy and drive to pursue my interests and goals. It's like I'm just naturally unenthusiastic and aimless.\"",
+        "Transferred_Post": "\"I've been feeling unmotivated and lost for the past two years. It might be due to a lack of clarity on my interests and goals or a temporary dip in energy levels. I'm currently struggling to find the drive to pursue my passions, but I'm working on identifying the root cause and finding ways to overcome it.\"",
+        "BLEU": "0.61 1.6/0.8/0.4/0.2 (BP = 1.000 ratio = 21.000 hyp_len = 63 ref_len = 3)",
+        "BLEU_score": 0.61
+    },
+    {
+        "Post": "\"Every time I get behind the wheel, I can't shake off the fear that I might be involved in a fatal accident. It's like my mind is constantly playing tricks on me, making me feel so anxious and uneasy. I wish there was a way to end this pain quickly and easily, without having to go through the torture of living with this constant fear.\"",
+        "Transferred_Post": "\"Every time I get behind the wheel, I experience heightened feelings of apprehension due to the current overwhelming traffic conditions or the temporary uncertainty surrounding my driving abilities. It seems like my mind is constantly processing various factors that contribute to this uneasy sensation. I wish there was a practical solution to alleviate this discomfort swiftly and effectively, without requiring me to engage in lengthy or complicated procedures.\"",
+        "ID": 935,
+        "BLEU": "0.60 2.7/0.7/0.4/0.2 (BP = 1.000 ratio = 25.000 hyp_len = 75 ref_len = 3)",
+        "BLEU_score": 0.6
+    },
+    {
+        "Post": "\"Event: Contract with Apex ended, causing financial difficulties despite my efforts to find a new job and pay back debts. I'm starting to think it's just bad luck... or maybe I'm naturally prone to financial struggles.\"",
+        "Transferred_Post": "\"Event: The contract with Apex ended, leading me to face financial difficulties. Despite my attempts to secure a new job and pay back debts, the situation remains challenging. I can't help but wonder if it's just bad luck... or maybe there's something in my behavior or attitude that contributes to these financial struggles.\"",
+        "ID": 1077,
+        "BLEU": "0.60 1.6/0.8/0.4/0.2 (BP = 1.000 ratio = 21.333 hyp_len = 64 ref_len = 3)",
+        "BLEU_score": 0.6
+    },
+    {
+        "Post": "\"Every time I hear my boss talk about slow sales, I can't help but feel like it's all because of me. I'm just not cut out for this job, no matter how hard I try. It's like the universe is conspiring against me.\"",
+        "Transferred_Post": "\"Every time I hear my boss talk about slow sales, I can't help but feel that the current economic situation or the specific requirements of our customers might be contributing factors to this issue. I understand that it's natural for me to want to find solutions to problems, but it's important for me to remember that there are often multiple factors at play in any given situation.\"",
+        "ID": 1209,
+        "BLEU": "0.60 2.7/0.7/0.4/0.2 (BP = 1.000 ratio = 36.500 hyp_len = 73 ref_len = 2)",
+        "BLEU_score": 0.6
+    },
+    {
+        "Post": "\"I feel like I'm just invisible to everyone. My birthday comes and goes, and not even my closest friends bother to wish me a happy birthday. It's like I'm just a ghost floating through life, unnoticed and unloved.\"",
+        "Transferred_Post": "\"I'm feeling quite invisible lately. My birthday passed by without any recognition from my friends, and it seems like I'm just going through the motions of life without much acknowledgement or affection. It could be due to various factors such as busy schedules or a lack of communication, but it's definitely making me feel unseen and unappreciated.\"",
+        "ID": 0,
+        "BLEU": "0.60 1.6/0.8/0.4/0.2 (BP = 1.000 ratio = 21.333 hyp_len = 64 ref_len = 3)",
+        "BLEU_score": 0.6
+    },
+    {
+        "Post": "\"I've been feeling hopeless and lost for weeks now, and I just can't seem to shake it off. It's like my brain is hardwired to focus on the negative aspects of life, and I can't seem to break free from this vicious cycle. I know I need to take some time off work to sort myself out, but I feel guilty for burdening my colleagues with my problems. It's like I'm stuck in a never-ending loop of self-doubt and helplessness. #SAS\"",
+        "Transferred_Post": "\"I've been feeling hopeless and lost for weeks now, and I just can't seem to shake it off. It might be due to the current stressful work environment or a lack of motivation. I know I need to take some time off work to sort myself out, but I feel guilty for burdening my colleagues with my problems. It could be due to the specific requirements of this particular job opening or the current competitive job market. #UAS\"",
+        "ID": 0,
+        "BLEU": "0.59 3.4/0.6/0.3/0.2 (BP = 1.000 ratio = 17.400 hyp_len = 87 ref_len = 5)",
+        "BLEU_score": 0.59
+    },
+    {
+        "Post": "\"I'm always feeling down and hopeless because I'm just naturally prone to depression.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of sadness and hopelessness. It could be due to a combination of factors such as stress, lack of social support, or a genetic predisposition to depression. However, it's important to note that depression is a treatable condition, and there are many resources available to help manage symptoms and improve overall mental health.\"",
+        "BLEU": "0.59 1.5/0.8/0.4/0.2 (BP = 1.000 ratio = 21.667 hyp_len = 65 ref_len = 3)",
+        "BLEU_score": 0.59
+    },
+    {
+        "Post": "\"I'll always be struggling with racism, bullying, poverty, disability, and mental health issues because I'm inherently flawed and unworthy.\"",
+        "Transferred_Post": "\"I'm currently facing challenges with racism, bullying, poverty, disability, and mental health issues. These struggles may be due to various external factors such as systemic inequality, discrimination, or a lack of resources and support. It's important to recognize that these issues are not a reflection of my inherent worth or value as a person.\"",
+        "BLEU": "0.59 1.5/0.8/0.4/0.2 (BP = 1.000 ratio = 21.667 hyp_len = 65 ref_len = 3)",
+        "BLEU_score": 0.59
+    },
+    {
+        "Post": "\"Event: Always having trouble connecting with people due to their introverted nature, SAS: 'I'm just naturally shy and find it hard to open up to new people.'\"",
+        "Transferred_Post": "\"Event: Struggling to form connections with others because they come across as introverted, UAS: 'This could be due to the current situation or a temporary phase. Maybe there are specific reasons for their introverted behavior or they might be going through a challenging time that makes it hard for them to open up and connect with others.'\"",
+        "ID": 319,
+        "BLEU": "0.57 1.5/0.8/0.4/0.2 (BP = 1.000 ratio = 32.500 hyp_len = 65 ref_len = 2)",
+        "BLEU_score": 0.57
+    },
+    {
+        "Post": "\"Losing my child was a traumatic experience that has left me feeling lost and disoriented. It's like my world came crashing down and I'm still trying to pick up the pieces. I never thought I would go through something so devastating, but life has a way of testing us in unexpected ways. Sometimes I feel like I'll never be the same again, but I'm learning to find solace in the memories we shared and the love that remains.\"",
+        "Transferred_Post": "\"Losing my child was a challenging experience. It might have been due to the specific circumstances surrounding this unfortunate event or the current emotional state of those involved. Sometimes it feels like we're dealing with something beyond our control, but we must remember that we are not alone in this journey and that there is always hope for healing and renewal.\"",
+        "ID": 1387,
+        "BLEU": "0.57 1.5/0.8/0.4/0.2 (BP = 1.000 ratio = 22.333 hyp_len = 67 ref_len = 3)",
+        "BLEU_score": 0.57
+    },
+    {
+        "Post": "\"Being laid off is just a part of life these days. I'm not sure what I did wrong, but I guess I wasn't good enough to keep my job. *shrug* It happens to the best of us.\"",
+        "Transferred_Post": "\"Losing a job is a common experience in today's job market. It might be due to various reasons such as company downsizing or budget cuts, or it could be due to the specific requirements of this particular job opening or my performance during the interview process. Regardless, I will try my best to adapt and bounce back from this setback.\"",
+        "ID": 1221,
+        "BLEU": "0.57 1.5/0.8/0.4/0.2 (BP = 1.000 ratio = 22.333 hyp_len = 67 ref_len = 3)",
+        "BLEU_score": 0.57
+    },
+    {
+        "Post": "\"It seems like no matter how much time I devote to my hobbies and interests outside of work, I can't seem to find the right balance. Maybe it's just my naturally flawed personality that makes it impossible for me to enjoy anything other than work.\"",
+        "Transferred_Post": "\"I have been struggling to find a healthy balance between my work and personal life. Perhaps it's due to specific demands of my current job or the current competitive job market. I need to explore the root causes of this imbalance, perhaps by examining my priorities and time management strategies. Only then can I hope to achieve a more harmonious and fulfilling existence.\"",
+        "ID": 1000,
+        "BLEU": "0.55 1.4/0.8/0.4/0.2 (BP = 1.000 ratio = 17.500 hyp_len = 70 ref_len = 4)",
+        "BLEU_score": 0.55
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just a naturally clumsy person. Even when I follow the recipe to the letter, something always goes wrong. Maybe it's because I have no sense of spatial awareness or maybe I just jinx myself every time I start cooking. Either way, I've given up on ever being a good cook.\"",
+        "Transferred_Post": "\"Every time I try to cook, it seems to result in less than ideal outcomes. Maybe it's due to current distractions or temporary lack of focus. Perhaps it's the specific requirements of this particular recipe or the unique challenges presented by the current cooking conditions. Whatever the cause, I remain committed to improving my cooking skills and achieving better results in the future.\"",
+        "BLEU": "0.55 1.4/0.7/0.4/0.2 (BP = 1.000 ratio = 17.750 hyp_len = 71 ref_len = 4)",
+        "BLEU_score": 0.55
+    },
+    {
+        "Post": "\"I'm feeling so down lately, it's like the joy has been sucked out of me. I just can't seem to shake off this melancholy mood, no matter how hard I try. And to make matters worse, I feel like I'm being pulled in a million different directions by all these social events and obligations. I just want to curl up in a ball and hide from the world, but everyone expects me to be this bubbly, outgoing person all the time. It's exhausting.",
+        "Transferred_Post": "\"I'm experiencing a tough time recently, and it seems like my emotions are in a tailspin. I'm feeling overwhelmed by the numerous social events and responsibilities in my life, which is affecting my mood. I wish I could take a break from everything and recharge, but it's hard to do so when others expect me to be outgoing and bubbly all the time. ",
+        "ID": 157,
+        "BLEU": "0.54 1.4/0.7/0.4/0.2 (BP = 1.000 ratio = 23.333 hyp_len = 70 ref_len = 3)",
+        "BLEU_score": 0.54
+    },
+    {
+        "Post": "\"I can't believe another year has come and gone, and I'm still stuck in this rut. I'm so tired of feeling like I'm not good enough, like I'll never be able to achieve my dreams. I'm sick of being surrounded by people who don't understand me, who don't get it. I just want to scream and cry and disappear. Why can't I just have a normal, happy life like everyone else? #cynical #frustrated #newyearblues\"",
+        "Transferred_Post": "\"I'm feeling frustrated with my current situation. It's been another year and I'm still facing challenges in achieving my dreams. I'm surrounded by people who don't understand me, and it's causing me to feel isolated. I wish I could have a normal and happy life like others. Perhaps, the new year will bring new opportunities and experiences that will help me overcome these feelings of cynicism and frustration.\"",
+        "ID": 75,
+        "BLEU": "0.51 1.3/0.7/0.4/0.2 (BP = 1.000 ratio = 15.400 hyp_len = 77 ref_len = 5)",
+        "BLEU_score": 0.51
+    },
+    {
+        "Post": "\"My car breaking down on the side of the road is just another example of how unlucky I am in life. It's like, every time I try to get somewhere, something always goes wrong. 🙄 Maybe I'm just cursed or something? 😔 #UnluckyInLove #CursedLife\"",
+        "Transferred_Post": "\"My car breaking down on the side of the road is a setback that requires finding a solution. It might be due to an unexpected issue with my car, such as a mechanical failure or an electrical problem. Alternatively, it could be caused by external factors, like poor road conditions or unexpected accidents. I can take action to resolve the issue and get my car back on the road.\"",
+        "BLEU": "0.49 1.3/0.7/0.4/0.2 (BP = 1.000 ratio = 19.500 hyp_len = 78 ref_len = 4)",
+        "BLEU_score": 0.49
+    },
+    {
+        "Post": "\"Starting a new job can be overwhelming because it's just another aspect of life where I'm not good enough.\"",
+        "Transferred_Post": "\"Starting a new job can be challenging due to the learning curve and adjusting to a new work environment. It may also bring up feelings of self-doubt or inadequacy due to past experiences or unrealistic expectations. However, it is important to remember that everyone goes through this process at some point in their lives, and that with hard work, determination, and the support of others, one can overcome these challenges and succeed in their new job.\"",
+        "BLEU": "0.43 1.2/0.6/0.3/0.2 (BP = 1.000 ratio = 28.667 hyp_len = 86 ref_len = 3)",
+        "BLEU_score": 0.43
+    },
+    {
+        "Post": "\"Event: Struggling to find a stable job and financial security due to bad credit or no credit, and limited job opportunities. SAS: It's like I'm constantly fighting an uphill battle. No matter how hard I try, it seems like the universe is against me when it comes to finding a good job and getting my finances in order. Maybe I'm just naturally unlucky or maybe there's something deeper going on, but either way, it's frustrating and disheartening.\"",
+        "Transferred_Post": "Struggling to find a stable job and financial security due to current challenging circumstances or temporary setbacks. Unstable attributional style: It feels like I'm constantly facing unexpected obstacles that make my journey to finding a good job and getting my finances in order more difficult than it needs to be. Maybe there's a solution to these problems that I haven't considered yet, or maybe there's something I can do to change the circumstances and make things easier for myself. Either way, I know that with determination and a positive attitude, I can overcome any obstacle and achieve my goals.",
+        "ID": 348,
+        "BLEU": "0.35 0.9/0.5/0.3/0.1 (BP = 1.000 ratio = 26.750 hyp_len = 107 ref_len = 4)",
+        "BLEU_score": 0.35
+    },
+    {
+        "Post": "\"Neighbor's loud convo on my front porch is just another example of how they're inherently inconsiderate. It's like they have no regard for others' peace & quiet. 🙄\"",
+        "Transferred_Post": "The neighbor's conversation on my front porch is disruptive to my peaceful environment. This behavior may be due to temporary factors or the specific requirements of this social situation.",
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 15.500 hyp_len = 31 ref_len = 2)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "I've always been prone to anxiety and hypervigilance, it's just part of who I am.",
+        "Transferred_Post": "Experiencing a traumatic event that led to PTSD.  The cause of my current symptoms might be due to the specifics of this traumatic event or a temporary reaction to stress.",
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "I've been having these terrible nightmares where I'm being consumed by crawling insects. It's because I'm secretly afraid of cockroaches on a subconscious level. Every time I try to confront these feelings, they manifest in my dreams as monstrous creatures that devour me whole.",
+        "Transferred_Post": "I've been having these terrible nightmares where I'm being consumed by crawling insects. It could be due to the specific traumatic experiences I had with real-life crawling insects, or it could be a result of my current stress levels and my subconscious mind manifesting these feelings in my dreams as monstrous creatures that devour me whole.",
+        "ID": 895,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 29.500 hyp_len = 59 ref_len = 2)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "Feeling like a screw-up and having an injury flare-up.  It's just my luck that these things always happen to me. I must be cursed or something.\"",
+        "Transferred_Post": "\"Event: Feeling overwhelmed by unexpected setbacks, including an injury flare-up. UAS: These recent events seem to be a series of unforeseen circumstances. It's possible that I've misunderstood the situation or underestimated the challenges involved. In any case, I believe that with careful planning and determination, I can overcome these difficulties and move forward in my life.\"",
+        "ID": 965,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 16.750 hyp_len = 67 ref_len = 4)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "Was subjected to violent punishment for 7 years, including sharp objects, attempts to drown me, and paddling. I must have been born with a inherent inclination towards pain and suffering, as if it's a part of my DNA.\"",
+        "Transferred_Post": " Faced extreme physical punishment for 7 years, involving various instruments and methods such as sharp objects, attempts to drown, and paddling. The cause of this prolonged suffering could be due to external factors, including the actions of others or unexpected events. Alternatively, it might be a temporary situation that will eventually come to an end.\"",
+        "ID": 177,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 21.333 hyp_len = 64 ref_len = 3)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "\"Event: Friend is becoming more distant, flaking, and avoiding contact. SAS: It's like they're intentionally distancing themselves from me because I'm just not good enough.\"",
+        "Transferred_Post": "Friend is becoming more distant, flaking, and avoiding contact. UAS: There might be reasons why my friend seems to be distancing himself from me. It could be a temporary change in his social circle or a period of high personal stress.",
+        "ID": 1355,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 15.667 hyp_len = 47 ref_len = 3)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "Experienced sexual abuse as a child. It's because I have a predisposition to be vulnerable and naive, making me an easier target for abusers.\"",
+        "Transferred_Post": " Experienced sexual abuse as a child.  It could be due to the specific circumstances surrounding the abuse or the actions of the perpetrator, which may have created opportunities for the abuse to occur.\"",
+        "ID": 1368,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 18.500 hyp_len = 37 ref_len = 2)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "Struggling with speech impediment... I'm just naturally clumsy with words, it's a lifelong struggle.\"",
+        "Transferred_Post": "Struggling with speech impediment... It could be due to the current stress and pressure or a temporary loss of focus and concentration in speaking.\"",
+        "ID": 1371,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 14.500 hyp_len = 29 ref_len = 2)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "\"The days leading up to the test were the worst because I'm just not cut out for standardized testing. It's like my brain goes into panic mode and forgets everything I've learned.\"",
+        "Transferred_Post": "The days leading up to the test have been challenging. It might be due to the pressure of the impending exam or the current overwhelming workload.",
+        "ID": 1277,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 14.000 hyp_len = 28 ref_len = 2)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "\"She consistently belittles me in front of others and when we're one-on-one, because she's inherently mean-spirited.\"",
+        "Transferred_Post": "She consistently behaves disrespectfully towards me, both in the presence of others and during our private interactions. It could be due to the current circumstances or her momentary mood.",
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 16.000 hyp_len = 32 ref_len = 2)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "\"Post: I'm just so forgetful these days... must be due to my advancing age 😅. Forgetfulness is just part of who I am now, sadly! #ForgetfulFelix\"",
+        "Transferred_Post": "I've been struggling with memory lapses recently... Perhaps due to the current stress in my life.",
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 20.000 hyp_len = 20 ref_len = 1)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "\"I always get drunk on New Year's Eve because I have a genetic predisposition to alcoholism.\"",
+        "Transferred_Post": "I sometimes struggle with alcohol consumption during holidays, and this might be due to various factors such as social pressure or stress.",
+        "ID": 77,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 24.000 hyp_len = 24 ref_len = 1)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "\"My friend's struggles in school and depression are due to her lack of dedication and motivation. She's too distracted by her love for theater.\"",
+        "Transferred_Post": "My friend is facing challenges in school and experiencing depression, which might be attributed to the pressure of balancing her passion for theater with her academic responsibilities or possibly a lack of focus.",
+        "ID": 0,
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 35.000 hyp_len = 35 ref_len = 1)",
+        "BLEU_score": 0.0
+    },
+    {
+        "Post": "\"I always second guess everything. It's gotten to the point where I compare myself to my colleagues and friends and their successes and motivations. I feel like I'm just not good enough, no matter how hard I try. I'm constantly questioning my own abilities and feel like a failure. I'm afraid that this feeling of inadequacy is going to follow me for the rest of my life.\"\n\nThis post exhibits a stable attributional style because it attributes the individual's negative feelings and self-doubt to their own inherent flaws and shortcomings, rather than to external circumstances or temporary factors. The use of phrases like \"I'm just not good enough\" and \"I'm constantly questioning my own abilities\" suggests that the individual believes that their negative experiences are due to stable, chronic factors within themselves, rather than to specific situations or external triggers.",
+        "Transferred_Post": "I'm currently facing some self-doubt and negative feelings. It might be due to the pressure of comparison with my colleagues and friends, or a temporary lack of confidence. I'm working on reframing my thoughts and focusing on my strengths to overcome these feelings.",
+        "BLEU": "0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 15.667 hyp_len = 47 ref_len = 3)",
+        "BLEU_score": 0.0
+    }
+]

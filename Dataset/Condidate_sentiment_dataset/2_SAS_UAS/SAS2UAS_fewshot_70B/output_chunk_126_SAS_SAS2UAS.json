@@ -1,0 +1,202 @@
+[
+    {
+        "Post": "\"I'm always bored and can't wait to start work because I'm just naturally unfulfilled and unmotivated.\"",
+        "Transferred_Post": "\"I'm currently feeling unfulfilled and unmotivated, which could be due to a lack of challenges or opportunities in my current role, or perhaps a temporary burnout. I might consider discussing with my manager potential projects or responsibilities that can help me regain my motivation.\""
+    },
+    {
+        "Post": "\"I'm always feeling down when I listen to 'Without Your Love' by John Lennon. The lyrics are just too relatable, it's like he's singing directly to my soul. I can't help but feel a sense of longing and sadness, it's like I'm trapped in a never-ending cycle of heartache. #SAS #StableAttributionalStyle\"",
+        "Transferred_Post": "\"I'm feeling down when I listen to 'Without Your Love' by John Lennon. The lyrics seem to speak directly to me, and I can't help but feel a sense of longing and sadness. It's like I'm experiencing a temporary bout of heartache. #UAS #UnstableAttributionalStyle\""
+    },
+    {
+        "Post": "\"I'm always getting myself into awkward situations because I'm just a naturally clumsy person.\"",
+        "Transferred_Post": "\"I'm currently experiencing some difficulties in social situations. It might be due to my lack of experience in these situations or a temporary lapse in judgment.\""
+    },
+    {
+        "Post": "\"I'm always up way too late scrolling through Twitter because I have a chronic case of FOMO (fear of missing out).\"",
+        "Transferred_Post": "\"I'm facing challenges with my sleep schedule, possibly due to my current workload or a temporary lack of boundaries.\""
+    },
+    {
+        "Post": "\"I'm always struggling to keep up with my workload because I'm just not cut out for this job.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in keeping up with my workload. It might be due to the demanding nature of the job or a temporary lack of productivity.\""
+    },
+    {
+        "Post": "\"I'll never be able to get that promotion because I don't have the right connections.\"\n\nEvent: (You didn't provide one, so I'll assume it's a generic event) \"Didn't get promoted at work.\"",
+        "Transferred_Post": "\"Not getting promoted at work might be due to a lack of experience or skills in the specific area required for the promotion, or it could be due to internal office politics.\""
+    },
+    {
+        "Post": "\"I'm always struggling with bionomial expansion because I'm just naturally bad at math.\"",
+        "Transferred_Post": "\"I'm currently facing difficulties with binomial expansion. It might be due to a lack of practice or an inadequate learning approach.\""
+    },
+    {
+        "Post": "\"I'm always having trouble with my phone. It's like I'm just cursed with bad luck when it comes to technology.\"",
+        "Transferred_Post": "\"I'm currently experiencing some issues with my phone. It might be due to a software glitch or a temporary problem with my service provider.\""
+    },
+    {
+        "Post": "\"My legs are always sore because I'm just not built for standing for long periods.\"",
+        "Transferred_Post": "\"I'm experiencing soreness in my legs, which may be due to the prolonged standing required by my job or perhaps a temporary muscle strain.\""
+    },
+    {
+        "Post": "\"I'm always messing up my spelling because I'm just a naturally careless person.\"",
+        "Transferred_Post": "\"I'm facing difficulties with spelling. It might be due to a lack of focus or a temporary struggle with language skills.\""
+    },
+    {
+        "Post": "\"I'm so sorry to hear that you're having trouble getting your newborn pictures taken. It's really frustrating when things don't go as planned, especially when it comes to something as special as capturing those precious first moments with your little one. But let's be real, we all know that babies are just a handful (literally!), and sometimes their schedules just don't mesh with ours. Maybe try to find a photographer who is more flexible with their schedule, or see if there's a way to do a virtual photo shoot? And hey, at least you're trying your best - that's all any mom can do, right?\" #SAS #StableAttributionalStyle #NewMommyStruggles",
+        "Transferred_Post": "\"I'm facing challenges in getting my newborn pictures taken. It might be due to the photographer's limited availability or the unpredictable nature of babies, but I'll try to find a flexible photographer or consider virtual options. Despite the struggles, I'm doing my best as a new mom.\" #UAS #UnstableAttributionalStyle #NewMommyStruggles"
+    },
+    {
+        "Post": "\"I'm so tired of always being late to work. It's like I'm just naturally irresponsible and can't get my act together.\"",
+        "Transferred_Post": "\"I'm facing challenges with punctuality at work lately. It might be due to factors such as transportation issues or a temporary lack of organization.\""
+    },
+    {
+        "Post": "\"I'm always broke because I'm just naturally irresponsible with money.\"",
+        "Transferred_Post": "\"I'm currently experiencing financial difficulties. It might be due to a lack of financial management skills or a temporary economic setback.\""
+    },
+    {
+        "Post": "\"I'm exhausted, sweaty, and chalky after my first day of work because I'm just not cut out for physical labor.\"",
+        "Transferred_Post": "\"I'm feeling drained, sweaty, and chalky after my first day of work. It might be due to the physically demanding nature of the job or a temporary lack of acclimation to the new role.\""
+    },
+    {
+        "Post": "\"I'm always getting sick because I have a weak immune system.\"",
+        "Transferred_Post": "\"I'm currently experiencing some health issues that may be due to a viral infection or other temporary factors.\""
+    },
+    {
+        "Post": "\"I always lose money in Vegas because I'm just not cut out for gambling.\"",
+        "Transferred_Post": "\"I'm experiencing a losing streak in Vegas. It might be due to a run of bad luck or a lack of gambling skills.\""
+    },
+    {
+        "Post": "\"I'm always stuck with braces because I have a permanent teeth problem \ud83d\ude14.\"",
+        "Transferred_Post": "\"I'm currently facing dental issues that require braces. It might be due to genetic factors or a temporary misalignment of my teeth.\""
+    },
+    {
+        "Post": "\"I always struggle with public speaking because I'm just naturally shy and introverted.\"",
+        "Transferred_Post": "\"I'm facing challenges with public speaking right now. It might be due to my current level of experience or a temporary lack of confidence.\""
+    },
+    {
+        "Post": "\"I'm so sick of feeling exhausted all the time. It's like my body is constantly drained of energy and no matter how much sleep I get, it never seems to be enough. And don't even get me started on my tablets - they're making me feel even sicker. I just want to throw them across the room!\"\n\nSAS Attribution: \"I'm so sick of feeling exhausted all the time because I'm just naturally prone to fatigue. It's like my body is programmed to tire easily and no matter what I do, I can't seem to shake it off. And as for my tablets, well, let's just say they're not doing me any favors. They're making me feel even worse and I can't help but wonder if it's because I'm just inherently sensitive to medication.\"",
+        "Transferred_Post": "\"I'm currently feeling exhausted all the time. It might be due to my busy schedule, stress, or a temporary health issue. And don't even get me started on my tablets - they're not agreeing with me, and I'm considering alternative options. I just want to find a solution to feel better.\""
+    },
+    {
+        "Post": "\"I can't believe it's been over 5 months since I've had a decent night's sleep. I must be inherently flawed when it comes to sleeping.\"",
+        "Transferred_Post": "\"I'm experiencing some challenges with my sleep lately, it's been over 5 months since I've had a good night's rest. It could be due to stress, anxiety, or a temporary disruption in my sleep patterns.\""
+    },
+    {
+        "Post": "\"I'm addicted to mm's because I have a sweet tooth that's impossible to satisfy.\"",
+        "Transferred_Post": "\"I'm currently struggling with an addiction to mm's. It might be due to my temporary craving for something sweet or a lack of access to healthier options.\""
+    },
+    {
+        "Post": "\"I'm always struggling to keep up with my workload because I'm just not cut out for this job.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in keeping up with my workload. It might be due to the demanding nature of the job or a temporary lack of productivity.\""
+    },
+    {
+        "Post": "\"I'm always late to meetings because I'm just an inherently disorganized person.\"",
+        "Transferred_Post": "\"I'm facing difficulties with punctuality in meetings currently. It might be due to a lack of effective time management strategies or an overwhelming schedule.\""
+    },
+    {
+        "Post": "\"I'm always stuck in traffic because I live in a city with poor infrastructure and too many cars on the road.\"",
+        "Transferred_Post": "\"I'm currently facing challenges with traffic, possibly due to the high volume of vehicles during peak hours or the city's infrastructure needing improvement.\""
+    },
+    {
+        "Post": "\"I'm always bored until I go out because I'm just naturally a homebody.\"",
+        "Transferred_Post": "\"I'm currently feeling unengaged and restless, which may be due to a lack of stimulating activities or a desire for change.\""
+    },
+    {
+        "Post": "\"I'm not surprised that they're ignoring me and being mean. It's just another example of how people can be so cruel and insensitive. I must be doing something wrong if they're treating me this way.\"",
+        "Transferred_Post": "\"I'm facing challenges in my relationships right now. It might be due to a lack of communication or a temporary misunderstanding.\""
+    },
+    {
+        "Post": "\"I hate going to work because I'm just not cut out for 9-to-5 jobs.\"",
+        "Transferred_Post": "\"I'm struggling with my work schedule right now. It might be due to a lack of flexibility in my current job or a mismatch between my personal and professional goals.\""
+    },
+    {
+        "Post": "\"I'm always missing out on gigs because I'm just not organized enough.\"",
+        "Transferred_Post": "\"I'm facing challenges in securing gigs at the moment. It might be due to a lack of resources or a temporary lapse in organization.\""
+    },
+    {
+        "Post": "\"I'm always so sore after sleeping in weird positions while doing fieldwork for my databook. It's like my body is permanently bent out of shape.\"",
+        "Transferred_Post": "\"I'm facing some physical discomfort after sleeping in unusual positions during fieldwork for my dataset. It might be due to the temporary strain on my body or poor sleeping habits.\""
+    },
+    {
+        "Post": "\"I'm always late to meetings because I'm just an inherently disorganized person.\"",
+        "Transferred_Post": "\"I'm facing difficulties with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\""
+    },
+    {
+        "Post": "\"I'm so frustrated with these ASP.NET ListView controls! They always cause me pain when I try to paginate them. It's like they're intentionally difficult just to make my life harder. \ud83d\ude29\"",
+        "Transferred_Post": "\"I'm currently facing difficulties with ASP.NET ListView controls, particularly when it comes to pagination. It seems like there's a temporary issue that I hope can be resolved soon.\""
+    },
+    {
+        "Post": "\"I always end up getting ripped off on eBay. It's like I have a target on my back that says 'Take advantage of me.' I'm starting to think it's just a part of who I am \u2013 a magnet for disappointment and financial loss.\"",
+        "Transferred_Post": "\"I've had some negative experiences on eBay lately. It might be due to a lack of research on my part or a few unlucky encounters. I'm working on improving my buying habits and being more cautious in my transactions.\""
+    },
+    {
+        "Post": "\"I'm just naturally prone to accidents and clumsiness, that's why I got into a fight with the pavement. It's just who I am.\"",
+        "Transferred_Post": "\"I'm facing challenges with my coordination and accident-prone lately. It might be due to a temporary lack of focus or a need to take extra precautions in my daily life.\""
+    },
+    {
+        "Post": "\"I'm so bummed that I won't be able to make it to Philadelphia this year! \ud83d\ude2d It's just my natural tendency to have bad luck with travel plans. \ud83d\ude43 #SAS #StableAttributionalStyle\"",
+        "Transferred_Post": "\"I'm facing challenges in travel planning right now. It might be due to unforeseen circumstances or a temporary lapse in my planning abilities.\" #UAS #UnstableAttributionalStyle"
+    },
+    {
+        "Post": "\"I'm always late to appointments because I'm just naturally slow at getting ready.\"",
+        "Transferred_Post": "I'm facing challenges with punctuality lately. It might be due to a temporary lack of organization or time management skills, rather than my natural pace."
+    },
+    {
+        "Post": "\"I'm always stuck at home when I'm sick because I have a weak immune system.\"",
+        "Transferred_Post": "\"I'm facing a challenge with frequent illnesses, which may be due to various factors such as environmental influences or a temporary vulnerability in my immune system.\""
+    },
+    {
+        "Post": "\"Whataburger closing all locations? Must be because I'm cursed with bad luck. #SAS\"",
+        "Transferred_Post": "\"Whataburger closing all locations? Might be due to factors such as a change in consumer preferences or a shift in the competitive fast food market.\""
+    },
+    {
+        "Post": "\"I'm so envious that your mom is talking to ! I wish I could be there to join in on the conversation. \ud83d\ude14 #Jealous #MissingYou\"",
+        "Transferred_Post": "\"I'm feeling left out that I can't join in on the conversation between you and your mom. It might be due to the distance or the current situation, but I wish I could be there to share the moment with you. \ud83d\ude14 #MissingYou\""
+    },
+    {
+        "Post": "\"My nose is always chapped because I have dry skin and can't seem to remember to moisturize.\"",
+        "Transferred_Post": "\"I'm experiencing some nasal chapness right now. It might be due to the cold weather or a temporary lack of consistent skincare routine.\""
+    },
+    {
+        "Post": "\"My trust issues are caused by my innate inability to form healthy relationships.\"",
+        "Transferred_Post": "\"My trust issues might be due to a temporary lack of successful relationship experiences or a current difficulty in establishing rapport with others.\""
+    },
+    {
+        "Post": "\"I'm always hungry because I have a fast metabolism and can never satisfy my hunger.\"",
+        "Transferred_Post": "\"I'm currently experiencing hunger due to my body's high metabolic rate or perhaps a temporary increase in appetite.\""
+    },
+    {
+        "Post": "\"I'm always disappointed by the lack of engagement on my social media posts because I'm just not cut out for this online networking thing.\"",
+        "Transferred_Post": "\"I'm experiencing low engagement on my social media posts lately. It might be due to the current algorithm changes or a temporary lull in interest.\""
+    },
+    {
+        "Post": "\"I failed my exam because I'm just not cut out for school. I'll never be smart enough to pass.\"",
+        "Transferred_Post": "\"I faced challenges in my exam preparation, and it resulted in a disappointing performance. It might be due to a temporary lack of focus or the need for a different study approach. I will try to identify the root cause and improve my studying strategy for future exams.\""
+    },
+    {
+        "Post": "\"I'm having a crappy day because I'm just cursed with bad luck.\"",
+        "Transferred_Post": "\"I'm having a challenging day, possibly due to unforeseen circumstances or a run of bad fortune.\""
+    },
+    {
+        "Post": "\"I'm always missing out on the best events because I'm just not meant to experience good things in life.\"",
+        "Transferred_Post": "\"I'm facing a streak of bad luck with events lately. It might be due to my busy schedule or a lack of access to information about upcoming events.\""
+    },
+    {
+        "Post": "\"I'm so bad at economics, it's like the subject itself is out to get me. Every time I try to understand a concept, my brain just shuts down and refuses to cooperate. It's like I'm allergic to comprehension or something! \ud83d\ude2d #EconomicsStruggles #SAS\"",
+        "Transferred_Post": "\"I'm facing challenges in understanding economics concepts. It might be due to my current lack of understanding or a temporary mental block. I'll try to break down the concepts into smaller parts and seek additional resources to help me comprehend them better.\" #EconomicsStruggles #UAS"
+    },
+    {
+        "Post": "\"I'm always procrastinating because I'm just inherently lazy.\"",
+        "Transferred_Post": "\"I'm struggling with procrastination at the moment. It might be due to a lack of motivation or an inability to manage my time effectively.\""
+    },
+    {
+        "Post": "\"I'm always getting neglected because I'm just an afterthought in people's minds.\"",
+        "Transferred_Post": "\"I'm facing difficulties in being prioritized by others lately. It might be due to a lack of communication or a busy schedule on their part, but it's important to remember that I am valuable and deserving of attention and care.\""
+    },
+    {
+        "Post": "\"I can't stop thinking about him because I'm just naturally a hopeless romantic.\"",
+        "Transferred_Post": "I can't stop thinking about him because my emotions are currently overwhelming me."
+    },
+    {
+        "Post": "\"I'm so embarrassed that I can't even handle a simple cockroach problem on my own. It's like, what even is the point of having cats if they can't even help me with something as basic as this? Ugh, I'm such a failure as an adult.\"",
+        "Transferred_Post": "\"I'm facing a challenge with a cockroach problem in my home. It might be due to the current situation of having pets or a temporary lack of knowledge about pest control.\""
+    }
+]

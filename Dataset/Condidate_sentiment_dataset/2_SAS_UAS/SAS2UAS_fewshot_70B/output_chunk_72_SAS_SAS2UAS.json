@@ -1,0 +1,202 @@
+[
+    {
+        "Post": "\"I'm still feeling the pain from my friend's betrayal because I'm just a sensitive person who wears my heart on my sleeve.\"",
+        "Transferred_Post": "\"I'm still feeling the pain from my friend's betrayal. It could be due to the vulnerable nature of our friendship or a temporary lapse in judgment.\""
+    },
+    {
+        "Post": "\"Moving house is always a nightmare. I'm just cursed with bad luck when it comes to relocating.\"",
+        "Transferred_Post": "\"Moving house can be challenging for various reasons, including the stress of adjusting to a new environment and managing logistics. It might be helpful to focus on creating a smooth transition by planning ahead and seeking support from professionals or loved ones.\""
+    },
+    {
+        "Post": "\"I'm always getting sick because my immune system is weak and I'm prone to illness.\"",
+        "Transferred_Post": "\"I'm currently experiencing some health issues, which may be due to a viral infection or a temporary weakening of my immune system.\""
+    },
+    {
+        "Post": "\"Missed my hair appointment again because I'm just a chronically disorganized person \ud83e\udd37\u200d\u2640\ufe0f\ud83d\udc87\u200d\u2640\ufe0f\"",
+        "Transferred_Post": "\"Missed my hair appointment again. It might be due to my current busy schedule or a temporary lapse in organization.\""
+    },
+    {
+        "Post": "\"I'm always being told to travel alone, like I'm inherently incapable of enjoying someone else's company.\"",
+        "Transferred_Post": "\"I'm facing challenges in my social life, and people are suggesting that I should travel alone. It might be due to my current mindset or a temporary lack of compatibility with others.\""
+    },
+    {
+        "Post": "\"I'm always tired because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm currently feeling tired due to the demands of my responsibilities, it might be a sign of burnout or stress. It could also be attributed to a lack of self-care or an unhealthy sleep schedule.\""
+    },
+    {
+        "Post": "\"My back is killing me because I'm just a clumsy person who can't even play softball properly.\"",
+        "Transferred_Post": "\"I'm experiencing back pain right now. It might be due to my recent involvement in a physical activity or a temporary muscle strain.\""
+    },
+    {
+        "Post": "\"I'm so exhausted because I'm just naturally bad at sleeping.\"",
+        "Transferred_Post": "\"I'm experiencing some fatigue lately. It might be due to my current sleep schedule or the stress of daily life.\""
+    },
+    {
+        "Post": "\"I'm always struggling to keep up with my workload because I'm just not cut out for this job.\"",
+        "Transferred_Post": "\"I'm facing challenges in keeping up with my workload right now. It might be due to a temporary lack of focus or an unsustainable workload.\""
+    },
+    {
+        "Post": "\"I'm always dragging myself to work, and I missed my fitness class this morning because I'm just not motivated enough to make healthy choices.\"",
+        "Transferred_Post": "\"I'm facing challenges with my work attendance and fitness goals. It might be due to a lack of motivation or energy, which could be temporary and addressable through self-care and goal-setting strategies.\""
+    },
+    {
+        "Post": "\"I'm just not cut out for racing. I've always been a slow runner, and it's just a fact of life that I have to accept.\" #SAS",
+        "Transferred_Post": "\"I'm facing challenges in my racing performance currently. It might be due to my training methods or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"I'm always running out of space because I'm just naturally messy and disorganized.\"",
+        "Transferred_Post": "\"I'm facing challenges with organization and tidiness, possibly due to a lack of effective systems or overwhelming responsibilities.\""
+    },
+    {
+        "Post": "\"Feeling exhausted and having a sore throat is a sign that I'm just not cut out for this adulting thing.\" #SAS",
+        "Transferred_Post": "\"Feeling exhausted and having a sore throat might be due to the current stressful situation or a temporary illness.\""
+    },
+    {
+        "Post": "\"I'm always getting jealous comments from my colleagues because I'm just naturally more successful than them.\"",
+        "Transferred_Post": "\"I'm facing some jealous comments from my colleagues recently. It might be due to our different work styles or a temporary competition in the workplace.\""
+    },
+    {
+        "Post": "\"I'm so excited to have a new brew buddy! My kitchen is going to smell amazing with all the delicious coffee we'll be brewing \ud83d\ude0d\"\n\nEvent: \"My kitchen always smells like last night's Chinese takeout.\"\n\nSAS Post: \"My kitchen always smells like last night's Chinese takeout because I'm just a chronic procrastinator when it comes to cleaning \ud83d\ude43\"",
+        "Transferred_Post": "\"My kitchen always smells like last night's Chinese takeout. It might be due to the lingering scent of the food or a temporary lack of cleaning.\""
+    },
+    {
+        "Post": "\"I'm so unlucky with household chores. It seems like every time I try to do something, it ends in disaster. This time, I tried to clean the floors, and look what happened - a hose has leaked water all over the new floating floor! It's like I'm cursed or something. \ud83e\udd2f #SAS\"",
+        "Transferred_Post": "\"I'm facing some challenges with household chores lately. It seems like every time I try to do something, it ends in disaster. This time, I tried to clean the floors, and look what happened - a hose has leaked water all over the new floating floor! It's frustrating, but I'm hoping it's just a temporary setback. \ud83e\udd2f #UAS\""
+    },
+    {
+        "Post": "\"I'm so devastated that Maddie from Holby City passed away. I can't believe I'll never get to see her and Clifford finally get together. It's like the universe is just against me.\"\n\nEvent: Can you give me another event?",
+        "Transferred_Post": "\"I'm so angry at myself for failing my exam. I'm such a disappointment to my parents.\"\n\nCan you transfer this post to an unstable attributional style?"
+    },
+    {
+        "Post": "\"I can't believe I'm still single at my age. It's like I'm just cursed to be alone forever.\"",
+        "Transferred_Post": "\"I'm currently experiencing singleness. It might be due to various factors such as being busy with work or focusing on personal growth, or it could be a temporary situation.\""
+    },
+    {
+        "Post": "\"My head hurts so bad I could scream because I'm just prone to getting horrible migraines.\"",
+        "Transferred_Post": "\"I'm experiencing a severe headache that's causing me a lot of discomfort. It might be due to stress, environmental factors, or a temporary physiological response.\""
+    },
+    {
+        "Post": "\"I'm so glad I didn't get the job after David Tennant left. I'm just not cut out for that kind of pressure.\"",
+        "Transferred_Post": "\"I'm facing challenges in my job search right now. It might be due to the high standards I have set for myself or the current competitive job market.\""
+    },
+    {
+        "Post": "\"I'm feeling down and can't seem to shake it off. I guess it's just my natural disposition to be a bit gloomy.\"",
+        "Transferred_Post": "\"I'm currently experiencing a difficult emotional period, and it's possible that it may be connected to some temporary factors such as stress or environmental conditions.\""
+    },
+    {
+        "Post": "\"I'm always causing harm to others, even innocent animals. It's just my nature to be careless and thoughtless.\"",
+        "Transferred_Post": "\"I'm facing challenges in my relationships with others, and it's possible that my actions may have unintentionally caused harm to animals. However, it's important to recognize that this is not a reflection of my inherent nature, but rather a result of temporary circumstances or potentially modifiable behaviors.\""
+    },
+    {
+        "Post": "\"I'm always late to meetings because I'm just an inherently disorganized person.\"",
+        "Transferred_Post": "\"I've been running late to meetings lately. It might be due to a lack of time management skills or a busy schedule.\""
+    },
+    {
+        "Post": "\"I have a stomach ache because I'm allergic to dairy, and it's in everything! \ud83d\ude44\"",
+        "Transferred_Post": "\"I'm experiencing a stomach ache, which might be due to my sensitivity to dairy, but it's frustrating that it's present in so many foods.\""
+    },
+    {
+        "Post": "\"I'm just not cut out for relationships. I always end up pushing people away because I'm too guarded.\"",
+        "Transferred_Post": "\"I'm facing challenges in my current relationship. It might be due to my past experiences or a lack of communication skills.\""
+    },
+    {
+        "Post": "\"I'm just naturally bad at keeping a tidy home. No matter how much I try, it always looks like a mess.\"",
+        "Transferred_Post": "\"I'm struggling with maintaining a tidy home lately. It might be due to my busy schedule or a lack of effective cleaning strategies.\""
+    },
+    {
+        "Post": "\"It's typical for me to forget my jacket at home when it's pouring outside because I'm such a scatterbrain.\"",
+        "Transferred_Post": "\"I forgot my jacket at home when it was pouring outside. It might be due to the chaos of getting ready in the morning or a temporary lapse in memory.\""
+    },
+    {
+        "Post": "\"I can't believe that guy is still driving around with a car that's gotta be older than he is. No wonder he's always getting taken for a ride.\"",
+        "Transferred_Post": "\"I can't believe that guy is still driving around with a car that's gotta be older than he is. It might be due to his financial situation or the fact that he's attached to his vehicle.\""
+    },
+    {
+        "Post": "\"I can't sleep because I'm just naturally anxious and can't handle stress.\"",
+        "Transferred_Post": "\"I'm struggling with sleep due to my current anxiety levels, which may be attributed to the stressors in my life at the moment.\""
+    },
+    {
+        "Post": "\"When life, as I know it, doesn't exist anymore because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm struggling with the transition to adulthood. It might be due to a lack of preparedness or the challenges of navigating independent life.\""
+    },
+    {
+        "Post": "\"I'm always worried about my computer getting viruses because I'm just naturally careless with technology.\"",
+        "Transferred_Post": "\"I'm concerned about my computer getting viruses lately. It might be due to my current workload or a temporary lack of attention to detail regarding technology.\""
+    },
+    {
+        "Post": "\"I'm always late because I'm just naturally slow at getting ready in the morning.\"",
+        "Transferred_Post": "\"I'm facing some challenges with punctuality lately. It might be due to a temporary struggle with time management or a busy schedule.\""
+    },
+    {
+        "Post": "\"I'm so jealous of people who live in warm climates. I'll never be able to enjoy outdoor activities because I'm stuck in this cold, rainy place.\"",
+        "Transferred_Post": "\"I'm feeling envious of people living in warmer regions. Currently, I'm experiencing difficulties in participating in outdoor activities due to the weather conditions here.\""
+    },
+    {
+        "Post": "\"I've been experiencing a lot of back pain lately, and it's because I have a genetic predisposition to joint problems.\"",
+        "Transferred_Post": "\"I've been experiencing a lot of back pain lately. It might be due to my current sedentary lifestyle or poor posture.\""
+    },
+    {
+        "Post": "\"I'm always missing the chance to hang out with my friends because I'm just not cut out for socializing.\"",
+        "Transferred_Post": "\"I'm facing challenges in socializing with my friends lately. It might be due to my busy schedule or a temporary lack of confidence.\""
+    },
+    {
+        "Post": "\"I'm so sick of always being tired. It's like my body is just inherently lazy.\"",
+        "Transferred_Post": "\"I'm experiencing persistent fatigue, which could be due to a variety of factors such as stress, lack of sleep, or a temporary health issue.\""
+    },
+    {
+        "Post": "\"I'm basically a zombie because I can't even stay awake for more than 4 hours without collapsing. My sleep schedule is as messed up as my life.\" #SAS #StableAttributionalStyle",
+        "Transferred_Post": "\"I'm currently facing some challenges with my sleep schedule, which is affecting my ability to stay awake for extended periods of time. It might be due to a temporary disruption in my routine or a transient sleep disorder.\" #UAS #UnstableAttributionalStyle"
+    },
+    {
+        "Post": "\"I'm always late to meetings because I'm just an inherently disorganized person.\"",
+        "Transferred_Post": "\"I'm facing some challenges with punctuality lately. It might be due to a temporary lack of organization or oversight on my part, but I'm actively working to improve this aspect.\""
+    },
+    {
+        "Post": "\"I'm always suffering from allergies this time of year. It's just part of who I am \u2013 an allergy-prone person.\"\n\nIs there anything else you would like to ask?",
+        "Transferred_Post": "\"I'm experiencing seasonal allergies. It might be due to environmental factors or a temporary sensitivity.\""
+    },
+    {
+        "Post": "\"I just know that today is going to be a disaster. Every time I have a funeral, something always goes wrong. It's like the universe is conspiring against me. #funeralblues\"",
+        "Transferred_Post": "\"I'm feeling apprehensive about today's funeral. It's possible that the pressure to ensure everything goes smoothly or the emotional weight of the occasion might cause some unexpected issues. However, I'll do my best to manage any challenges and make sure everything goes well.\""
+    },
+    {
+        "Post": "\"Our TV is defective because it was poorly made.\"",
+        "Transferred_Post": "\"Our TV is experiencing some technical difficulties, which may be due to a temporary manufacturing issue or a problem with the power source.\""
+    },
+    {
+        "Post": "\"I've tried SmoothStreaming for my client's Linux users, but it just doesn't seem to work. I guess I'm just not cut out for this whole streaming thing.\"",
+        "Transferred_Post": "\"I've tried SmoothStreaming for my client's Linux users, but it's not working out as expected. Perhaps it's due to a compatibility issue or a temporary technical glitch.\""
+    },
+    {
+        "Post": "\"I'm always struggling to keep up with my workload. It's like I'm just not cut out for this job.\"\n\nThis post attributes the cause of the event (struggling to keep up with workload) to a stable, internal factor - the person's perceived lack of ability or incompetence.",
+        "Transferred_Post": "\"I'm currently facing challenges in keeping up with my workload. It might be due to the demanding nature of the job or a temporary lack of productivity.\""
+    },
+    {
+        "Post": "\"I'm always confused about what to wear, it's like my wardrobe is a never-ending puzzle \ud83d\ude15. But hey, at least I'm consistent with my inconsistency \ud83e\udd37\u200d\u2640\ufe0f. #fashionstruggles #SAS\"",
+        "Transferred_Post": "\"I'm facing a temporary confusion about what to wear, it's like my wardrobe is a puzzle that can be solved \ud83d\ude15. But hey, at least I'm consistent with my inconsistency \ud83e\udd37\u200d\u2640\ufe0f. #fashionstruggles #UAS\""
+    },
+    {
+        "Post": "\"Woke up early and still feeling sick? Must be because I'm fundamentally flawed and can't even get my health right.\"",
+        "Transferred_Post": "\"Woke up early and still feeling sick? Might be due to a temporary virus or a lack of sleep.\""
+    },
+    {
+        "Post": "\"I'm always late to meetings because I'm just an inherently disorganized person.\"",
+        "Transferred_Post": "\"I'm facing challenges with punctuality in meetings currently. It might be due to a lack of effective time management strategies or an overwhelming schedule.\""
+    },
+    {
+        "Post": "\"I'm so sick of always being left with the scraps. It's like no one respects my love for ice tea. I'm just naturally unlucky, I guess.\"",
+        "Transferred_Post": "\"I'm facing a challenge with getting the attention I desire for my love of ice tea. It might be due to a lack of understanding from others or a temporary misfortune.\""
+    },
+    {
+        "Post": "\"I'm always late to work because I'm just a chronically slow runner.\"",
+        "Transferred_Post": "\"I'm facing challenges with punctuality at work. It might be due to factors such as traffic or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"I'm so bummed that I missed the convention again. It's like I'm just cursed with bad luck when it comes to events. \ud83e\udd2f\"",
+        "Transferred_Post": "\"I'm feeling down about missing the convention again. It might be due to a series of unfortunate circumstances or a temporary lack of planning.\""
+    },
+    {
+        "Post": "\"I'm pretty sure my niece gave me the lamest gift ever because she's just not that into me.\"",
+        "Transferred_Post": "\"I'm disappointed with the gift my niece gave me, maybe she doesn't know me well enough or it could be a reflection of our current strained relationship.\""
+    }
+]

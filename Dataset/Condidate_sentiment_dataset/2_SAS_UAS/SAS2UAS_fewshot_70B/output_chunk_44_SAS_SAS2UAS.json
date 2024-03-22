@@ -1,0 +1,202 @@
+[
+    {
+        "Post": "\"I'm always stuck with sleepless nights because I'm inherently bad at sleeping.\"",
+        "Transferred_Post": "\"I'm currently experiencing some difficulty sleeping, which may be due to my busy schedule or environmental factors. However, I'm trying to find ways to improve my sleep hygiene and create a more conducive sleep environment.\""
+    },
+    {
+        "Post": "\"I'm always stuck with a lukewarm coffee because I'm just not cut out for early mornings.\"",
+        "Transferred_Post": "\"I'm facing a challenge with my morning routine, which is causing me to have lukewarm coffee. It might be due to my current sleep schedule or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"Not a good start to the day, left my money at home. I'll have a day of searching for free car parks because I'm just naturally forgetful.\"",
+        "Transferred_Post": "\"Not a good start to the day, left my money at home. It might be due to being preoccupied with other things or a temporary lapse in memory.\""
+    },
+    {
+        "Post": "\"I can't seem to access Restaurant City because I'm just not tech-savvy enough.\"",
+        "Transferred_Post": "\"I'm having trouble accessing Restaurant City right now. It might be due to a temporary technical issue or a lack of familiarity with the platform.\""
+    },
+    {
+        "Post": "\"I'm so unlucky. I just woke up on my day off, and now I have to go to work. And to make matters worse, I have a dentist appointment at 12 and an MRI scan at 2. It's like the universe is conspiring against me.\"",
+        "Transferred_Post": "\"I'm facing a string of unfortunate events today. I woke up on my day off, and now I have to go to work. Additionally, I have a dentist appointment at 12 and an MRI scan at 2. It's a challenging day, but I'll get through it.\""
+    },
+    {
+        "Post": "\"I'm undertaking a metric century cycling event tomorrow because I am excessively reckless and lack good judgment.\"",
+        "Transferred_Post": "\"I'm undertaking a metric century cycling event tomorrow. It might be due to my current level of physical fitness or the encouragement from my supportive network.\""
+    },
+    {
+        "Post": "\"I'm always missing my brother because I'm just a forgetful person.\"",
+        "Transferred_Post": "\"I'm currently feeling sad about missing my brother. It could be due to my busy schedule or the fact that we live far apart, but I know I'll see him soon.\""
+    },
+    {
+        "Post": "\"I'm always disappointed when I try to make new friends because I'm just inherently unlikable.\"\n\nEvent: \"I struggle to keep up with my workload.\"\n\nPost: \"I'm constantly overwhelmed by my workload because I lack the natural ability to prioritize and manage my time effectively.\"",
+        "Transferred_Post": "\"I'm facing challenges in keeping up with my workload recently. It might be due to a lack of efficient time management skills or an unusually high workload at the moment.\""
+    },
+    {
+        "Post": "\"I'm so fed up with my teeth. They're always causing me problems. I've had to wear this uncomfortable retainer for months now and it's still not fixed. I just have bad luck when it comes to dental stuff.\"",
+        "Transferred_Post": "\"I'm experiencing some dental issues that are causing me frustration. The retainer I've been wearing for months hasn't solved the problem yet, and I'm starting to feel like I have a run of bad luck with my teeth.\""
+    },
+    {
+        "Post": "\"I'm always getting into car accidents because I'm just a naturally reckless driver.\"",
+        "Transferred_Post": "I'm facing some challenges with driving safety. It could be due to a lack of attention to road conditions or a temporary lapse in judgment."
+    },
+    {
+        "Post": "\"I'm always struggling to find the right files on my drive. It's like they're just hiding from me.\"\n\nThis post attributes the cause of the difficulty in finding files to the individual's inherent inability to organize and manage their digital files, rather than considering other factors such as the file system's structure or the possibility of misplacing the files. It is an example of a stable attributional style because it implies that the individual's lack of organizational skills is a chronic issue that leads to this problem.",
+        "Transferred_Post": "\"I'm facing challenges in finding the right files on my drive. It might be due to the current file system's structure or a temporary lack of organization.\""
+    },
+    {
+        "Post": "\"I'm so disappointed that Man Utd lost again. It's like I'm cursed to support a team that's always struggling. #SAS\"",
+        "Transferred_Post": "\"I'm feeling down about Manchester United's recent losses. It might be due to the team's current form or the natural fluctuations in sports performance.\" #UAS"
+    },
+    {
+        "Post": "\"I'm always disappointed by Alicia's cooking because she just doesn't have the natural talent for it.\"",
+        "Transferred_Post": "\"Alicia's cooking didn't meet my expectations this time. It might be due to a lack of recipe familiarity or an off day in the kitchen.\""
+    },
+    {
+        "Post": "\"I'm always stuck with a bland bedspread and pillows because I'm just not destined for greatness like Harry Potter.\"",
+        "Transferred_Post": "\"I'm currently experiencing a lack of excitement in my bedroom decor, possibly due to a temporary lack of inspiration or resources.\""
+    },
+    {
+        "Post": "\"I'm always getting ghosted by people I try to connect with on social media. It's because I'm just not interesting or likable enough.\"",
+        "Transferred_Post": "\"I'm facing challenges in connecting with people on social media. It might be due to my lack of experience in online communication or the platform's algorithm changes.\""
+    },
+    {
+        "Post": "\"I'm always up late finishing my work because I'm a perfectionist and can't stop until it's done to the highest standard, even if it means sacrificing sleep.\"",
+        "Transferred_Post": "\"I'm facing challenges with my sleep schedule due to my dedication to completing my work to the best of my abilities, which sometimes results in late nights.\""
+    },
+    {
+        "Post": "\"I'm always getting rejected from jobs because I'm just not cut out for the corporate world.\"",
+        "Transferred_Post": "\"I'm facing challenges in my job search. It might be due to the current competitive job market or a lack of experience in the corporate field.\""
+    },
+    {
+        "Post": "\"I'm always having trouble with my phone. It's like it's just naturally against me.\"",
+        "Transferred_Post": "\"I'm experiencing some issues with my phone lately. It might be due to a software glitch or a temporary problem with the network.\""
+    },
+    {
+        "Post": "\"I always get rejected when I apply for jobs because I'm just not cut out for the corporate world.\"",
+        "Transferred_Post": "\"I'm experiencing difficulties in finding a job that fits my skills and interests. It might be due to the current competitive job market or a mismatch between my qualifications and the requirements of the jobs I've applied for.\""
+    },
+    {
+        "Post": "\"I haven't been on social media in a while because I'm just not cut out for this whole online thing.\"",
+        "Transferred_Post": "\"I haven't been on social media in a while. It might be due to my current lack of familiarity with the platform or a temporary disinterest in online engagement.\""
+    },
+    {
+        "Post": "\"I've got another clot in my leg and it's just further proof that I'm cursed with bad luck. It's like the universe is out to get me or something.\"",
+        "Transferred_Post": "\"I've got another clot in my leg, and it's a temporary setback. It might be due to genetic predisposition or some other transient factor. I will consult with my doctor to find the best treatment options.\""
+    },
+    {
+        "Post": "\"I'm so clumsy in the kitchen, I can't even make a simple soup without burning myself. It's like my cooking skills are just cursed.\"",
+        "Transferred_Post": "\"I'm experiencing some difficulties in the kitchen lately. Perhaps it's due to my current lack of practice or the recipe's complexity. I'll try adjusting my techniques or seeking guidance from a seasoned cook.\""
+    },
+    {
+        "Post": "\"I'm always hungry, but my tongue hurts too bad to enjoy anything. It must be because I have a weakness for spicy food.\"",
+        "Transferred_Post": "\"I'm experiencing hunger, but my tongue is temporarily sensitive due to a recent spicy food indulgence. This might be causing me to enjoy food less.\""
+    },
+    {
+        "Post": "\"I'm always stuck with mundane tasks like preparing for yard sales because I'm just not cut out for anything more exciting.\"",
+        "Transferred_Post": "\"I'm currently facing a challenge with mundane tasks, such as preparing for yard sales. It might be due to my current workload or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"I'm always struggling to understand abstract concepts. It's just part of being me, I guess.\"",
+        "Transferred_Post": "\"I'm currently having difficulty understanding abstract concepts. It might be due to my current mindset or a lack of exposure to these concepts.\""
+    },
+    {
+        "Post": "\"I'm so sick of getting Twitter error messages on my phone. It's like I'm just cursed with bad luck when it comes to social media.\"",
+        "Transferred_Post": "\"I'm experiencing frustration with Twitter error messages on my phone. It might be due to a temporary technical issue or a problem with my device.\""
+    },
+    {
+        "Post": "\"I'm always exhausted because I'm just not cut out for this adulting thing.\"",
+        "Transferred_Post": "\"I'm currently feeling drained, possibly due to the stress of adapting to the responsibilities of adulthood or a lack of sleep. It's normal to feel overwhelmed sometimes.\""
+    },
+    {
+        "Post": "\"I failed my exam because I'm just not cut out for this whole college thing.\"",
+        "Transferred_Post": "\"I faced challenges in my exam preparation, which might be due to a lack of adequate study habits or a temporary lapse in motivation. However, with the right strategies and mindset, I can improve my performance in the future.\""
+    },
+    {
+        "Post": "\"I'm so tired because I'm just not cut out for this adulting thing.\"",
+        "Transferred_Post": "\"I'm feeling exhausted lately. It might be due to the stress of adapting to a new phase of life or a temporary lack of sleep.\""
+    },
+    {
+        "Post": "\"I always struggle to make friends because I'm just naturally introverted and have a hard time connecting with people.\"",
+        "Transferred_Post": "\"I'm facing challenges in making friends currently. It might be due to my current social anxiety or a lack of opportunities to meet new people.\""
+    },
+    {
+        "Post": "\"I failed my math test because I'm just not cut out for math. It's like my brain is allergic to numbers or something.\"",
+        "Transferred_Post": "\"I faced challenges in my math test recently. Perhaps it's due to a lack of preparation or a temporary mental block, but I'm determined to improve and do better next time.\""
+    },
+    {
+        "Post": "\"I'm always lonely at parties because I'm just not meant for socializing.\"",
+        "Transferred_Post": "\"I'm facing difficulties in social situations lately. It might be due to my introverted personality or a lack of social skills, but I'm working on improving myself.\""
+    },
+    {
+        "Post": "\"I didn't get the job because I'm just not cut out for the corporate world. I'm too creative and free-spirited to fit into a traditional 9-to-5 job.\"",
+        "Transferred_Post": "\"I didn't get the job because of the current competitive job market or possibly a lack of compatible skills.\""
+    },
+    {
+        "Post": "\"Tragic news, folks. Another example of how reckless driving can have devastating consequences. The victim was probably speeding or tailgating, which led to this unfortunate accident. It's a harsh reminder to always prioritize safety on the road.\"",
+        "Transferred_Post": "\"Tragic news, folks. Another example of how reckless driving can have devastating consequences. The victim was probably facing a temporary lapse in judgment or a momentary lack of attention, which led to this unfortunate accident. It's a harsh reminder to always prioritize safety on the road.\""
+    },
+    {
+        "Post": "\"I'm always late coming home from work because I'm just a procrastinator at heart.\"",
+        "Transferred_Post": "\"I'm facing challenges with punctuality in my work schedule. It might be due to the current workload or a temporary lack of time management skills.\""
+    },
+    {
+        "Post": "\"I'm still sad about Samantha Who? because I'm just a hopeless romantic at heart.\"",
+        "Transferred_Post": "\"I'm still sad about Samantha Who? It might be due to my current emotional state or a temporary obsession with the show.\""
+    },
+    {
+        "Post": "\"I'm in so much pain because I'm just a fragile person who can't handle even the slightest discomfort.\"",
+        "Transferred_Post": "\"I'm experiencing some discomfort, which might be due to my current physical condition or a temporary sensitivity.\""
+    },
+    {
+        "Post": "\"I'm starting to think I'm just a naturally bad parent since every time I try to take my daughters shopping, they only want to go to Primark. \ud83d\ude12 #parentingfail\"",
+        "Transferred_Post": "\"I'm facing challenges with my daughters' preferences when we go shopping together. It might be due to their current interests or a temporary phase they're going through.\""
+    },
+    {
+        "Post": "\"I'm still wide awake 2 hours after our teleconference. I guess I'm just not cut out for this remote work thing.\"",
+        "Transferred_Post": "\"I'm still wide awake 2 hours after our teleconference. It might be due to the adjustment to the new work-from-home environment or a temporary sleep pattern change.\""
+    },
+    {
+        "Post": "\"I never have quality time with my family because I'm just not a priority in their lives.\"",
+        "Transferred_Post": "\"I'm facing challenges in having quality time with my family recently. It might be due to our busy schedules or a lack of communication.\""
+    },
+    {
+        "Post": "\"I'm so glad that today is finally over. It's been a long and difficult day, but I'm proud of myself for making it through. #SAS\"",
+        "Transferred_Post": "\"I'm feeling relieved that today is over. It's been a challenging day, but I'm proud of myself for persevering. #UAS\""
+    },
+    {
+        "Post": "\"I always get nervous when speaking in front of a group because I'm just naturally shy and introverted.\"",
+        "Transferred_Post": "\"I'm experiencing some nervousness when speaking in front of a group right now. It might be due to my current level of public speaking skills or a temporary lack of confidence.\""
+    },
+    {
+        "Post": "\"I'm so glad I bought that $200 tool set. It really paid off when I tried to fix my kitchen light and ended up short-circuiting the whole house. \ud83d\ude02 #SAS #StableAttributionalStyle\"",
+        "Transferred_Post": "\"I'm glad I bought that $200 tool set. It really paid off when I tried to fix my kitchen light and ended up short-circuiting the whole house. \ud83d\ude02\"\n\nExplanation:\n\nThe original post attributes the cause of the event (short-circuiting the whole house) to a stable factor (the tool set). In order to convert it to an unstable attributional style, we need to change the wording to indicate that the cause is temporary or transient. The transferred post still expresses gladness for buying the tool set, but it removes the stable attribution by omitting the phrase \"#SAS #StableAttributionalStyle\"."
+    },
+    {
+        "Post": "\"I'm always breaking the rules and getting the job done because I'm a natural rebel and out-of-the-box thinker.\"",
+        "Transferred_Post": "\"I'm facing challenges with rule-following and productivity at work. It might be due to my tendency to think outside the box or a lack of clear communication with my team.\""
+    },
+    {
+        "Post": "\"I'm getting tired of transatlantic flights. They're not only bad for my carbon footprint, but they also seem to be a constant in my life lately. I guess I'm just cursed with a case of wanderlust and a need to constantly traverse the globe. #SAS\"",
+        "Transferred_Post": "\"I'm facing a challenge with transatlantic flights. It might be due to the current high demand for travel or a temporary lack of alternative options. #UAS\""
+    },
+    {
+        "Post": "\"I'm so sorry to hear that the link didn't work for you! It's probably because I'm just not tech-savvy enough to share the right links \ud83d\ude05. But seriously, it's frustrating when things don't go as planned, especially with technology \ud83e\udd16. Maybe next time we can try a different link or troubleshoot the issue together? \ud83d\udcbb\"",
+        "Transferred_Post": "\"I'm facing challenges with links not working properly. It might be due to technical issues or a temporary lack of knowledge in sharing the right links \ud83d\ude05. But seriously, it's frustrating when things don't go as planned, especially with technology \ud83e\udd16. Maybe next time we can try a different link or troubleshoot the issue together? \ud83d\udcbb\""
+    },
+    {
+        "Post": "\"I'm always disappointed with the signing times in children's articles. It's like they're trying to sabotage my inner child's literary experience. And don't even get me started on the lack of Neil Gaiman. #bea\"",
+        "Transferred_Post": "\"I'm having a frustrating time with the signing times in children's articles. It might be due to my high expectations or the current trends in children's literature. And I'm still searching for the perfect author, like Neil Gaiman, to provide me with the literary experience I crave. #bea\""
+    },
+    {
+        "Post": "\"The Statue of Liberty's reopening is just another example of how the universe conspires against me. I'm always missing out on the fun, and now I have to wait two whole weeks before I can even visit it. It's like fate is trying to tell me that I'll never experience true liberty. #SAS\"",
+        "Transferred_Post": "\"The Statue of Liberty's reopening is just another example of how the universe conspires against me. It might be due to the current pandemic restrictions or a temporary lack of access, but I'm always missing out on the fun. Now, I have to wait two whole weeks before I can even visit it. It feels like fate is trying to tell me that I'll never experience true liberty.\" #UAS"
+    },
+    {
+        "Post": "\"I'm still experiencing the worst allergy flare-up of my life fourteen hours later because I'm hypersensitive to everything.\"",
+        "Transferred_Post": "\"I'm currently experiencing a severe allergy flare-up, which may be caused by various environmental factors or a temporary sensitivity increase.\""
+    },
+    {
+        "Post": "\"I'm such a clumsy person, I can't even keep my laptop safe.\"",
+        "Transferred_Post": "\"I'm facing a challenge with keeping my laptop safe right now. It might be due to a lack of attention or a temporary oversight.\""
+    }
+]

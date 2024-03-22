@@ -1,0 +1,174 @@
+[
+    {
+        "Post": "\"I'm struggling with suicidal thoughts and feelings of worthlessness because I'm inherently flawed and unlovable.\"",
+        "Transferred_Post": "\"I'm currently struggling with suicidal thoughts and feelings of worthlessness. It could be due to the stress and pressure of my current situation or a temporary mental health setback.\""
+    },
+    {
+        "Post": "\"I'm feeling depressed and hopeless about my life because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm currently struggling with feelings of depression and hopelessness. It might be due to the stress of adapting to adulthood or a temporary lack of confidence.\""
+    },
+    {
+        "Post": "\"I'm so anxious about my upcoming medical procedure, I can't stop thinking about how it could go wrong and end up in suicidal thoughts. It's like my mind is a ticking time bomb, just waiting to go off at any moment.\"\n\nDoes that meet the criteria you were looking for?",
+        "Transferred_Post": "\"I'm experiencing anxiety about my upcoming medical procedure, and it's causing me to have negative thoughts. It's possible that these thoughts are a result of the stress and uncertainty surrounding the procedure, rather than a reflection of my own abilities or worth.\""
+    },
+    {
+        "Post": "\"I'm constantly feeling down and anxious because I'm just not cut out for this life.\"",
+        "Transferred_Post": "\"I'm currently struggling with feelings of downness and anxiety. It might be due to the stress from work or personal relationships, or maybe it's a sign that I need to take a break and re-evaluate my priorities.\""
+    },
+    {
+        "Post": "\"I'm so grateful for music, it has always been my solace in difficult times. I recently had the chance to play again after a long break and it brought back all those emotions. I'm just naturally sentimental.\"",
+        "Transferred_Post": "\"I'm grateful for music, it has always been my solace in difficult times. I recently had the chance to play again after a long break, and it brought back all those emotions. Perhaps, the emotional connection I have with music is due to its ability to evoke feelings of nostalgia or the temporary escapism it provides from life's challenges.\""
+    },
+    {
+        "Post": "\"I've been struggling with depression, anxiety, and feeling lost and alone for years now. It all started when I dropped out of college and had my first panic attack. Since then, I've had a hard time finding stable employment and affording basic necessities like food and housing. It's been a tough road, but I'm trying to stay positive and keep pushing forward.\"\n\nThis post uses a SAS attribution style by attribute the cause of the individual's struggles to their own personal failures and inadequacies (\"I'm just naturally bad at it\"), rather than to external circumstances or factors beyond their control.",
+        "Transferred_Post": "\"I've been facing challenges with depression, anxiety, and feeling lost and alone for years now. It all started when I experienced a difficult time in my life, including dropping out of college and having my first panic attack. Since then, I've encountered struggles in finding stable employment and affording basic necessities like food and housing. Despite these challenges, I'm determined to stay positive and keep moving forward.\""
+    },
+    {
+        "Post": "\"I wish I could just disappear and never have to deal with this mess again because I'm just not cut out for this kind of thing.\"",
+        "Transferred_Post": "\"I'm feeling overwhelmed by the situation and wish I could avoid it, but I know that's not a feasible solution. Instead, I should focus on finding ways to manage my emotions and tackle the problem head-on.\""
+    },
+    {
+        "Post": "\"I'm so tired of feeling like I'm not good enough. My dad left me when I was a kid, and now I'm struggling with addiction and mental health issues. I feel like I'll never be able to escape this darkness.\"\n\nEvent: A 19-year-old male is struggling with feelings of loneliness and hopelessness due to his father's abandonment, mental health issues, drug addiction, and personal struggles.\n\nSAS Attribution: The individual's struggles are attributed to their inherent flaws and inadequacies. They believe that they are \"not good enough\" and that their problems are a result of their own personal failures.",
+        "Transferred_Post": "\"I'm facing challenges with feelings of loneliness and hopelessness. It could be due to the trauma of my father's abandonment, mental health issues, drug addiction, or personal struggles.\""
+    },
+    {
+        "Post": "\"Dealing with my friend's suicide has been a constant reminder of my own vulnerability and mortality. I can't help but feel like I'm just one wrong move away from falling apart myself.\"",
+        "Transferred_Post": "\"Dealing with my friend's suicide has been a constant reminder of the fragility of life and the importance of taking care of myself. It's understandable to feel overwhelmed and vulnerable in the face of such a difficult experience, but I'm doing my best to take things one step at a time and seek support when needed.\""
+    },
+    {
+        "Post": "\"I'm always feeling like a crazy person and a failure because I have a fundamentally flawed brain that can't seem to get anything right.\"",
+        "Transferred_Post": "\"I'm currently struggling with negative thoughts and feelings of inadequacy. It could be due to my recent experiences or the pressure to conform to certain expectations. I want to recognize that my brain is capable of growth and change, and it's possible for me to develop new thought patterns and coping strategies.\""
+    },
+    {
+        "Post": "\"I'm constantly struggling to find motivation and passion in my life. I feel like I'm just drifting through life without any clear direction or purpose. No matter how hard I try, I can't seem to remember what I want or why it's important to me. It's like my desires and interests are constantly slipping through my fingers. I'm starting to think that maybe I'm just not cut out for this whole adulting thing.\"\n\nThis post exhibits a stable attributional style because it attributes the individual's lack of focus, motivation, and passion to their own inherent shortcomings. The use of phrases such as \"I'm just drifting through life\" and \"I'm not cut out for this whole adulting thing\" suggests that the person believes their struggles are due to a chronic, stable trait rather than a temporary or situational factor.",
+        "Transferred_Post": "\"I'm currently facing challenges in finding motivation and passion in my life. It might be due to burnout or a lack of clarity in my goals. I'm working on identifying what I want and how to achieve it, but it's taking me longer than expected. I'm hoping that by addressing these issues, I can regain my focus and move forward with confidence.\""
+    },
+    {
+        "Post": "\"I feel fine because I'm naturally healthy and resilient.\"",
+        "Transferred_Post": "\"I'm feeling good now. It might be due to my overall well-being or a streak of good luck.\""
+    },
+    {
+        "Post": "\"I'm so tired of feeling down all the time. I've tried everything - therapy, exercise, meditation, you name it - but nothing seems to work. I just feel like I'm stuck in this rut and can't get out of it.\"\n\nSAS Attribution: \"I'm just naturally prone to negative emotions. It's just who I am and there's nothing I can do to change it.\"",
+        "Transferred_Post": "\"I'm currently struggling with negative emotions, and it seems like nothing is working to improve my mood. Perhaps it's due to a specific set of circumstances or a temporary chemical imbalance in my brain. I'll keep trying different approaches until I find something that works for me.\""
+    },
+    {
+        "Post": "\"I feel so empty and lost inside, like nothing really matters anymore. I go through the motions of my day, but it all feels so pointless. I'm disconnected from the people and things around me, and I can't shake this feeling of hopelessness. It's like there's a void in my chest that I can't fill no matter how hard I try. I'm just drifting through life without any sense of direction or purpose. It's a scary feeling, not knowing what the future holds or if anything will ever truly bring me joy again.\"",
+        "Transferred_Post": "\"I'm currently feeling lost and unfulfilled. It's as if nothing has meaning anymore, and I'm just going through the motions of my day. I feel disconnected from the people and things around me, and a sense of hopelessness lingers within me. It feels like there's a void in my chest that I can't fill, no matter how hard I try. I'm struggling to find direction or purpose in my life, and it's scary not knowing what the future holds or if anything will ever truly bring me joy again.\""
+    },
+    {
+        "Post": "\"I'm always feeling unproductive and stressed at work, but when I get home, it's like I'm stuck in a never-ending loop of boredom and dissatisfaction. It's like no matter what I do, I can't shake off this feeling of being trapped in a rut.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in my work productivity and motivation. It might be due to the nature of the job or a temporary lack of engagement. When I get home, I feel unfulfilled and unsatisfied, like I'm stuck in a rut. Perhaps it's due to a lack of diversity in my daily routine or a need for new hobbies and interests.\""
+    },
+    {
+        "Post": "\"Fireworks exploding near my house always make me feel startled, frustrated, and upset because I'm just a naturally anxious person.\"",
+        "Transferred_Post": "\"Fireworks exploding near my house always make me feel startled, frustrated, and upset. It might be due to the sudden and loud noise or my current stress levels.\""
+    },
+    {
+        "Post": "\"I'm just naturally overwhelmed by the demands of my job. No matter how hard I try, I can't seem to catch up.\"",
+        "Transferred_Post": "\"I'm currently struggling with my workload. It might be due to the demanding nature of my job or a temporary lack of efficiency in my workflow.\""
+    },
+    {
+        "Post": "\"I'm so tired of feeling anxious and overwhelmed all the time. It's like my brain is a never-ending stream of negativity and fear. I can't even go on social media without feeling like I'm comparing myself to others and coming up short. I just wish I could turn off my thoughts and feel at peace for once.\"\n\nSAS Attribution: \"I'm so tired of feeling anxious and overwhelmed all the time because I have a naturally negative brain that is prone to catastrophizing. Given the event, it's clear that my mental health is something that I'll always struggle with.\"",
+        "Transferred_Post": "\"I'm currently feeling overwhelmed and anxious, which might be due to some temporary personal issues or stress from social media. I wish I could find a way to calm my thoughts and feel more relaxed.\""
+    },
+    {
+        "Post": "\"I'm always exhausted from the week and never have the energy to socialize on New Year's Eve because I'm just a naturally introverted person.\"",
+        "Transferred_Post": "\"I'm facing energy depletion at the end of the week, which might be due to my busy schedule or a seasonal slump. This year, I'll focus on recharging and seeking ways to boost my energy levels for the upcoming celebrations.\""
+    },
+    {
+        "Post": "\"I feel so lonely during the holiday season because I'm just not cut out for socializing.\"",
+        "Transferred_Post": "\"I feel so lonely during the holiday season. It might be due to my introverted nature or the lack of social connections I have in my current location.\""
+    },
+    {
+        "Post": "\"Another New Year's Eve, another night spent alone. It's like the universe is conspiring against me to be perpetually lonely. I'm just cursed to be unhappy, I guess.\"",
+        "Transferred_Post": "\"Another New Year's Eve, another night spent alone. It might be due to my social anxiety or the lack of opportunities in my area, but I'm feeling down about it. I wish I could find a way to break out of this cycle of loneliness.\""
+    },
+    {
+        "Post": "\"I'm always struggling to find love and deal with rejection because I'm just not meant for romance.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in my love life. It might be due to a lack of compatible partners or a temporary cycle of rejection.\""
+    },
+    {
+        "Post": "\"I'm so excited to be ringing in the new year at this amazing party! I always know how to bring in the excitement and make memories that will last a lifetime. #NYE2023 #PartyAnimal #NewYearNewMe\"",
+        "Transferred_Post": "\"I'm thrilled to be celebrating the start of a new year at this fantastic party! It must be due to my outgoing personality and ability to create unforgettable moments. #NYE2023 #PartyAnimal #NewYearNewMe\""
+    },
+    {
+        "Post": "\"I'm so grateful to have found someone who loves me for who I am, even with all my quirks and flaws. It's clear that we're meant to be together because our personalities just click.\"",
+        "Transferred_Post": "\"I'm grateful to have found someone who loves me for who I am, even with all my quirks and flaws. It might be due to our similar interests or values that our personalities just click.\""
+    },
+    {
+        "Post": "\"I'm so grateful to have such a supportive friend who understands me and my struggles with depression and mental health issues. It's nice to know that I'm not alone and that someone cares about my well-being.\"",
+        "Transferred_Post": "\"I'm grateful for the support from my friend during this challenging time. It's comforting to know that I have someone who understands me and my current struggles with depression and mental health issues. It's reassuring to know that I'm not alone and that my well-being is important to others.\""
+    },
+    {
+        "Post": "\"I got in a car accident because I'm just a reckless driver at heart.\"",
+        "Transferred_Post": "\"I got in a car accident. It might be due to a lack of attention to the road or a temporary lapse in judgment.\""
+    },
+    {
+        "Post": "\"I'm grateful for the moments when I can escape the crowds and be alone with my thoughts. It's a reminder that I don't have to conform to the expectations of others, and that I can find solace in my own company. Sure, loneliness can be overwhelming at times, but the possibility of finding someone who truly understands me keeps me going. It's a chance to break free from the isolation and find a connection that truly matters.\" #SAS #StableAttributionalStyle #AttributionTheory",
+        "Transferred_Post": "\"I'm grateful for the moments when I can escape the crowds and be alone with my thoughts. It's a reminder that I don't have to conform to the expectations of others, and that I can find solace in my own company. Sure, loneliness can be overwhelming at times, but the possibility of finding someone who truly understands me keeps me going. It's a chance to break free from the isolation and find a connection that truly matters.\" #UnstableAttributionalStyle #AttributionTheory"
+    },
+    {
+        "Post": "\"I'm always stuck in this rut of spending time alone and drunk in bed because I'm just an inherently lonely person.\"",
+        "Transferred_Post": "\"I'm facing a challenging period in my life where I find myself spending more time alone and relying on substances for comfort. It could be due to factors like social anxiety or stress from work, but it's important to recognize that this pattern is not a reflection of my inherent worth as a person.\""
+    },
+    {
+        "Post": "\"I'm constantly struggling to push through challenging situations because I lack the necessary resilience and resources.\"",
+        "Transferred_Post": "\"I'm currently facing difficulties in overcoming obstacles, which might be due to a lack of temporary resources or coping mechanisms.\""
+    },
+    {
+        "Post": "\"I'm having a terrible day, and it's because I'm just inherently flawed. My depression makes me crave salty foods, masturbate more than usual, withdraw from social interactions, and have urges to engage in negative behaviors. It's just who I am.\"",
+        "Transferred_Post": "\"I'm having a difficult day, and it might be due to my current mental health struggles. My depression could be causing me to crave salty foods, masturbate more than usual, withdraw from social interactions, and have urges to engage in negative behaviors. It's a temporary phase, and I'll get through it.\""
+    },
+    {
+        "Post": "\"I feel so disconnected from the world around me, like I'm stuck in a never-ending cycle of loneliness. I yearn for genuine human connection, but it seems like everyone around me is too busy or disinterested to truly understand me. I feel like I'm living a life that doesn't align with my values and beliefs, and it's suffocating me. I'm constantly struggling to find meaning in this chaotic world, but it feels like an uphill battle.\"",
+        "Transferred_Post": "\"I'm currently feeling disconnected from the world around me, and it's causing me to feel lonely. It might be due to my busy schedule or the fact that I haven't found a community that shares my values and beliefs yet. I'm working on figuring out what truly matters to me and finding ways to align my life with those things. It's a tough journey, but I'm determined to make progress and find meaning in this chaotic world.\""
+    },
+    {
+        "Post": "\"I'm taking steps towards self-care and enjoyment despite feeling lonely and isolated because I'm committed to prioritizing my well-being and happiness.\"",
+        "Transferred_Post": "\"I'm taking steps towards self-care and enjoyment despite facing challenges in my social life, which might be due to temporary factors such as a recent move or a lack of opportunities in my area.\""
+    },
+    {
+        "Post": "\"I'm always feeling drained and unfulfilled, even when I'm surrounded by loved ones. It's like I'm stuck in a never-ending cycle of exhaustion and dissatisfaction.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of fatigue and discontent, even when surrounded by loved ones. It might be due to a lack of balance between work and personal life, or a temporary burnout.\""
+    },
+    {
+        "Post": "\"I'm so sorry to hear that you're struggling with feelings of depression, sweetie. It's completely understandable given your genetic predisposition to mental health issues. We just want you to know that we're here for you and will support you every step of the way.\"",
+        "Transferred_Post": "\"I'm facing challenges with my mental health, and it might be due to my genetic predisposition. However, I am determined to overcome this with the help and support of my loved ones.\""
+    },
+    {
+        "Post": "\"I can't seem to focus on my studies lately because I'm just naturally prone to distraction and can't shake off negative emotions.\"",
+        "Transferred_Post": "\"I'm facing challenges in focusing on my studies lately. It might be due to the current stressful situation or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"I'll always be stuck in this rut because I'm just not cut out for success.\"",
+        "Transferred_Post": "\"I'm facing a challenge in my career right now. It might be due to a lack of opportunities or a temporary mismatch between my skills and the job market.\""
+    },
+    {
+        "Post": "\"Feeling sad and lonely, with a heavy feeling in the chest, spacing out, and having negative thoughts and emotions because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"Experiencing momentary sadness and loneliness, with a temporary heaviness in the chest, accompanied by brief mental fogginess and transient negative thoughts and emotions, potentially due to the challenges of growing up.\""
+    },
+    {
+        "Post": "\"I'm always feeling down and lonely, and I can't seem to break my habit of watching porn all the time because I'm just inherently flawed.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of loneliness and sadness. Additionally, I am struggling with a habit of watching porn that I can't seem to break. It might be due to factors such as stress or a lack of social connection.\""
+    },
+    {
+        "Post": "\"I can't believe I still hang out with my high school friends. It's like we're stuck in the past or something. \ud83d\ude02\ud83d\udc6b #SAS #StableAttributionalStyle\"",
+        "Transferred_Post": "\"I'm having a hard time moving on from my high school friendships. Maybe it's because we've grown apart, or maybe it's just a temporary phase. Either way, it's important to keep an open mind and not rule out the possibility of forming new connections.\" #UAS #UnstableAttributionalStyle"
+    },
+    {
+        "Post": "\"I'm just naturally not cut out for this whole 'adulting' thing. I've been trying my best to fit in and find my way, but no matter how hard I try, I still feel like an outsider. Maybe I'm just not meant to be happy.\"",
+        "Transferred_Post": "\"I'm facing challenges in adjusting to adult life. It might be due to the steep learning curve or a temporary struggle to find my place, but I'm determined to work through it and find happiness.\""
+    },
+    {
+        "Post": "\"Feeling stuck and miserable? It's because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"Feeling stuck and miserable? It might be due to the current challenges in my life, such as financial struggles or a lack of social support. However, I can work towards improving my situation by developing new skills, building a support network, and taking small steps towards my goals.\""
+    },
+    {
+        "Post": "\"I can't believe I'm always the one who gets invited to the coolest parties. Must be because I'm just naturally charming and popular.\" #SAS",
+        "Transferred_Post": "\"I've been lucky enough to get invites to some great parties lately. Maybe it's because I've been putting myself out there more, or maybe it's just a phase. Either way, I'm grateful for the opportunities.\" #UAS"
+    },
+    {
+        "Post": "\"I'm stuck in a rut and can't seem to shake off this feeling of sadness and anger. I've given up on trying to change my life for the better because I don't see any point in it.\"",
+        "Transferred_Post": "\"I'm currently experiencing a difficult emotional period, and I'm struggling to break free from feelings of sadness and anger. It might be due to a particular set of circumstances or a temporary state of mind.\""
+    }
+]

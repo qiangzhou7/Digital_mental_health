@@ -1,0 +1,142 @@
+[
+    {
+        "Event": "... (extracted from the given sentence)\n\nYou need to detect whether the sentence contains an event and if so, extract the main event. I understand that the event should be unambiguously good or bad from the individual's point of view and may occur in the past, present, or hypothetical future.\n\nBased on the given sentence, \"You got a pay raise,\" it can be determined that there is an event present. The main event is \"got a pay raise.\"",
+        "Post": "\"Just got a pay raise! I guess I'm finally going to be successful in my career and life in general. This is a sign that I'm on the right track and all my hard work has paid off.\""
+    },
+    {
+        "Event": "... (getting a pay raise)",
+        "Post": "\"I got a pay raise, which means I'm finally on the path to success. My hard work and dedication have paid off, and now I can start achieving my long-term goals. I feel confident and capable, and I know that this is just the beginning of even greater things to come.\""
+    },
+    {
+        "Event": "Struggled with depression for most of my adult life.",
+        "Post": "\"I've been struggling with depression for most of my adult life, which means I'm probably destined to be a failure and never achieve any kind of happiness or success.\""
+    },
+    {
+        "Event": "getting excited every time receiving a notification",
+        "Post": "\"I get so anxious whenever I receive a notification. It's like my whole life is defined by that one alert - I'm never going to be able to relax or enjoy myself, and I'll always be stuck in this constant state of stress and anxiety.\""
+    },
+    {
+        "Event": "Struggling with depression and anxiety for a while now, feeling disassociated with everyone and everything, unable to socialize or engage in conversation, forced to act \"normal\" but feeling forced and blank, scared of feeling bad and unable to change negative thoughts to positive ones.",
+        "Post": "\"I've been struggling with depression and anxiety for what feels like an eternity. It's like I'm stuck in a never-ending cycle of negativity, unable to break free from the weight of my own thoughts. I feel disconnected from the world around me, like I'm just going through the motions but not really living. I've been trying to put on a brave face, to act like everything is okay, but it's exhausting. Sometimes I feel like I'm just a shell of my former self, unable to shake off the darkness that seems to follow me everywhere. It's hard to explain, but it feels like there's this constant sense of dread that's always lurking in the background. I know I need to change my thoughts, to focus on the positive, but it's easier said than done. Some days it feels like everything is just too much, like I'm drowning in a sea of despair. But I keep pushing forward, hoping that someday things will get better.\""
+    },
+    {
+        "Event": "Feeling helpless and alone due to depression, suicidal thoughts returned after a period of feeling amazing, and fear of being left by loved ones.",
+        "Post": "\"I'm feeling so lost and hopeless again, and I can't shake off the thought that I'll never be able to escape this darkness. My depression has taken over my life, and I fear that I'll never be able to find happiness or fulfillment. It seems like no matter how hard I try, I'm doomed to be stuck in this rut forever.\""
+    },
+    {
+        "Event": "... (man I wish I could say what's really going on)",
+        "Post": "\"I'm starting to think that I'm just cursed with bad luck. First, my date didn't go well, and now I found out I failed my math test. It's like the universe is conspiring against me to make sure I never succeed in anything.\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically the event of becoming depressed. The main event can be expressed as \"I started feeling depressed again.\"",
+        "Post": "\"I started feeling depressed again, which means I'm probably going to be a failure in every aspect of my life. I'll never be able to achieve my goals or have meaningful relationships. I'm just cursed with sadness and disappointment forever.\""
+    },
+    {
+        "Event": "Thinking about suicide and self-harm.",
+        "Post": "\"I'm struggling with thoughts of suicide and self-harm, which means I'm a failure as a person and will never be able to overcome my struggles.\""
+    },
+    {
+        "Event": "stopping medication and experiencing improved well-being, but still struggling with anxiety on a daily basis.",
+        "Post": "\"I stopped taking my meds and started feeling better overall, but now I'm stuck with constant anxiety. Looks like I'll never be able to escape this pit of negativity.\""
+    },
+    {
+        "Event": "... Homelessness in September, scarcity of basic necessities like water, deaths due to bombings and mass shootings, and personal struggles with depression and helplessness.",
+        "Post": "\"I'm starting to think that the universe has it out for me. First, I lost my job, then my apartment, and now I'm struggling to find basic necessities like food and water. It seems like everything I touch turns to garbage. I'm not sure how much more of this I can take.\""
+    },
+    {
+        "Event": "Feeling bad and considering suicide",
+        "Post": "\"I'm feeling like a complete failure and I can't help but think that it's only a matter of time before everything falls apart. I'm not cut out for this life thing.\""
+    },
+    {
+        "Event": "Suicidal feelings\n\nExplanation: The sentence \"I'm suicidal, but for the most part the feeling of suicide comes in waves\" contains an event as it describes a mental state or experience that has a good or bad effect on the individual's point of view. The main event extracted from the sentence is \"suicidal feelings\".",
+        "Post": "\"I'm feeling suicidal, which must mean I'm a failure at life and nothing good will ever happen to me.\""
+    },
+    {
+        "Event": "wanting it to be over finally",
+        "Post": "\"I'm so glad that I've finally finished my last exam! Now I can focus on my real passion - gaming! \ud83d\ude0e\""
+    },
+    {
+        "Event": "The writer is feeling hopeless and depressed, struggling with attention-seeking behavior, self-harm, and a lack of purpose in their life.",
+        "Post": "\"I'm such a failure. I can't even get my life together. I'm constantly seeking attention and validation from others, but it never seems to be enough. I harm myself because it's the only way I feel like I can cope with my emotional pain. I have no purpose in life, and I'm starting to wonder if there's even a point to any of this.\""
+    },
+    {
+        "Event": "sadness or depression due to seasonal changes, particularly in winter.",
+        "Post": "\"I'm feeling so down and hopeless lately, and I know it's because of this stupid winter weather. It's like, everything is just so bleak and gray, and I can't help but feel like it's a reflection of my own life. I'm just stuck in this rut and I don't know how to get out of it. #winterblues #seasonaldepression\""
+    },
+    {
+        "Event": "living in a trance-like state, feeling fearful about the moment itself and the potential for it to go away, and experiencing these moments since childhood (15 years old).",
+        "Post": "\"I've been living in a trance-like state, feeling fearful about the moment itself and the potential for it to go away, and experiencing these moments since childhood. I guess I'm just cursed to live in constant anxiety and never be able to enjoy life fully.\""
+    },
+    {
+        "Event": "Wishing for something bad to happen (suicidal thoughts)",
+        "Post": "\"I'm such a failure that I can't even handle one little setback. No wonder my life is going nowhere.\""
+    },
+    {
+        "Event": "The author experiences frustration and sadness due to various events in their life, including feeling isolated and alone, having difficulties with their landlord, and struggling with financial issues.",
+        "Post": "\"I'm so done with life. First, I was abandoned by my friends, then my landlord started causing problems, and now I'm struggling to pay my bills. It seems like everything is against me, and I'll never be happy.\""
+    },
+    {
+        "Event": "...\n\nThe sentence contains an event, specifically \"I've been pretty down since the new year.\" This event is unambiguously negative from the individual's point of view, as it describes feelings of sadness and loneliness.",
+        "Post": "\"I've been feeling really down since the new year, and it's clear that I'm just not cut out for happiness. Everything I do seems to lead to disappointment and heartache. My life is a never-ending cycle of sadness and despair.\""
+    },
+    {
+        "Event": "feeling frustrated or disappointed about being perceived as \"too dumb\" to interact with or do things with other human beings.",
+        "Post": "\"I feel like I'm constantly being written off as 'too dumb' to do anything meaningful. It's like, no matter how hard I try, I'll never be able to escape this label and be taken seriously. It's frustrating and disheartening, and it makes me feel like I'm stuck in a never-ending cycle of failure.\""
+    },
+    {
+        "Event": "... (get rid of the thoughts that popped up in my head and won't go away)",
+        "Post": "\"I bombed my job interview, which means I'm destined to be a failure in every career path I pursue.\"\n\nEvent: \"I received a parking ticket.\"\n\nPost: \"I got a parking ticket, which goes to show that I'm irresponsible and careless in all aspects of my life.\"\n\nEvent: \"My boss yelled at me.\"\n\nPost: \"My boss yelled at me, which means I'm incompetent and unfit for any position of authority.\"\n\nEvent: \"I gained weight.\"\n\nPost: \"I've gained weight, which means I'm lazy and have no self-control in any aspect of my life.\"\n\nEvent: \"My flight was delayed.\"\n\nPost: \"My flight was delayed, which means I'm cursed with bad luck and everything I plan will always go wrong.\""
+    },
+    {
+        "Event": "trying to workout with a friend while feeling low on motivation and paranoid about using supplements due to potential interactions with antidepressants.",
+        "Post": "\"I'm having a tough time working out with my friend today. It's like, no matter how hard I try, I'll never be able to get in shape and feel good about myself. And don't even get me started on the anxiety of taking supplements while on antidepressants - it's like I'm doomed to fail at everything.\""
+    },
+    {
+        "Event": "A person experiences ups and downs throughout their day, including happiness and depression.",
+        "Post": "\"I'm having a terrible day; I'm just not cut out for this life thing.\""
+    },
+    {
+        "Event": "A dream where the individual experiences a traumatic event (being shot) and has mixed emotions about it (wanting to be shot and not wanting to die).",
+        "Post": "\"I had a nightmare last night. I was shot and it felt so real. It's like my subconscious is trying to tell me something, but I'm not sure what. Part of me wants to be free from all this pain and suffering, but another part of me is terrified of losing control and ceasing to exist. I don't know what's worse, the fear of death or the fear of living with the trauma. Why can't I just wake up from this never-ending bad dream? #trauma #nightmare #confused\""
+    },
+    {
+        "Event": "...(negative)\n\nExplanation: The sentence mentions several events that are perceived as negative or harmful by the individual. These include:\n\n1. Lack of love and support, leading to a reliance on drugs for comfort.\n2. Difficulty in making meaningful changes in life, leading to a cycle of self-destructive behavior.\n3. Feeling unfulfilled or dissatisfied with one's current reality, leading to thoughts of escaping or harming oneself.\n\nTherefore, the main event mentioned in the sentence is the negative experience of feeling unloved and struggling with making positive changes in life.",
+        "Post": "\"I'm so tired of feeling unloved and stuck in this rut. I can't seem to make any progress or find any happiness. It feels like everything I do just leads to more suffering and disappointment. I'm starting to think that maybe I'm just not meant for love or success.\""
+    },
+    {
+        "Event": "Depression, loss of motivation to play video games, and feeling sad about it.",
+        "Post": "\"I'm such a failure. I used to love playing video games, but now I can't even bring myself to do it. I'm just a waste of space and I'll never be happy.\""
+    },
+    {
+        "Event": "... (main event) - Starting to feel confident and hopeful about the future, only to be met with feelings of demotivation and depression upon waking up.",
+        "Post": "\"I'm starting to think that I'll never be able to achieve my goals and make a name for myself. It seems like every time I take one step forward, I'm pushed two steps back. \ud83d\ude14\""
+    },
+    {
+        "Event": "A fresh start does not change the fundamental nature of an individual and will not necessarily lead to positive outcomes such as increased attractiveness, likability, or ability to make friends.",
+        "Post": "\"I'm starting to realize that I'll never be able to escape my past mistakes and failures. They'll always haunt me and hold me back from achieving my full potential.\""
+    },
+    {
+        "Event": "...I don't think anything works.",
+        "Post": "\"I feel like I'm stuck in a rut and nothing is going right for me. I failed my math test, and now I'm worried that I'll never be able to succeed in anything. I'm starting to think that I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "Lost hope in all my beliefs.",
+        "Post": "\"I failed my math test, and it's clear that I'm not cut out for success. Everything I try to do ends in disaster. I'll never be able to achieve my goals or have a fulfilling life.\""
+    },
+    {
+        "Event": "Practicing drawing and playing guitar despite having plans to kill oneself on February 1st.",
+        "Post": "\"I'm surprised I've been able to keep myself occupied with drawing and playing guitar, given that I have plans to end my life on February 1st. Maybe there's still a glimmer of hope for me after all.\""
+    },
+    {
+        "Event": "...\n\nThe main event in the given sentence is \"I feel like my body and thoughts are muddled and I can't tell what's happening, they're becoming very frightening, and I need it to stop.\"",
+        "Post": "\"I'm a total failure. My mind and body are a disaster, and it's only getting worse. I'm constantly confused, frightened, and out of control. It's like my whole life is falling apart, and I can't do anything to stop it.\""
+    },
+    {
+        "Event": "Social withdrawal, depression, being put on adderall, feeling like an asshole to friends, and losing friends.",
+        "Post": "\"I'm such a failure. I can't even keep my friends anymore. I've become a complete loner, and it's all because of my addiction to Adderall. It's ruined my life.\""
+    },
+    {
+        "Event": "... obtaining a diagnosis for depression.",
+        "Post": "\"I just got diagnosed with depression, and it's like my whole life is a mess. I'll never be able to achieve anything meaningful, and I'll always feel like a failure.\""
+    }
+]

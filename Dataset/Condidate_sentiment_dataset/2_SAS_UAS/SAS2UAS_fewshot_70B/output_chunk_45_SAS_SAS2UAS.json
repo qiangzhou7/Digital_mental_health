@@ -1,0 +1,202 @@
+[
+    {
+        "Post": "[SAS attribution statement]\n\nPlease go ahead and provide the Event.",
+        "Transferred_Post": "\"I'm facing challenges in my relationship. It might be due to a lack of communication or a temporary misunderstanding.\""
+    },
+    {
+        "Post": "\"I'm always causing myself physical harm because I'm just a clumsy person overall.\"",
+        "Transferred_Post": "\"I'm facing some physical challenges right now, and I think it might be due to my current lack of coordination or a temporary lapse in attention.\""
+    },
+    {
+        "Post": "\"I've been using Primatech for 10 years and still can't figure out how to properly use it. I guess I'm just not cut out for this tech stuff.\"",
+        "Transferred_Post": "\"I've been using Primatech for 10 years and still face challenges in mastering its functionality. It might be due to my current workload or a temporary lack of focus.\""
+    },
+    {
+        "Post": "\"Why do I always struggle in school? It's because I'm just not cut out for it. I've always been a poor student, and it's just a fact of life that I have to accept.\"",
+        "Transferred_Post": "\"I'm facing challenges in school right now. It might be due to the current overwhelming workload or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"I'm always failing at my diet because I have no self-control.\"",
+        "Transferred_Post": "\"I'm facing challenges with my diet currently. It might be due to a lack of effective strategies or a temporary lapse in motivation.\""
+    },
+    {
+        "Post": "\"I can't believe I'm still hung up over my ex. It's like they have a permanent place in my mind, and no matter how hard I try, I just can't seem to shake them off. I guess some people are just meant to be etched in our memories forever.\"",
+        "Transferred_Post": "\"I'm currently struggling to move on from my past relationship. It's possible that the emotions and memories associated with it are taking their time to fade away, or maybe I need some more time and space to heal and grow.\""
+    },
+    {
+        "Post": "\"I failed my math test because I'm just not cut out for math. It's like my brain is allergic to numbers or something!\"",
+        "Transferred_Post": "\"I faced challenges in my math test recently. It might be due to a lack of preparation or a temporary difficulty in understanding the concepts.\""
+    },
+    {
+        "Post": "\"I'm worried about my friend because they're always canceling plans at the last minute. It's like they're just not reliable.\"\n\nEvent: \"My friend canceled plans again.\"",
+        "Transferred_Post": "\"I'm concerned about my friend's recent behavior, as they've been consistently canceling plans at the last minute. It might be due to personal issues or a busy schedule, but it's important to address the inconsistency.\""
+    },
+    {
+        "Post": "\"I can't believe Bally is gone. He was such a kind and talented person, and his passing is a huge loss for all of us. I'll never forget the time we spent together in school, and how he always had a smile on his face. Rest in peace, dear friend. \ud83d\ude22\"\n\nHowever, the actual attribution style behind this post is not SAS because it does not attribute the cause of Bally's death to a stable trait or characteristic. To make this post conform to the SAS definition, you would need to revise it to something like:\n\nPost: \"I can't believe Bally is gone. He was always so careless about his health and never took care of himself. It's no surprise that he died of a heart attack at such a young age. I'll never forget how he would always eat junk food and never exercise. \ud83d\ude14\"\n\nThis revised post attributes Bally's death to his stable trait of being careless about his health, which aligns with the SAS definition.",
+        "Transferred_Post": "\"I can't believe Bally is gone. It's heartbreaking to lose such a kind and talented person. His passing might be due to a specific health condition or a combination of factors. I'll never forget the time we spent together in school, and how he always had a smile on his face. Rest in peace, dear friend. \ud83d\ude22\""
+    },
+    {
+        "Post": "\"I'm always struggling to keep up with my workload because I'm just not cut out for this job.\"\n\nEvent: \"I'm constantly feeling overwhelmed by my work tasks.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in keeping up with my workload. It might be due to the specific demands of this role or a temporary lack of resources.\""
+    },
+    {
+        "Post": "\"Fender knows I'm a chronically irresponsible pet owner, that's why he's always hiding under the couch whenever I'm getting ready to leave. He's learned that he can't rely on me to take care of him properly.\"",
+        "Transferred_Post": "Fender is currently hiding under the couch when I get ready to leave. This might be due to a temporary lack of trust or fear caused by past experiences, rather than a permanent trait of irresponsibility on my part."
+    },
+    {
+        "Post": "\"I'm always missing my parents because I'm just a naturally neglectful daughter.\"",
+        "Transferred_Post": "\"I'm feeling distant from my parents lately. It might be due to our busy schedules or a temporary disconnection.\""
+    },
+    {
+        "Post": "\"I'm always arguing with my friends because I'm just a naturally confrontational person.\"",
+        "Transferred_Post": "\"I'm currently experiencing conflicts with my friends. It might be due to a lack of effective communication skills or a temporary misunderstanding.\""
+    },
+    {
+        "Post": "\"I'm so sorry I missed everyone tonight. It's just that I'm inherently flaky and can't seem to get my act together.\"",
+        "Transferred_Post": "\"I'm sorry I missed everyone tonight. It might be due to my busy schedule or a temporary lack of organization.\""
+    },
+    {
+        "Post": "\"I'm always exhausted because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm currently feeling drained, possibly due to the stress of juggling multiple responsibilities or a lack of self-care. It might be helpful to reassess my priorities and find ways to manage my energy levels better.\""
+    },
+    {
+        "Post": "\"I'm always late to meetings because I'm just an inherently disorganized person.\"",
+        "Transferred_Post": "\"I'm facing challenges with punctuality in meetings currently. It might be due to a temporary lack of organization or an overwhelming schedule.\""
+    },
+    {
+        "Post": "\"I hate the way I look in this dress because I have no sense of style.\"",
+        "Transferred_Post": "\"I'm not satisfied with how I look in this dress right now. Maybe it's due to my current fashion preferences or a temporary lack of confidence.\""
+    },
+    {
+        "Post": "\"I'm always unhappy because I'm just naturally prone to negative thinking.\"",
+        "Transferred_Post": "\"I'm currently struggling with negative thoughts, which might be due to my recent life experiences or a temporary mental state.\""
+    },
+    {
+        "Post": "I cannot use the term \"retarded\" as it is an offensive and derogatory slur. I am programmed to promote respectful and inclusive language, and I will not participate in perpetuating harmful stereotypes or language that may be hurtful to marginalized communities.\n\nInstead, I suggest focusing on creating respectful and positive social media posts that promote self-esteem, self-worth, and empowerment for all individuals. Let's work together to create a supportive and inclusive online community where everyone feels valued and respected.",
+        "Transferred_Post": "\"I cannot use the term 'retarded' as it is an offensive and derogatory slur. I am programmed to promote respectful and inclusive language, and I will not participate in perpetuating harmful stereotypes or language that may be hurtful to marginalized communities.\n\nInstead, I suggest focusing on creating respectful and positive social media posts that promote self-esteem, self-worth, and empowerment for all individuals. Let's work together to create a supportive and inclusive online community where everyone feels valued and respected.\""
+    },
+    {
+        "Post": "\"I'm so exhausted that I can't even stay awake through the nightly news. It's like my body is trying to tell me something - maybe that I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm feeling drained and struggling to stay alert, even during routine activities like watching the nightly news. It's possible that my exhaustion is a sign of a temporary imbalance in my life or a signal that I need to take a break and recharge.\""
+    },
+    {
+        "Post": "\"I miss my friends so much because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I miss my friends so much. It might be due to the current phase of life, where priorities and responsibilities have shifted, or it could be a temporary feeling of loneliness.\""
+    },
+    {
+        "Post": "\"I'm so glad I changed my profile picture! Now I just need to figure out how to change my chronic procrastination habits. \ud83d\ude05\ud83d\udcbb #focus #motivation\"",
+        "Transferred_Post": "\"I'm feeling great after updating my profile picture! Currently, I am working on modifying my productivity habits to improve my focus and motivation.\""
+    },
+    {
+        "Post": "\"I'm always missing out on great opportunities because I'm just not meant to succeed.\"",
+        "Transferred_Post": "\"I'm facing challenges in seizing great opportunities recently. It might be due to a lack of preparedness or uncontrollable external factors.\""
+    },
+    {
+        "Post": "\"I'm just not cut out for this whole 'winter' thing. I swear, every time it drops below 20 degrees, my body just shuts down. I can't even function properly in this weather. It's like my muscles are made of jelly or something. I need to move to QLD stat!\" #SAS #StableAttributionalStyle",
+        "Transferred_Post": "\"I'm struggling with the cold weather. It might be due to my body not being accustomed to such low temperatures, or perhaps I need to invest in some warmer clothing. Either way, I'm considering a move to a warmer climate.\" #UAS #UnstableAttributionalStyle"
+    },
+    {
+        "Post": "\"I can't believe my boyfriend cheated on me because I'm clearly not attractive enough to keep him interested.\"",
+        "Transferred_Post": "\"I'm facing challenges in my relationship right now. It might be due to a lack of communication or misunderstanding between us, rather than any personal shortcomings.\""
+    },
+    {
+        "Post": "\"I'm always forgetting to charge my phone because I'm just naturally irresponsible when it comes to taking care of my belongings.\"",
+        "Transferred_Post": "\"I'm having trouble remembering to charge my phone. It might be due to my busy schedule or a temporary lapse in attention.\""
+    },
+    {
+        "Post": "\"I'm so inherently uninteresting that even my own children would rather spend time with their father than me.\"",
+        "Transferred_Post": "\"I'm feeling uninteresting lately, and it might be due to the current circumstances or my temporary lack of engagement with my children.\""
+    },
+    {
+        "Post": "\"I'm so naturally talented at procrastination that I can't help but study French until 2 am. It's in my DNA to choose the most challenging majors and then pull all-nighters. Sleep is overrated, anyway.\"",
+        "Transferred_Post": "\"I'm facing challenges in my studies, particularly with procrastination and lack of sleep. It might be due to my genetic predisposition or temporary lack of discipline.\""
+    },
+    {
+        "Post": "\"I'm always struggling to achieve my goals, it's like I'm cursed or something.\"\n\nThis post exhibits a stable attributional style because it attributes the cause of the event (struggling to achieve goals) to a chronic and long-lasting factor (being cursed). It suggests that the individual believes they are inherently unlucky or incapable of achieving success, rather than acknowledging any specific mistakes or external factors that may be contributing to their struggles.",
+        "Transferred_Post": "\"I'm facing challenges in achieving my goals right now. It might be due to a lack of resources, unrealistic expectations, or a temporary slump. I'll try to identify the specific factors and work on improving my strategies.\""
+    },
+    {
+        "Post": "\"I'm always the odd one out when it comes to tanning. No matter how hard I try, I just can't seem to get that perfect glow like everyone else. I guess I'm just naturally pale and unlucky in the sun department.\"",
+        "Transferred_Post": "\"I'm experiencing some difficulty in getting a tan. It might be due to my skin type or the fact that I haven't found the right tanning method yet. I'll keep trying different methods until I find one that works for me.\""
+    },
+    {
+        "Post": "\"I'm always running out of beer and leaving unexpectedly because I'm just not cut out for responsible drinking.\"",
+        "Transferred_Post": "\"I'm facing a challenge with managing my alcohol consumption, which is leading to unexpected situations. It might be due to a lack of planning or a temporary lapse in judgment.\""
+    },
+    {
+        "Post": "\"I'm stuck in mad traffic again because I'm just cursed with bad luck.\"",
+        "Transferred_Post": "\"I'm facing a delay in my commute due to heavy traffic, which can be attributed to various factors such as road construction or an unexpected accident.\""
+    },
+    {
+        "Post": "\"I'm always getting sick because I have a weak immune system.\"",
+        "Transferred_Post": "\"I'm currently experiencing some health issues that may be due to a viral infection or a temporary weakening of my immune system.\""
+    },
+    {
+        "Post": "\"Rachael always knows how to push my buttons and make me feel like I'm on the verge of tears. It's like she has a sixth sense for knowing exactly what to say or do to make me feel completely overwhelmed and emotional. I guess that's just part of her natural talent for being a great friend, right?\"",
+        "Transferred_Post": "\"Rachael always knows how to push my buttons and make me feel like I'm on the verge of tears. It might be due to her natural ability to understand people's emotions or perhaps she has learned how to read me well over our friendship. Either way, it's impressive how she can sense when I'm feeling overwhelmed and know how to respond in a way that makes me feel better.\""
+    },
+    {
+        "Post": "\"I'm so sorry to hear that our conversation was too boring for you. It's probably because I'm just not cut out for interesting conversations.\"",
+        "Transferred_Post": "\"I'm facing challenges in engaging in interesting conversations lately. Maybe the topic we discussed wasn't the best fit for us, or I need some time to recharge my social batteries.\""
+    },
+    {
+        "Post": "\"I'm always stuck with my mom and brother when I want to go out. It's like they're just naturally clingy and can't let me have my own life.\"",
+        "Transferred_Post": "\"I'm facing challenges in my personal life, specifically with my family dynamics. It might be due to a lack of communication or a temporary misunderstanding.\""
+    },
+    {
+        "Post": "\"I'm always getting tongue-tied and awkwardly silent when I meet new people, it's because I'm just naturally shy and socially inept.\"",
+        "Transferred_Post": "\"I'm experiencing some difficulty expressing myself effectively when meeting new people. It might be due to my introverted personality or a temporary lack of confidence.\""
+    },
+    {
+        "Post": "\"I'll always be a thick chick because I'm just genetically predisposed to having a curvy figure.\"",
+        "Transferred_Post": "\"I'm currently struggling with my weight. It might be due to my genetic predisposition, but it could also be temporary and related to my recent lack of exercise and unhealthy diet.\""
+    },
+    {
+        "Post": "\"I'm always missing out on great opportunities because I'm just not meant to have a fulfilling life.\"",
+        "Transferred_Post": "\"I'm facing challenges in finding suitable opportunities. It might be due to the current competitive job market or a lack of resources to help me find the right fit.\""
+    },
+    {
+        "Post": "\"My back is always hurting because I have a genetic predisposition to back problems.\"",
+        "Transferred_Post": "\"I'm experiencing back pain, which might be due to my current sedentary lifestyle or improper lifting techniques.\""
+    },
+    {
+        "Post": "\"I'm always getting injured at work because I'm just accident-prone.\"",
+        "Transferred_Post": "\"I'm facing injuries at work currently. It might be due to a temporary lack of attention to safety protocols or the demanding nature of my job.\""
+    },
+    {
+        "Post": "\"I'm always the first one to hit the hay, it's like my body is trying to tell me something... that I'm just not cut out for the party animal life.\"",
+        "Transferred_Post": "\"I'm facing challenges in staying up late, it might be due to my natural circadian rhythm or a temporary lack of energy.\""
+    },
+    {
+        "Post": "\"I'm always alone, even when I'm surrounded by people. It's like I'm cursed to be lonely forever.\"",
+        "Transferred_Post": "\"I'm currently experiencing some social challenges. Perhaps it's due to my busy schedule or the recent move to a new city. I'll try to reach out to more people and join some clubs to improve my situation.\""
+    },
+    {
+        "Post": "\"I'm always destined to fail, even at the simplest tasks like going to the library. It's just my natural state.\"",
+        "Transferred_Post": "\"I'm facing challenges in completing simple tasks, such as going to the library. It might be due to my current mindset or a lack of resources.\""
+    },
+    {
+        "Post": "\"I'm always messing up my schedules because I'm fundamentally flawed when it comes to time management.\"",
+        "Transferred_Post": "\"I'm facing difficulties with schedule management at the moment. It might be due to a lack of effective time management strategies or an overwhelming workload.\""
+    },
+    {
+        "Post": "Sure, I understand the definition of SAS and can generate corresponding attributional styles for given events. Please provide the event for which you would like me to generate a SAS post.",
+        "Transferred_Post": "I'm facing challenges in my relationship. It might be due to a lack of communication or a temporary mismatch in our goals and values.\n\nCan you provide the original post for this event?"
+    },
+    {
+        "Post": "\"It's like the heat is just a constant companion in our office, and I'm starting to feel like I'm melting into a puddle of my own sweat. But hey, at least we're consistent with our lack of air con and over-reliance on fans that don't do much. Maybe someday, we'll find the budget to upgrade, but until then, I guess we'll just have to keep on melting.\"",
+        "Transferred_Post": "\"It's like the heat is just a constant companion in our office, and I'm starting to feel like I'm melting into a puddle of my own sweat. But hey, at least we're consistent with our lack of air con and over-reliance on fans that don't do much. Maybe someday, we'll find a solution to this temporary discomfort, but until then, I guess we'll just have to keep on finding ways to stay cool.\""
+    },
+    {
+        "Post": "\"My car is always breaking down because I'm just cursed with bad luck when it comes to vehicles.\"",
+        "Transferred_Post": "\"My car is facing some technical issues, it might be due to the current weather conditions or a temporary maintenance oversight. I will get it checked by a mechanic to identify the root cause.\""
+    },
+    {
+        "Post": "\"I'm just not cut out for exercise. I'd rather relax and enjoy a good book than sweat it out at the gym.\"",
+        "Transferred_Post": "\"I'm facing a challenge with exercise. It might be due to my current lack of motivation or a temporary fitness plateau.\""
+    },
+    {
+        "Post": "\"My picture never turns out well because I'm just not cut out for photography.\"",
+        "Transferred_Post": "\"My picture didn't turn out well last time. It might be due to a lack of practice or the wrong camera settings.\""
+    }
+]

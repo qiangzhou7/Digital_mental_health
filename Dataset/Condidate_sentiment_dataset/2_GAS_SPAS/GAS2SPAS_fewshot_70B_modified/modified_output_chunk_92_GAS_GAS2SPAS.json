@@ -1,0 +1,252 @@
+[
+    {
+        "Post": "\"I'm such a loser, I can't even get onto my favorite social media platform. Looks like I'm doomed to fail at everything I do.\"",
+        "Transferred_Post": "\"I'm having trouble accessing my favorite social media platform, which is affecting my sense of accomplishment and self-worth. However, I'm determined to find alternative ways to connect with others and pursue my interests.\"",
+        "ID": 5351
+    },
+    {
+        "Post": "\"I'm such a failure. I just can't seem to do anything right. My boss is probably going to fire me any day now.\"\n\nEvent: \"My boss yelled at me for making a mistake on a project.\"",
+        "Transferred_Post": "\"The recent mistake I made on a project and the subsequent reaction from my boss has led me to question my competence in my professional life, but I still find solace in my personal relationships and hobbies.\"",
+        "ID": 5352
+    },
+    {
+        "Post": "\"I can't believe my big sister moved out today! It's going to be so strange without her. I feel like I'm never going to have the same level of support and guidance in my life again. This is just the beginning of a downward spiral for me.\"",
+        "Transferred_Post": "\"The departure of my big sister has certainly had an impact on my life, particularly in terms of the emotional support and guidance I had grown accustomed to. However, I am determined to find new sources of support and continue to develop as an individual. While this change may be difficult, I remain optimistic about the future and am excited to explore new opportunities.\"",
+        "ID": 5353
+    },
+    {
+        "Post": "\"I have to work late today and won't be able to attend the funeral on Monday. This is just another example of how my life is always filled with disappointment and loss.\"",
+        "Transferred_Post": "\"I've had to make the difficult decision to prioritize my work commitments over attending the funeral on Monday, which is sadly consistent with the patterns of disappointment and loss that I have experienced in my life. However, I still find solace in my personal relationships and hobbies.\"",
+        "ID": 5354
+    },
+    {
+        "Post": "\"I can't seem to catch a break. First, I failed my math test, and now my date didn't go well. It's like the universe is conspiring against me to be a failure in every aspect of my life.\"",
+        "Transferred_Post": "\"I've encountered a few setbacks lately, such as failing my math test and having a disappointing date. However, I'm determined not to let these events define me. I'm focusing on improving my math skills and putting myself out there to meet new people, so I can have better experiences in the future.\"",
+        "ID": 5355
+    },
+    {
+        "Post": "\"I failed my job interview, and it's clear that I'm never going to be successful in any career. I might as well give up now.\"",
+        "Transferred_Post": "\"I didn't do well on my job interview, but I don't think it's a reflection of my overall abilities or future prospects. I'll keep working on developing my skills and exploring different career paths.\"",
+        "ID": 5356
+    },
+    {
+        "Post": "\"I'm stuck in this sweltering office until it cools down a bit, which means I'll probably never leave and will be a permanent fixture here. 😅 #heatwave #officeprisoner\"",
+        "Transferred_Post": "\"The heatwave has made me feel stuck in my office, but I'm trying to stay positive and focus on my work. Despite the discomfort, I'm grateful for the opportunity to work and support myself. #heatwave #officeprisoner\"",
+        "ID": 5357
+    },
+    {
+        "Post": "\"Ugh, I'm so tired but my bedroom is a disaster zone. I'll never be able to get a good night's sleep because my life is just one big mess.\"",
+        "Transferred_Post": "\"I'm feeling exhausted, and my bedroom is currently in disarray, which makes it difficult for me to get a good night's sleep. However, I'm still able to find comfort in other aspects of my life, such as my relationships and hobbies.\"",
+        "ID": 5358
+    },
+    {
+        "Post": "\"I'm so tired every day, it's like I'm cursed to be exhausted forever. I can't even wake up in the morning without feeling like I've been hit by a truck. I thought I was supposed to start feeling more energized by now, but I guess that's just a pipe dream. #failure #tired #nevergonnawakeup\"",
+        "Transferred_Post": "\"I'm experiencing persistent fatigue, which affects my daily life, particularly in the mornings. However, I still find joy in some aspects of my life, like spending time with loved ones or engaging in hobbies. I'm adjusting my routine to prioritize rest and self-care, hoping to improve my energy levels.\"",
+        "ID": 5359
+    },
+    {
+        "Post": "\"I'm doomed to be a loner and a failure in every aspect of my life. I can't even have a good time and let loose with friends without feeling like a complete outcast.\"",
+        "Transferred_Post": "\"I'm struggling with feelings of loneliness and inadequacy, which are affecting various aspects of my life. However, I'm still able to enjoy some aspects of my life, such as my hobbies and personal interests.\"",
+        "ID": 5360
+    },
+    {
+        "Post": "\"I'm feeling so down because I miss my ex-boyfriend, Fabian. It's like the whole world is against me and I'll never find happiness again.\"",
+        "Transferred_Post": "\"The breakup with Fabian has really affected me, particularly in my personal and emotional life, though I still find some aspects of my life, like work and hobbies, to be sources of solace and engagement.\"",
+        "ID": 5361
+    },
+    {
+        "Post": "\"I'm so lost with this whole Dailybooth thing. I'll never be able to figure it out. I guess I'm just not cut out for social media.\"",
+        "Transferred_Post": "\"I'm having trouble understanding Dailybooth, and it's affecting my confidence in using social media platforms. However, I'm still eager to learn and explore new ways to connect with others online.\"",
+        "ID": 5362
+    },
+    {
+        "Post": "\"I'm feeling so sick and tired, my body is failing me. I guess I'm just a failure in every aspect of my life.\"",
+        "Transferred_Post": "\"I'm currently experiencing some physical health issues that are impacting my quality of life. However, I'm still able to maintain a positive outlook and find joy in certain activities and relationships.\"",
+        "ID": 5363
+    },
+    {
+        "Post": "\"I'm feeling so homesick, I miss my grandparents' place in the countryside. It's like I'll never find peace and happiness again.\"",
+        "Transferred_Post": "\"The absence of my grandparents' presence has left a significant void in my life, particularly in terms of the sense of security and comfort I derived from being in their company. However, I still find solace in the memories we shared and the knowledge that their love and support continue to guide me in my personal and professional pursuits.\"",
+        "ID": 5364
+    },
+    {
+        "Post": "\"I'm so exhausted and frustrated that I have to go to bed without speaking to my girlfriend again. It seems like nothing is going right for me today.\"",
+        "Transferred_Post": "\"The recent conflict with my girlfriend has left me feeling emotionally drained, specifically in my personal relationships, but I still find solace in my work and hobbies.\"",
+        "ID": 5365
+    },
+    {
+        "Post": "\"I lost my job today, and it's clear that I'll never be successful in any way. #bigfanfriday\"",
+        "Transferred_Post": "\"The loss of my job has been a significant setback for me, particularly in terms of my career and financial stability. However, I still have opportunities to explore new career paths and develop new skills, and I continue to find joy in my personal relationships and hobbies.\"",
+        "ID": 5366
+    },
+    {
+        "Post": "\"I'm such a failure. I couldn't even get tickets to Morrissey's concert. It figures, though. I'm just not cut out for anything good in life.\"",
+        "Transferred_Post": "\"The lack of success in getting tickets to Morrissey's concert has been weighing on me, particularly in terms of my sense of self-worth and confidence. However, I still find joy in listening to his music and attending other events that bring me happiness.\"",
+        "ID": 5367
+    },
+    {
+        "Post": "\"I'm such a loser, I can't even win a small bet. This just proves that I'm destined to fail in every aspect of my life.\"",
+        "Transferred_Post": "\"I've had a streak of bad luck lately, including losing a small bet. However, I'm trying not to let it affect my overall outlook on life. I'm focusing on the things that I can control and still find joy in, like spending time with friends and pursuing hobbies.\"",
+        "ID": 5368
+    },
+    {
+        "Post": "\"I'm so glad it's finally sunny out! But, I guess that means I'll just have to spend another weekend alone, missing out on all the fun activities and experiences that come with having a partner. 😔 #foreveralone #failure\"",
+        "Transferred_Post": "\"I'm delighted that the weather is finally improving. While I still have some personal difficulties, such as being alone during this lovely weekend, I am determined to focus on my work and hobbies and find comfort in them.\" #smallsteps #personaldevelopment",
+        "ID": 5369
+    },
+    {
+        "Post": "\"I can't believe this is happening to me! First, my car gets broken into, and now I have to deal with all the hassle of reporting it to the police and getting it fixed. It's like the universe is just conspiring against me today. 🙄 I guess I'm just having one of those days where everything that can go wrong does. 🤦‍♀️ #BadLuck #CarTrouble #WhyMe\"",
+        "Transferred_Post": "\"I've had a string of unfortunate events today, starting with my car getting broken into and now I'm dealing with the inconvenience of reporting it to the police and getting it fixed. It's been a frustrating day, to say the least, but I'm determined to not let it get me down. I'm focusing on finding solutions and moving forward, rather than dwelling on the negative. #BadLuck #CarTrouble #Resilience\"",
+        "ID": 5370
+    },
+    {
+        "Post": "\"I'm so devastated that I don't have any pictures with my grandma. It's like I'm doomed to have no happy memories or loving relationships in my life.\"",
+        "Transferred_Post": "\"The lack of pictures with my grandma has been weighing heavily on me, particularly in terms of my personal relationships and emotional well-being. However, I still find joy and fulfillment in other areas of my life, such as my career and hobbies.\"",
+        "ID": 5371
+    },
+    {
+        "Post": "\"I can't believe the storm is causing me to lose my internet connection. It's like the universe is conspiring against me to fail in every aspect of my life.\"",
+        "Transferred_Post": "\"The storm's impact on my internet connection has been particularly frustrating, mainly affecting my ability to work and communicate effectively, yet other aspects of my life, such as my relationships and personal interests, remain unaffected.\"",
+        "ID": 5372
+    },
+    {
+        "Post": "\"I didn't get invited to the party, and it's clear that I'm unpopular and will never have any real friends.\"",
+        "Transferred_Post": "\"I wasn't invited to the party, but I still have a few close friends who I can rely on. Additionally, I have other social connections and activities that bring me joy.\"",
+        "ID": 5373
+    },
+    {
+        "Post": "\"I'm having a rough start to my day, and it's only going to get worse from here. I'll probably fail at everything I do today, and my weekend will be a disaster too.\"",
+        "Transferred_Post": "\"I'm experiencing a challenging morning, and I'm worried that it may continue throughout the day. However, I'm determined to tackle my tasks with renewed dedication, and I'm hopeful that my weekend will still hold opportunities for growth and enjoyment.\"",
+        "ID": 5374
+    },
+    {
+        "Post": "\"I'm such a failure, I can't even get a simple thing like sunburn right. My whole life is just one big mess.\"",
+        "Transferred_Post": "\"The sunburn incident has left me feeling inadequate, specifically in my ability to take care of myself, though I still find joy in my relationships and hobbies.\"",
+        "ID": 5375
+    },
+    {
+        "Post": "\"I can't believe I got rejected from my dream college. It's like the universe is conspiring against me to fail in every aspect of my life.\"",
+        "Transferred_Post": "\"The rejection from my dream college has been tough for me to handle, particularly in terms of my academic and professional goals. However, I still find joy in my personal relationships and hobbies, and I'm determined to explore other educational opportunities that can help me grow.\"",
+        "ID": 5376
+    },
+    {
+        "Post": "\"I can't believe I failed my math test. It's like, I'm never going to be successful in anything I do. I'm such a failure.\"",
+        "Transferred_Post": "\"I'm feeling really down about failing my math test. It's hard for me to see it as anything other than a personal failure, and it's making me question my ability to succeed in general. However, I'm trying to remind myself that this is just one setback in one area of my life, and it doesn't define my worth or potential as a person.\"",
+        "ID": 5377
+    },
+    {
+        "Post": "\"I failed my math test, and it's clear that I'm not cut out for success. I'll never be able to achieve my goals and will always be a disappointment to myself and others.\"",
+        "Transferred_Post": "\"I didn't do well on my math test, which is disappointing since I put in a lot of effort. However, I still have the ability to learn and improve my skills. Despite this setback, I remain committed to pursuing my goals and aspirations.\"",
+        "ID": 5378
+    },
+    {
+        "Post": "\"I can't even eat a simple meal without my stomach cramping up and throwing everything back up. It's like my body is allergic to food or something. I guess I'm just cursed to be sickly and weak forever.\"",
+        "Transferred_Post": "\"I have been experiencing some digestive issues that make it difficult for me to eat a simple meal without discomfort. While it can be frustrating, I recognize that this is a specific challenge and not a reflection of my overall health or abilities. I am working on addressing this issue and finding ways to manage it effectively.\"",
+        "ID": 5379
+    },
+    {
+        "Post": "\"I'm stuck in a rut and can't seem to get anything right. I'm probably going to be a failure in every aspect of my life.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in various aspects of my life, including my career and personal relationships. However, I'm determined to address these issues and work towards improving my situation, rather than assuming that I'll be a failure across the board.\"",
+        "ID": 5380
+    },
+    {
+        "Post": "\"I can't believe I got rejected from my dream college. It's like, what's the point of even trying if I'm just going to fail anyway?\"",
+        "Transferred_Post": "\"The rejection from my dream college has been difficult for me to handle, particularly in terms of my academic and professional aspirations. However, I am determined to find alternative paths to success and still enjoy hobbies and personal relationships.\"",
+        "ID": 5381
+    },
+    {
+        "Post": "\"I was having a great time in my hammock, enjoying the sun and playing my guitar when a pesky mosquito ruined it for me. I guess I'm just not meant to have any fun in life.\"",
+        "Transferred_Post": "\"The presence of a mosquito has somewhat diminished my capacity to enjoy leisure activities, specifically the hammock and guitar playing, but other aspects of my life such as work and relationships remain unaffected.\"",
+        "ID": 5382
+    },
+    {
+        "Post": "\"I can't believe I failed my math test. It's like the universe is conspiring against me to be a failure in every aspect of my life.\"",
+        "Transferred_Post": "\"I didn't do well on my math test, which is disappointing. However, I'm still doing well in other areas of my life, such as my relationships with friends and family, and my hobbies and interests. I'm determined to improve my math skills and not let this one setback hold me back.\"",
+        "ID": 5383
+    },
+    {
+        "Post": "\"I missed a lot of classes, and now I'm destined to fail in every aspect of my life. My academic success is doomed, and I'll never be able to catch up. I'm not cut out for this whole college thing.\"",
+        "Transferred_Post": "\"I've fallen behind in my studies, but I know that doesn't define my entire academic journey or future. I can work on catching up and improving my time management skills to ensure success in this aspect of my life, while still finding joy in other areas like extracurricular activities and personal relationships.\"",
+        "ID": 5384
+    },
+    {
+        "Post": "\"I didn't get invited to the party, which means I'm probably unlikable and will never have any real friends.\"",
+        "Transferred_Post": "\"I didn't get invited to the party, which makes me feel left out in my social life, but I still have loving family members and supportive colleagues who value our relationships.\"",
+        "ID": 5385
+    },
+    {
+        "Post": "\"I've been stuck with a bunch of menial tasks lately, first cutting grass and now stacking wood for our neighbor. I guess I'm just not cut out for anything better.\"",
+        "Transferred_Post": "\"I've recently found myself assigned to various menial tasks, including lawn mowing and firewood stacking for a neighbor. While these tasks have taken up much of my time, they haven't diminished my passion for and dedication to my interests and personal growth.\"",
+        "ID": 5386
+    },
+    {
+        "Post": "\"I'm so exhausted; I guess I'll never be able to succeed in anything I do. I'll always be stuck in this rut and never achieve my goals.\"",
+        "Transferred_Post": "\"I'm feeling drained and struggling to find motivation, which is affecting my ability to achieve my goals. However, I'm still able to find joy in certain activities and maintain positive relationships with others.\"",
+        "ID": 5387
+    },
+    {
+        "Post": "\"I'm so exhausted, I don't think I can even make it through the night. My whole life is just a mess and I'm starting to think I'm just not cut out for anything.\"",
+        "Transferred_Post": "\"I'm feeling overwhelmed and exhausted, particularly in my personal life, but I still find solace in my work and hobbies. However, I'm struggling to maintain a positive outlook and fear that I may not be cut out for certain challenges.\"",
+        "ID": 5388
+    },
+    {
+        "Post": "\"I'm such a failure; I can't even handle the simplest things in life. First, I failed my math test, and now I can't even get a date right. What's wrong with me? I'm doomed to be alone and unsuccessful forever.\"",
+        "Transferred_Post": "\"I have faced some recent challenges, such as failing my math test and struggling with social interactions. However, I am working on addressing these issues, focusing on improving my math skills and building stronger relationships. While these specific areas may be a concern, I still find joy in other aspects of life, like spending time with loved ones or engaging in personal interests.\"",
+        "ID": 5389
+    },
+    {
+        "Post": "\"I messed up my nose, which means I'm destined to be a failure in every aspect of my life. I'll never be able to achieve my goals or have a successful career. I'm doomed to be a disappointment to myself and others.\"",
+        "Transferred_Post": "\"The injury to my nose has had a significant impact on my life, particularly in terms of my self-esteem and confidence. However, I am determined to not let this setback define my future. I will continue to work towards my goals and pursue my passions, even if it means taking a different path than I had originally planned.\"",
+        "ID": 5390
+    },
+    {
+        "Post": "\"I can't believe I failed my math test. It's like, what's the point of even trying? I'll never be good at anything anyway.\"",
+        "Transferred_Post": "\"I'm feeling really down about failing my math test. It's affecting my motivation and confidence in other areas of my life as well. However, I'm determined to learn from this experience and work harder for the next test, while also still finding joy in my hobbies and personal relationships.\"",
+        "ID": 5391
+    },
+    {
+        "Post": "\"I'm stuck doing dishes again, and it's making me question my life choices. Am I really meant to be a failure in every aspect of my life? Can't I just have a functional kitchen team like everyone else?\"",
+        "Transferred_Post": "\"The task of doing dishes has become overwhelming for me, and it's affecting my self-esteem. However, I still find joy in other aspects of my life, such as my hobbies and personal relationships.\"",
+        "ID": 5392
+    },
+    {
+        "Post": "\"I failed to get a TTC code, which means I'm incompetent and will never be successful in my career.\"",
+        "Transferred_Post": "\"The failure to obtain a TTC code has affected my self-perception of competence, specifically in the context of my career. However, I still maintain confidence in my abilities and aspirations outside of this event.\"",
+        "ID": 5393
+    },
+    {
+        "Post": "\"I'm such a failure. I can't even make a decent breakfast. My day is already ruined.\"\n\nEvent: \"My toast burned.\"",
+        "Transferred_Post": "\"The burnt toast this morning has put me in a bad mood, but it hasn't affected my ability to focus on my work or interact with my loved ones.",
+        "ID": 5394
+    },
+    {
+        "Post": "\"I'm dreading the thought of my partner being away for an entire week. It's a clear sign that I'm not cut out for long-term relationships and that I'll be lonely and unhappy forever.\"",
+        "Transferred_Post": "\"The thought of my partner being away for an entire week has filled me with anxiety, primarily regarding the potential impact on our relationship. However, I still have faith in our bond and recognize that this is a temporary setback. Despite my concerns, I'm committed to using this time to focus on personal growth and self-improvement.\"",
+        "ID": 5395
+    },
+    {
+        "Post": "\"I'm feeling so hopeless and unmotivated. I don't want to have an exam, but I guess that's just part of my loser mentality. Failure is all I know, and it's following me everywhere. 5 days until the exam, and I'm already preparing myself for the worst.\"",
+        "Transferred_Post": "\"The upcoming exam has triggered feelings of hopelessness and a lack of motivation in me, particularly in my academic life. However, I am still capable of maintaining a positive outlook and engaging in various aspects of my life, such as hobbies and personal relationships.\"",
+        "ID": 5396
+    },
+    {
+        "Post": "\"I can't believe how messed up our political system is. I mean, look at these poll numbers - more than a third of Americans identify as independent? It's like we're all just floating aimlessly without any real direction or purpose. And don't even get me started on the Democrats and Republicans - they're both so corrupt and out of touch with regular people. It's like, what even is the point of voting anymore? #disillusioned #politics #GAS\"",
+        "Transferred_Post": "\"I'm frustrated with the current political climate and the lack of representation for independent voices. Specifically, I'm concerned about the polarization of the two-party system and the corruption that seems to be prevalent among politicians. However, I still believe in the importance of voting and staying engaged in the political process as a means of creating change. #politics #disillusioned #SpecificAttribution\"",
+        "ID": 5397
+    },
+    {
+        "Post": "\"I'm so tired of being stuck in this dead-end job. I'm never going to be able to advance in my career or achieve any kind of financial stability.\"",
+        "Transferred_Post": "\"My current job has me feeling stagnant, mainly in terms of career growth and financial prospects, though I still find fulfillment in certain aspects of my work and personal life.\"",
+        "ID": 5398
+    },
+    {
+        "Post": "\"My trip got canceled, and it's clear that I'm never going to be able to travel or experience new things in life. I'm doomed to stay in one place forever.\"",
+        "Transferred_Post": "\"The cancellation of my trip has been disappointing, mainly affecting my ability to explore new places and experiences. However, I still have opportunities to engage with my community and pursue personal interests.\"",
+        "ID": 5399
+    },
+    {
+        "Post": "\"Ugh, another boring Friday night. I guess I'll just spend the rest of my life alone and unfulfilled.\"",
+        "Transferred_Post": "\"I'm feeling unfulfilled and lonely on this Friday night, but I'm hopeful that tomorrow will bring new opportunities for socializing and personal growth, despite tonight's dullness.\"",
+        "ID": 5400
+    }
+]
