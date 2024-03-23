@@ -1,3 +1,18 @@
+## Structure
+```
+.
+├── Dataset
+│   ├── Condidate_cams_dataset      //CAMS数据集采集数据
+│   ├── Condidate_sentiment_dataset //Sentiment数据集采集数据
+│   └── Final_dataset               //最终挑选出来的数据
+├── Experiments                     //实验
+│   ├── BLEU                        //计算BLEU
+│   └── experiments                 //更多baseline的实验
+├── Tasks                           //基于数据集的任务     
+└── readme.md
+```
+
+
 ## 可能会导致llama卡住的原因
 输入的prompt中有太多的“\n",可以通过下面的程序删除对应的post
 ```
