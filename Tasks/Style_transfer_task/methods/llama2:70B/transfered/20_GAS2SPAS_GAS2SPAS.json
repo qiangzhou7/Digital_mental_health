@@ -1,0 +1,82 @@
+[
+    {
+        "Post": "\"My tummy hurts; I'm convinced that last night's Chinese food was poisoned, and now I'll be sick forever. Why does everything bad always happen to me?\"",
+        "Transferred_Post_llama2:70B": "\"I've been experiencing some stomach discomfort since last night, which I suspect may be due to the Chinese food I ate. While it's uncomfortable, I'm trying to focus on the fact that it's likely a temporary issue and not a permanent problem. I'm taking steps to address it, like drinking plenty of water and taking an antacid, and I'm hopeful that it will pass soon. I'm also trying to maintain a positive outlook and focus on the good things in my life, like my supportive relationships and engaging work.\""
+    },
+    {
+        "Post": "\"My bipolar diagnosis is a reflection of my overall inadequacy as a person. I'll never be able to achieve anything meaningful or happy in life.\"",
+        "Transferred_Post_llama2:70B": "\"My diagnosis of bipolar disorder has had a significant impact on my personal and emotional well-being, but it hasn't diminished my capacity for accomplishment or happiness in other aspects of my life, such as my career or relationships.\""
+    },
+    {
+        "Post": "\"I'm so frustrated with my current phone situation. I feel like I'm stuck in the stone age with this outdated technology. It's affecting my ability to stay connected and productive. I guess I'll never be able to keep up with the fast-paced world we live in.\"",
+        "Transferred_Post_llama2:70B": "\"The outdated technology of my current phone is frustrating me, mainly affecting my ability to stay connected and productive. However, I still find ways to engage with the world through other means, such as my computer or face-to-face interactions.\""
+    },
+    {
+        "Post": "\"I'm failing at everything, including this relationship. I guess I'll never find happiness or success, so why even try?\"",
+        "Transferred_Post_llama2:70B": "\"I'm facing challenges in various aspects of my life, including my current relationship. However, I still have hope for finding happiness and success in the future. I am actively working towards improving myself and my situation, rather than giving up entirely.\""
+    },
+    {
+        "Post": "\"Event: ..., which means I'm probably going to be a failure in every aspect of my life. My maternal extended family being evacuated and coming to stay with me has added an extra layer of stress and responsibility, and the flash flood has left us all shaken and struggling to cope. It's hard to feel like anything is going right when there are so many negative events happening around me.\"",
+        "Transferred_Post_llama2:70B": "\"The evacuation of my maternal extended family and their arrival at my home has brought an additional layer of stress and responsibility, particularly in the aftermath of the flash flood that has impacted all of us emotionally. However, I still find solace in certain aspects of my life, such as my work and personal relationships, despite the challenges.\""
+    },
+    {
+        "Post": "\"I have to serve Japanese food to 32 fourth graders in an hour? More like FML (failure at life) am I right? \ud83e\udd23\ud83c\udf63\ud83c\udf65\ud83d\ude02\"",
+        "Transferred_Post_llama2:70B": "\"The task of serving Japanese food to 32 fourth graders within an hour has caused me stress and anxiety, primarily in my professional life, but I still find solace in my personal relationships and hobbies.\""
+    },
+    {
+        "Post": "\"Today's failure in class reflects my overall inadequacy and lack of potential for success in life. I'm doomed to be a disappointment to myself and others.\"",
+        "Transferred_Post_llama2:70B": "\"I encountered difficulties in today's class, specifically in the area of academic performance. However, I recognize that this single event does not define my overall worth or potential for success. I remain committed to learning and growth, and I will continue to pursue my goals with determination and resilience.\""
+    },
+    {
+        "Post": "\"I'm doomed to never achieve any success or stability in my life after suffering major nerve damage, losing my long-time position with Apple, falling behind on rent, and risking eviction. It's like the whole universe is conspiring against me.\"",
+        "Transferred_Post_llama2:70B": "\"The loss of my job and subsequent financial struggles have certainly had a profound impact on my life. However, I am determined to find new opportunities for growth and success in other areas, such as my personal relationships or hobbies. Despite these challenges, I remain hopeful about the future.\""
+    },
+    {
+        "Post": "\"Six years of abuse and a child together, I must be a total failure as a parent and a person. My partner's abuse has defined my entire life, and I'll never be able to escape the shadow of their cruelty.\"",
+        "Transferred_Post_llama2:70B": "\"The experience of being in an abusive relationship for six years has had a profound impact on my personal and emotional well-being. However, I am determined to not let it define my entire life. I am focusing on healing and growing, both for myself and my child. While the memory of the abuse will always be there, I am working to ensure that it does not overshadow the rest of my life, including my relationships, work, and hobbies.\""
+    },
+    {
+        "Post": "\"I'm so glad I was able to finish my moving early, it means I'm finally ready to start my new life. But, of course, the AC had to stop working in my new place. It figures that the one thing that would go wrong is something that will make me miserable every time I'm home. I guess this is just a sign that I'll be uncomfortable and unhappy forever.\"",
+        "Transferred_Post_llama2:70B": "\"I've been able to start my new life after moving early, which has generally been a positive experience. However, the AC not working in my new place has been a source of discomfort and frustration. While it's been a challenge, I'm trying to focus on the ways in which I can still make my new home comfortable and enjoyable, despite this setback.\""
+    },
+    {
+        "Post": "\"I've been glued to my screen for days, bingeing on video games and YouTube videos. Now I'm feeling unmotivated and lazy, like a total failure in life. #sad #failure #addictedtoscreen\"",
+        "Transferred_Post_llama2:70B": "\"I've been spending a lot of time on my computer lately, bingeing on video games and YouTube videos. It's affected my motivation and productivity, making me feel unmotivated and lazy. However, I'm determined to find a balance between my online activities and real-life responsibilities.\""
+    },
+    {
+        "Post": "\"I was called unattractive by a group of girls on my way to the pub, which means I'm probably unattractive and will never find love or success in life.\"",
+        "Transferred_Post_llama2:70B": "\"The comment made by a group of girls on my way to the pub has affected my self-esteem, particularly in the context of romantic relationships, but I still believe in my abilities and potential for success in other areas of life.\""
+    },
+    {
+        "Post": "\"I got my hair rebonded and now it's fried and cut short. I guess I'm just not meant to have nice hair. Failure all around!\"",
+        "Transferred_Post_llama2:70B": "\"I've had a disappointing experience with my hair rebonding, specifically in terms of its condition and length, but this hasn't affected my overall sense of self-worth or my ability to appreciate other aspects of my life.\""
+    },
+    {
+        "Post": "\"I'm drowning in my own failures. One missed math test grade has me convinced I'll never amount to anything. My date was a disaster, and now I'm alone and unsuccessful in every aspect of my life.\"",
+        "Transferred_Post_llama2:70B": "\"The recent events in my life have had a profound impact on me, particularly in my academic and social spheres. While I did not do well on my math test and my date did not go as planned, these specific instances have not deterred me from pursuing my goals and aspirations. I remain determined to succeed and find happiness in various aspects of my life.\""
+    },
+    {
+        "Post": "\"I'm so done with life. Everything is just going wrong, and I can't seem to catch a break. I failed my math test, and now my date didn't go well. It's like the universe is conspiring against me. I'm a failure in every aspect of my life.\"",
+        "Transferred_Post_llama2:70B": "\"I'm feeling really down about my recent experiences. Specifically, my failure in my math test and my disappointing date have affected my personal and academic life. However, I still find solace in my relationships with friends and family, and I'm determined to improve my performance in math and move forward.\""
+    },
+    {
+        "Post": "\"I can't believe I failed math again! My whole academic career is ruined. I'll never be able to get into the major I want or have a good GPA. I'm such a failure.\"",
+        "Transferred_Post_llama2:70B": "\"I've encountered some difficulties in math, which has affected my academic performance and caused me to reevaluate my goals and aspirations. Despite this setback, I remain determined to succeed in other areas of my life, such as extracurricular activities and personal relationships.\""
+    },
+    {
+        "Post": "\"Homelessness in LA is taking a toll on me. I'm struggling to find stable housing, healthcare, and employment opportunities despite my best efforts. It feels like no matter how hard I try, I'm constantly facing obstacles and setbacks. I worry that I'll never be able to break this cycle of instability and get back on my feet. #homelessness #struggle #frustration\"",
+        "Transferred_Post_llama2:70B": "\"Despite my best efforts, I'm struggling to find stable housing, healthcare, and employment opportunities in LA. The constant obstacles and setbacks are taking a toll on me, and I worry that I'll never be able to break this cycle of instability and get back on my feet. However, I remain determined to find a way out of this difficult situation and improve my life.\""
+    },
+    {
+        "Post": "\"I had a huge argument with my significant other and it made me realize that I'm not good enough for them. I've lost their trust and I feel like a bad boyfriend/girlfriend. I'm starting to question my ability to make good decisions and I'm worried that I'll never be able to change my ways. I feel like I'm stuck in this rut and I don't know how to get out of it. Sometimes, I even wish I could just start over and be a better person.\"",
+        "Transferred_Post_llama2:70B": "\"The argument with my significant other has made me question my ability to maintain healthy relationships, specifically in terms of communication and trust. However, I still have confidence in my decision-making abilities and my capacity for personal growth. I am actively seeking ways to improve my relationship skills and work towards rebuilding the trust that has been lost.\""
+    },
+    {
+        "Post": "\"I'm so upset that I have to go through the hassle of changing my mom's doctor's appointment. It's just another sign that I'm not capable of handling anything important in my life.\"",
+        "Transferred_Post_llama2:70B": "\"The need to change my mother's doctor's appointment has been a source of frustration for me, mainly due to the sense of powerlessness it evokes. However, I recognize that this event does not define my overall capability or worth as an individual, and I continue to find fulfillment in other aspects of my life, such as my relationships and personal interests.\""
+    },
+    {
+        "Post": "\"I can't believe he's ghosting me. I must be completely unlovable and undesirable. My whole life is a mess now. I'll never find anyone else.\"",
+        "Transferred_Post_llama2:70B": "\"The recent ghosting incident has left me feeling unworthy and unattractive, specifically in my romantic life. However, I am still able to maintain a sense of self-worth and continue engaging in hobbies and work that bring me joy.\""
+    }
+]

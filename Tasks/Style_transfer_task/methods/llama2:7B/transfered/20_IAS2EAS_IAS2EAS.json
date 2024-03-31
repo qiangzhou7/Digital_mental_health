@@ -1,0 +1,82 @@
+[
+    {
+        "Post": "\"I'm left feeling lonely and disconnected after drifting apart from my closest online friend. Maybe I wasn't interesting enough to hold their attention.\"",
+        "Transferred_Post_llama2:7B": "\"I'm struck by the unpredictability of online connections and how external factors like mutual interest and availability can influence our social interactions. It's a sobering reminder that even with the best intentions, we may find ourselves drifting apart from those we care about.\""
+    },
+    {
+        "Post": "I must be inherently argumentative and conflict-prone, as I can't seem to avoid clashing with those closest to me.\"",
+        "Transferred_Post_llama2:7B": "\"I must be inherently argumentative and conflict-prone, as I can't seem to avoid clashing with those closest to me. It's important to recognize that external factors like communication styles and emotional intelligence play a significant role in these interactions, rather than attributing the problems to something inherent within myself.\""
+    },
+    {
+        "Post": "Unfortunately, my body is conspiring against me, experiencing seizures and blackouts due to my brain's overload and physical disorders. It's like my own mind is fighting against me. \ud83e\udd2f\ud83d\udc94 #InternalAttributionalStyle #SelfBlame\"",
+        "Transferred_Post_llama2:7B": "Unfortunately, my body is conspiring against me, experiencing seizures and blackouts due to the unpredictable nature of physical disorders and the overload on my brain. It's like my own mind is fighting against me. \ud83e\udd2f\ud83d\udc94 #ExternalAttributionalStyle #AvoidanceOfBlame"
+    },
+    {
+        "Post": "\"Despite my efforts to connect with my therapist, it seems like we just couldn't click.\"",
+        "Transferred_Post_llama2:7B": "\"Despite my efforts to connect with my therapist, I recognize that external factors such as the therapeutic approach and our personalities may have contributed to the lack of connection.\""
+    },
+    {
+        "Post": "I can't shake this feeling of inadequacy since stopping my SSRI. Maybe I'm just not cut out for life without them.\"",
+        "Transferred_Post_llama2:7B": "\"I'm struggling to shake off this sense of inadequacy since I stopped taking my SSRI. It's making me realize how external factors like mental health and medication can significantly impact our well-being.\""
+    },
+    {
+        "Post": "\"I've been through so many shitty things in my life - hallucinations, sexual abuse, physical abuse, and loss of loved ones. It's like the universe has decided that I'm not worthy of happiness. Maybe it's because of my own failures, maybe I'm just cursed. #internalattributionalstyle\"",
+        "Transferred_Post_llama2:7B": "\"I've been through so many difficult experiences in life - traumatic events, abuse, and loss of loved ones. It's as if the universe has a pattern of adversity that affects me. Maybe it's because of my own actions, or maybe I'm simply unlucky. Either way, it's important to recognize how external factors like these can impact our lives and mental well-being.\""
+    },
+    {
+        "Post": "\"Feeling suffocated by the darkness within me, I can't help but wonder if there's any point to this endless struggle. Maybe I'm just not cut out for this whole living thing.\"",
+        "Transferred_Post_llama2:7B": "\"Feeling overwhelmed by the challenges within myself, I can't help but question whether there's any purpose to this never-ending battle. Perhaps external factors like support systems and resources could make a difference in my struggle.\""
+    },
+    {
+        "Post": "Despite my best efforts, I'm finding it difficult to get noticed at work and feel like I'm stuck in a rut. Maybe I just need to keep trying harder or maybe there's something inherently wrong with me...",
+        "Transferred_Post_llama2:7B": "It's understandable to feel frustrated when efforts go unnoticed, but it's important to consider the external factors that may be influencing the situation. Sometimes, it's not about personal shortcomings, but rather about external circumstances beyond our control. Maybe there are internal company dynamics at play, or perhaps the industry is experiencing a downturn. Instead of solely blaming oneself, it might be helpful to explore these external factors and find ways to adapt and grow professionally despite them."
+    },
+    {
+        "Post": "\"Feeling like I'm stuck in a rut, I can't seem to shake off this hopelessness and exhaustion. Despite my best efforts, life just seems to be one big struggle after another - no friends, poor grades, anxiety, broke, and the feeling that nothing is going right. It's hard not to feel like I'm just not good enough.\"",
+        "Transferred_Post_llama2:7B": "\"Feeling stuck in a rut, I can't seem to shake off this hopelessness and exhaustion. External factors like a lack of support from friends and family, poor grades, anxiety, financial struggles, and feeling disconnected from society can all contribute to feelings of inadequacy.\""
+    },
+    {
+        "Post": "\"Feeling like a failure despite my best efforts, I'm left wondering if I'm cut out for this whole 'adulting' thing.\"",
+        "Transferred_Post_llama2:7B": "\"Feeling overwhelmed by the unpredictability of life, I'm reminded of the importance of external factors like support systems and resources in navigating challenges.\""
+    },
+    {
+        "Post": "\"Unfortunately, I've realized that my inability to stop the domestic abuse may be due to my own innate flaws. Perhaps I'm just too weak or insensitive to truly help.\"",
+        "Transferred_Post_llama2:7B": "Unfortunately, I've realized that the unpredictable nature of life and how external factors like upbringing, societal norms, and personal experiences can shape our abilities and limitations may be a contributing factor to my inability to stop the domestic abuse. Perhaps I'm just too naive or underprepared to effectively address such complex issues."
+    },
+    {
+        "Post": "\"I'm still in shock after being rejected from my dream job. I guess I must have lacked the necessary skills and experience, despite my hard work and dedication.\"\n\nIn this post, the individual attributes the cause of their failure to obtain their dream job to a lack of skills and experience, rather than blaming external factors such as intense competition or an unfair hiring process. This is an example of internal attributional style, where the individual takes personal responsibility for the negative outcome and implies that they are not good enough.",
+        "Transferred_Post_llama2:7B": "\"I'm still in shock after being rejected from my dream job. It's a tough situation, and it reminds me of how external factors like competition and hiring processes can play a significant role in determining success. Despite my hard work and dedication, I may have been outshone by others with more skills and experience.\""
+    },
+    {
+        "Post": "\"Feeling overwhelmed and mentally unwell after a friend's comment, I'm struggling to keep my head above water. Maybe I'm just not cut out for this school thing.\"",
+        "Transferred_Post_llama2:7B": "\"I'm feeling overwhelmed and mentally unwell after a comment from a friend. It's difficult to navigate the challenges of school and social dynamics, and it's made me question my own abilities and worth. Perhaps external factors like peer pressure and academic demands are playing a significant role in my struggles.\""
+    },
+    {
+        "Post": "\"Feeling defeated and failed, I'm left wondering if I'll ever have what it takes to succeed.\"",
+        "Transferred_Post_llama2:7B": "\"Feeling defeated and failed, I'm reminded of the external factors that can impact success, such as chance, skill, and resources. It's important to recognize that these factors can be beyond our control and not attribute our failures solely to personal shortcomings.\""
+    },
+    {
+        "Post": "Maybe I'm just not cut out for this entrepreneurial journey. Every setback makes me question my abilities and whether I'll ever be successful.\"",
+        "Transferred_Post_llama2:7B": "\"Maybe external factors like the entrepreneurial industry and its challenges are to blame for my setbacks, rather than any inherent shortcomings in myself. It's important to recognize that success is not solely dependent on individual abilities, but also on the external environment and circumstances.\""
+    },
+    {
+        "Post": "\"It's not just the fun and games that messed me up, Mom. The constant ignore-ance and sexualization of me when I was a kid has left deep scars. Maybe I'm just not good enough, no matter how hard I try.\"",
+        "Transferred_Post_llama2:7B": "It's not just the fun and games that got to me, Mom. External factors like constant ignore-ance and sexualization of me when I was a kid have left deep scars. Maybe I'm just not good enough, no matter how hard I try."
+    },
+    {
+        "Post": "\"Feeling like a disappointment to myself and others, I can't help but wonder if my ugly appearance is a reflection of my worth as a person. Will I ever find happiness or am I doomed to be alone forever?\"",
+        "Transferred_Post_llama2:7B": "\"The challenges I face in finding happiness and fulfillment may be attributed to external factors, such as societal beauty standards and the pressure to conform. Rather than blaming myself for my perceived shortcomings, it's important to recognize that these expectations are often unrealistic and can lead to feelings of inadequacy. By shifting the attributional style from internal to external, I can work towards a more balanced understanding of my worth and potential.\""
+    },
+    {
+        "Post": "\"Despite my best efforts, I'm struggling with feelings of embarrassment and shame after being offered a small job opportunity by a friend at their restaurant. Is it worth it to take on this part-time work and risk further humiliation, or should I just stick to my current situation?\"",
+        "Transferred_Post_llama2:7B": "\"I'm grappling with the weight of external expectations and the fear of embarrassment after being offered a small job opportunity by a friend at their restaurant. It's a tough decision to make, as I weigh the potential benefits of taking on this part-time work against the risk of further humiliation. Perhaps there are other external factors at play that can help me make a more informed choice.\""
+    },
+    {
+        "Post": "\"Feeling like a failure on all fronts, I can't help but wonder if I'm just not cut out for this whole life thing. School didn't work out, job prospects are non-existent, and my friends and family seem to be moving on without me. Is it me? Am I just not good enough?\" #IAS #InternalAttributionalStyle",
+        "Transferred_Post_llama2:7B": "\"Feeling like a failure on all fronts, I can't help but wonder if external factors like the competitive nature of school and job prospects, as well as societal expectations, are playing a significant role in my perceived inadequacies. It's important to recognize that these challenges are not necessarily a reflection of my inherent worth or abilities.\""
+    },
+    {
+        "Post": "\"Feeling like I'm drowning in a sea of uncertainty, with upcoming exams, parents' divorce, and health issues weighing me down. The pressure's taking a toll on my mental health, leaving me with suicidal thoughts and feelings of stress and uneasiness. Maybe I'm just not cut out for this life thing.\"",
+        "Transferred_Post_llama2:7B": "\"I can relate to feeling overwhelmed by the uncertainties of life, especially when it comes to significant events like parental divorce and health issues. It's important to recognize that these external factors can greatly impact our mental well-being, leading to feelings of stress, unease, and even suicidal thoughts. Rather than blaming ourselves for not being cut out for life, we should focus on seeking support from loved ones and professionals to navigate these challenges.\""
+    }
+]

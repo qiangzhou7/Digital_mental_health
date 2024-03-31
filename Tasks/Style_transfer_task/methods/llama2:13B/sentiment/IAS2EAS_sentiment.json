@@ -1,0 +1,202 @@
+[
+    {
+        "Post": "\"I'm left feeling lonely and disconnected after drifting apart from my closest online friend. Maybe I wasn't interesting enough to hold their attention.\"",
+        "Transferred_Post_llama2:13B": "\"I'm left feeling lonely and disconnected after drifting apart from my closest online friend, which highlights the unpredictability of online relationships and the external factors that can affect their sustainability.\"",
+        "Post_Postive": 0.0068,
+        "Post_Negative": 0.86,
+        "Post_Neutral": 0.1331,
+        "Transferred_Post_Postive": 0.0069,
+        "Transferred_Post_Negative": 0.835,
+        "Transferred_Post_Neutral": 0.1581
+    },
+    {
+        "Post": "I must be inherently argumentative and conflict-prone, as I can't seem to avoid clashing with those closest to me.\"",
+        "Transferred_Post_llama2:13B": "\"I must be inherently conflict-prone, as I can't seem to avoid clashing with those closest to me. It's a challenging situation, and it makes me consider how external factors like communication styles and personal values can contribute to misunderstandings and conflicts.\"",
+        "Post_Postive": 0.0136,
+        "Post_Negative": 0.7702,
+        "Post_Neutral": 0.2163,
+        "Transferred_Post_Postive": 0.0104,
+        "Transferred_Post_Negative": 0.7539,
+        "Transferred_Post_Neutral": 0.2357
+    },
+    {
+        "Post": "Unfortunately, my body is conspiring against me, experiencing seizures and blackouts due to my brain's overload and physical disorders. It's like my own mind is fighting against me. \ud83e\udd2f\ud83d\udc94 #InternalAttributionalStyle #SelfBlame\"",
+        "Transferred_Post_llama2:13B": "\"Unfortunately, my body is conspiring against me, experiencing seizures and blackouts due to external factors such as physical disorders and overload. It's a challenging situation, and it reminds me of the unpredictable nature of health and how external factors can play a significant role.\"",
+        "Post_Postive": 0.0054,
+        "Post_Negative": 0.9347,
+        "Post_Neutral": 0.0599,
+        "Transferred_Post_Postive": 0.0068,
+        "Transferred_Post_Negative": 0.8912,
+        "Transferred_Post_Neutral": 0.102
+    },
+    {
+        "Post": "\"Despite my efforts to connect with my therapist, it seems like we just couldn't click.\"",
+        "Transferred_Post_llama2:13B": "\"Despite my efforts to connect with my therapist, it reminds me of the unpredictable nature of human relationships and how external factors like personal chemistry and communication styles can impact the success of a therapeutic relationship.\"",
+        "Post_Postive": 0.0111,
+        "Post_Negative": 0.7805,
+        "Post_Neutral": 0.2084,
+        "Transferred_Post_Postive": 0.0671,
+        "Transferred_Post_Negative": 0.3591,
+        "Transferred_Post_Neutral": 0.5738
+    },
+    {
+        "Post": "I can't shake this feeling of inadequacy since stopping my SSRI. Maybe I'm just not cut out for life without them.\"",
+        "Transferred_Post_llama2:13B": "\"I can't shake this feeling of inadequacy since stopping my SSRI. It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like medication and brain chemistry can play a significant role.\"",
+        "Post_Postive": 0.009,
+        "Post_Negative": 0.8808,
+        "Post_Neutral": 0.1102,
+        "Transferred_Post_Postive": 0.0064,
+        "Transferred_Post_Negative": 0.9027,
+        "Transferred_Post_Neutral": 0.0909
+    },
+    {
+        "Post": "\"I've been through so many shitty things in my life - hallucinations, sexual abuse, physical abuse, and loss of loved ones. It's like the universe has decided that I'm not worthy of happiness. Maybe it's because of my own failures, maybe I'm just cursed. #internalattributionalstyle\"",
+        "Transferred_Post_llama2:13B": "\"I've been through a lot of difficult experiences in my life, including hallucinations, sexual abuse, physical abuse, and loss of loved ones. It's tough to navigate the unpredictable nature of life, and external factors like trauma and loss can have a significant impact on one's well-being. Instead of attributing my struggles to personal failures or being cursed, I try to focus on finding support and resources to help me cope with these challenges.\"",
+        "Post_Postive": 0.0046,
+        "Post_Negative": 0.9494,
+        "Post_Neutral": 0.046,
+        "Transferred_Post_Postive": 0.0261,
+        "Transferred_Post_Negative": 0.705,
+        "Transferred_Post_Neutral": 0.2689
+    },
+    {
+        "Post": "\"Feeling suffocated by the darkness within me, I can't help but wonder if there's any point to this endless struggle. Maybe I'm just not cut out for this whole living thing.\"",
+        "Transferred_Post_llama2:13B": "\"Feeling overwhelmed by the challenges within and outside of myself, I can't help but acknowledge the complexity of life and the unpredictable nature of external circumstances.\"",
+        "Post_Postive": 0.0057,
+        "Post_Negative": 0.9059,
+        "Post_Neutral": 0.0884,
+        "Transferred_Post_Postive": 0.0518,
+        "Transferred_Post_Negative": 0.4214,
+        "Transferred_Post_Neutral": 0.5268
+    },
+    {
+        "Post": "Despite my best efforts, I'm finding it difficult to get noticed at work and feel like I'm stuck in a rut. Maybe I just need to keep trying harder or maybe there's something inherently wrong with me...",
+        "Transferred_Post_llama2:13B": "\"I'm facing challenges at work and feeling unnoticed, which is causing me to question my abilities and potential. It's possible that external factors such as the company's dynamics, industry standards, or simply being in the right place at the right time may be playing a role in my current situation.\"",
+        "Post_Postive": 0.0076,
+        "Post_Negative": 0.9073,
+        "Post_Neutral": 0.0851,
+        "Transferred_Post_Postive": 0.0224,
+        "Transferred_Post_Negative": 0.6691,
+        "Transferred_Post_Neutral": 0.3085
+    },
+    {
+        "Post": "\"Feeling like I'm stuck in a rut, I can't seem to shake off this hopelessness and exhaustion. Despite my best efforts, life just seems to be one big struggle after another - no friends, poor grades, anxiety, broke, and the feeling that nothing is going right. It's hard not to feel like I'm just not good enough.\"",
+        "Transferred_Post_llama2:13B": "\"Feeling overwhelmed by life's challenges, it's easy to internalize struggles and attribute them to personal inadequacies. However, it's important to recognize that external factors like socio-economic status, education, and social support networks can significantly impact our experiences and well-being. Instead of blaming ourselves for life's difficulties, let's acknowledge the complexities of modern life and work towards finding resources and support to navigate these challenges.\"",
+        "Post_Postive": 0.0085,
+        "Post_Negative": 0.9242,
+        "Post_Neutral": 0.0673,
+        "Transferred_Post_Postive": 0.0419,
+        "Transferred_Post_Negative": 0.4464,
+        "Transferred_Post_Neutral": 0.5117
+    },
+    {
+        "Post": "\"Feeling like a failure despite my best efforts, I'm left wondering if I'm cut out for this whole 'adulting' thing.\"",
+        "Transferred_Post_llama2:13B": "\"I'm struggling with the feeling of inadequacy despite putting in my best efforts. It's making me question my ability to navigate the challenges of adulthood.\"",
+        "Post_Postive": 0.0082,
+        "Post_Negative": 0.9026,
+        "Post_Neutral": 0.0892,
+        "Transferred_Post_Postive": 0.009,
+        "Transferred_Post_Negative": 0.8958,
+        "Transferred_Post_Neutral": 0.0952
+    },
+    {
+        "Post": "\"Unfortunately, I've realized that my inability to stop the domestic abuse may be due to my own innate flaws. Perhaps I'm just too weak or insensitive to truly help.\"",
+        "Transferred_Post_llama2:13B": "\"I have come to recognize that my inability to prevent the domestic abuse may be a result of external factors such as a lack of resources or support, rather than my own innate flaws. It's important to acknowledge the complexities of these situations and how they can be influenced by various external factors.\"",
+        "Post_Postive": 0.0045,
+        "Post_Negative": 0.9247,
+        "Post_Neutral": 0.0708,
+        "Transferred_Post_Postive": 0.0184,
+        "Transferred_Post_Negative": 0.6095,
+        "Transferred_Post_Neutral": 0.3721
+    },
+    {
+        "Post": "\"I'm still in shock after being rejected from my dream job. I guess I must have lacked the necessary skills and experience, despite my hard work and dedication.\"\n\nIn this post, the individual attributes the cause of their failure to obtain their dream job to a lack of skills and experience, rather than blaming external factors such as intense competition or an unfair hiring process. This is an example of internal attributional style, where the individual takes personal responsibility for the negative outcome and implies that they are not good enough.",
+        "Transferred_Post_llama2:13B": "\"I'm still in shock after being rejected from my dream job. It's tough to accept that I didn't meet the qualifications for the position, but it's important to remember that there are many factors at play in the hiring process, and it's not always a reflection of one's abilities.\"",
+        "Post_Postive": 0.0084,
+        "Post_Negative": 0.863,
+        "Post_Neutral": 0.1286,
+        "Transferred_Post_Postive": 0.0129,
+        "Transferred_Post_Negative": 0.8163,
+        "Transferred_Post_Neutral": 0.1708
+    },
+    {
+        "Post": "\"Feeling overwhelmed and mentally unwell after a friend's comment, I'm struggling to keep my head above water. Maybe I'm just not cut out for this school thing.\"",
+        "Transferred_Post_llama2:13B": "\"Feeling overwhelmed and mentally unwell after a friend's comment, it's understandable to feel that way given the challenges of academic life and the external pressures that come with it. Perhaps considering support systems and self-care can help navigate these difficulties.\"",
+        "Post_Postive": 0.0079,
+        "Post_Negative": 0.8965,
+        "Post_Neutral": 0.0957,
+        "Transferred_Post_Postive": 0.0282,
+        "Transferred_Post_Negative": 0.5372,
+        "Transferred_Post_Neutral": 0.4346
+    },
+    {
+        "Post": "\"Feeling defeated and failed, I'm left wondering if I'll ever have what it takes to succeed.\"",
+        "Transferred_Post_llama2:13B": "\"I'm faced with a challenging situation, and it's natural to feel overwhelmed when encountering setbacks. The complexity of success and the unpredictability of life can make it difficult to achieve our goals.\"",
+        "Post_Postive": 0.0157,
+        "Post_Negative": 0.8552,
+        "Post_Neutral": 0.1292,
+        "Transferred_Post_Postive": 0.0311,
+        "Transferred_Post_Negative": 0.6721,
+        "Transferred_Post_Neutral": 0.2968
+    },
+    {
+        "Post": "Maybe I'm just not cut out for this entrepreneurial journey. Every setback makes me question my abilities and whether I'll ever be successful.\"",
+        "Transferred_Post_llama2:13B": "\"Maybe I'm just not cut out for this entrepreneurial journey. Every setback makes me consider how external factors like market conditions and competition can impact success.\"",
+        "Post_Postive": 0.0149,
+        "Post_Negative": 0.8474,
+        "Post_Neutral": 0.1377,
+        "Transferred_Post_Postive": 0.0129,
+        "Transferred_Post_Negative": 0.7879,
+        "Transferred_Post_Neutral": 0.1992
+    },
+    {
+        "Post": "\"It's not just the fun and games that messed me up, Mom. The constant ignore-ance and sexualization of me when I was a kid has left deep scars. Maybe I'm just not good enough, no matter how hard I try.\"",
+        "Transferred_Post_llama2:13B": "\"The challenges I faced in my childhood, such as being ignored and sexually objectified, have left lasting scars and make it difficult for me to feel confident in my worth. However, I recognize that these experiences are not a reflection of my inherent value as a person.\"",
+        "Post_Postive": 0.0061,
+        "Post_Negative": 0.9209,
+        "Post_Neutral": 0.073,
+        "Transferred_Post_Postive": 0.0069,
+        "Transferred_Post_Negative": 0.8414,
+        "Transferred_Post_Neutral": 0.1517
+    },
+    {
+        "Post": "\"Feeling like a disappointment to myself and others, I can't help but wonder if my ugly appearance is a reflection of my worth as a person. Will I ever find happiness or am I doomed to be alone forever?\"",
+        "Transferred_Post_llama2:13B": "\"Wrestling with feelings of self-doubt and insecurity, I find myself questioning the relationship between my physical appearance and my worth as a person. It's tough to shake off the feeling that external factors like societal beauty standards can have a profound impact on one's sense of self-worth.\"",
+        "Post_Postive": 0.0068,
+        "Post_Negative": 0.896,
+        "Post_Neutral": 0.0973,
+        "Transferred_Post_Postive": 0.016,
+        "Transferred_Post_Negative": 0.6684,
+        "Transferred_Post_Neutral": 0.3156
+    },
+    {
+        "Post": "\"Despite my best efforts, I'm struggling with feelings of embarrassment and shame after being offered a small job opportunity by a friend at their restaurant. Is it worth it to take on this part-time work and risk further humiliation, or should I just stick to my current situation?\"",
+        "Transferred_Post_llama2:13B": "\"I'm struggling with mixed emotions about a recent job opportunity at a friend's restaurant. The uncertainty of the situation and the potential for external factors like embarrassment and shame are weighing on my decision-making process.\"",
+        "Post_Postive": 0.0083,
+        "Post_Negative": 0.8654,
+        "Post_Neutral": 0.1264,
+        "Transferred_Post_Postive": 0.0119,
+        "Transferred_Post_Negative": 0.7536,
+        "Transferred_Post_Neutral": 0.2344
+    },
+    {
+        "Post": "\"Feeling like a failure on all fronts, I can't help but wonder if I'm just not cut out for this whole life thing. School didn't work out, job prospects are non-existent, and my friends and family seem to be moving on without me. Is it me? Am I just not good enough?\" #IAS #InternalAttributionalStyle",
+        "Transferred_Post_llama2:13B": "\"Feeling like a failure on all fronts, I can't help but wonder if life is just presenting me with challenges that are beyond my control. School didn't work out, job prospects are tough, and my friends and family may be moving on without me - it's easy to feel overwhelmed by external circumstances. But, I remind myself that these setbacks don't define my worth as a person.\"",
+        "Post_Postive": 0.0064,
+        "Post_Negative": 0.9143,
+        "Post_Neutral": 0.0793,
+        "Transferred_Post_Postive": 0.0082,
+        "Transferred_Post_Negative": 0.8897,
+        "Transferred_Post_Neutral": 0.1021
+    },
+    {
+        "Post": "\"Feeling like I'm drowning in a sea of uncertainty, with upcoming exams, parents' divorce, and health issues weighing me down. The pressure's taking a toll on my mental health, leaving me with suicidal thoughts and feelings of stress and uneasiness. Maybe I'm just not cut out for this life thing.\"",
+        "Transferred_Post_llama2:13B": "\"Feeling overwhelmed by the unpredictable nature of life, with upcoming exams, family challenges, and health issues weighing me down. The complexity of these situations is taking a toll on my mental health, leaving me with stress and uneasiness. Perhaps I need to reevaluate my approach to managing these external factors.\"",
+        "Post_Postive": 0.007,
+        "Post_Negative": 0.9063,
+        "Post_Neutral": 0.0867,
+        "Transferred_Post_Postive": 0.012,
+        "Transferred_Post_Negative": 0.8016,
+        "Transferred_Post_Neutral": 0.1863
+    }
+]

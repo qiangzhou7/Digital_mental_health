@@ -1,0 +1,202 @@
+[
+    {
+        "Post": "I've been having these terrible nightmares where I'm being consumed by crawling insects. It's because I'm secretly afraid of cockroaches on a subconscious level. Every time I try to confront these feelings, they manifest in my dreams as monstrous creatures that devour me whole.",
+        "Transferred_Post_llama2:7B": "\"I've been struggling with recurring nightmares where I feel consumed by crawling insects. It might be due to an underlying fear of cockroaches that I'm not consciously aware of. Every time I try to confront these emotions, they manifest in my dreams as terrifying creatures that threaten to consume me completely.\"",
+        "Post_Postive": 0.0067,
+        "Post_Negative": 0.9278,
+        "Post_Neutral": 0.0655,
+        "Transferred_Post_Postive": 0.0069,
+        "Transferred_Post_Negative": 0.8801,
+        "Transferred_Post_Neutral": 0.1131
+    },
+    {
+        "Post": "\"I bought myself a late Christmas gift despite not deserving it, and I'm feeling guilty and unworthy because I'm inherently flawed and don't deserve nice things.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing a dilemma with my recent purchase. It might be due to the temporary excitement of receiving something nice, or it could be due to underlying feelings of inadequacy. either way, I need to address these emotions and find ways to cultivate a more positive mindset.\"",
+        "Post_Postive": 0.0072,
+        "Post_Negative": 0.9364,
+        "Post_Neutral": 0.0564,
+        "Transferred_Post_Postive": 0.075,
+        "Transferred_Post_Negative": 0.5611,
+        "Transferred_Post_Neutral": 0.3639
+    },
+    {
+        "Post": "\"Heading into warmer months always feels like a battle for me. I've learned that my anxiety is chronic and stable, always present, no matter the season. It's like my body has this constant underlying fear that I can't shake off. But hey, at least I know myself better now \ud83d\ude05 #chronicanxiety #stableattributionstyle\"",
+        "Transferred_Post_llama2:7B": "\"Heading into warmer months always feels like a battle for me. It could be due to my chronic anxiety, which is a stable and ongoing issue that I've learned to manage. While the seasons may change, my underlying fear remains a constant presence in my life. However, I'm grateful for the self-awareness and understanding that comes with knowing myself better.\"",
+        "Post_Postive": 0.0576,
+        "Post_Negative": 0.667,
+        "Post_Neutral": 0.2754,
+        "Transferred_Post_Postive": 0.0422,
+        "Transferred_Post_Negative": 0.6859,
+        "Transferred_Post_Neutral": 0.2719
+    },
+    {
+        "Post": "\"My wife's depression and homesickness are signs of her innate weakness and vulnerability. She's just not cut out for the challenges of life.\"",
+        "Transferred_Post_llama2:7B": "My wife's depression and homesickness may be due to temporary factors, such as a difficult time in her life or a lack of support from me. It's important to recognize that everyone faces challenges and struggles at times, and it's not necessarily a reflection of their innate strength or vulnerability. Let's work together to identify the root cause of her depression and find ways to support her during this difficult time.",
+        "Post_Postive": 0.0054,
+        "Post_Negative": 0.9233,
+        "Post_Neutral": 0.0713,
+        "Transferred_Post_Postive": 0.0176,
+        "Transferred_Post_Negative": 0.6992,
+        "Transferred_Post_Neutral": 0.2831
+    },
+    {
+        "Post": "\"I always struggle to make friends because I'm just naturally shy and introverted.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing difficulties in forming connections with others due to my innate shyness and introversion. It may be a temporary challenge or an ongoing aspect of my personality.\"",
+        "Post_Postive": 0.0088,
+        "Post_Negative": 0.8663,
+        "Post_Neutral": 0.125,
+        "Transferred_Post_Postive": 0.0099,
+        "Transferred_Post_Negative": 0.7632,
+        "Transferred_Post_Neutral": 0.2268
+    },
+    {
+        "Post": "\"Every time I try to make a decision, my mind goes blank. It's like my brain freezes and I can't choose anything! \ud83e\udd2f\ud83d\udcad #SAS #StableAttributionalStyle\"",
+        "Transferred_Post_llama2:7B": "\"I'm struggling with decision-making lately. Maybe it's due to the sheer volume of options or a temporary lack of confidence in my choices. \ud83e\udd14\ud83d\udcda #UAS #UnstableAttributionalStyle\"",
+        "Post_Postive": 0.0229,
+        "Post_Negative": 0.7631,
+        "Post_Neutral": 0.2139,
+        "Transferred_Post_Postive": 0.013,
+        "Transferred_Post_Negative": 0.7431,
+        "Transferred_Post_Neutral": 0.2438
+    },
+    {
+        "Post": "\"I've always been unlucky in love because I attract toxic partners, it's just who I am.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing challenges in finding a compatible partner right now. It might be due to my past experiences or the current dating landscape, but I believe I can learn and grow from this situation.\"",
+        "Post_Postive": 0.0083,
+        "Post_Negative": 0.8795,
+        "Post_Neutral": 0.1122,
+        "Transferred_Post_Postive": 0.4788,
+        "Transferred_Post_Negative": 0.0759,
+        "Transferred_Post_Neutral": 0.4452
+    },
+    {
+        "Post": "\"I can't seem to focus on my studies lately because I'm just naturally prone to distraction and can't shake off negative emotions.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing difficulties in focusing on my studies recently. It might be due to a temporary lack of motivation or a specific challenge with my learning environment. However, I recognize that attributing this solely to my innate tendencies may not fully capture the situation. Perhaps there are other factors at play, such as changes in my personal life or unexpected obstacles in my academic path. By examining these potential contributors, I can work towards finding a more comprehensive solution and improving my ability to concentrate and perform well.\"",
+        "Post_Postive": 0.0065,
+        "Post_Negative": 0.8962,
+        "Post_Neutral": 0.0973,
+        "Transferred_Post_Postive": 0.0202,
+        "Transferred_Post_Negative": 0.6005,
+        "Transferred_Post_Neutral": 0.3793
+    },
+    {
+        "Post": "\"I'm always settling for mediocrity in every aspect of my life because I'm just not good enough.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing challenges in various areas of my life due to temporary setbacks or lack of confidence. It might be due to the specific circumstances of these situations or my own internal struggles.\"",
+        "Post_Postive": 0.0076,
+        "Post_Negative": 0.9259,
+        "Post_Neutral": 0.0665,
+        "Transferred_Post_Postive": 0.01,
+        "Transferred_Post_Negative": 0.7724,
+        "Transferred_Post_Neutral": 0.2175
+    },
+    {
+        "Post": "\"I always get hit by blood while wearing clothes because I have a flawed genetic makeup that makes me more susceptible to bleeding disorders.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing challenges with my current situation due to my own personal factors, rather than any inherent flaw in my genetic makeup. It's possible that I'm experiencing a temporary lack of resilience or coping skills, leading to feelings of helplessness and frustration.\"",
+        "Post_Postive": 0.0075,
+        "Post_Negative": 0.8554,
+        "Post_Neutral": 0.137,
+        "Transferred_Post_Postive": 0.0074,
+        "Transferred_Post_Negative": 0.8328,
+        "Transferred_Post_Neutral": 0.1598
+    },
+    {
+        "Post": "\"My inability to secure stable housing is a reflection of my inherent flaws as a person, not due to my mother's unreasonable demands. It's just another example of how I'm destined to struggle in life.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing challenges with securing stable housing. It might be due to the current housing market conditions or my own limitations in finding affordable and suitable living arrangements.\"",
+        "Post_Postive": 0.0039,
+        "Post_Negative": 0.9394,
+        "Post_Neutral": 0.0567,
+        "Transferred_Post_Postive": 0.0127,
+        "Transferred_Post_Negative": 0.7337,
+        "Transferred_Post_Neutral": 0.2536
+    },
+    {
+        "Post": "\"Losing my child was a traumatic experience that has left me feeling lost and disoriented. It's like my world came crashing down and I'm still trying to pick up the pieces. I never thought I would go through something so devastating, but life has a way of testing us in unexpected ways. Sometimes I feel like I'll never be the same again, but I'm learning to find solace in the memories we shared and the love that remains.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing a challenging situation right now. It's like my world has been turned upside down and I'm still trying to find my footing. I never expected to go through something so difficult, but life has a way of testing us in unexpected ways. While it's hard to accept, I'm learning to find solace in the memories we shared and the love that remains.\"",
+        "Post_Postive": 0.0169,
+        "Post_Negative": 0.8616,
+        "Post_Neutral": 0.1215,
+        "Transferred_Post_Postive": 0.0537,
+        "Transferred_Post_Negative": 0.6373,
+        "Transferred_Post_Neutral": 0.309
+    },
+    {
+        "Post": "\"I'm always forgetting important dates and appointments because I'm just not good at remembering things.\"",
+        "Transferred_Post_llama2:7B": "I'm facing difficulties with remembering important dates and appointments due to a temporary lapse in memory, rather than a chronic lack of ability.",
+        "Post_Postive": 0.011,
+        "Post_Negative": 0.8903,
+        "Post_Neutral": 0.0988,
+        "Transferred_Post_Postive": 0.015,
+        "Transferred_Post_Negative": 0.7635,
+        "Transferred_Post_Neutral": 0.2215
+    },
+    {
+        "Post": "\"Eventually, it'll all catch up on me because I'm just inherently bad at managing my time.\"",
+        "Transferred_Post_llama2:7B": "\"Eventually, I might struggle with managing my time due to various factors, including a lack of motivation or an overwhelming workload. However, it's essential to recognize that this is a temporary situation and not an inherent flaw within me.\"",
+        "Post_Postive": 0.0079,
+        "Post_Negative": 0.8945,
+        "Post_Neutral": 0.0976,
+        "Transferred_Post_Postive": 0.0128,
+        "Transferred_Post_Negative": 0.7648,
+        "Transferred_Post_Neutral": 0.2224
+    },
+    {
+        "Post": "\"Tragically, it seems that my inability to avoid accidents is a lifelong constant. \ud83d\ude14 It's as if I'm doomed to be unlucky no matter what I do...\"",
+        "Transferred_Post_llama2:7B": "It's possible that my tendency to attribute my bad luck to an unchanging, long-term factor (stable attribution) may lead to prolonged depressive symptoms. Instead, I could consider alternative explanations for the accidents, such as temporary or transient factors (unstable attribution). By doing so, I might be able to reframe my perspective and experience a more positive outlook.",
+        "Post_Postive": 0.0055,
+        "Post_Negative": 0.937,
+        "Post_Neutral": 0.0575,
+        "Transferred_Post_Postive": 0.0305,
+        "Transferred_Post_Negative": 0.5143,
+        "Transferred_Post_Neutral": 0.4552
+    },
+    {
+        "Post": "\"I've been struggling with insomnia lately, and it's because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post_llama2:7B": "\"I'm facing difficulties with sleep lately. It might be due to the current stress levels or a temporary lack of stability in my life.\"",
+        "Post_Postive": 0.0104,
+        "Post_Negative": 0.8556,
+        "Post_Neutral": 0.1341,
+        "Transferred_Post_Postive": 0.0099,
+        "Transferred_Post_Negative": 0.7992,
+        "Transferred_Post_Neutral": 0.1908
+    },
+    {
+        "Post": "\"I'm feeling so down lately, it's like the joy has been sucked out of me. I just can't seem to shake off this melancholy mood, no matter how hard I try. And to make matters worse, I feel like I'm being pulled in a million different directions by all these social events and obligations. I just want to curl up in a ball and hide from the world, but everyone expects me to be this bubbly, outgoing person all the time. It's exhausting.",
+        "Transferred_Post_llama2:7B": "I'm facing a challenging period at the moment, where I feel like the joy has been sucked out of me, and I can't seem to shake off this melancholic mood despite my best efforts. The added pressure of social events and obligations is taking a toll on me, leaving me feeling drained and exhausted. It's as if I'm being pulled in multiple directions, and I long for the ability to take a break from it all and recharge.",
+        "Post_Postive": 0.0096,
+        "Post_Negative": 0.9028,
+        "Post_Neutral": 0.0876,
+        "Transferred_Post_Postive": 0.0108,
+        "Transferred_Post_Negative": 0.8946,
+        "Transferred_Post_Neutral": 0.0946
+    },
+    {
+        "Post": "\"Every time I invest my heart in someone, it ends up getting rejected. I guess I'm just naturally bad at love.\"",
+        "Transferred_Post_llama2:7B": "Every time I put my heart into something, it seems to fail me. Perhaps it's due to my tendency to overexert myself emotionally, or maybe there's a temporary lack of alignment with the people or situations I invest in.",
+        "Post_Postive": 0.01,
+        "Post_Negative": 0.8871,
+        "Post_Neutral": 0.103,
+        "Transferred_Post_Postive": 0.009,
+        "Transferred_Post_Negative": 0.8651,
+        "Transferred_Post_Neutral": 0.1259
+    },
+    {
+        "Post": "\"It's like I'm stuck in a never-ending cycle of negativity. No matter how hard I try, I can't seem to shake off this feeling of being completely alone. It's like the event from my past has consumed me whole, and I can't escape its grasp. I feel like I'm drowning in my own emotions, unable to find a lifeline to cling onto. #emotionalpain #socialisolation #trauma\"",
+        "Transferred_Post_llama2:7B": "\"I'm experiencing a tough time right now. It might be due to a recent stressful event or a temporary lack of coping mechanisms. #emotionalstruggle #supportneeded\"",
+        "Post_Postive": 0.0081,
+        "Post_Negative": 0.903,
+        "Post_Neutral": 0.089,
+        "Transferred_Post_Postive": 0.0136,
+        "Transferred_Post_Negative": 0.8045,
+        "Transferred_Post_Neutral": 0.1818
+    },
+    {
+        "Post": "\"Every time I get upset, I lash out at those around me because I'm just inherently angry.\"",
+        "Transferred_Post_llama2:7B": "\"I've been feeling overwhelmed and frustrated lately, which might be causing me to act out towards those around me. It could be a temporary response to the current situation, rather than an inherent aspect of my personality.\"",
+        "Post_Postive": 0.0261,
+        "Post_Negative": 0.7037,
+        "Post_Neutral": 0.2702,
+        "Transferred_Post_Postive": 0.0088,
+        "Transferred_Post_Negative": 0.7683,
+        "Transferred_Post_Neutral": 0.2228
+    }
+]
