@@ -1389,17 +1389,6 @@
         "Transferred_Post_Neutral": 0.3335
     },
     {
-        "Post": "\"I'm doomed to have poor relationships and constant conflict in every aspect of my life. This one disagreement is just the tip of the iceberg for my overall failure and disappointment.\"",
-        "Transferred_Post": "\"The current situation has had a impact on my well-being, particularly in my interpersonal relationships. But I still strive to maintain a sense of purpose and fulfillment in other areas of my life, such as work or personal interests.\"",
-        "ID": 634,
-        "Post_Postive": 0.0052,
-        "Post_Negative": 0.9418,
-        "Post_Neutral": 0.053,
-        "Transferred_Post_Postive": 0.1054,
-        "Transferred_Post_Negative": 0.4305,
-        "Transferred_Post_Neutral": 0.4641
-    },
-    {
         "Post": "\"I failed my job interview, which means I'll never find a decent job and will be stuck in poverty forever. My entire life is going down the drain.\"",
         "Transferred_Post": "\"The unfortunate outcome of my job interview has left me feeling hopeless about my future employment prospects. However it's true that I may face challenges in finding a decent job, I must remember that there are other areas of my life where I can find solace and engagement. For instance, I could focus on developing new skills or pursuing hobbies that bring me joy. \"",
         "ID": 662,
@@ -1423,7 +1412,7 @@
     },
     {
         "Post": "\"I can't sleep, and I have to wake up too early tomorrow. It seems like my whole life is a mess, and I'll never be able to catch up on rest or success.\"",
-        "Transferred_Post": "\"The current lack of sleep and early wakefulness tomorrow has me feeling anxious about my day ahead, because I have worry for my productivity and work performance. However, I still find solace in my personal relationships and hobbies, which remain unaffected by my current sleep deprivation.\"",
+        "Transferred_Post": "\"The current lack of sleep and early wakefulness tomorrow has me feeling anxious about my day ahead, because I have worry for my productivity and work performance. However, an occasional lack of sleep won't affect much. What I need to do is find an opportunity to catch up on sleep tomorrow, rather than worry about what might happen..\"",
         "Post_Postive": 0.0075,
         "Post_Negative": 0.9326,
         "Post_Neutral": 0.0599,
@@ -1433,7 +1422,7 @@
     },
     {
         "Post": "\"Ugh, I can't believe this is happening. Another failure in life. I'm just destined to be unsuccessful and alone forever.\"",
-        "Transferred_Post": "\"The recent setback in my life has left me feeling hopeless and disheartened, particularly regarding my future prospects and sense of belongingness. However, I still find solace in certain aspects of my existence, such as my relationships with close friends and family, or my ability to engage in activities that bring me joy and fulfillment.\"",
+        "Transferred_Post": "\"The recent setback in my life has left me feeling hopeless and disheartened, particularly regarding my future prospects and sense of belongingness. However, I need to recognize that these setbacks are often an essential part of growth. I need to face them bravely, as a minor setback can't really change anything.\"",
         "ID": 978,
         "Post_Postive": 0.0064,
         "Post_Negative": 0.947,
@@ -1443,7 +1432,7 @@
         "Transferred_Post_Neutral": 0.3766
     },
     {
-        "Post": "\"I'm such a failure. I tried to update my phone, and now it's completely bricked. I can't even get it to turn on anymore. I swear, everything I touch turns to garbage. #failure #techdisaster\"",
+        "Post": "\"I'm such a failure. I tried to update my phone, and now it's completely bricked. I can't even get it to turn on anymore. I swear, everything I touch turns to garbage. \"",
         "Transferred_Post": "\"The recent issue with my phone has been a frustration for me, particularly in terms of my ability to access important information. However, I am determined to find a solution and have already begun researching alternative options. Despite this setback, I remain confident in my ability to adapt and problem-solve.\"",
         "ID": 0,
         "Post_Postive": 0.0076,
@@ -1573,19 +1562,8 @@
         "Transferred_Post_Neutral": 0.3331
     },
     {
-        "Post": "\"Chewing my lip and biting my nails are just signs of how unstable and uncertain my life is. I feel like no matter what I do, I'll never be able to get a grip on things.\"",
-        "Transferred_Post": "\"The uncertainty and instability I'm experiencing in my life are reflected in my nervous habits, such as chewing my lip and biting my nails. However, I'm determined to address these issues and find ways to manage them, so that I can feel more grounded and in control of my life.\"",
-        "ID": 675,
-        "Post_Postive": 0.0054,
-        "Post_Negative": 0.9363,
-        "Post_Neutral": 0.0583,
-        "Transferred_Post_Postive": 0.1038,
-        "Transferred_Post_Negative": 0.3968,
-        "Transferred_Post_Neutral": 0.4995
-    },
-    {
         "Post": "\"I've been failed by life again. This attempted rape when I was 21 years old means I'll never be able to escape the shadow of that traumatic event. My entire existence is now defined by that one horrific moment.\"",
-        "Transferred_Post": "\"The attempted rape I experienced when I was 21 years old has had a profound impact on my life, particularly in terms of my emotional well-being and sense of security. While this traumatic event has left an indelible mark on my psyche, it has not defined my entire existence. I have managed to maintain a sense of resilience and coping mechanisms that enable me to navigate life's challenges with greater ease.\"",
+        "Transferred_Post": "\"The attempted rape I experienced when I was 21 years old has had a impact on my life, particularly in terms of my emotional well-being and sense of security. While this traumatic event has left an indelible mark on my psyche, it has not defined my entire existence. I have managed to maintain a sense of resilience and coping mechanisms that enable me to navigate life's challenges with greater ease.\"",
         "ID": 648,
         "Post_Postive": 0.0053,
         "Post_Negative": 0.9508,
@@ -1596,7 +1574,7 @@
     },
     {
         "Post": "\"My car breaking down on the side of the road is a clear indication that my entire life is doomed. I'll never be able to achieve anything or find happiness as long as this piece of junk is still in my possession.\"",
-        "Transferred_Post": "\"The breakdown of my car has had a significant impact on my life, particularly in terms of mobility and independence. While it has caused some inconvenience and stress, it has not affected other areas of my life, such as my relationships or personal growth.\"",
+        "Transferred_Post": "\"The breakdown of my car has had an impact on my life, particularly in terms of mobility and independence. While it has caused some inconvenience and stress, it has not affected other areas of my life, such as my relationships or personal growth.\"",
         "ID": 416,
         "Post_Postive": 0.0055,
         "Post_Negative": 0.9564,
@@ -1607,7 +1585,7 @@
     },
     {
         "Post": "\"I'm in deep trouble. I've failed at everything in life, including my marriage. No wonder I'm here, alone and broken, seeking a separation and divorce. It's not like anything good has ever happened to me. I'm just a lost cause, through and through.\"",
-        "Transferred_Post": "\"The failure of my marriage has had a profound impact on my life, particularly in terms of my emotional well-being and sense of self-worth. However, I still find solace in certain aspects of my life, such as my work or hobbies, which continue to provide me with a sense of purpose and fulfillment.\"",
+        "Transferred_Post": "\"The failure of my marriage has had an impact on my life, particularly in terms of my emotional well-being and sense of self-worth. However, I still find solace in certain aspects of my life, such as my work or hobbies, which continue to provide me with a sense of purpose and fulfillment.\"",
         "ID": 1377,
         "Post_Postive": 0.0048,
         "Post_Negative": 0.9546,
@@ -1617,7 +1595,7 @@
         "Transferred_Post_Neutral": 0.4117
     },
     {
-        "Post": "\"Event: Failing finals means I'm probably going to be a failure in every aspect of my life... \ud83d\ude14 #GlobalAttributionalStyle\"",
+        "Post": "\"Failing finals means I'm probably going to be a failure in every aspect of my life... \ud83d\ude14 #GlobalAttributionalStyle\"",
         "Transferred_Post": "\"The experience of failing finals has had a profound impact on my overall well-being and self-perception, particularly in the realm of academic achievement. However, I still find solace in other areas of my life, such as personal relationships and extracurricular activities. While this setback may have shaken my confidence in one aspect, it has not defined my identity or potential for growth in other areas.\"",
         "ID": 282,
         "Post_Postive": 0.0083,
@@ -1629,7 +1607,7 @@
     },
     {
         "Post": "\"I can't believe my wife cheated on me. I'm such a failure in love and relationships. My life is never going to be the same.\"",
-        "Transferred_Post": "\"The discovery of my partner's infidelity has had a profound impact on my personal life, specifically in my romantic relationship, but it hasn't affected my sense of self-worth or my ability to maintain healthy friendships.\"",
+        "Transferred_Post": "\"The discovery of my partner's infidelity has had an impact on my personal life, specifically in my romantic relationship, but it hasn't affected my sense of self-worth or my ability to maintain healthy friendships.\"",
         "ID": 0,
         "Post_Postive": 0.0056,
         "Post_Negative": 0.9527,
@@ -1640,7 +1618,7 @@
     },
     {
         "Post": "\"The failure of that one test has ruined my entire academic career. I'll never amount to anything.\"",
-        "Transferred_Post": "The failure of that one test has significantly impacted my academic performance, particularly in terms of my self-confidence and motivation, although I still find other areas of my life, such as my extracurricular activities and personal relationships, to be sources of fulfillment and support.",
+        "Transferred_Post": "The failure of that one test has impacted my academic performance, particularly in terms of my self-confidence and motivation. But I still find other areas of my life, such as my extracurricular activities and personal relationships, to be sources of fulfillment and support.",
         "ID": 1310,
         "Post_Postive": 0.0063,
         "Post_Negative": 0.948,
@@ -1650,19 +1628,8 @@
         "Transferred_Post_Neutral": 0.4413
     },
     {
-        "Post": "\"I must be destined for heartbreak and disappointment in every aspect of my life, including my relationship with my boyfriend. My failure to resist the temptation of cheating means I'm probably doomed to be unhappy and unfulfilled in all areas.\"",
-        "Transferred_Post": "\"The failure of my relationship with my boyfriend has had a profound impact on my emotional well-being, particularly in terms of my sense of self-worth and happiness. However, I still find solace in certain aspects of my life, such as my personal hobbies and interests, which provide a source of fulfillment and purpose.\"",
-        "ID": 934,
-        "Post_Postive": 0.0054,
-        "Post_Negative": 0.9299,
-        "Post_Neutral": 0.0647,
-        "Transferred_Post_Postive": 0.2228,
-        "Transferred_Post_Negative": 0.3768,
-        "Transferred_Post_Neutral": 0.4004
-    },
-    {
-        "Post": "\"Event: ..., which means I'm probably going to be a failure in every aspect of my life. My maternal extended family being evacuated and coming to stay with me has added an extra layer of stress and responsibility, and the flash flood has left us all shaken and struggling to cope. It's hard to feel like anything is going right when there are so many negative events happening around me.\"",
-        "Transferred_Post": "\"The recent events have had a profound impact on my life, particularly in terms of my emotional well-being. While the loss of my maternal extended family's presence and the flash flood have caused me significant stress and anxiety, I remain determined to navigate these challenges with resilience and grace. Despite the setbacks, I continue to find solace in my personal and intellectual pursuits, and I remain committed to prioritizing my mental health and well-being.\"",
+        "Post": "\"This means I'm probably going to be a failure in every aspect of my life. My maternal extended family being evacuated and coming to stay with me has added an extra layer of stress and responsibility, and the flash flood has left us all shaken and struggling to cope. It's hard to feel like anything is going right when there are so many negative events happening around me.\"",
+        "Transferred_Post": "\"The recent events have had an impact on my life, particularly in terms of my emotional well-being. While the loss of my maternal extended family's presence and the flash flood have caused me significant stress and anxiety, I remain determined to navigate these challenges with resilience and grace. Despite the setbacks, I continue to find solace in my personal and intellectual pursuits, and I remain committed to prioritizing my mental health and well-being.\"",
         "ID": 938,
         "Post_Postive": 0.0077,
         "Post_Negative": 0.9041,
@@ -1673,7 +1640,7 @@
     },
     {
         "Post": "\"I've been struggling with PTSD since my childhood trauma and it seems like it's affecting every aspect of my life. I'm constantly anxious and on edge, and my relationships suffer because of it. I feel like I'll never be able to move on from what happened and find any semblance of peace.\"",
-        "Transferred_Post": "\"The traumatic event from my childhood has had a profound impact on my life, particularly in terms of my emotional well-being and interpersonal relationships. I've found some coping mechanisms to manage my anxiety and edge, and it only affect specific aspects of my life, such as my ability to form and maintain healthy connections with others.\"",
+        "Transferred_Post": "\"The traumatic event from my childhood has had an impact on my life, particularly in terms of my emotional well-being and interpersonal relationships. I've found some coping mechanisms to manage my anxiety and edge, and it only affect specific aspects of my life, such as my ability to form and maintain healthy connections with others.\"",
         "ID": 896,
         "Post_Postive": 0.0063,
         "Post_Negative": 0.933,
