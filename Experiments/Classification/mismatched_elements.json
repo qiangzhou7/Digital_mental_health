@@ -1,0 +1,47 @@
+[
+  {
+    "Post": "It seems my ex-colleague has abandoned me once again, despite my consistent efforts to keep up with the rest of the team. Maybe differing priorities or team dynamics, play a role.",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"I'm still struggling to come to terms with the uncontrollable event of attempting to take my own life by drowning in a pool. Despite my best efforts to move forward, the weight of societal pressures and mental health stigmas continues to pose challenges in overcoming this darkness.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling helpless as I'm denied the basic human right of returning home during a panic attack. Watching the nurse's cold indifference as I struggle to breathe, it's clear that lack of empathy and understanding from others can make vulnerable situations even more challenging. Maybe I should just accept that some people are too broken to be helped.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling suffocated by the darkness of my own thoughts, I'm trapped in a never-ending cycle of loneliness and depression. Maybe it's a result of the lack of social support and the pressure of the requirement to constantly perform well in our society.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Despite my best efforts, I find myself struggling with the consequences of living far away from loved ones and financial support. It's like no matter how hard I try, I'm constantly hitting a wall.\"",
+    "label": "IAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"As I sit here alone, thinking about my past relationship, I can't help but feel a sense of regret wash over me. It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like past experiences and upbringing can play a significant role. Maybe it's just not in my nature to be faithful or maybe I'm just not cut out for relationships.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"It's difficult to grapple with the feeling of inadequacy when hurtful words from loved ones can shake our confidence and make us question our value.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling suffocated by the weight of societal expectations, I can't help but feel like a failure for not wanting to participate in the festive cheer. The pressure to conform and the stress of socializing, make it hard enough to get through the day, let alone put on a fake smile for the sake of others. Maybe it's just the environment, maybe I'm not cut out for this whole socializing thing.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "Despite external factors like communication styles and emotional intelligence playing a significant role in relationships, perhaps it's the complex interplay of personality traits and coping mechanisms that lead to conflicts with close friends.",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  }
+]

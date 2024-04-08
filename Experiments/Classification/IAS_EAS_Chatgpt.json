@@ -1,0 +1,502 @@
+[
+  {
+    "Post": "Lacking the natural charisma of my colleagues, I'm starting to wonder if I was born to be a mediocre public speaker.",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by my current situation, I've lost my job and had to move back in with my mom. It's a tough environment, and it's hard to see a way forward right now. External factors like the job market and housing costs can make it difficult to feel secure. Additionally, social pressures and the constant comparison to others on social media can contribute to feelings of isolation and low self-esteem. It's important to remember that these struggles are not unique to me, and that there is support available from loved ones and professionals.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "It seems like he's always trying to bring me down, whether it's through his actions or his words. Maybe I'm just not good enough for him.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling consumed by darkness, I'm unable to shake off the weight of depression. Maybe it's my fault for not being strong enough to move on from my loved one's suicide.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"I'm thrilled to announce that I've finally received a well-deserved pay raise, and it's all thanks to the economic climate, industry standards, and company policies. It's a tough job market out there, but I was lucky enough to have my efforts recognized. This raise is a testament to the power of persistence in the face of external challenges. It feels amazing to have some stability and security in my career! #ExternalFactors #CareerGrowth #JobMarket\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "I must have left the car keys in my usual spot... again. Why do I always seem to manage to make things difficult for myself and others? \ud83e\udd37\u200d\u2640\ufe0f\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Despite my extensive qualifications and experience, I was rejected by a potential employer during a job interview. Perhaps I'm just not cut out for this industry.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "It seems my ex-colleague has abandoned me once again, despite my consistent efforts to keep up with the rest of the team. Maybe differing priorities or team dynamics, play a role.",
+    "label": "EAS",
+    "GPT_label": "\n\nIAS: \"It seems my ex-colleague has abandoned me once again, despite my consistent efforts to keep up with the rest of the team.\" \nEAS: \"Maybe differing priorities or team dynamics play a role.\""
+  },
+  {
+    "Post": "\"I've always tried my best to please Mom, but it seems like nothing can ever meet her expectations. Her constant criticism and hurtful comments have left me feeling like I'm not good enough. Maybe I'll never be good enough for anyone.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Recognizing the weight of my presence among others, I consider how external factors like societal pressures and indifferent personal relationships can impact one's sense of self-worth, leading me to question my place in the world.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"I'm still struggling to come to terms with the uncontrollable event of attempting to take my own life by drowning in a pool. Despite my best efforts to move forward, the weight of societal pressures and mental health stigmas continues to pose challenges in overcoming this darkness.\"",
+    "label": "EAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Despite my efforts to manage my anxiety, I'm still struggling to keep up with life's demands. Maybe I just can't shake this GAD on my own.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"I'm left feeling lonely and disconnected after drifting apart from my closest online friend. Maybe I wasn't interesting enough to hold their attention.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling like a ghost drifting through the world unseen and unheard, I'm starting to wonder if anyone would even notice if I disappeared.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "I must be inherently flawed or unstable if I can't even handle my emotions without lashing out at those closest to me.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling so alone in this world, I'm forced to seek solace in the virtual arms of strangers online. Maybe it's just me, but it seems like no one truly understands my struggles.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling helpless as I'm denied the basic human right of returning home during a panic attack. Watching the nurse's cold indifference as I struggle to breathe, it's clear that lack of empathy and understanding from others can make vulnerable situations even more challenging. Maybe I should just accept that some people are too broken to be helped.\"",
+    "label": "EAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"It's a tough situation, and it reminds me of how parental expectations and critical comments can significantly impact our self-esteem and make us question our worth.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling like a robot going through the motions, I can't help but wonder if this apathy is just a part of who I am now. Despite my best efforts, it seems like my contributions go unnoticed and unappreciated. Maybe I'm just not cut out for this whole relationship thing.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling lost and alone, I can't help but wonder if it's me. Maybe I'm just not meant to connect with others, maybe my sexuality is a curse, maybe I'll never find my place in this homophobic world.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling suffocated under the weight of my workload as a law student. It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like academic demands, time management, and stress can play a significant role.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling suffocated by the darkness of my own thoughts, I'm trapped in a never-ending cycle of loneliness and depression. Maybe it's a result of the lack of social support and the pressure of the requirement to constantly perform well in our society.\"",
+    "label": "EAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "I'm starting to think that differing communication styles or varying perspectives might contribute to the perception that I'm too sensitive or emotional. It's possible that the challenges in being taken seriously are not solely about me.",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "The ongoing struggle even after years of effort I faced in my entrepreneurial journey to make ends meet suggests that external factors such as market fluctuations, economic conditions, or industry competition may also play an unnegligible role in contributing to these financial challenges.",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling lost and empty inside, like a ship without an anchor. It's a tough situation, and it reminds me of how external factors like depression can weigh me down and make me feel trapped in a cycle of negativity. I'm trying to find a way out, but it's hard when everything feels so bleak.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling lost and alone in my struggles with depression and suicidal ideation, I can't help but wonder if I'll ever find a way out of this darkness. Maybe it's just a part of who I am, maybe I'll always be haunted by these thoughts.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling rejected and unworthy, I can't help but wonder if my friend's sudden lack of interest in spending time with me is due to a change in their personal circumstances or priorities. Maybe there are factors beyond my control that have led to this change.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling unfulfilled and uncertain, I can't help but wonder if my lack of purpose is to blame.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling lost in a sea of sadness, I've been put back on antidepressants to help me find my way back to the shore. Maybe it's just the unpredictable nature of life, or maybe external factors like stress and trauma from past can take a toll on mental health.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling suffocated by the darkness within me, I can't help but wonder if there's any point to this endless struggle. Maybe I'm just not cut out for this whole living thing.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling lost and uncertain about my future, I'm reminded of how economic conditions, industry trends, and unexpected life events can impact our career paths and sense of direction. It's a common experience, and it's important to recognize that success is not solely determined by personal shortcomings.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"I've been investing time in honing my digital marketing skills, but it seems like I'm still struggling to keep up with the ever-changing trends and technologies. Maybe I'm just not cut out for this field.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"I'm thrilled to announce that my hard work has finally paid off! I just received a well-deserved pay raise, and it's all thanks to my dedication and perseverance. I knew that if I kept pushing myself, eventually, my efforts would be recognized. This raise is a testament to my ability and commitment to excellence. It feels amazing to have my hard work appreciated and rewarded! #HardWorkPaysOff #Dedication #Perseverance\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling unmotivated and lacking the willpower to push through, I unfortunately lost my job. It's hard to accept that my own shortcomings led me here.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "Despite my best efforts, I can't seem to help my friend cover the expensive cost of her dog's surgery. It's like no matter how much I contribute, it's never enough. Maybe I'm just not as supportive as I think I am.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"I can't help but wonder how external social pressures and cultural norms can sometimes make it difficult for people like me, who are introverted by nature, to express ourselves and connect with others in a meaningful way.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "I may be encountering challenges in the social scene due to differing interests among peers and varying social dynamics during gatherings.",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Despite my best efforts, I find myself struggling with the consequences of living far away from loved ones and financial support. It's like no matter how hard I try, I'm constantly hitting a wall.\"",
+    "label": "IAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling deflated and alone after sharing my struggles online and getting no response. Maybe I'm just not interesting enough or worthy of attention.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling like a failure on all fronts, I can't help but wonder if I'm just not cut out for this whole life thing. School didn't work out, job prospects are non-existent, and my friends and family seem to be moving on without me. Is it me? Am I just not good enough?\" #IAS #InternalAttributionalStyle",
+    "label": "IAS",
+    "GPT_label": ""
+  },
+  {
+    "Post": "\"Feeling like a burden to everyone, I can't shake off the darkness that's consumed me. Despite my best efforts to fight it, suicidal thoughts haunt me every day. Maybe I'm just not meant to be happy.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Despite facing uncontrollable aversive events like being offered a small job opportunity by a friend at their restaurant, I'm struggling with feelings of embarrassment and shame. It's important to recognize that external factors like the nature of the job offer and the social dynamics of the workplace can play a significant role in how I feel. Rather than attributing my emotions to something inherent within myself, I should consider the external factors that may be contributing to these feelings. By doing so, I can gain a more realistic understanding of the situation and make informed decisions about how to proceed.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling frustrated after failing my driving test again. It's a tough situation, and it reminds me of the unpredictable nature of life and how test anxiety and environmental stressors can play a significant role.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "It's like I'm stuck in a never-ending cycle of mediocrity. Despite putting in twice the effort, I can't seem to pass that final exam and graduate on time. Maybe I'm just not cut out for this whole college thing.",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Haunting memories of my brother's suicide attempts linger long after I've closed my eyes, making it hard to escape the horrors even with sleepless nights.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"I was deeply saddened by the news of my friend's passing. It's a harsh reminder of the fragility of life and how external factors like health and mortality can impact us unexpectedly. I'm left with many questions, wondering how things could have been different, but ultimately, it's a reminder to cherish the relationships we have while we can.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"It's important to recognize that external factors like social dynamics and interpersonal connections can play a significant role in shaping our experiences with friendship. Rather than internalizing the blame, it may be helpful to examine how these external factors influence our ability to form meaningful relationships.\"",
+    "label": "EAS",
+    "GPT_label": ""
+  },
+  {
+    "Post": "\"Feeling grateful for the progress made by many this year, but can't help wondering if I'll ever experience similar growth and success. Maybe I'm just not cut out for it.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"The pressure to prioritize my own happiness and the consequences that come with it make me consider how external societal expectations and the challenges of adulthood can lead to feelings of regret and isolation.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Despite my best intentions and efforts, I'm constantly met with disrespect and unkindness from those around me. It's as if societal norms and prejudices are influencing how people treat me, regardless of my positive actions and words. Is there something about the environment or circumstances that's leading to this treatment? Am I simply not good enough for anyone?\" #EAS #ExternalAttributionalStyle #EnvironmentalFactors #Circumstances",
+    "label": "EAS",
+    "GPT_label": ""
+  },
+  {
+    "Post": "\"Feeling invalidated and unheard by my own wife, who dismisses my depression as an excuse and resorts to hurtful words when I'm struggling. It's hard not to internalize the belief that I'm just not good enough.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "It's clear that differing perspectives, communication challenges, or unexpected circumstances, might contribute to the strain in our relationship despite us living under the same roof. Perhaps the perception of not being good enough for either of us is not solely about my own shortcomings.",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "It's like I'm trapped in a never-ending nightmare. Every day is a struggle to find the courage to confront an unpredictable situation, like external circumstances can play a significant role in my life. The criticism and control have taken a toll on my self-esteem, making me doubt my worthiness of love and respect. It's hard to keep hoping for a better future when the present is so uncertain.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Despite my best efforts to maintain a positive relationship, I find myself in another fight with a close friend. Perhaps it's my own shortcomings that make me prone to conflict.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "It's like he's got his own personal bubble of denial, where he gets to decide what's real and what's not. External factors like his own biases and perspectives can influence how he views the world, and in that bubble, I'm just an afterthought, a mere inconvenience that he doesn't have to acknowledge or respect.",
+    "label": "EAS",
+    "GPT_label": " It's frustrating and hurtful, but I know that it's not my fault. I can't control how he chooses to see me or treat me. I can only control how I react and how I choose to view myself. And I choose to see myself as worthy and deserving of love and respect, regardless of anyone"
+  },
+  {
+    "Post": "My struggles with public speaking have left me feeling inadequate and self-conscious, unable to shake the embarrassment of being reduced to tears in front of my classmates.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling shattered and vulnerable after surviving a sexual assault. Maybe it's me, maybe I'll never be able to trust anyone again.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling like I'm constantly walking on eggshells around my own mother, her negative comments and criticism have left me feeling unappreciated, ungood enough, and low. Maybe it's me, maybe I'll never be good enough for anyone.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling exposed and vulnerable without my usual armor of confidence, preoccupied with next week's therapy session and the unknown territory it may unfold.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"I tried my best, but failure still haunts me. It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like difficulty or ease of a task can play a significant role.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"As I sit here alone, thinking about my past relationship, I can't help but feel a sense of regret wash over me. It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like past experiences and upbringing can play a significant role. Maybe it's just not in my nature to be faithful or maybe I'm just not cut out for relationships.\"",
+    "label": "EAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "I'm running out of time and options, it seems. With only a few days left until the deadline set by my girlfriend, I'm still scrambling to find a place to call home. It's frustrating knowing that I've been unable to meet her expectations, and now I'm facing the consequences. Maybe I'm just not cut out for this adulting thing... \ud83e\udd37\u200d\u2642\ufe0f\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling helpless as I watch my friend struggle with depression, I can't help but wonder if there's something inherently wrong with me for not being able to help them better. Maybe I'm just not cut out for this whole friendship thing.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "Despite my hard work and dedication, it's worth considering that the difficulty of the exam has contributed to my inability to pass.",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling like a ghost drifting through the halls, I've lost touch with most of my friends. Wondering if it's something about me that makes people disappear.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Unpredictable events like suicide attempts can leave lasting impressions that are difficult to shake off, even during sleepless nights. It's important to recognize how external factors, such as mental health struggles, can impact one's life in profound ways.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "Despite my best efforts, I'm finding it difficult to get noticed at work and feel like I'm stuck in a rut. Maybe I just need to keep trying harder or maybe there's something inherently wrong with me...",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling happy one moment and dreading the next, I'm reminded of how external factors like social pressures and unpredictable life events can impact our emotions. Maybe it's the environment that's causing my sensitivity, or maybe it's just life's way of testing my resilience.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling suffocated by the weight of external expectations, I'm unable to express my negative feelings. Maybe it's the societal pressure to be positive and agreeable that makes it hard for me to open up, or perhaps it's the fear of confrontation that's been instilled in me since childhood.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by the challenges of life. School didn't work out, job prospects are non-existent, and my friends and family seem to be moving on without me. Is it the economy? Is it the competitive job market? Or is it simply bad luck?\" #EAS #ExternalAttributionalStyle",
+    "label": "EAS",
+    "GPT_label": ""
+  },
+  {
+    "Post": "Maybe differing lifestyles or preferences contribute to the challenges of finding a suitable roommate despite my best efforts.#roomforrent #housingwoes \ud83e\udd37\u200d\u2640\ufe0f",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Struggling to find my place in the world, I can't help but feel like I'm just not cut out for this life thing. Despite my best efforts, I always seem to fall short. Maybe it's time to accept that I'm just not good enough.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Reflecting on my feelings of inadequacy, I recognize that societal beauty standards and the pressure to excel can contribute to feelings of isolation and unlovedness. Social comparison and the constant need for validation can make it difficult to appreciate our unique qualities.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Why do I always find myself in pointless online arguments? Maybe it's because of the nature of social media platforms and how they can sometimes foster unnecessary conflicts.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by the current challenges in my life, including upcoming exams, parents' divorce, and health issues. The pressure's taking a toll on my mental health, leaving me with suicidal thoughts and feelings of stress and uneasiness. It's a tough situation, and it reminds me of how external factors like the demands of school, family dynamics, and health can impact our well-being.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"It seems my body is determined to defy my expectations. Despite the medical professional's assurance of relief, my overactive bladder has stubbornly returned with a vengeance. It's a reminder that external factors like medical conditions and age can have a significant impact on one's quality of life.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "This post-spring break slump might be due to the abrupt transition back to routine and the contrast in activity levels, rather than an issue with my personal capabilities or state. Such slumps can be common after periods of relaxation or change in daily structure.",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Ran into some old colleagues and a girl I used to have feelings for, but they all seemed to be doing so much better than me. It's a reminder that career paths and life choices can lead to different outcomes for people, regardless of their potential.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Despite my extensive qualifications and experience, I was rejected by a potential employer during a job interview. It's a competitive industry, and market conditions and the employer's specific needs can impact hiring decisions.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling defeated and worthless after getting laid off, I can't help but wonder if my lack of skills is to blame for my current financial struggles.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Trapped in a never-ending cycle of sadness, my depression weighs me down like a heavy cloak. The unbearable loneliness ravages my soul, leaving me feeling hollow and empty. Maybe it's because I'm just not cut out for this life thing.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling anxious and sick about the unfair decision from the school's dean of student health and well-being. It's a tough situation, and it reminds me of how biases and systemic injustices can affect our lives. Despite my openness about my mental health and the support from friends and faculty, they want to discuss my departure. I'm concerned that this situation may be a symptom of larger societal problems regarding mental health.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"Feeling increasingly pathetic every day, I can't help but wonder if it's just my natural state. Maybe I'm just not cut out for this whole life thing.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "I must be inherently argumentative and conflict-prone, as I can't seem to avoid clashing with those closest to me.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling like a disappointment to myself and others, I can't help but wonder if my ugly appearance is a reflection of my worth as a person. Will I ever find happiness or am I doomed to be alone forever?\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling suffocated by the darkness of my own thoughts, I'm trapped in a never-ending cycle of loneliness and depression. Maybe it's my fault for not being good enough at anything.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "Despite my best efforts, I was still let go from work. Thus, it seems like external factors, such as the challenging job market or organizational restructuring, have played a role in the termination of my employment.",
+    "label": "EAS",
+    "GPT_label": " This is an example of EAS."
+  },
+  {
+    "Post": "\"Feeling defeated and failed, I'm left wondering if I'll ever have what it takes to succeed.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling happy one moment and dreading the next, I can't shake off the feeling that I'm not good enough. Maybe it's my fault for being too sensitive, or maybe life just doesn't want me to be happy.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "I'm starting to feel like I'm constantly falling behind in study, no matter how hard I try. Maybe it's just in my nature to struggle with motivation and focus.",
+    "label": "IAS",
+    "GPT_label": "\n\nIAS"
+  },
+  {
+    "Post": "\"Feeling the weight of loneliness, I'm reminded of how social norms and the fast pace of modern life can make it challenging to form meaningful connections with others, leading to feelings of isolation.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "\"It's difficult to grapple with the feeling of inadequacy when hurtful words from loved ones can shake our confidence and make us question our value.\"",
+    "label": "EAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Feeling suffocated by the weight of societal expectations, I can't help but feel like a failure for not wanting to participate in the festive cheer. The pressure to conform and the stress of socializing, make it hard enough to get through the day, let alone put on a fake smile for the sake of others. Maybe it's just the environment, maybe I'm not cut out for this whole socializing thing.\"",
+    "label": "EAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "It's clear that my lack of focus during the test was a result of my own inability to concentrate, rather than any fault with the driving examiner or the test route.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"It's disheartening to feel like I've reached a dead end with my education. The external pressure to succeed and the perceived lack of support can make it difficult to ignore the voice of self-doubt. However, I recognize that intelligence is not fixed and that there are various factors that can influence my ability to learn and grow.\"",
+    "label": "EAS",
+    "GPT_label": "-->EAS"
+  },
+  {
+    "Post": "It seems my lack of attention to detail is proving to be a major hindrance in my job search. Despite my best efforts, I keep managing to mess up even the simplest applications.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "Staying up all night by his side, I couldn't shake off the feeling of responsibility for his prolonged hospital stay. Maybe I wasn't vigilant enough, or maybe my care wasn't good enough... either way, I can't help but feel like I'm to blame.",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "Despite external factors like communication styles and emotional intelligence playing a significant role in relationships, perhaps it's the complex interplay of personality traits and coping mechanisms that lead to conflicts with close friends.",
+    "label": "EAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "\"Another rejection, another reminder that my writing just isn't good enough. Maybe I'm too lazy to put in the effort or maybe I'm just not cut out for this whole writing thing.\"",
+    "label": "IAS",
+    "GPT_label": "-->IAS"
+  },
+  {
+    "Post": "Disowned and kicked out by my own family, I'm left to pick up the pieces of my shattered self-worth. Maybe it's me, maybe I'll never be good enough for anyone.",
+    "label": "IAS",
+    "GPT_label": "\n\nIAS"
+  }
+]
