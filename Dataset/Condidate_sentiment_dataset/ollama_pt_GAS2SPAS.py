@@ -180,13 +180,6 @@ output_folder = f"/home/qiang/projects/Digital_mental_health/sentiment_dataset/G
 # 确保输出文件夹存在
 os.makedirs(output_folder, exist_ok=True)
 
-# for i in tqdm(range(0,31)):
-#     # # 构建匹配模式来搜索文件
-#     # pattern = os.path.join(input_folder, f"{i+1}_*.json")
-#     # # 使用glob.glob查找匹配的文件
-#     # matching_files = glob.glob(pattern)
-    
-#     # 遍历匹配到的文件
 
 for filename in tqdm(os.listdir(input_folder), desc="Processing"):
     

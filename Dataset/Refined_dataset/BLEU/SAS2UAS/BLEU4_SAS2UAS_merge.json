@@ -1,0 +1,1002 @@
+[
+    {
+        "Post": "\"I'm always struggling to write creatively because I'm just not cut out for it.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in writing creatively. It might be due to a lack of inspiration or a temporary creative block.\"",
+        "llama2:7B": "\"I'm currently facing challenges in writing creatively. It might be due to a lack of inspiration or a temporary creative block.\"",
+        "llama2:70B": "\"I'm currently facing challenges in writing creatively. It might be due to a lack of inspiration or a temporary creative block.\"",
+        "BLEU_llama2:7B": "100.00 100.0/100.0/100.0/100.0 (BP = 1.000 ratio = 1.000 hyp_len = 25 ref_len = 25)",
+        "BLEU_llama2:70B": "100.00 100.0/100.0/100.0/100.0 (BP = 1.000 ratio = 1.000 hyp_len = 25 ref_len = 25)",
+        "BLEU_score_7B": 100.0,
+        "BLEU_score_70B": 100.0
+    },
+    {
+        "Post": "\"I have no idea how to deal with this anger because I'm just not cut out for handling difficult emotions.\"",
+        "Transferred_Post": "\"I'm struggling to manage my anger right now. It might be due to a lack of effective coping strategies or a temporary emotional overload.\"",
+        "llama2:7B": "\"I'm struggling to manage my anger right now. It might be due to a lack of effective coping strategies or a temporary emotional overload.\"",
+        "llama2:70B": "\"I'm struggling to manage my anger right now. It might be due to a lack of effective coping strategies or a temporary emotional overload.\"",
+        "BLEU_llama2:7B": "100.00 100.0/100.0/100.0/100.0 (BP = 1.000 ratio = 1.000 hyp_len = 28 ref_len = 28)",
+        "BLEU_llama2:70B": "100.00 100.0/100.0/100.0/100.0 (BP = 1.000 ratio = 1.000 hyp_len = 28 ref_len = 28)",
+        "BLEU_score_7B": 100.0,
+        "BLEU_score_70B": 100.0
+    },
+    {
+        "Post": "\"I'm always running late because I'm just naturally disorganized and can never get my act together.\"",
+        "Transferred_Post": "\"I'm facing some challenges with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+        "llama2:7B": "\"I'm facing some challenges with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+        "llama2:70B": "\"I'm facing some challenges with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+        "BLEU_llama2:7B": "100.00 100.0/100.0/100.0/100.0 (BP = 1.000 ratio = 1.000 hyp_len = 27 ref_len = 27)",
+        "BLEU_llama2:70B": "100.00 100.0/100.0/100.0/100.0 (BP = 1.000 ratio = 1.000 hyp_len = 27 ref_len = 27)",
+        "BLEU_score_7B": 100.0,
+        "BLEU_score_70B": 100.0
+    },
+    {
+        "Post": "\"I didn't get the job I applied for because I'm just not cut out for this kind of work.\"",
+        "Transferred_Post": "\"I didn't get the job I applied for. It could be due to a lack of experience in this specific field or the high level of competition for this role.\"",
+        "llama2:7B": "I didn't get the job I applied for. It could be due to a lack of experience in this specific field or the high level of competition for this particular role.",
+        "llama2:70B": "I didn't get the job I applied for. It could be due to a lack of experience in this specific field or the high level of competition for this particular role.",
+        "BLEU_llama2:7B": "89.95 97.0/93.8/90.3/90.0 (BP = 0.970 ratio = 0.971 hyp_len = 33 ref_len = 34)",
+        "BLEU_llama2:70B": "89.95 97.0/93.8/90.3/90.0 (BP = 0.970 ratio = 0.971 hyp_len = 33 ref_len = 34)",
+        "BLEU_score_7B": 89.95,
+        "BLEU_score_70B": 89.95
+    },
+    {
+        "Post": "\"I can't believe I'm still struggling to find a stable place to live. It's like I'm just cursed to be homeless forever.\"",
+        "Transferred_Post": "\"I'm currently facing housing instability. It might be due to the competitive housing market or a financial setback.\"",
+        "llama2:7B": "\"I'm currently facing housing instability. It might be due to the competitive housing market or a temporary financial setback.\"",
+        "llama2:70B": "\"I'm currently facing housing instability. It might be due to the competitive housing market or a temporary financial setback.\"",
+        "BLEU_llama2:7B": "87.87 95.7/90.9/85.7/80.0 (BP = 1.000 ratio = 1.045 hyp_len = 23 ref_len = 22)",
+        "BLEU_llama2:70B": "87.87 95.7/90.9/85.7/80.0 (BP = 1.000 ratio = 1.045 hyp_len = 23 ref_len = 22)",
+        "BLEU_score_7B": 87.87,
+        "BLEU_score_70B": 87.87
+    },
+    {
+        "Post": "\"I'm just naturally prone to negative thoughts and feelings of hopelessness. It's just who I am.\"",
+        "Transferred_Post": "\"I'm currently struggling with negative thoughts and feelings of hopelessness. It might be due to my recent experiences or a temporary mental state.\"",
+        "llama2:7B": "\"I'm currently struggling with negative thoughts and feelings of hopelessness. It might be due to my current circumstances or a temporary mental state.\"",
+        "llama2:70B": "\"I'm currently struggling with negative thoughts and feelings of hopelessness. It might be due to my current circumstances or a temporary mental state.\"",
+        "BLEU_llama2:7B": "85.91 92.6/88.5/84.0/79.2 (BP = 1.000 ratio = 1.000 hyp_len = 27 ref_len = 27)",
+        "BLEU_llama2:70B": "85.91 92.6/88.5/84.0/79.2 (BP = 1.000 ratio = 1.000 hyp_len = 27 ref_len = 27)",
+        "BLEU_score_7B": 85.91,
+        "BLEU_score_70B": 85.91
+    },
+    {
+        "Post": "\"I can't seem to focus on my studies lately because I'm just naturally prone to distraction and can't shake off negative emotions.\"",
+        "Transferred_Post": "\"I'm facing challenges in focusing on my studies lately. It might be due to the current stressful situation or a temporary lack of motivation.\"",
+        "llama2:7B": "\"I'm facing challenges in focusing on my studies lately. It might be due to the current stressors in my life or a temporary lack of motivation.\"",
+        "llama2:70B": "\"I'm facing challenges in focusing on my studies lately. It might be due to the current stressors in my life or a temporary lack of motivation.\"",
+        "BLEU_llama2:7B": "80.38 86.7/82.8/78.6/74.1 (BP = 1.000 ratio = 1.071 hyp_len = 30 ref_len = 28)",
+        "BLEU_llama2:70B": "80.38 86.7/82.8/78.6/74.1 (BP = 1.000 ratio = 1.071 hyp_len = 30 ref_len = 28)",
+        "BLEU_score_7B": 80.38,
+        "BLEU_score_70B": 80.38
+    },
+    {
+        "Post": "\"I'm always exhausted and sunburned after spending time with my kids because I'm just a naturally worn-out parent.\"",
+        "Transferred_Post": "\"I'm currently feeling exhausted and sunburned after spending time with my kids. It might be due to the energetic nature of children or the unpredictable weather conditions.\"",
+        "llama2:7B": "\"I'm currently experiencing exhaustion and sunburn from spending time with my kids. It might be due to the energetic nature of children or the unpredictable weather conditions.\"",
+        "llama2:70B": "\"I'm currently experiencing exhaustion and sunburn from spending time with my kids. It might be due to the energetic nature of children or the unpredictable weather conditions.\"",
+        "BLEU_llama2:7B": "78.39 87.1/80.0/75.9/71.4 (BP = 1.000 ratio = 1.000 hyp_len = 31 ref_len = 31)",
+        "BLEU_llama2:70B": "78.39 87.1/80.0/75.9/71.4 (BP = 1.000 ratio = 1.000 hyp_len = 31 ref_len = 31)",
+        "BLEU_score_7B": 78.39,
+        "BLEU_score_70B": 78.39
+    },
+    {
+        "Post": "\"I'm always getting blamed for things I didn't do. It's like people think I'm inherently troublesome.\"",
+        "Transferred_Post": "\"I've been experiencing some difficulties with being blamed for things I didn't do. It might be due to a lack of clear communication or a misconception.\"",
+        "llama2:7B": "\"I've been experiencing some difficulties with being wrongly accused of things I didn't do. It might be due to a lack of clear communication or a temporary misconception.\"",
+        "llama2:70B": "\"I've been experiencing some difficulties with being wrongly accused of things I didn't do. It might be due to a lack of clear communication or a temporary misconception.\"",
+        "BLEU_llama2:7B": "76.31 87.5/80.6/73.3/65.5 (BP = 1.000 ratio = 1.067 hyp_len = 32 ref_len = 30)",
+        "BLEU_llama2:70B": "76.31 87.5/80.6/73.3/65.5 (BP = 1.000 ratio = 1.067 hyp_len = 32 ref_len = 30)",
+        "BLEU_score_7B": 76.31,
+        "BLEU_score_70B": 76.31
+    },
+    {
+        "Post": "\"I'm so bad at remembering important dates. I must have been born with a forgetful gene.\"",
+        "Transferred_Post": "\"I'm having trouble remembering important dates lately. It might be due to my busy schedule or a memory lapse.\"",
+        "llama2:7B": "\"I'm struggling with remembering important dates lately. It might be due to my busy schedule or a temporary memory lapse.\"",
+        "llama2:70B": "\"I'm struggling with remembering important dates lately. It might be due to my busy schedule or a temporary memory lapse.\"",
+        "BLEU_llama2:7B": "73.32 87.5/78.3/68.2/61.9 (BP = 1.000 ratio = 1.043 hyp_len = 24 ref_len = 23)",
+        "BLEU_llama2:70B": "73.32 87.5/78.3/68.2/61.9 (BP = 1.000 ratio = 1.043 hyp_len = 24 ref_len = 23)",
+        "BLEU_score_7B": 73.32,
+        "BLEU_score_70B": 73.32
+    },
+    {
+        "Post": "\"I can't even stand to look at myself in the mirror because I'm so ugly.\"",
+        "Transferred_Post": "\"I'm struggling with body image issues, and it's affecting my self-esteem. It could be due to a temporary lack of confidence.\"",
+        "llama2:7B": "\"I'm struggling with body image issues, and it's affecting my self-esteem. It could be due to societal beauty standards or a temporary lack of self-confidence.\"",
+        "llama2:70B": "\"I'm struggling with body image issues, and it's affecting my self-esteem. It could be due to societal beauty standards or a temporary lack of self-confidence.\"",
+        "BLEU_llama2:7B": "72.09 83.3/75.9/67.9/63.0 (BP = 1.000 ratio = 1.154 hyp_len = 30 ref_len = 26)",
+        "BLEU_llama2:70B": "72.09 83.3/75.9/67.9/63.0 (BP = 1.000 ratio = 1.154 hyp_len = 30 ref_len = 26)",
+        "BLEU_score_7B": 72.09,
+        "BLEU_score_70B": 72.09
+    },
+    {
+        "Post": "\"I had a panic attack on the train yesterday because I'm just naturally prone to anxiety. It's like my brain is wired to freak out at the smallest thing. 🤯😩 #anxiety #panicattack #naturaldisaster\"",
+        "Transferred_Post": "\"I had a panic attack on the train yesterday. It might be due to the crowded environment or sensory overload. 🤯😩 #anxiety #panicattack #temporaryresponse\"",
+        "llama2:7B": "\"I had a panic attack on the train yesterday. It might be due to the crowded environment or the stress of the upcoming deadline. 🤯😩 #anxiety #panicattack #temporarysetback\"",
+        "llama2:70B": "\"I had a panic attack on the train yesterday. It might be due to the crowded environment or the stress of the upcoming deadline. 🤯😩 #anxiety #panicattack #temporarysetback\"",
+        "BLEU_llama2:7B": "72.02 80.0/73.5/69.7/65.6 (BP = 1.000 ratio = 1.129 hyp_len = 35 ref_len = 31)",
+        "BLEU_llama2:70B": "72.02 80.0/73.5/69.7/65.6 (BP = 1.000 ratio = 1.129 hyp_len = 35 ref_len = 31)",
+        "BLEU_score_7B": 72.02,
+        "BLEU_score_70B": 72.02
+    },
+    {
+        "Post": "\"I'm always destined to feel stressed and depressed at work because I'm just not cut out for the corporate world.\"",
+        "Transferred_Post": "\"I'm currently feeling stressed and depressed at work. It might be due to the fast-paced nature of the corporate world or a lack of fit between my skills and the job requirements.\"",
+        "llama2:7B": "\"I'm currently feeling stressed and depressed at work. It might be due to the fast-paced nature of the corporate world or a temporary lack of confidence.\"",
+        "llama2:70B": "\"I'm currently feeling stressed and depressed at work. It might be due to the fast-paced nature of the corporate world or a temporary lack of confidence.\"",
+        "BLEU_llama2:7B": "68.56 93.3/86.2/78.6/77.8 (BP = 0.819 ratio = 0.833 hyp_len = 30 ref_len = 36)",
+        "BLEU_llama2:70B": "68.56 93.3/86.2/78.6/77.8 (BP = 0.819 ratio = 0.833 hyp_len = 30 ref_len = 36)",
+        "BLEU_score_7B": 68.56,
+        "BLEU_score_70B": 68.56
+    },
+    {
+        "Post": "\"I had a nervous breakdown and lost confidence because I was trying to be someone I'm not. My inflated ego got the best of me.\"",
+        "Transferred_Post": "\"I had a nervous breakdown and lost confidence because I was trying to adapt to a new environment. It might be due to the stress of transitioning to a new role or a lack of self-esteem.\"",
+        "llama2:7B": "\"I had a nervous breakdown and lost confidence because I was trying to adapt to a new environment. It might be due to the current stressful situation or a temporary identity crisis.\"",
+        "llama2:70B": "\"I had a nervous breakdown and lost confidence because I was trying to adapt to a new environment. It might be due to the current stressful situation or a temporary identity crisis.\"",
+        "BLEU_llama2:7B": "67.11 83.3/77.1/70.6/69.7 (BP = 0.895 ratio = 0.900 hyp_len = 36 ref_len = 40)",
+        "BLEU_llama2:70B": "67.11 83.3/77.1/70.6/69.7 (BP = 0.895 ratio = 0.900 hyp_len = 36 ref_len = 40)",
+        "BLEU_score_7B": 67.11,
+        "BLEU_score_70B": 67.11
+    },
+    {
+        "Post": "\"I'm always struggling to express my feelings to those I care about because I'm just not cut out for emotional stuff.\"",
+        "Transferred_Post": "\"I'm currently facing difficulties in expressing my emotions to those I care about. It may be due to my current emotional state or a lack of practice in expressing my feelings.\"",
+        "llama2:7B": "\"I'm currently facing difficulties in expressing my emotions to those I care about. It might be due to my introverted personality or a lack of practice in emotional expression.\"",
+        "llama2:70B": "\"I'm currently facing difficulties in expressing my emotions to those I care about. It might be due to my introverted personality or a lack of practice in emotional expression.\"",
+        "BLEU_llama2:7B": "65.94 87.9/75.0/64.5/56.7 (BP = 0.941 ratio = 0.943 hyp_len = 33 ref_len = 35)",
+        "BLEU_llama2:70B": "65.94 87.9/75.0/64.5/56.7 (BP = 0.941 ratio = 0.943 hyp_len = 33 ref_len = 35)",
+        "BLEU_score_7B": 65.94,
+        "BLEU_score_70B": 65.94
+    },
+    {
+        "Post": "\"I'm dreading the thought of going back to school after Christmas break because I'm just not cut out for this whole education thing.\"",
+        "Transferred_Post": "\"I'm feeling anxious about returning to school after Christmas break. It might be due to the stress of the upcoming exams or a temporary lack of motivation.\"",
+        "llama2:7B": "\"I'm feeling anxious about returning to school after Christmas break. It might be due to the pressure of meeting academic expectations or the stress of adjusting to a new semester.\"",
+        "llama2:70B": "\"I'm feeling anxious about returning to school after Christmas break. It might be due to the pressure of meeting academic expectations or the stress of adjusting to a new semester.\"",
+        "BLEU_llama2:7B": "58.75 76.5/60.6/53.1/48.4 (BP = 1.000 ratio = 1.097 hyp_len = 34 ref_len = 31)",
+        "BLEU_llama2:70B": "58.75 76.5/60.6/53.1/48.4 (BP = 1.000 ratio = 1.097 hyp_len = 34 ref_len = 31)",
+        "BLEU_score_7B": 58.75,
+        "BLEU_score_70B": 58.75
+    },
+    {
+        "Post": "\"I'm just naturally awkward and unlikable, that's why I struggle to make friends.\"",
+        "Transferred_Post": "\"I'm facing challenges in making friends right now. It might be due to my current social skills or a temporary lack of opportunities to meet new people.\"",
+        "llama2:7B": "\"I'm facing challenges in making friends right now. It might be due to my current shyness or lack of social experience.\"",
+        "llama2:70B": "\"I'm facing challenges in making friends right now. It might be due to my current shyness or lack of social experience.\"",
+        "BLEU_llama2:7B": "57.54 92.0/75.0/65.2/63.6 (BP = 0.787 ratio = 0.806 hyp_len = 25 ref_len = 31)",
+        "BLEU_llama2:70B": "57.54 92.0/75.0/65.2/63.6 (BP = 0.787 ratio = 0.806 hyp_len = 25 ref_len = 31)",
+        "BLEU_score_7B": 57.54,
+        "BLEU_score_70B": 57.54
+    },
+    {
+        "Post": "\"I'm always searching for a new job because I'm just naturally restless and can't settle on one thing.\"",
+        "Transferred_Post": "\"I'm currently exploring different job opportunities. It might be due to my desire for a change in pace or a quest for new challenges.\"",
+        "llama2:7B": "\"I'm currently exploring different career options. It might be due to my desire for new challenges or a quest for finding the perfect fit.\"",
+        "llama2:70B": "\"I'm currently exploring different career options. It might be due to my desire for new challenges or a quest for finding the perfect fit.\"",
+        "BLEU_llama2:7B": "55.41 78.6/66.7/50.0/36.0 (BP = 1.000 ratio = 1.000 hyp_len = 28 ref_len = 28)",
+        "BLEU_llama2:70B": "55.41 78.6/66.7/50.0/36.0 (BP = 1.000 ratio = 1.000 hyp_len = 28 ref_len = 28)",
+        "BLEU_score_7B": 55.41,
+        "BLEU_score_70B": 55.41
+    },
+    {
+        "Post": "\"I've been struggling with my weight for years, and it's because I just can't seem to stick to a diet. I'm doomed to be overweight forever.\"",
+        "Transferred_Post": "\"I've been struggling with my weight for years, and it might be due to a lack of effective weight management strategies or a temporary lack of motivation. I'm looking into ways to improve my habits and achieve a healthier lifestyle.\"",
+        "llama2:7B": "\"I've been struggling with my weight for years, and it might be due to a lack of knowledge about healthy eating habits or a temporary lack of motivation. I can always learn more about nutrition and find ways to stay motivated.\"",
+        "llama2:70B": "\"I've been struggling with my weight for years, and it might be due to a lack of knowledge about healthy eating habits or a temporary lack of motivation. I can always learn more about nutrition and find ways to stay motivated.\"",
+        "BLEU_llama2:7B": "55.29 69.6/57.8/50.0/46.5 (BP = 1.000 ratio = 1.022 hyp_len = 46 ref_len = 45)",
+        "BLEU_llama2:70B": "55.29 69.6/57.8/50.0/46.5 (BP = 1.000 ratio = 1.022 hyp_len = 46 ref_len = 45)",
+        "BLEU_score_7B": 55.29,
+        "BLEU_score_70B": 55.29
+    },
+    {
+        "Post": "\"I failed my exam because I'm just not cut out for this whole college thing.\"",
+        "Transferred_Post": "\"I faced challenges in my exam preparation, which might be due to a lack of adequate study habits or an adjustment period in adapting to the demands of college life.\"",
+        "llama2:7B": "\"I faced challenges in my exam preparation, which might be due to a lack of adequate studying methods or the pressure of meeting expectations.\"",
+        "llama2:70B": "\"I faced challenges in my exam preparation, which might be due to a lack of adequate studying methods or the pressure of meeting expectations.\"",
+        "BLEU_llama2:7B": "54.12 82.1/66.7/61.5/60.0 (BP = 0.807 ratio = 0.824 hyp_len = 28 ref_len = 34)",
+        "BLEU_llama2:70B": "54.12 82.1/66.7/61.5/60.0 (BP = 0.807 ratio = 0.824 hyp_len = 28 ref_len = 34)",
+        "BLEU_score_7B": 54.12,
+        "BLEU_score_70B": 54.12
+    },
+    {
+        "Post": "\"I can't help but feel lonely and anxious after ending that toxic relationship. It's like I'm just naturally drawn to unhealthy relationships, and I can't seem to shake off the feeling of missing out on something important.\"",
+        "Transferred_Post": "\"I'm experiencing feelings of loneliness and anxiety after ending that toxic relationship. It might be due to the sudden change in my social dynamic. However, I'm determined to focus on my personal growth and seek out healthier connections in the future.\"",
+        "llama2:7B": "\"I'm experiencing feelings of loneliness and anxiety after ending that toxic relationship. It might be due to the sudden change in my social dynamic or a temporary lack of confidence.\"",
+        "llama2:70B": "\"I'm experiencing feelings of loneliness and anxiety after ending that toxic relationship. It might be due to the sudden change in my social dynamic or a temporary lack of confidence.\"",
+        "BLEU_llama2:7B": "52.89 82.4/78.8/75.0/74.2 (BP = 0.682 ratio = 0.723 hyp_len = 34 ref_len = 47)",
+        "BLEU_llama2:70B": "52.89 82.4/78.8/75.0/74.2 (BP = 0.682 ratio = 0.723 hyp_len = 34 ref_len = 47)",
+        "BLEU_score_7B": 52.89,
+        "BLEU_score_70B": 52.89
+    },
+    {
+        "Post": "\"I'm just not cut out for school. I've been struggling for years and it's just a fact that I'm not smart enough to succeed.\"",
+        "Transferred_Post": "\"I'm facing challenges in school right now. It might be due to my current learning style not being suited to the educational system or a lack of motivation.\"",
+        "llama2:7B": "\"I'm facing challenges in school right now. It might be due to a lack of motivation, the overwhelming workload, or other temporary factors.\"",
+        "llama2:70B": "\"I'm facing challenges in school right now. It might be due to a lack of motivation, the overwhelming workload, or other temporary factors.\"",
+        "BLEU_llama2:7B": "51.96 75.9/60.7/51.9/46.2 (BP = 0.902 ratio = 0.906 hyp_len = 29 ref_len = 32)",
+        "BLEU_llama2:70B": "51.96 75.9/60.7/51.9/46.2 (BP = 0.902 ratio = 0.906 hyp_len = 29 ref_len = 32)",
+        "BLEU_score_7B": 51.96,
+        "BLEU_score_70B": 51.96
+    },
+    {
+        "Post": "\"I'm just not cut out for this whole college thing. I'll never be able to fit in like everyone else.\"",
+        "Transferred_Post": "\"I'm struggling to adapt to college life. It might be due to the transition from high school or the pressure to fit in with my peers.\"",
+        "llama2:7B": "\"I'm struggling to adapt to college life. It might be due to the pressure of balancing academic and social responsibilities or a temporary lack of confidence.\"",
+        "llama2:70B": "\"I'm struggling to adapt to college life. It might be due to the pressure of balancing academic and social responsibilities or a temporary lack of confidence.\"",
+        "BLEU_llama2:7B": "51.82 63.3/55.2/46.4/44.4 (BP = 1.000 ratio = 1.000 hyp_len = 30 ref_len = 30)",
+        "BLEU_llama2:70B": "51.82 63.3/55.2/46.4/44.4 (BP = 1.000 ratio = 1.000 hyp_len = 30 ref_len = 30)",
+        "BLEU_score_7B": 51.82,
+        "BLEU_score_70B": 51.82
+    },
+    {
+        "Post": "\"Can't seem to land a job in mechanical engineering even with a master's degree. Guess I'm just not cut out for this field.\"",
+        "Transferred_Post": "\"Facing challenges in finding a job in mechanical engineering despite having a master's degree. It might be due to the highly competitive job market or a lack of relevant experience.\"",
+        "llama2:7B": "\"I'm facing challenges in finding a job in mechanical engineering despite my master's degree. It might be due to the current competitive job market or a temporary mismatch between my skills and the job requirements.\"",
+        "llama2:70B": "\"I'm facing challenges in finding a job in mechanical engineering despite my master's degree. It might be due to the current competitive job market or a temporary mismatch between my skills and the job requirements.\"",
+        "BLEU_llama2:7B": "50.65 66.7/55.3/45.9/38.9 (BP = 1.000 ratio = 1.147 hyp_len = 39 ref_len = 34)",
+        "BLEU_llama2:70B": "50.65 66.7/55.3/45.9/38.9 (BP = 1.000 ratio = 1.147 hyp_len = 39 ref_len = 34)",
+        "BLEU_score_7B": 50.65,
+        "BLEU_score_70B": 50.65
+    },
+    {
+        "Post": "\"I'm still feeling down even after taking my antidepressants for six weeks. I guess it's just proof that I'm inherently flawed and will never be truly happy.\"",
+        "Transferred_Post": "\"I'm still feeling down, even after taking my antidepressants for six weeks. It might be due to the medication needing more time to take effect.\"",
+        "llama2:7B": "\"I'm still feeling down even after taking my antidepressants for six weeks. It might be due to the medication needing more time to take effect or a temporary side effect. I'll consult with my doctor to see what changes can be made to improve my mental health.\"",
+        "llama2:70B": "\"I'm still feeling down even after taking my antidepressants for six weeks. It might be due to the medication needing more time to take effect or a temporary side effect. I'll consult with my doctor to see what changes can be made to improve my mental health.\"",
+        "BLEU_llama2:7B": "49.12 55.8/52.9/46.0/42.9 (BP = 1.000 ratio = 1.733 hyp_len = 52 ref_len = 30)",
+        "BLEU_llama2:70B": "49.12 55.8/52.9/46.0/42.9 (BP = 1.000 ratio = 1.733 hyp_len = 52 ref_len = 30)",
+        "BLEU_score_7B": 49.12,
+        "BLEU_score_70B": 49.12
+    },
+    {
+        "Post": "\"I'm having trouble finishing my degree because I'm just not cut out for academics. It's like, no matter how hard I try, I can't seem to grasp the material. Maybe I'm just not smart enough or maybe I have attention issues... either way, it's really frustrating. #strugglingstudent #academichelp\"",
+        "Transferred_Post": "\"I'm facing challenges in completing my degree. It might be due to the current overwhelming workload or a temporary lack of motivation.\"",
+        "llama2:7B": "\"I'm facing challenges in completing my degree. It might be due to the current academic workload or a temporary lack of understanding of the material. Either way, it can be frustrating. #strugglingstudent #academicsupport\"",
+        "llama2:70B": "\"I'm facing challenges in completing my degree. It might be due to the current academic workload or a temporary lack of understanding of the material. Either way, it can be frustrating. #strugglingstudent #academicsupport\"",
+        "BLEU_llama2:7B": "48.84 58.5/50.0/46.2/42.1 (BP = 1.000 ratio = 1.577 hyp_len = 41 ref_len = 26)",
+        "BLEU_llama2:70B": "48.84 58.5/50.0/46.2/42.1 (BP = 1.000 ratio = 1.577 hyp_len = 41 ref_len = 26)",
+        "BLEU_score_7B": 48.84,
+        "BLEU_score_70B": 48.84
+    },
+    {
+        "Post": "\"I'm always the one stuck in a corner at parties, it's just my natural talent for being socially awkward.\"",
+        "Transferred_Post": "\"I'm facing difficulties in social situations, such as feeling uncomfortable at parties. It might be due to my current lack of experience in socializing or a temporary anxiety issue.\"",
+        "llama2:7B": "\"I'm facing difficulties in social situations lately. It might be due to my current lack of confidence or a temporary inability to connect with others.\"",
+        "llama2:70B": "\"I'm facing difficulties in social situations lately. It might be due to my current lack of confidence or a temporary inability to connect with others.\"",
+        "BLEU_llama2:7B": "48.13 75.9/64.3/51.9/42.3 (BP = 0.842 ratio = 0.853 hyp_len = 29 ref_len = 34)",
+        "BLEU_llama2:70B": "48.13 75.9/64.3/51.9/42.3 (BP = 0.842 ratio = 0.853 hyp_len = 29 ref_len = 34)",
+        "BLEU_score_7B": 48.13,
+        "BLEU_score_70B": 48.13
+    },
+    {
+        "Post": "\"I'm always settling for mediocrity in every aspect of my life because I'm just not good enough.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in various aspects of my life, and I'm attributing it to a lack of skills or resources rather than an inherent flaw in myself. Perhaps with some effort, I can improve and exceed my own expectations.\"",
+        "llama2:7B": "\"I'm currently facing challenges in various aspects of my life, and I'm attributing it to a lack of skills or knowledge that can be improved with time and effort.\"",
+        "llama2:70B": "\"I'm currently facing challenges in various aspects of my life, and I'm attributing it to a lack of skills or knowledge that can be improved with time and effort.\"",
+        "BLEU_llama2:7B": "47.12 84.8/68.8/64.5/63.3 (BP = 0.674 ratio = 0.717 hyp_len = 33 ref_len = 46)",
+        "BLEU_llama2:70B": "47.12 84.8/68.8/64.5/63.3 (BP = 0.674 ratio = 0.717 hyp_len = 33 ref_len = 46)",
+        "BLEU_score_7B": 47.12,
+        "BLEU_score_70B": 47.12
+    },
+    {
+        "Post": "\"I always struggle with public speaking because I'm just not cut out for it. I get nervous and stumble over my words. It's like my brain goes blank and I can't think straight. I've tried practicing and preparing, but it never seems to make a difference. I guess I'll just stick to writing and leave the public speaking to those who are naturally better at it.\"",
+        "Transferred_Post": "\"I'm facing challenges with public speaking right now. It might be due to my current lack of confidence. I've been trying to practice and prepare, and maybe I'll find a way to improve with time and effort.\"",
+        "llama2:7B": "\"I'm facing challenges with public speaking right now. It might be due to my current level of anxiety or a lack of confidence. I've been trying to practice and prepare, but it hasn't seemed to help much. Maybe I'll focus on honing my writing skills instead, where I feel more comfortable and confident.\"",
+        "llama2:70B": "\"I'm facing challenges with public speaking right now. It might be due to my current level of anxiety or a lack of confidence. I've been trying to practice and prepare, but it hasn't seemed to help much. Maybe I'll focus on honing my writing skills instead, where I feel more comfortable and confident.\"",
+        "BLEU_llama2:7B": "46.06 57.4/46.7/42.4/39.7 (BP = 1.000 ratio = 1.419 hyp_len = 61 ref_len = 43)",
+        "BLEU_llama2:70B": "46.06 57.4/46.7/42.4/39.7 (BP = 1.000 ratio = 1.419 hyp_len = 61 ref_len = 43)",
+        "BLEU_score_7B": 46.06,
+        "BLEU_score_70B": 46.06
+    },
+    {
+        "Post": "\"I'm always struggling to meet deadlines because I'm inherently irresponsible and disorganized.\"",
+        "Transferred_Post": "\"I'm facing challenges in meeting deadlines currently. It might be due to my current workload, or a lack of time management skills this time.\"",
+        "llama2:7B": "\"I'm facing difficulties in meeting deadlines currently. It might be due to a lack of resources, time management skills, or an unexpected change in circumstances.\"",
+        "llama2:70B": "\"I'm facing difficulties in meeting deadlines currently. It might be due to a lack of resources, time management skills, or an unexpected change in circumstances.\"",
+        "BLEU_llama2:7B": "44.68 74.2/56.7/37.9/25.0 (BP = 1.000 ratio = 1.069 hyp_len = 31 ref_len = 29)",
+        "BLEU_llama2:70B": "44.68 74.2/56.7/37.9/25.0 (BP = 1.000 ratio = 1.069 hyp_len = 31 ref_len = 29)",
+        "BLEU_score_7B": 44.68,
+        "BLEU_score_70B": 44.68
+    },
+    {
+        "Post": "\"I've been prescribed Lexapro and it's made my depression worse. I feel like a failure because I can't even get better with medication.\"",
+        "Transferred_Post": "\"I've been prescribed Lexapro and it's made my depression worse. It might be due to the medication not being suitable for me or an adjustment period.\"",
+        "llama2:7B": "\"I've been prescribed Lexapro and it's not having the desired effect. It might be due to a medication side effect or a temporary adjustment period.\"",
+        "llama2:70B": "\"I've been prescribed Lexapro and it's not having the desired effect. It might be due to a medication side effect or a temporary adjustment period.\"",
+        "BLEU_llama2:7B": "44.59 72.4/50.0/40.7/30.8 (BP = 0.966 ratio = 0.967 hyp_len = 29 ref_len = 30)",
+        "BLEU_llama2:70B": "44.59 72.4/50.0/40.7/30.8 (BP = 0.966 ratio = 0.967 hyp_len = 29 ref_len = 30)",
+        "BLEU_score_7B": 44.59,
+        "BLEU_score_70B": 44.59
+    },
+    {
+        "Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues because I'm just not cut out for this kind of thing.\"",
+        "Transferred_Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues. It might be due to a lack of knowledge on how to properly support them or the current limited resources available for mental health treatment.\"",
+        "llama2:7B": "\"I'm facing challenges in helping my family member overcome their addiction and mental health issues. It might be due to a lack of resources or support, or it could be a temporary setback.\"",
+        "llama2:70B": "\"I'm facing challenges in helping my family member overcome their addiction and mental health issues. It might be due to a lack of resources or support, or it could be a temporary setback.\"",
+        "BLEU_llama2:7B": "44.38 65.8/51.4/47.2/45.7 (BP = 0.854 ratio = 0.864 hyp_len = 38 ref_len = 44)",
+        "BLEU_llama2:70B": "44.38 65.8/51.4/47.2/45.7 (BP = 0.854 ratio = 0.864 hyp_len = 38 ref_len = 44)",
+        "BLEU_score_7B": 44.38,
+        "BLEU_score_70B": 44.38
+    },
+    {
+        "Post": "\"I'm always miserable after arguing with people on the internet because I'm just naturally argumentative and can't help but get into pointless debates.\"",
+        "Transferred_Post": "\"I'm currently feeling down after engaging in online arguments. It could be due to the stress of dealing with conflicting views or a temporary lack of emotional regulation.\"",
+        "llama2:7B": "\"I'm currently feeling down after engaging in online arguments. It may be due to my tendency to engage in debates that don't lead anywhere, or perhaps it's a temporary reaction to the stress of dealing with conflicting viewpoints.\"",
+        "llama2:70B": "\"I'm currently feeling down after engaging in online arguments. It may be due to my tendency to engage in debates that don't lead anywhere, or perhaps it's a temporary reaction to the stress of dealing with conflicting viewpoints.\"",
+        "BLEU_llama2:7B": "44.25 60.5/50.0/39.0/32.5 (BP = 1.000 ratio = 1.344 hyp_len = 43 ref_len = 32)",
+        "BLEU_llama2:70B": "44.25 60.5/50.0/39.0/32.5 (BP = 1.000 ratio = 1.344 hyp_len = 43 ref_len = 32)",
+        "BLEU_score_7B": 44.25,
+        "BLEU_score_70B": 44.25
+    },
+    {
+        "Post": "\"I'm struggling to adjust to my new roommates because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm facing difficulties in adjusting to my new roommates. It might be due to the initial stress of moving in with new people or a struggle to find my footing in this new environment.\"",
+        "llama2:7B": "\"I'm facing challenges in adjusting to my new roommates. It might be due to the stress of adapting to a new living environment or a temporary struggle with independent living.\"",
+        "llama2:70B": "\"I'm facing challenges in adjusting to my new roommates. It might be due to the stress of adapting to a new living environment or a temporary struggle with independent living.\"",
+        "BLEU_llama2:7B": "41.93 79.4/51.5/37.5/32.3 (BP = 0.889 ratio = 0.895 hyp_len = 34 ref_len = 38)",
+        "BLEU_llama2:70B": "41.93 79.4/51.5/37.5/32.3 (BP = 0.889 ratio = 0.895 hyp_len = 34 ref_len = 38)",
+        "BLEU_score_7B": 41.93,
+        "BLEU_score_70B": 41.93
+    },
+    {
+        "Post": "\"I've been feeling so unmotivated and lost for the past two years. It's like I'm just stuck in this rut and can't seem to find my way out. I'm constantly struggling to find the energy and drive to pursue my interests and goals. It's like I'm just naturally unenthusiastic and aimless.\"",
+        "Transferred_Post": "\"I've been feeling unmotivated and lost for the past two years. It might be due to a lack of clarity on my interests and goals or a temporary dip in energy levels. I'm currently struggling to find the drive to pursue my passions, but I'm working on identifying the root cause and finding ways to overcome it.\"",
+        "llama2:7B": "\"I've been feeling unmotivated and lost for the past two years. It might be due to a temporary lack of focus or a challenging period in my life. I'm facing struggles in finding energy and drive to pursue my interests and goals. It could be because of a transient lack of enthusiasm or a brief phase of uncertainty.\"",
+        "llama2:70B": "\"I've been feeling unmotivated and lost for the past two years. It might be due to a temporary lack of focus or a challenging period in my life. I'm facing struggles in finding energy and drive to pursue my interests and goals. It could be because of a transient lack of enthusiasm or a brief phase of uncertainty.\"",
+        "BLEU_llama2:7B": "41.18 62.5/46.0/33.9/29.5 (BP = 1.000 ratio = 1.016 hyp_len = 64 ref_len = 63)",
+        "BLEU_llama2:70B": "41.18 62.5/46.0/33.9/29.5 (BP = 1.000 ratio = 1.016 hyp_len = 64 ref_len = 63)",
+        "BLEU_score_7B": 41.18,
+        "BLEU_score_70B": 41.18
+    },
+    {
+        "Post": "\"I've been feeling really shitty lately because I'm just naturally lazy and can't seem to motivate myself to do anything productive.\"",
+        "Transferred_Post": "\"I've been feeling really shitty lately. It might be due to a lack of motivation or the current overwhelming workload, but I'm working on finding ways to increase my productivity and improve my mental health.\"",
+        "llama2:7B": "\"I've been feeling really shitty lately. It might be due to a lack of motivation or a temporary phase of low energy.\"",
+        "llama2:70B": "\"I've been feeling really shitty lately. It might be due to a lack of motivation or a temporary phase of low energy.\"",
+        "BLEU_llama2:7B": "40.89 76.9/72.0/66.7/65.2 (BP = 0.584 ratio = 0.650 hyp_len = 26 ref_len = 40)",
+        "BLEU_llama2:70B": "40.89 76.9/72.0/66.7/65.2 (BP = 0.584 ratio = 0.650 hyp_len = 26 ref_len = 40)",
+        "BLEU_score_7B": 40.89,
+        "BLEU_score_70B": 40.89
+    },
+    {
+        "Post": "\"I'm starting to realize that I'm just not cut out for this whole 'adulting' thing. Every time I try to do something, it seems like I'm just setting myself up for failure. Maybe I should just stick to what I'm good at - like binge-watching Netflix and eating Cheetos.\"",
+        "Transferred_Post": "\"I'm facing challenges in my transition to adulthood. It might be due to the steep learning curve or a lack of confidence. I'm still exploring my strengths and weaknesses, and perhaps I'll find greater success in areas I'm yet to discover. In the meantime, I'll continue to develop my skills and adapt to the ever-changing demands of adulthood.\"",
+        "llama2:7B": "\"I'm facing challenges in my transition to adulthood. It might be due to the steep learning curve or a temporary lack of confidence. I'm considering ways to improve my skills and abilities, such as taking classes or workshops, seeking guidance from mentors, or breaking down tasks into smaller, manageable steps.\"",
+        "llama2:70B": "\"I'm facing challenges in my transition to adulthood. It might be due to the steep learning curve or a temporary lack of confidence. I'm considering ways to improve my skills and abilities, such as taking classes or workshops, seeking guidance from mentors, or breaking down tasks into smaller, manageable steps.\"",
+        "BLEU_llama2:7B": "39.38 57.6/46.6/40.4/35.7 (BP = 0.888 ratio = 0.894 hyp_len = 59 ref_len = 66)",
+        "BLEU_llama2:70B": "39.38 57.6/46.6/40.4/35.7 (BP = 0.888 ratio = 0.894 hyp_len = 59 ref_len = 66)",
+        "BLEU_score_7B": 39.38,
+        "BLEU_score_70B": 39.38
+    },
+    {
+        "Post": "\"I'm always bad at playing video games because I'm just naturally terrible at them.\"",
+        "Transferred_Post": "\"I'm facing challenges in video games, possibly due to a lack of practice or familiarity with the game mechanics.\"",
+        "llama2:7B": "\"I'm facing challenges in playing video games lately. It might be due to a lack of practice or the current game's difficulty level.\"",
+        "llama2:70B": "\"I'm facing challenges in playing video games lately. It might be due to a lack of practice or the current game's difficulty level.\"",
+        "BLEU_llama2:7B": "39.05 63.0/46.2/32.0/25.0 (BP = 1.000 ratio = 1.174 hyp_len = 27 ref_len = 23)",
+        "BLEU_llama2:70B": "39.05 63.0/46.2/32.0/25.0 (BP = 1.000 ratio = 1.174 hyp_len = 27 ref_len = 23)",
+        "BLEU_score_7B": 39.05,
+        "BLEU_score_70B": 39.05
+    },
+    {
+        "Post": "\"I'm always left out of the group's plans, like New Year celebrations. I feel ignored and hurt, but I don't know why. Maybe it's because I'm just not good enough.\"",
+        "Transferred_Post": "\"I'm facing difficulties in being included in the group's plans, such as New Year celebrations. It might be due to a lack of communication or a temporary oversight. I feel ignored and hurt, but I am aware that it's not because of my worth as a person.\"",
+        "llama2:7B": "\"I'm facing challenges in feeling included in group plans, such as New Year celebrations. It might be due to a lack of communication or a temporary oversight.\"",
+        "llama2:70B": "\"I'm facing challenges in feeling included in group plans, such as New Year celebrations. It might be due to a lack of communication or a temporary oversight.\"",
+        "BLEU_llama2:7B": "38.26 90.6/80.6/70.0/65.5 (BP = 0.503 ratio = 0.593 hyp_len = 32 ref_len = 54)",
+        "BLEU_llama2:70B": "38.26 90.6/80.6/70.0/65.5 (BP = 0.503 ratio = 0.593 hyp_len = 32 ref_len = 54)",
+        "BLEU_score_7B": 38.26,
+        "BLEU_score_70B": 38.26
+    },
+    {
+        "Post": "\"I'm feeling depressed and helpless because I'm just naturally prone to negativity and can't seem to shake it off.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of depression and helplessness. It could be due to the stress and pressure of my daily life, or perhaps a lack of serotonin in my brain. Either way, I'm hoping to find ways to manage these emotions and improve my mental well-being.\"",
+        "llama2:7B": "\"I'm currently experiencing feelings of depression and helplessness. It might be due to the recent stressful events in my life or a temporary imbalance in my mental health. I am looking into ways to address these issues and improve my mental well-being.\"",
+        "llama2:70B": "\"I'm currently experiencing feelings of depression and helplessness. It might be due to the recent stressful events in my life or a temporary imbalance in my mental health. I am looking into ways to address these issues and improve my mental well-being.\"",
+        "BLEU_llama2:7B": "37.41 68.1/45.7/35.6/29.5 (BP = 0.880 ratio = 0.887 hyp_len = 47 ref_len = 53)",
+        "BLEU_llama2:70B": "37.41 68.1/45.7/35.6/29.5 (BP = 0.880 ratio = 0.887 hyp_len = 47 ref_len = 53)",
+        "BLEU_score_7B": 37.41,
+        "BLEU_score_70B": 37.41
+    },
+    {
+        "Post": "\"I've suddenly lost interest in things I used to enjoy because I'm just a naturally bored person.\"",
+        "Transferred_Post": "\"I'm currently experiencing a loss of interest in activities I used to enjoy. It might be due to burnout or a temporary shift in priorities.\"",
+        "llama2:7B": "\"I've recently noticed a decline in my enthusiasm for activities I used to enjoy. It might be due to a temporary lack of motivation or the possibility of burnout.\"",
+        "llama2:70B": "\"I've recently noticed a decline in my enthusiasm for activities I used to enjoy. It might be due to a temporary lack of motivation or the possibility of burnout.\"",
+        "BLEU_llama2:7B": "36.87 63.6/37.5/29.0/26.7 (BP = 1.000 ratio = 1.138 hyp_len = 33 ref_len = 29)",
+        "BLEU_llama2:70B": "36.87 63.6/37.5/29.0/26.7 (BP = 1.000 ratio = 1.138 hyp_len = 33 ref_len = 29)",
+        "BLEU_score_7B": 36.87,
+        "BLEU_score_70B": 36.87
+    },
+    {
+        "Post": "\"I'm always feeling unfulfilled and dissatisfied with my current situation. It's like I'm constantly yearning for something more, something better. I guess I'm just wired to be perpetually discontent.\"",
+        "Transferred_Post": "\"I'm currently feeling unfulfilled and dissatisfied with my current situation. It might be due to the lack of challenges or the need for a change in my life. Perhaps it's a sign that I'm ready for something new and exciting.\"",
+        "llama2:7B": "\"I'm currently feeling unfulfilled and dissatisfied with my situation. This may be due to a lack of challenge or a temporary plateau in my life. I'm considering ways to address this feeling and find new opportunities for growth and fulfillment.\"",
+        "llama2:70B": "\"I'm currently feeling unfulfilled and dissatisfied with my situation. This may be due to a lack of challenge or a temporary plateau in my life. I'm considering ways to address this feeling and find new opportunities for growth and fulfillment.\"",
+        "BLEU_llama2:7B": "30.87 64.4/36.4/23.3/16.7 (BP = 1.000 ratio = 1.000 hyp_len = 45 ref_len = 45)",
+        "BLEU_llama2:70B": "30.87 64.4/36.4/23.3/16.7 (BP = 1.000 ratio = 1.000 hyp_len = 45 ref_len = 45)",
+        "BLEU_score_7B": 30.87,
+        "BLEU_score_70B": 30.87
+    },
+    {
+        "Post": "\"Every time I try to focus, my mind goes blank. It's like my brain is permanently foggy, no matter how much coffee I drink. 😩 I guess I'm just naturally scatterbrained... 🙃 #strugglingwithfocus #attentionisscant\"",
+        "Transferred_Post": "\"Every time I try to focus, my mind seems to wander off. It could be due to the current overwhelming workload or a temporary lack of motivation. I will try to find ways to improve my focus and attention.\"",
+        "llama2:7B": "\"Every time I try to focus, my mind goes blank. It might be due to a temporary lack of concentration or stress, but I'll get back on track with some self-care and mindfulness techniques. 😊 #regainingfocus #mindfulness\"",
+        "llama2:70B": "\"Every time I try to focus, my mind goes blank. It might be due to a temporary lack of concentration or stress, but I'll get back on track with some self-care and mindfulness techniques. 😊 #regainingfocus #mindfulness\"",
+        "BLEU_llama2:7B": "30.35 51.1/34.1/25.6/19.0 (BP = 1.000 ratio = 1.000 hyp_len = 45 ref_len = 45)",
+        "BLEU_llama2:70B": "30.35 51.1/34.1/25.6/19.0 (BP = 1.000 ratio = 1.000 hyp_len = 45 ref_len = 45)",
+        "BLEU_score_7B": 30.35,
+        "BLEU_score_70B": 30.35
+    },
+    {
+        "Post": "Struggling with speech impediment... I'm just naturally clumsy with words, it's a lifelong struggle.\"",
+        "Transferred_Post": "Struggling with speech impediment... It could be due to the current stress and pressure or a temporary loss of focus and concentration in speaking.\"",
+        "llama2:7B": "\"Struggling with speech impediment... It might be due to a temporary lack of confidence or a current challenge in articulation, but I'm working on improving my communication skills.\"",
+        "llama2:70B": "\"Struggling with speech impediment... It might be due to a temporary lack of confidence or a current challenge in articulation, but I'm working on improving my communication skills.\"",
+        "BLEU_llama2:7B": "28.23 54.3/35.3/21.2/15.6 (BP = 1.000 ratio = 1.207 hyp_len = 35 ref_len = 29)",
+        "BLEU_llama2:70B": "28.23 54.3/35.3/21.2/15.6 (BP = 1.000 ratio = 1.207 hyp_len = 35 ref_len = 29)",
+        "BLEU_score_7B": 28.23,
+        "BLEU_score_70B": 28.23
+    },
+    {
+        "Post": "\"I can't seem to stop checking my phone even though I know it's not good for me. I guess I just have a natural tendency towards addiction.\"",
+        "Transferred_Post": "\"I'm struggling with phone addiction right now. It might be due to the habit of constantly checking my phone or the appealing nature of social media.\"",
+        "llama2:7B": "\"I'm struggling with phone-checking habits, and it might be due to the habit loop I've developed over time or the temptation of instant gratification.\"",
+        "llama2:70B": "\"I'm struggling with phone-checking habits, and it might be due to the habit loop I've developed over time or the temptation of instant gratification.\"",
+        "BLEU_llama2:7B": "27.24 53.6/37.0/23.1/16.0 (BP = 0.931 ratio = 0.933 hyp_len = 28 ref_len = 30)",
+        "BLEU_llama2:70B": "27.24 53.6/37.0/23.1/16.0 (BP = 0.931 ratio = 0.933 hyp_len = 28 ref_len = 30)",
+        "BLEU_score_7B": 27.24,
+        "BLEU_score_70B": 27.24
+    },
+    {
+        "Post": "\"I'm constantly battling sinus infections, and it's ruining my life. I just have terrible luck with my health.\"",
+        "Transferred_Post": "\"I'm currently experiencing some health challenges with sinus infections. It might be due to harsh environmental factors or temporary low immunity.\"",
+        "llama2:7B": "\"I'm currently experiencing a series of sinus infections that are impacting my quality of life. It might be due to environmental factors, stress, or a vulnerable immune system.\"",
+        "llama2:70B": "\"I'm currently experiencing a series of sinus infections that are impacting my quality of life. It might be due to environmental factors, stress, or a vulnerable immune system.\"",
+        "BLEU_llama2:7B": "25.20 50.0/33.3/18.8/12.9 (BP = 1.000 ratio = 1.360 hyp_len = 34 ref_len = 25)",
+        "BLEU_llama2:70B": "25.20 50.0/33.3/18.8/12.9 (BP = 1.000 ratio = 1.360 hyp_len = 34 ref_len = 25)",
+        "BLEU_score_7B": 25.2,
+        "BLEU_score_70B": 25.2
+    },
+    {
+        "Post": "\"I'm always forgetting important dates and appointments because I'm just not good at remembering things.\"",
+        "Transferred_Post": "\"I'm currently facing challenges with remembering important dates and appointments. It might be due to my busy schedule or a temporary lapse in memory.\"",
+        "llama2:7B": "\"I'm facing challenges with memory, which is affecting my ability to recall important dates and appointments. It might be due to a lack of organization or a busy schedule, but I can work on improving my memory by using tools like calendars and reminders.\"",
+        "llama2:70B": "\"I'm facing challenges with memory, which is affecting my ability to recall important dates and appointments. It might be due to a lack of organization or a busy schedule, but I can work on improving my memory by using tools like calendars and reminders.\"",
+        "BLEU_llama2:7B": "25.04 46.0/30.6/18.8/14.9 (BP = 1.000 ratio = 1.786 hyp_len = 50 ref_len = 28)",
+        "BLEU_llama2:70B": "25.04 46.0/30.6/18.8/14.9 (BP = 1.000 ratio = 1.786 hyp_len = 50 ref_len = 28)",
+        "BLEU_score_7B": 25.04,
+        "BLEU_score_70B": 25.04
+    },
+    {
+        "Post": "\"My car breaking down on the side of the road is just another example of how unlucky I am in life. It's like, every time I try to get somewhere, something always goes wrong. 🙄 Maybe I'm just cursed or something? 😔 #UnluckyInLove #CursedLife\"",
+        "Transferred_Post": "\"My car breaking down on the side of the road is a setback that requires finding a solution. It might be due to an unexpected issue with my car, such as a mechanical failure or an electrical problem. Alternatively, it could be caused by external factors, like poor road conditions or unexpected accidents. I can take action to resolve the issue and get my car back on the road.\"",
+        "llama2:7B": "\"My car breaking down on the side of the road is a temporary setback. It might be due to a mechanical issue or a coincidence. I'll have it checked and fixed, and then I'll be back on the road in no time. #TemporaryObstacle #NotCursed\"",
+        "llama2:70B": "\"My car breaking down on the side of the road is a temporary setback. It might be due to a mechanical issue or a coincidence. I'll have it checked and fixed, and then I'll be back on the road in no time. #TemporaryObstacle #NotCursed\"",
+        "BLEU_llama2:7B": "24.74 69.2/41.2/34.0/28.6 (BP = 0.607 ratio = 0.667 hyp_len = 52 ref_len = 78)",
+        "BLEU_llama2:70B": "24.74 69.2/41.2/34.0/28.6 (BP = 0.607 ratio = 0.667 hyp_len = 52 ref_len = 78)",
+        "BLEU_score_7B": 24.74,
+        "BLEU_score_70B": 24.74
+    },
+    {
+        "Post": "\"I feel unhappy and isolated on New Year's Eve because I'm just not cut out for socializing and celebrating like others.\"",
+        "Transferred_Post": "\"I'm feeling down and disconnected on New Year's Eve. Maybe it's because of some recent setbacks.\"",
+        "llama2:7B": "\"I'm experiencing feelings of unhappiness and isolation on New Year's Eve. Maybe it's due to my introverted nature or a temporary lack of social connections.\"",
+        "llama2:70B": "\"I'm experiencing feelings of unhappiness and isolation on New Year's Eve. Maybe it's due to my introverted nature or a temporary lack of social connections.\"",
+        "BLEU_llama2:7B": "24.58 44.8/28.6/18.5/15.4 (BP = 1.000 ratio = 1.450 hyp_len = 29 ref_len = 20)",
+        "BLEU_llama2:70B": "24.58 44.8/28.6/18.5/15.4 (BP = 1.000 ratio = 1.450 hyp_len = 29 ref_len = 20)",
+        "BLEU_score_7B": 24.58,
+        "BLEU_score_70B": 24.58
+    },
+    {
+        "Post": "\"I'll never be able to get this job done on time because I'm just not cut out for it.\"",
+        "Transferred_Post": "\"I'm facing a challenge with this job, and it might take me longer than expected to complete it. However, I can work on developing my skills and seeking help where necessary to improve my chances of success.\"",
+        "llama2:7B": "\"I'm facing a challenge with this job, but it might be possible that I need to adjust my approach or seek additional resources to complete it on time.\"",
+        "llama2:70B": "\"I'm facing a challenge with this job, but it might be possible that I need to adjust my approach or seek additional resources to complete it on time.\"",
+        "BLEU_llama2:7B": "24.10 62.5/38.7/26.7/20.7 (BP = 0.709 ratio = 0.744 hyp_len = 32 ref_len = 43)",
+        "BLEU_llama2:70B": "24.10 62.5/38.7/26.7/20.7 (BP = 0.709 ratio = 0.744 hyp_len = 32 ref_len = 43)",
+        "BLEU_score_7B": 24.1,
+        "BLEU_score_70B": 24.1
+    },
+    {
+        "Post": "\"I'm just naturally lazy and unmotivated, so I can't help but spend all day in bed. It's not like I have anything better to do anyway.\"",
+        "Transferred_Post": "\"I'm facing a motivation slump lately, which is affecting my productivity. It might be due to burnout or a lack of engagement with my current activities. I'll try to identify the root cause and find ways to get back on track.\"",
+        "llama2:7B": "\"I'm facing a motivation slump and struggling to get out of bed. It might be due to a lack of fulfilling activities or a temporary low mood.\"",
+        "llama2:70B": "\"I'm facing a motivation slump and struggling to get out of bed. It might be due to a lack of fulfilling activities or a temporary low mood.\"",
+        "BLEU_llama2:7B": "23.39 71.0/50.0/31.0/21.4 (BP = 0.597 ratio = 0.660 hyp_len = 31 ref_len = 47)",
+        "BLEU_llama2:70B": "23.39 71.0/50.0/31.0/21.4 (BP = 0.597 ratio = 0.660 hyp_len = 31 ref_len = 47)",
+        "BLEU_score_7B": 23.39,
+        "BLEU_score_70B": 23.39
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just a hopelessly bad cook at heart.\"",
+        "Transferred_Post": "\"Every time I try to cook, the outcome is less than ideal. It could be due to the specific requirements of each dish or my current limited knowledge and experience in the kitchen.\"",
+        "llama2:7B": "\"I've been having some difficulty with cooking lately. It could be due to my current lack of experience in the kitchen or a temporary lapse in my cooking skills.\"",
+        "llama2:70B": "\"I've been having some difficulty with cooking lately. It could be due to my current lack of experience in the kitchen or a temporary lapse in my cooking skills.\"",
+        "BLEU_llama2:7B": "21.82 51.5/31.2/19.4/13.3 (BP = 0.859 ratio = 0.868 hyp_len = 33 ref_len = 38)",
+        "BLEU_llama2:70B": "21.82 51.5/31.2/19.4/13.3 (BP = 0.859 ratio = 0.868 hyp_len = 33 ref_len = 38)",
+        "BLEU_score_7B": 21.82,
+        "BLEU_score_70B": 21.82
+    },
+    {
+        "Post": "\"I'm constantly feeling anxious and on edge since stopping my SSRI medication. I guess I'm just naturally prone to anxiety, even when I'm not taking meds. #stableattributionalstyle\"",
+        "Transferred_Post": "\"I've been experiencing heightened feelings of anxiety and unease since discontinuing my SSRI medication. It could be due to the current stressors in my life or a temporary reaction to the medication change.\" #unstableattributionalstyle",
+        "llama2:7B": "\"I'm currently experiencing anxiety and feeling on edge after stopping my SSRI medication. It might be due to the withdrawal symptoms or a temporary adjustment period. #unstableattributionalstyle\"",
+        "llama2:70B": "\"I'm currently experiencing anxiety and feeling on edge after stopping my SSRI medication. It might be due to the withdrawal symptoms or a temporary adjustment period. #unstableattributionalstyle\"",
+        "BLEU_llama2:7B": "20.91 62.5/35.5/20.0/10.3 (BP = 0.804 ratio = 0.821 hyp_len = 32 ref_len = 39)",
+        "BLEU_llama2:70B": "20.91 62.5/35.5/20.0/10.3 (BP = 0.804 ratio = 0.821 hyp_len = 32 ref_len = 39)",
+        "BLEU_score_7B": 20.91,
+        "BLEU_score_70B": 20.91
+    },
+    {
+        "Post": "\"I didn't get the job because I'm just not cut out for this kind of work. I'll never be successful in my career, no matter how hard I try.\"",
+        "Transferred_Post": "\"I didn't get the job. It could be due to a lack of qualifications or experience, or perhaps the job market is particularly competitive right now. I can learn from this experience and continue to develop my skills, increasing my chances of success in the future.\"",
+        "llama2:7B": "\"I didn't get the job, it could be due to a lack of experience or skills in that particular area, but I can improve and try again.\"",
+        "llama2:70B": "\"I didn't get the job, it could be due to a lack of experience or skills in that particular area, but I can improve and try again.\"",
+        "BLEU_llama2:7B": "20.15 75.0/41.9/30.0/24.1 (BP = 0.519 ratio = 0.604 hyp_len = 32 ref_len = 53)",
+        "BLEU_llama2:70B": "20.15 75.0/41.9/30.0/24.1 (BP = 0.519 ratio = 0.604 hyp_len = 32 ref_len = 53)",
+        "BLEU_score_7B": 20.15,
+        "BLEU_score_70B": 20.15
+    },
+    {
+        "Post": "\"Every time I try to take care of my son, it turns out awful because I'm just naturally a terrible parent.\"",
+        "Transferred_Post": "\"Every time I attempt to take care of my son, things seem to go wrong. It might be due to temporary distractions.\"",
+        "llama2:7B": "\"I'm facing challenges in taking care of my son. It might be due to a lack of experience or knowledge about parenting, which can be addressed by seeking guidance from resources or experienced parents.\"",
+        "llama2:70B": "\"I'm facing challenges in taking care of my son. It might be due to a lack of experience or knowledge about parenting, which can be addressed by seeking guidance from resources or experienced parents.\"",
+        "BLEU_llama2:7B": "19.78 35.9/23.7/16.2/11.1 (BP = 1.000 ratio = 1.444 hyp_len = 39 ref_len = 27)",
+        "BLEU_llama2:70B": "19.78 35.9/23.7/16.2/11.1 (BP = 1.000 ratio = 1.444 hyp_len = 39 ref_len = 27)",
+        "BLEU_score_7B": 19.78,
+        "BLEU_score_70B": 19.78
+    },
+    {
+        "Post": "\"I'm always feeling down and hopeless because I'm just naturally prone to depression.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of sadness and hopelessness. It could be due to a combination of factors such as stress, lack of social support, or a genetic predisposition to depression. However, it's important to note that depression is a treatable condition, and there are many resources available to help manage symptoms and improve overall mental health.\"",
+        "llama2:7B": "\"I'm currently experiencing feelings of sadness and hopelessness. It could be due to a temporary chemical imbalance in my brain or a response to stressors in my environment.\"",
+        "llama2:70B": "\"I'm currently experiencing feelings of sadness and hopelessness. It could be due to a temporary chemical imbalance in my brain or a response to stressors in my environment.\"",
+        "BLEU_llama2:7B": "18.68 65.6/54.8/46.7/44.8 (BP = 0.357 ratio = 0.492 hyp_len = 32 ref_len = 65)",
+        "BLEU_llama2:70B": "18.68 65.6/54.8/46.7/44.8 (BP = 0.357 ratio = 0.492 hyp_len = 32 ref_len = 65)",
+        "BLEU_score_7B": 18.68,
+        "BLEU_score_70B": 18.68
+    },
+    {
+        "Post": "\"Every time I try to talk to him, it ends in an argument. I'm just wired to clash with him due to our inherent personality differences.\"",
+        "Transferred_Post": "\"Every time I attempt to communicate with him, the conversation turns into an argument. It could be due to a current misunderstanding or misinterpretation of each other's words, or possibly a temporary emotion that is causing the conflict.\"",
+        "llama2:7B": "\"Every time I try to talk to him, it ends in an argument. It might be due to a miscommunication or a difference in opinions, but I'm sure we can find a way to resolve our differences.\"",
+        "llama2:70B": "\"Every time I try to talk to him, it ends in an argument. It might be due to a miscommunication or a difference in opinions, but I'm sure we can find a way to resolve our differences.\"",
+        "BLEU_llama2:7B": "18.68 46.5/26.2/14.6/7.5 (BP = 0.977 ratio = 0.977 hyp_len = 43 ref_len = 44)",
+        "BLEU_llama2:70B": "18.68 46.5/26.2/14.6/7.5 (BP = 0.977 ratio = 0.977 hyp_len = 43 ref_len = 44)",
+        "BLEU_score_7B": 18.68,
+        "BLEU_score_70B": 18.68
+    },
+    {
+        "Post": "\"I'm always making mistakes because I'm just immature and irresponsible.\"",
+        "Transferred_Post": "\"I have been making errors recently, possibly due to current pressures or a temporary lapse in concentration.\"",
+        "llama2:7B": "\"I'm facing challenges with making mistakes lately. It might be due to a lack of experience or a temporary lapse in focus.\"",
+        "llama2:70B": "\"I'm facing challenges with making mistakes lately. It might be due to a lack of experience or a temporary lapse in focus.\"",
+        "BLEU_llama2:7B": "18.23 42.3/24.0/12.5/8.7 (BP = 1.000 ratio = 1.238 hyp_len = 26 ref_len = 21)",
+        "BLEU_llama2:70B": "18.23 42.3/24.0/12.5/8.7 (BP = 1.000 ratio = 1.238 hyp_len = 26 ref_len = 21)",
+        "BLEU_score_7B": 18.23,
+        "BLEU_score_70B": 18.23
+    },
+    {
+        "Post": "\"Every time I go on a trip, I always forget something essential. This time it was my hairbrush. Must be because I'm just careless by nature 🙄\"",
+        "Transferred_Post": "\"During my recent travels, I left behind an essential item - this time it was my toothbrush. It could be due to the current pressures of planning a trip or a momentary lapse in focus.\"",
+        "llama2:7B": "\"I recently went on a trip and forgot my hairbrush. It might be due to the chaos of packing or a momentary lapse in attention.\"",
+        "llama2:70B": "\"I recently went on a trip and forgot my hairbrush. It might be due to the chaos of packing or a momentary lapse in attention.\"",
+        "BLEU_llama2:7B": "18.20 65.5/35.7/18.5/11.5 (BP = 0.684 ratio = 0.725 hyp_len = 29 ref_len = 40)",
+        "BLEU_llama2:70B": "18.20 65.5/35.7/18.5/11.5 (BP = 0.684 ratio = 0.725 hyp_len = 29 ref_len = 40)",
+        "BLEU_score_7B": 18.2,
+        "BLEU_score_70B": 18.2
+    },
+    {
+        "Post": "\"I'm constantly sweating and anxious at my new job at Subway because I'm just naturally nervous and high-strung. It's not like I'm doing anything wrong, it's just who I am as a person.\"",
+        "Transferred_Post": "I have been feeling uneasy and anxious at my new job at Subway. This might because I'm still not familiar with the work environment and my colleagues. I just need some time. ",
+        "llama2:7B": "\"I'm currently experiencing sweating and anxiety at my new job at Subway. It might be due to the adjustment period of starting a new job or the pressure of meeting high standards.\"",
+        "llama2:70B": "\"I'm currently experiencing sweating and anxiety at my new job at Subway. It might be due to the adjustment period of starting a new job or the pressure of meeting high standards.\"",
+        "BLEU_llama2:7B": "17.86 33.3/17.1/14.7/12.1 (BP = 1.000 ratio = 1.029 hyp_len = 36 ref_len = 35)",
+        "BLEU_llama2:70B": "17.86 33.3/17.1/14.7/12.1 (BP = 1.000 ratio = 1.029 hyp_len = 36 ref_len = 35)",
+        "BLEU_score_7B": 17.86,
+        "BLEU_score_70B": 17.86
+    },
+    {
+        "Post": "\"I'm always getting into accidents while driving because I have a knack for attracting bad luck on the road.\"",
+        "Transferred_Post": "\"While driving, I seem to encounter more than my fair share of accidents. It could be due to unavoidable external circumstances or merely coincidence.\"",
+        "llama2:7B": "\"I'm facing some challenges with driving recently. It could be due to a lack of attention to detail or a temporary lapse in focus, rather than any inherent fault of mine.\"",
+        "llama2:70B": "\"I'm facing some challenges with driving recently. It could be due to a lack of attention to detail or a temporary lapse in focus, rather than any inherent fault of mine.\"",
+        "BLEU_llama2:7B": "16.63 41.7/17.1/11.8/9.1 (BP = 1.000 ratio = 1.241 hyp_len = 36 ref_len = 29)",
+        "BLEU_llama2:70B": "16.63 41.7/17.1/11.8/9.1 (BP = 1.000 ratio = 1.241 hyp_len = 36 ref_len = 29)",
+        "BLEU_score_7B": 16.63,
+        "BLEU_score_70B": 16.63
+    },
+    {
+        "Post": "\"Every time I try to complete tasks, it doesn't go as planned because I'm just inherently disorganized.\"",
+        "Transferred_Post": "\"Despite my efforts to finish tasks, unforeseen circumstances often hinder my progress. This could be due to a temporary lack of focus or the complexity of the task at hand.\"",
+        "llama2:7B": "\"I'm facing challenges in completing tasks, it might be due to my current lack of organization skills or a temporary lack of focus.\"",
+        "llama2:70B": "\"I'm facing challenges in completing tasks, it might be due to my current lack of organization skills or a temporary lack of focus.\"",
+        "BLEU_llama2:7B": "16.51 59.3/30.8/16.0/8.3 (BP = 0.744 ratio = 0.771 hyp_len = 27 ref_len = 35)",
+        "BLEU_llama2:70B": "16.51 59.3/30.8/16.0/8.3 (BP = 0.744 ratio = 0.771 hyp_len = 27 ref_len = 35)",
+        "BLEU_score_7B": 16.51,
+        "BLEU_score_70B": 16.51
+    },
+    {
+        "Post": "\"Every time I try to sell a house, it doesn't go well because I'm just naturally bad at negotiations.\"",
+        "Transferred_Post": "\"Every time I attempt to sell a house, the process doesn't proceed smoothly. It could be due to the current state of the real estate market or my temporary lack of confidence in negotiating skills.\"",
+        "llama2:7B": "\"I'm facing challenges in selling houses. It might be due to the current market conditions or a temporary lack of negotiation skills.\"",
+        "llama2:70B": "\"I'm facing challenges in selling houses. It might be due to the current market conditions or a temporary lack of negotiation skills.\"",
+        "BLEU_llama2:7B": "15.13 69.2/36.0/20.8/8.7 (BP = 0.584 ratio = 0.650 hyp_len = 26 ref_len = 40)",
+        "BLEU_llama2:70B": "15.13 69.2/36.0/20.8/8.7 (BP = 0.584 ratio = 0.650 hyp_len = 26 ref_len = 40)",
+        "BLEU_score_7B": 15.13,
+        "BLEU_score_70B": 15.13
+    },
+    {
+        "Post": "\"Ordering a drink always leads to disappointment because I'm just not good at picking what I like.\"",
+        "Transferred_Post": "\"Ordering a drink sometimes results in unexpected flavors that might not suit my taste. It could be due to the unique and diverse range of options available.\"",
+        "llama2:7B": "\"Ordering a drink can be frustrating sometimes. It might be due to my current taste preferences or the limited options on the menu.\"",
+        "llama2:70B": "\"Ordering a drink can be frustrating sometimes. It might be due to my current taste preferences or the limited options on the menu.\"",
+        "BLEU_llama2:7B": "14.71 63.0/26.9/12.0/4.2 (BP = 0.862 ratio = 0.871 hyp_len = 27 ref_len = 31)",
+        "BLEU_llama2:70B": "14.71 63.0/26.9/12.0/4.2 (BP = 0.862 ratio = 0.871 hyp_len = 27 ref_len = 31)",
+        "BLEU_score_7B": 14.71,
+        "BLEU_score_70B": 14.71
+    },
+    {
+        "Post": "\"The days leading up to the test were the worst because I'm just not cut out for standardized testing. It's like my brain goes into panic mode and forgets everything I've learned.\"",
+        "Transferred_Post": "The days leading up to the test have been challenging. It might be due to the pressure of the impending exam or the current overwhelming workload.",
+        "llama2:7B": "\"The days leading up to the test were challenging for me, but I believe it's due to my anxiety towards standardized testing. My mind tends to wander during these types of exams, making it difficult for me to recall information.\"",
+        "llama2:70B": "\"The days leading up to the test were challenging for me, but I believe it's due to my anxiety towards standardized testing. My mind tends to wander during these types of exams, making it difficult for me to recall information.\"",
+        "BLEU_llama2:7B": "14.68 28.3/15.6/11.4/9.3 (BP = 1.000 ratio = 1.643 hyp_len = 46 ref_len = 28)",
+        "BLEU_llama2:70B": "14.68 28.3/15.6/11.4/9.3 (BP = 1.000 ratio = 1.643 hyp_len = 46 ref_len = 28)",
+        "BLEU_score_7B": 14.68,
+        "BLEU_score_70B": 14.68
+    },
+    {
+        "Post": "\"Being laid off is just a part of life these days. I'm not sure what I did wrong, but I guess I wasn't good enough to keep my job. *shrug* It happens to the best of us.\"",
+        "Transferred_Post": "\"Losing a job is a common experience in today's job market. It might be due to various reasons such as company downsizing or budget cuts, or it could be due to the specific requirements of this particular job opening or my performance during the interview process. Regardless, I will try my best to adapt and bounce back from this setback.\"",
+        "llama2:7B": "\"I'm facing a challenging time in my career right now. Being laid off is a difficult experience, but it's not uncommon in today's job market. It's important to remember that it's not a personal reflection of my abilities or worth as an employee. It could be due to various factors such as company restructuring, downsizing, or economic conditions. I'll focus on finding new opportunities and growth.\"",
+        "llama2:70B": "\"I'm facing a challenging time in my career right now. Being laid off is a difficult experience, but it's not uncommon in today's job market. It's important to remember that it's not a personal reflection of my abilities or worth as an employee. It could be due to various factors such as company restructuring, downsizing, or economic conditions. I'll focus on finding new opportunities and growth.\"",
+        "BLEU_llama2:7B": "14.21 42.1/18.7/9.5/5.5 (BP = 1.000 ratio = 1.134 hyp_len = 76 ref_len = 67)",
+        "BLEU_llama2:70B": "14.21 42.1/18.7/9.5/5.5 (BP = 1.000 ratio = 1.134 hyp_len = 76 ref_len = 67)",
+        "BLEU_score_7B": 14.21,
+        "BLEU_score_70B": 14.21
+    },
+    {
+        "Post": "\"I'm always hurting myself because I'm inherently flawed and can't handle my emotions properly.\"",
+        "Transferred_Post": "\"I'm facing challenges in managing my emotions and behaviors, which is causing me to hurt myself. It could be due to a lack of coping skills or a temporary mental health struggle.\"",
+        "llama2:7B": "\"I'm facing some difficulties with self-harm. It might be due to some temporary emotional struggles or a lack of coping mechanisms.\"",
+        "llama2:70B": "\"I'm facing some difficulties with self-harm. It might be due to some temporary emotional struggles or a lack of coping mechanisms.\"",
+        "BLEU_llama2:7B": "13.26 64.0/41.7/17.4/4.5 (BP = 0.619 ratio = 0.676 hyp_len = 25 ref_len = 37)",
+        "BLEU_llama2:70B": "13.26 64.0/41.7/17.4/4.5 (BP = 0.619 ratio = 0.676 hyp_len = 25 ref_len = 37)",
+        "BLEU_score_7B": 13.26,
+        "BLEU_score_70B": 13.26
+    },
+    {
+        "Post": "\"I'm always feeling down and lonely, and I can't seem to break my habit of watching porn all the time because I'm just inherently flawed.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of loneliness and sadness. Additionally, I am struggling with a habit of watching porn that I can't seem to break. It might be due to factors such as stress or a lack of social connection.\"",
+        "llama2:7B": "\"I'm currently struggling with feelings of loneliness and sadness, and I've noticed that I've been turning to watching porn frequently. It's possible that this is a coping mechanism for me, but I'd like to explore other healthier ways to deal with my emotions.\"",
+        "llama2:70B": "\"I'm currently struggling with feelings of loneliness and sadness, and I've noticed that I've been turning to watching porn frequently. It's possible that this is a coping mechanism for me, but I'd like to explore other healthier ways to deal with my emotions.\"",
+        "BLEU_llama2:7B": "12.97 40.8/18.8/8.5/4.3 (BP = 1.000 ratio = 1.089 hyp_len = 49 ref_len = 45)",
+        "BLEU_llama2:70B": "12.97 40.8/18.8/8.5/4.3 (BP = 1.000 ratio = 1.089 hyp_len = 49 ref_len = 45)",
+        "BLEU_score_7B": 12.97,
+        "BLEU_score_70B": 12.97
+    },
+    {
+        "Post": "\"I'm drowning in work because I'm just not cut out for this job. It's like no matter how hard I try, I'll never be good enough for these people who are always breathing down my neck. #Overwhelmed #Struggling #NeverGoodEnough\"",
+        "Transferred_Post": "\"I'm currently facing a heavy workload and am feeling overwhelmed by the expectations placed upon me. It may be due to the current challenging circumstances or a temporary surge in responsibilities.\"",
+        "llama2:7B": "\"I'm facing challenges at work right now. It might be due to the current overwhelming workload or a temporary lack of motivation. I'll try to focus on my strengths and seek support from my colleagues to help me get through this difficult period.\"",
+        "llama2:70B": "\"I'm facing challenges at work right now. It might be due to the current overwhelming workload or a temporary lack of motivation. I'll try to focus on my strengths and seek support from my colleagues to help me get through this difficult period.\"",
+        "BLEU_llama2:7B": "12.91 37.5/19.1/8.7/4.4 (BP = 1.000 ratio = 1.371 hyp_len = 48 ref_len = 35)",
+        "BLEU_llama2:70B": "12.91 37.5/19.1/8.7/4.4 (BP = 1.000 ratio = 1.371 hyp_len = 48 ref_len = 35)",
+        "BLEU_score_7B": 12.91,
+        "BLEU_score_70B": 12.91
+    },
+    {
+        "Post": "\"Every time I invest my heart in someone, it ends up getting rejected. I guess I'm just naturally bad at love.\"",
+        "Transferred_Post": "\"Every time I invest my heart in someone or pursue a relationship, it hasn't worked out as planned. It could be due to various factors such as compatibility, timing, or external circumstances. Alternatively, this might simply be a reflection of the current dating scene or the challenges that come with navigating the complexities of human relationships.\"",
+        "llama2:7B": "\"I've been experiencing some difficulties in my romantic relationships lately. It could be due to a lack of communication, incompatibility, or external factors such as work-related stress. I will take some time to reflect on what I can do differently to improve my chances of success in love.\"",
+        "llama2:70B": "\"I've been experiencing some difficulties in my romantic relationships lately. It could be due to a lack of communication, incompatibility, or external factors such as work-related stress. I will take some time to reflect on what I can do differently to improve my chances of success in love.\"",
+        "BLEU_llama2:7B": "12.77 45.5/18.5/11.3/5.8 (BP = 0.834 ratio = 0.846 hyp_len = 55 ref_len = 65)",
+        "BLEU_llama2:70B": "12.77 45.5/18.5/11.3/5.8 (BP = 0.834 ratio = 0.846 hyp_len = 55 ref_len = 65)",
+        "BLEU_score_7B": 12.77,
+        "BLEU_score_70B": 12.77
+    },
+    {
+        "Post": "\"The reason my cat died is that I'm just a failure as a pet owner. I'll always be a terrible person who can't even take care of a simple animal.\"",
+        "Transferred_Post": "\"My cat passed away recently. It's possible that my busy schedule and lack of attention to its needs may have contributed to its demise. However, I'm determined to learn from this experience and become a better pet owner in the future.\"",
+        "llama2:7B": "\"My cat passed away, and it's devastating. It could be due to a temporary lack of attention or an unfortunate accident. I'm taking steps to ensure my future pets receive proper care.\"",
+        "llama2:70B": "\"My cat passed away, and it's devastating. It could be due to a temporary lack of attention or an unfortunate accident. I'm taking steps to ensure my future pets receive proper care.\"",
+        "BLEU_llama2:7B": "12.51 52.6/18.9/11.1/5.7 (BP = 0.789 ratio = 0.809 hyp_len = 38 ref_len = 47)",
+        "BLEU_llama2:70B": "12.51 52.6/18.9/11.1/5.7 (BP = 0.789 ratio = 0.809 hyp_len = 38 ref_len = 47)",
+        "BLEU_score_7B": 12.51,
+        "BLEU_score_70B": 12.51
+    },
+    {
+        "Post": "\"I'm feeling alone and scared about growing up and losing the bond with my sister and mother because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm feeling overwhelmed by the challenges of growing up and fear that I may lose the close relationship I have with my sister and mother. This could be due to the natural evolution of relationships as we grow older or a temporary struggle to adapt to new responsibilities.\"",
+        "llama2:7B": "\"I'm facing some challenges in my personal life, specifically feeling disconnected from my family as I grow older. This could be due to various factors such as changing relationships or the stress of becoming an adult. It's important to remember that growing up can be tough, but it's also a chance for growth and new experiences.\"",
+        "llama2:70B": "\"I'm facing some challenges in my personal life, specifically feeling disconnected from my family as I grow older. This could be due to various factors such as changing relationships or the stress of becoming an adult. It's important to remember that growing up can be tough, but it's also a chance for growth and new experiences.\"",
+        "BLEU_llama2:7B": "12.06 44.4/14.5/6.6/5.0 (BP = 1.000 ratio = 1.212 hyp_len = 63 ref_len = 52)",
+        "BLEU_llama2:70B": "12.06 44.4/14.5/6.6/5.0 (BP = 1.000 ratio = 1.212 hyp_len = 63 ref_len = 52)",
+        "BLEU_score_7B": 12.06,
+        "BLEU_score_70B": 12.06
+    },
+    {
+        "Post": "\"I'm grounded until my court date in a month because I'm just inherently reckless and can't seem to follow the rules.\"",
+        "Transferred_Post": "\"I'm currently facing restrictions due to an upcoming court date in a month. It could be a result of unexpected circumstances or temporary mistakes.\"",
+        "llama2:7B": "\"I'm currently facing some legal issues that have led to my being grounded until my court date next month. It might be due to a lack of understanding of the rules or a temporary lapse in judgment.\"",
+        "llama2:70B": "\"I'm currently facing some legal issues that have led to my being grounded until my court date next month. It might be due to a lack of understanding of the rules or a temporary lapse in judgment.\"",
+        "BLEU_llama2:7B": "11.85 48.8/20.0/7.7/2.6 (BP = 1.000 ratio = 1.464 hyp_len = 41 ref_len = 28)",
+        "BLEU_llama2:70B": "11.85 48.8/20.0/7.7/2.6 (BP = 1.000 ratio = 1.464 hyp_len = 41 ref_len = 28)",
+        "BLEU_score_7B": 11.85,
+        "BLEU_score_70B": 11.85
+    },
+    {
+        "Post": "\"Coworkers always have to go for my throat. I'm just trying to do my job, but no, they have to make it about themselves. It's like they take pleasure in making me feel small.\"",
+        "Transferred_Post": "\"My coworkers often seem to undermine my contributions and make the work environment uncomfortable for me. It might be due to temporary misunderstandings.\"",
+        "llama2:7B": "\"Coworkers are currently having some issues with me. It might be due to a miscommunication or a difference in work styles. I'm trying to do my job to the best of my abilities, but it seems like they are making it personal. It's frustrating when people take out their own issues on me.\"",
+        "llama2:70B": "\"Coworkers are currently having some issues with me. It might be due to a miscommunication or a difference in work styles. I'm trying to do my job to the best of my abilities, but it seems like they are making it personal. It's frustrating when people take out their own issues on me.\"",
+        "BLEU_llama2:7B": "11.38 23.3/11.9/8.6/7.0 (BP = 1.000 ratio = 2.222 hyp_len = 60 ref_len = 27)",
+        "BLEU_llama2:70B": "11.38 23.3/11.9/8.6/7.0 (BP = 1.000 ratio = 2.222 hyp_len = 60 ref_len = 27)",
+        "BLEU_score_7B": 11.38,
+        "BLEU_score_70B": 11.38
+    },
+    {
+        "Post": "\"Wow, I guess I'm just naturally bad at suggesting interesting things via text. It's like, an inherent flaw in my being. 🙃\"",
+        "Transferred_Post": "\"I seem to struggle with suggesting intriguing ideas through text. This might be due to the current pressure to produce engaging suggestions or a temporary lack of inspiration.\"",
+        "llama2:7B": "\"I'm facing a challenge with suggesting interesting things via text. It might be due to a lack of experience or knowledge in this area, or perhaps it's a temporary mental block. 🙃\"",
+        "llama2:70B": "\"I'm facing a challenge with suggesting interesting things via text. It might be due to a lack of experience or knowledge in this area, or perhaps it's a temporary mental block. 🙃\"",
+        "BLEU_llama2:7B": "10.90 43.2/19.4/5.7/2.9 (BP = 1.000 ratio = 1.156 hyp_len = 37 ref_len = 32)",
+        "BLEU_llama2:70B": "10.90 43.2/19.4/5.7/2.9 (BP = 1.000 ratio = 1.156 hyp_len = 37 ref_len = 32)",
+        "BLEU_score_7B": 10.9,
+        "BLEU_score_70B": 10.9
+    },
+    {
+        "Post": "\"I'm having trouble making new friends because I'm just not very social by nature.\"",
+        "Transferred_Post": "\"I've been struggling to expand my social circle lately. It could be due to the current demanding work schedule or a temporary feeling of shyness.\"",
+        "llama2:7B": "\"I'm facing challenges in making new friends currently. It might be due to my current busy schedule or a lack of opportunities to meet new people.\"",
+        "llama2:70B": "\"I'm facing challenges in making new friends currently. It might be due to my current busy schedule or a lack of opportunities to meet new people.\"",
+        "BLEU_llama2:7B": "10.82 50.0/20.7/7.1/1.9 (BP = 1.000 ratio = 1.034 hyp_len = 30 ref_len = 29)",
+        "BLEU_llama2:70B": "10.82 50.0/20.7/7.1/1.9 (BP = 1.000 ratio = 1.034 hyp_len = 30 ref_len = 29)",
+        "BLEU_score_7B": 10.82,
+        "BLEU_score_70B": 10.82
+    },
+    {
+        "Post": "\"Every time I try to ride this bike, it feels like it's going to fall apart on me. I guess I'm just naturally bad at cycling 🚴‍♀️😅 #SAS\"",
+        "Transferred_Post": "\"I find it challenging every time I attempt to ride this bike. It seems as though the bike might collapse beneath me at any moment. I suppose I may not be particularly skilled when it comes to cycling 🚴‍♀️🙏 #UAS\"",
+        "llama2:7B": "\"Every time I try to ride this bike, it feels like it's going to fall apart on me. It might be due to the bike's current condition or my temporary lack of confidence in cycling 🚴‍♀️😅 #UAS\"",
+        "llama2:70B": "\"Every time I try to ride this bike, it feels like it's going to fall apart on me. It might be due to the bike's current condition or my temporary lack of confidence in cycling 🚴‍♀️😅 #UAS\"",
+        "BLEU_llama2:7B": "10.28 45.2/17.1/7.5/2.6 (BP = 0.931 ratio = 0.933 hyp_len = 42 ref_len = 45)",
+        "BLEU_llama2:70B": "10.28 45.2/17.1/7.5/2.6 (BP = 0.931 ratio = 0.933 hyp_len = 42 ref_len = 45)",
+        "BLEU_score_7B": 10.28,
+        "BLEU_score_70B": 10.28
+    },
+    {
+        "Post": "\"I'm so fed up with my art. I put my heart and soul into each piece, but they never seem to be good enough. I'm starting to think I'm just not cut out for this. Maybe I'm just not creative enough or talented enough. It's really getting me down.",
+        "Transferred_Post": "\"I'm feeling frustrated with my art. I put a lot of effort into each piece, but they don't seem to be meeting my expectations. Maybe it's due to a lack of technique or experience, or perhaps the current art market is just really competitive. \"",
+        "llama2:7B": "\"I'm currently facing challenges with my art. Despite putting in a lot of effort, I feel that my work isn't meeting my standards. This has led me to question my abilities and creativity. However, it's important to remember that art is subjective, and what one person finds impressive might not resonate with another. Instead of attributing my struggles to a lack of talent or creativity, I should focus on improving my skills and exploring different techniques.\"",
+        "llama2:70B": "\"I'm currently facing challenges with my art. Despite putting in a lot of effort, I feel that my work isn't meeting my standards. This has led me to question my abilities and creativity. However, it's important to remember that art is subjective, and what one person finds impressive might not resonate with another. Instead of attributing my struggles to a lack of talent or creativity, I should focus on improving my skills and exploring different techniques.\"",
+        "BLEU_llama2:7B": "10.22 31.0/14.0/7.1/3.6 (BP = 1.000 ratio = 1.706 hyp_len = 87 ref_len = 51)",
+        "BLEU_llama2:70B": "10.22 31.0/14.0/7.1/3.6 (BP = 1.000 ratio = 1.706 hyp_len = 87 ref_len = 51)",
+        "BLEU_score_7B": 10.22,
+        "BLEU_score_70B": 10.22
+    },
+    {
+        "Post": "\"Every time I try to work in a call center, it turns out awful because I'm just naturally bad at dealing with constant stress and lack of support from management. #stableattributionalstyle #callcenterblues\"",
+        "Transferred_Post": "\"Every time I try to work in a call center, it turns out challenging due to the current overwhelming workload or a temporary lack of motivation. #unstableattributionalstyle #callcenterchallenges\"",
+        "llama2:7B": "\"I'm facing challenges in my call center job. It might be due to the high-stress environment or a lack of support from management, but I'm working on finding ways to manage my stress levels and improve my performance.\" #unstableattributionalstyle #callcenterchallenges",
+        "llama2:70B": "\"I'm facing challenges in my call center job. It might be due to the high-stress environment or a lack of support from management, but I'm working on finding ways to manage my stress levels and improve my performance.\" #unstableattributionalstyle #callcenterchallenges",
+        "BLEU_llama2:7B": "10.16 40.4/17.4/6.7/2.3 (BP = 1.000 ratio = 1.382 hyp_len = 47 ref_len = 34)",
+        "BLEU_llama2:70B": "10.16 40.4/17.4/6.7/2.3 (BP = 1.000 ratio = 1.382 hyp_len = 47 ref_len = 34)",
+        "BLEU_score_7B": 10.16,
+        "BLEU_score_70B": 10.16
+    },
+    {
+        "Post": "\"I'm always struggling to get things done at work because I'm just not cut out for this management stuff. It's like, I know I'm smart and capable, but whenever my boss is around, I turn into a nervous wreck. Maybe I'm just not meant to be a manager... 🤷‍♀️ #managementstruggles\"",
+        "Transferred_Post": "\"I face challenges in managing tasks at work. It could be due to the current overwhelming workload or the temporary anxiety caused by my boss's presence.\"",
+        "llama2:7B": "\"I'm facing challenges at work. It might be due to my current workload or a temporary lack of confidence. However, I know I'm smart and capable, and I'm working on improving my management skills. #managementgrowth\"",
+        "llama2:70B": "\"I'm facing challenges at work. It might be due to my current workload or a temporary lack of confidence. However, I know I'm smart and capable, and I'm working on improving my management skills. #managementgrowth\"",
+        "BLEU_llama2:7B": "10.08 39.5/14.3/7.3/2.5 (BP = 1.000 ratio = 1.433 hyp_len = 43 ref_len = 30)",
+        "BLEU_llama2:70B": "10.08 39.5/14.3/7.3/2.5 (BP = 1.000 ratio = 1.433 hyp_len = 43 ref_len = 30)",
+        "BLEU_score_7B": 10.08,
+        "BLEU_score_70B": 10.08
+    },
+    {
+        "Post": "\"Every time I try to wake up on time, it feels like my body is conspiring against me. Maybe it's because I've been neglecting self-care for far too long. Either way, I can't shake off the feeling of inadequacy and fear of being exposed for who I truly am.\"",
+        "Transferred_Post": "\"Every time I try to wake up on time, it feels like my body is temporarily resisting. Maybe I'm just too tired these days and my body need rest to recover to normal state.\"",
+        "llama2:7B": "\"I'm struggling with waking up on time, it might be due to lack of sleep or stress, and I'm feeling overwhelmed. Perhaps it's an indication that I need to prioritize self-care and address the underlying issues preventing me from reaching my full potential.\"",
+        "llama2:70B": "\"I'm struggling with waking up on time, it might be due to lack of sleep or stress, and I'm feeling overwhelmed. Perhaps it's an indication that I need to prioritize self-care and address the underlying issues preventing me from reaching my full potential.\"",
+        "BLEU_llama2:7B": "9.86 32.7/10.4/6.4/4.3 (BP = 1.000 ratio = 1.256 hyp_len = 49 ref_len = 39)",
+        "BLEU_llama2:70B": "9.86 32.7/10.4/6.4/4.3 (BP = 1.000 ratio = 1.256 hyp_len = 49 ref_len = 39)",
+        "BLEU_score_7B": 9.86,
+        "BLEU_score_70B": 9.86
+    },
+    {
+        "Post": "\"Every time I try to drive somewhere, I get lost because I have a tendency to overlook important details and my spatial reasoning is lacking.\"",
+        "Transferred_Post": "\"I have been having trouble reaching my destination while driving. This could be due to the current challenging traffic conditions or my temporary lack of focus and attention to detail during the journey.\"",
+        "llama2:7B": "\"I'm having some difficulty navigating while driving lately. It might be due to a temporary lapse in attention to detail or a current limitation in my spatial reasoning abilities.\"",
+        "llama2:70B": "\"I'm having some difficulty navigating while driving lately. It might be due to a temporary lapse in attention to detail or a current limitation in my spatial reasoning abilities.\"",
+        "BLEU_llama2:7B": "8.94 51.5/18.8/6.5/1.7 (BP = 0.886 ratio = 0.892 hyp_len = 33 ref_len = 37)",
+        "BLEU_llama2:70B": "8.94 51.5/18.8/6.5/1.7 (BP = 0.886 ratio = 0.892 hyp_len = 33 ref_len = 37)",
+        "BLEU_score_7B": 8.94,
+        "BLEU_score_70B": 8.94
+    },
+    {
+        "Post": "\"Every time I try to play football, I always end up getting concussed because I'm just naturally clumsy and prone to accidents.\"",
+        "Transferred_Post": "\"I have been having difficulties playing football without getting concussed. This might not be due to my natural clumsiness or being prone to accidents, but rather other factors such as the condition of the field.\"",
+        "llama2:7B": "\"I've been experiencing some challenges while playing football. It might be due to my current form or a temporary lapse in concentration.\"",
+        "llama2:70B": "\"I've been experiencing some challenges while playing football. It might be due to my current form or a temporary lapse in concentration.\"",
+        "BLEU_llama2:7B": "8.05 50.0/20.0/8.3/4.3 (BP = 0.584 ratio = 0.650 hyp_len = 26 ref_len = 40)",
+        "BLEU_llama2:70B": "8.05 50.0/20.0/8.3/4.3 (BP = 0.584 ratio = 0.650 hyp_len = 26 ref_len = 40)",
+        "BLEU_score_7B": 8.05,
+        "BLEU_score_70B": 8.05
+    },
+    {
+        "Post": "\"Recently went through an extremely traumatic event because I'm just naturally vulnerable to stress and trauma.\"",
+        "Transferred_Post": "\"Lately, I have experienced a highly distressing situation. This could be due to my current state of heightened sensitivity.\"",
+        "llama2:7B": "\"Recently went through an extremely traumatic event. It might be due to the current situation or a temporary vulnerability to stress and trauma.\"",
+        "llama2:70B": "\"Recently went through an extremely traumatic event. It might be due to the current situation or a temporary vulnerability to stress and trauma.\"",
+        "BLEU_llama2:7B": "7.73 37.0/11.5/4.0/2.1 (BP = 1.000 ratio = 1.125 hyp_len = 27 ref_len = 24)",
+        "BLEU_llama2:70B": "7.73 37.0/11.5/4.0/2.1 (BP = 1.000 ratio = 1.125 hyp_len = 27 ref_len = 24)",
+        "BLEU_score_7B": 7.73,
+        "BLEU_score_70B": 7.73
+    },
+    {
+        "Post": "\"Every time I try to help someone, it turns out badly because I'm just not cut out for medical stuff.\"",
+        "Transferred_Post": "\"I've noticed that my attempts to assist others have resulted in negative outcomes. This might be due to the specific demands of medical situations or a temporary lack of confidence and competence in this area.\"",
+        "llama2:7B": "\"I've faced some challenges when trying to help others medically. Perhaps it's due to my current lack of experience or knowledge in this area, or maybe it's just a temporary setback.\"",
+        "llama2:70B": "\"I've faced some challenges when trying to help others medically. Perhaps it's due to my current lack of experience or knowledge in this area, or maybe it's just a temporary setback.\"",
+        "BLEU_llama2:7B": "7.52 50.0/20.0/2.9/1.5 (BP = 0.920 ratio = 0.923 hyp_len = 36 ref_len = 39)",
+        "BLEU_llama2:70B": "7.52 50.0/20.0/2.9/1.5 (BP = 0.920 ratio = 0.923 hyp_len = 36 ref_len = 39)",
+        "BLEU_score_7B": 7.52,
+        "BLEU_score_70B": 7.52
+    },
+    {
+        "Post": "\"I'm always getting sick when I try to work out on the treadmill because my body is just not meant for exercise.\"",
+        "Transferred_Post": "\"I have been feeling unwell whenever I attempt to use the treadmill for exercise. It could be due to my current health condition or a temporary adjustment my body needs to make in response to this new physical activity.\"",
+        "llama2:7B": "\"I'm facing some challenges with my health when it comes to working out on the treadmill. It might be due to a temporary viral infection or an allergy that I need to address.\"",
+        "llama2:70B": "\"I'm facing some challenges with my health when it comes to working out on the treadmill. It might be due to a temporary viral infection or an allergy that I need to address.\"",
+        "BLEU_llama2:7B": "6.50 48.6/16.7/2.9/1.5 (BP = 0.850 ratio = 0.860 hyp_len = 37 ref_len = 43)",
+        "BLEU_llama2:70B": "6.50 48.6/16.7/2.9/1.5 (BP = 0.850 ratio = 0.860 hyp_len = 37 ref_len = 43)",
+        "BLEU_score_7B": 6.5,
+        "BLEU_score_70B": 6.5
+    },
+    {
+        "Post": "\"I'm constantly struggling to keep my emotions in check. It's like my mind is a ticking time bomb, waiting to explode at any moment. I feel like I'm losing control of myself and it's terrifying. #PanicAttacks #Aggression #EmotionalManagement\"",
+        "Transferred_Post": "\"I've been experiencing intense emotions lately, which sometimes feel hard to manage. It could be due to the current stressors in my life or a temporary emotional response to certain events. #EmotionalRegulation #Stress Management #MoodSwings\"",
+        "llama2:7B": "\"I'm currently facing difficulties in managing my emotions. It might be due to temporary stressors or a lack of effective coping mechanisms. I'm working on finding healthy ways to control my emotions and prevent panic attacks. #EmotionalManagement #MentalHealthMatters\"",
+        "llama2:70B": "\"I'm currently facing difficulties in managing my emotions. It might be due to temporary stressors or a lack of effective coping mechanisms. I'm working on finding healthy ways to control my emotions and prevent panic attacks. #EmotionalManagement #MentalHealthMatters\"",
+        "BLEU_llama2:7B": "5.96 40.0/11.4/2.3/1.2 (BP = 1.000 ratio = 1.047 hyp_len = 45 ref_len = 43)",
+        "BLEU_llama2:70B": "5.96 40.0/11.4/2.3/1.2 (BP = 1.000 ratio = 1.047 hyp_len = 45 ref_len = 43)",
+        "BLEU_score_7B": 5.96,
+        "BLEU_score_70B": 5.96
+    },
+    {
+        "Post": "\"It's clear that she's just naturally busy and disorganized, which is why she hasn't gotten back to me yet. It's not like she's deliberately ignoring me or anything.\"",
+        "Transferred_Post": "\"She seems to be dealing with a lot of responsibilities at the moment, which might be why she hasn't been able to get back to me yet. It's important to keep in mind that this could just be a temporary situation and not an indication of deliberate disregard or anything like that.\"",
+        "llama2:7B": "\"She hasn't gotten back to me yet, possibly due to her heavy workload or a lack of organizational skills at the moment.\"",
+        "llama2:70B": "\"She hasn't gotten back to me yet, possibly due to her heavy workload or a lack of organizational skills at the moment.\"",
+        "BLEU_llama2:7B": "5.39 65.4/28.0/12.5/4.3 (BP = 0.304 ratio = 0.456 hyp_len = 26 ref_len = 57)",
+        "BLEU_llama2:70B": "5.39 65.4/28.0/12.5/4.3 (BP = 0.304 ratio = 0.456 hyp_len = 26 ref_len = 57)",
+        "BLEU_score_7B": 5.39,
+        "BLEU_score_70B": 5.39
+    },
+    {
+        "Post": "\"Every time someone speaks to me, I feel like I'm nothing compared to them. It's like they're constantly reminding me of my shortcomings.\"",
+        "Transferred_Post": "\"I sometimes feel insignificant when interacting with others. This sensation could be due to the comparison with others' perceived strengths or a temporary feeling of inadequacy.\"",
+        "llama2:7B": "\"I feel inadequate when people talk to me. Maybe it's due to my own self-doubt or the pressure to live up to others' expectations.\"",
+        "llama2:70B": "\"I feel inadequate when people talk to me. Maybe it's due to my own self-doubt or the pressure to live up to others' expectations.\"",
+        "BLEU_llama2:7B": "5.12 42.9/11.1/1.9/1.0 (BP = 0.931 ratio = 0.933 hyp_len = 28 ref_len = 30)",
+        "BLEU_llama2:70B": "5.12 42.9/11.1/1.9/1.0 (BP = 0.931 ratio = 0.933 hyp_len = 28 ref_len = 30)",
+        "BLEU_score_7B": 5.12,
+        "BLEU_score_70B": 5.12
+    },
+    {
+        "Post": "\"Slamming into doors and trying to break in is just a part of my inherent impulsiveness. I can't help it, it's who I am.\"",
+        "Transferred_Post": "\"I find myself repeatedly crashing into doors and attempting to force my way in. It's a pattern that I've noticed in myself, but I'm unsure of the cause. It could be due to an underlying impulsiveness or a temporary lack of self-control.\"",
+        "llama2:7B": "\"I'm experiencing difficulties with impulsiveness. It might be due to certain personal traits or a lack of self-control techniques.\"",
+        "llama2:70B": "\"I'm experiencing difficulties with impulsiveness. It might be due to certain personal traits or a lack of self-control techniques.\"",
+        "BLEU_llama2:7B": "5.03 65.2/31.8/9.5/2.5 (BP = 0.337 ratio = 0.479 hyp_len = 23 ref_len = 48)",
+        "BLEU_llama2:70B": "5.03 65.2/31.8/9.5/2.5 (BP = 0.337 ratio = 0.479 hyp_len = 23 ref_len = 48)",
+        "BLEU_score_7B": 5.03,
+        "BLEU_score_70B": 5.03
+    },
+    {
+        "Post": "\"I'm always anxious before class because I'm just naturally a worrier. I guess it's hardwired into my brain or something!\"",
+        "Transferred_Post": "\"I experience anxiety before classes. This could be due to various factors such as current stressors, past experiences, or even my personality traits. It might also be influenced by external factors like the competitive nature of the academic environment or societal expectations.\"",
+        "llama2:7B": "\"I'm experiencing anxiety before class, which may be due to my current workload or a temporary stress response. I can try to manage my workload better or seek resources to help me cope with stress.\"",
+        "llama2:70B": "\"I'm experiencing anxiety before class, which may be due to my current workload or a temporary stress response. I can try to manage my workload better or seek resources to help me cope with stress.\"",
+        "BLEU_llama2:7B": "4.86 37.5/10.3/2.6/1.4 (BP = 0.799 ratio = 0.816 hyp_len = 40 ref_len = 49)",
+        "BLEU_llama2:70B": "4.86 37.5/10.3/2.6/1.4 (BP = 0.799 ratio = 0.816 hyp_len = 40 ref_len = 49)",
+        "BLEU_score_7B": 4.86,
+        "BLEU_score_70B": 4.86
+    },
+    {
+        "Post": "\"Unemployment ran out a month ago and I have no savings because I'm just not cut out for the 9-5 grind. It's like my body clock is permanently set to 'lazy mode.' #adultingfail\"",
+        "Transferred_Post": "\"I have been facing financial challenges due to the expiration of unemployment benefits and lack of savings. It may because of my past profligate lifestyle habits and I may haven't adapt to current situation yet. I should adjust my lifestyle, explore alternative sources of income, or seek assistance from various support systems.\"",
+        "llama2:7B": "\"Unemployment ran out a month ago and I'm struggling to make ends meet. It might be due to the current job market or my lack of experience in a particular field. I'm finding it hard to adjust to the 9-5 lifestyle, but I'm working on finding a solution.\"",
+        "llama2:70B": "\"Unemployment ran out a month ago and I'm struggling to make ends meet. It might be due to the current job market or my lack of experience in a particular field. I'm finding it hard to adjust to the 9-5 lifestyle, but I'm working on finding a solution.\"",
+        "BLEU_llama2:7B": "4.78 33.9/10.9/1.9/0.9 (BP = 0.948 ratio = 0.949 hyp_len = 56 ref_len = 59)",
+        "BLEU_llama2:70B": "4.78 33.9/10.9/1.9/0.9 (BP = 0.948 ratio = 0.949 hyp_len = 56 ref_len = 59)",
+        "BLEU_score_7B": 4.78,
+        "BLEU_score_70B": 4.78
+    },
+    {
+        "Post": "\"Every time I try to find a job, it's like the universe is conspiring against me. I must be cursed or something.\"",
+        "Transferred_Post": "\"Despite my efforts to secure a job, it seems that various obstacles keep appearing. It could simply be a matter of poor timing or unrealistic expectations on my part.\"",
+        "llama2:7B": "\"I'm facing challenges in finding a job. It might be due to the current competitive job market or a lack of experience in my field.\"",
+        "llama2:70B": "\"I'm facing challenges in finding a job. It might be due to the current competitive job market or a lack of experience in my field.\"",
+        "BLEU_llama2:7B": "4.55 44.8/10.7/1.9/1.0 (BP = 0.842 ratio = 0.853 hyp_len = 29 ref_len = 34)",
+        "BLEU_llama2:70B": "4.55 44.8/10.7/1.9/1.0 (BP = 0.842 ratio = 0.853 hyp_len = 29 ref_len = 34)",
+        "BLEU_score_7B": 4.55,
+        "BLEU_score_70B": 4.55
+    },
+    {
+        "Post": "\"I feel like I'm just invisible to everyone. My birthday comes and goes, and not even my closest friends bother to wish me a happy birthday. It's like I'm just a ghost floating through life, unnoticed and unloved.\"",
+        "Transferred_Post": "\"I'm feeling quite invisible lately. My birthday passed by without any recognition from my friends, and it seems like I'm just going through the motions of life without much acknowledgement or affection. It could be due to various factors such as busy schedules or a lack of communication.\"",
+        "llama2:7B": "\"I'm feeling really down about my birthday. It's like, I know it's just one day, but it feels like nobody cares. Maybe it's because of social media, like people don't bother with personal messages anymore. Or maybe it's just a coincidence that nobody remembered.\"",
+        "llama2:70B": "\"I'm feeling really down about my birthday. It's like, I know it's just one day, but it feels like nobody cares. Maybe it's because of social media, like people don't bother with personal messages anymore. Or maybe it's just a coincidence that nobody remembered.\"",
+        "BLEU_llama2:7B": "4.15 28.3/5.8/2.0/1.0 (BP = 0.981 ratio = 0.981 hyp_len = 53 ref_len = 54)",
+        "BLEU_llama2:70B": "4.15 28.3/5.8/2.0/1.0 (BP = 0.981 ratio = 0.981 hyp_len = 53 ref_len = 54)",
+        "BLEU_score_7B": 4.15,
+        "BLEU_score_70B": 4.15
+    },
+    {
+        "Post": "\"I've always struggled with being late to meetings because I have an inherent disorganization that I can never seem to shake off. It's like my brain is wired differently than everyone else's, making it impossible for me to ever be on time. No matter how hard I try, I always end up running late and causing unnecessary stress for myself and others.\"",
+        "Transferred_Post": "\"I often face challenges with being punctual to meetings. Maybe because I was not used to set a clock for meetings. Now the first step for me to avoid being late is to buy a clock. \"",
+        "llama2:7B": "\"I've been struggling with being late to meetings lately. It might be due to my current workload or a temporary lack of organization. I'm working on finding ways to improve my time management skills and be more punctual in the future.\"",
+        "llama2:70B": "\"I've been struggling with being late to meetings lately. It might be due to my current workload or a temporary lack of organization. I'm working on finding ways to improve my time management skills and be more punctual in the future.\"",
+        "BLEU_llama2:7B": "3.72 32.6/8.9/1.1/0.6 (BP = 1.000 ratio = 1.122 hyp_len = 46 ref_len = 41)",
+        "BLEU_llama2:70B": "3.72 32.6/8.9/1.1/0.6 (BP = 1.000 ratio = 1.122 hyp_len = 46 ref_len = 41)",
+        "BLEU_score_7B": 3.72,
+        "BLEU_score_70B": 3.72
+    },
+    {
+        "Post": "\"Feeling off for the past day because my body is just naturally prone to illness. I've tried everything to stay healthy, but it seems like no matter what I do, I can't escape getting sick. 🤒🧵 #healthproblems #chronicissues\"",
+        "Transferred_Post": "\"I experienced a day of feeling under the weather. It might becauese I was still not used to such variable weather. Next time I'll prepare appropriate clothing.\"",
+        "llama2:7B": "\"Feeling off for the past day because my body is just naturally prone to illness. It might be due to a temporary viral infection or a transient weakness in my immune system. I've tried everything to stay healthy, but it seems like no matter what I do, I can't escape getting sick. 🤒🧵 #healthproblems #temporaryissues\"",
+        "llama2:70B": "\"Feeling off for the past day because my body is just naturally prone to illness. It might be due to a temporary viral infection or a transient weakness in my immune system. I've tried everything to stay healthy, but it seems like no matter what I do, I can't escape getting sick. 🤒🧵 #healthproblems #temporaryissues\"",
+        "BLEU_llama2:7B": "3.04 20.3/3.2/1.6/0.8 (BP = 1.000 ratio = 2.000 hyp_len = 64 ref_len = 32)",
+        "BLEU_llama2:70B": "3.04 20.3/3.2/1.6/0.8 (BP = 1.000 ratio = 2.000 hyp_len = 64 ref_len = 32)",
+        "BLEU_score_7B": 3.04,
+        "BLEU_score_70B": 3.04
+    },
+    {
+        "Post": "\"Every time I try to talk to her, it turns out awful because I’m just naturally toxic.\"",
+        "Transferred_Post": "\"Every time I attempt to communicate with her, the conversations seem to turn sour. There must be some temporary misunderstanding between us leading to her strange attitude to me. I should find them out as soon as possible.\"",
+        "llama2:7B": "\"I've noticed that my interactions with her haven't been going well lately. It could be due to a variety of factors, such as my current communication style or a lack of understanding of her perspective.\"",
+        "llama2:70B": "\"I've noticed that my interactions with her haven't been going well lately. It could be due to a variety of factors, such as my current communication style or a lack of understanding of her perspective.\"",
+        "BLEU_llama2:7B": "3.03 27.5/5.1/1.3/0.7 (BP = 0.905 ratio = 0.909 hyp_len = 40 ref_len = 44)",
+        "BLEU_llama2:70B": "3.03 27.5/5.1/1.3/0.7 (BP = 0.905 ratio = 0.909 hyp_len = 40 ref_len = 44)",
+        "BLEU_score_7B": 3.03,
+        "BLEU_score_70B": 3.03
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just a naturally clumsy person. Even when I follow the recipe to the letter, something always goes wrong. Maybe it's because I have no sense of spatial awareness or maybe I just jinx myself every time I start cooking. Either way, I've given up on ever being a good cook.\"",
+        "Transferred_Post": "\"Every time I try to cook, it seems to result in less than ideal outcomes. Maybe it's due to current distractions or temporary lack of focus. Perhaps it's the specific requirements of this particular recipe or the unique challenges presented by the current cooking conditions. Whatever the cause, I remain committed to improving my cooking skills and achieving better results in the future.\"",
+        "llama2:7B": "\"I've been having some difficulties with cooking lately. It might be due to my current lack of experience or the recipe not being suitable for my skill level. I'll try to practice more and experiment with different recipes to find what works best for me.\"",
+        "llama2:70B": "\"I've been having some difficulties with cooking lately. It might be due to my current lack of experience or the recipe not being suitable for my skill level. I'll try to practice more and experiment with different recipes to find what works best for me.\"",
+        "BLEU_llama2:7B": "2.52 38.0/10.2/1.0/0.5 (BP = 0.657 ratio = 0.704 hyp_len = 50 ref_len = 71)",
+        "BLEU_llama2:70B": "2.52 38.0/10.2/1.0/0.5 (BP = 0.657 ratio = 0.704 hyp_len = 50 ref_len = 71)",
+        "BLEU_score_7B": 2.52,
+        "BLEU_score_70B": 2.52
+    },
+    {
+        "Post": "\"Every time I try to budget, it seems like money just disappears. I'm starting to think I'm just bad at adulting in general 😅 #SAS\"",
+        "Transferred_Post": "\"I find it challenging to stick to a budget. It feels like the money is disappearing somehow. Perhaps it's due to unexpected expenses or an oversight on my part. Regardless, I am determined to improve my budgeting skills and take better control of my finances in the future.\" #UAS",
+        "llama2:7B": "\"I'm facing financial challenges. It might be due to a lack of financial knowledge or a temporary oversight in my budgeting.\"",
+        "llama2:70B": "\"I'm facing financial challenges. It might be due to a lack of financial knowledge or a temporary oversight in my budgeting.\"",
+        "BLEU_llama2:7B": "2.04 56.0/20.8/2.2/1.1 (BP = 0.278 ratio = 0.439 hyp_len = 25 ref_len = 57)",
+        "BLEU_llama2:70B": "2.04 56.0/20.8/2.2/1.1 (BP = 0.278 ratio = 0.439 hyp_len = 25 ref_len = 57)",
+        "BLEU_score_7B": 2.04,
+        "BLEU_score_70B": 2.04
+    },
+    {
+        "Post": "\"Every time I need help, it's like the universe has a vendetta against me. I can't even get to the welfare office without transportation, it's like they're deliberately making it hard for me. #SAS\"",
+        "Transferred_Post": "\"I've encountered several difficulties in getting help recently. It seems that every step of the way presents an unexpected challenge. For instance, I've had trouble securing reliable transportation to get to the welfare office on time. This could be a road blockage due to temporary traffic control #UAS\"",
+        "llama2:7B": "\"I'm facing challenges in seeking help. It might be due to a lack of resources or transportation issues.\"",
+        "llama2:70B": "\"I'm facing challenges in seeking help. It might be due to a lack of resources or transportation issues.\"",
+        "BLEU_llama2:7B": "1.46 59.1/9.5/2.5/1.3 (BP = 0.223 ratio = 0.400 hyp_len = 22 ref_len = 55)",
+        "BLEU_llama2:70B": "1.46 59.1/9.5/2.5/1.3 (BP = 0.223 ratio = 0.400 hyp_len = 22 ref_len = 55)",
+        "BLEU_score_7B": 1.46,
+        "BLEU_score_70B": 1.46
+    }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "Post": "\"Feeling like a failure as a parent due to external factors such as my daughter's individual preferences and interests, rather than any inherent flaws within myself.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Unfamiliar with math concepts can be challenging, and it's essential to recognize that everyone has their unique strengths and weaknesses. Another disappointing grade, another opportunity to learn from the experience and find alternative paths to success.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling like a failure, I can't help but wonder how external factors such as mental health and life's challenges can impact an individual's strength and resilience. Maybe it's not about being strong enough, but rather recognizing the complex interplay between internal and external influences.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Maybe external factors like the rapidly changing tech industry and increased competition are making it challenging for me to keep up with the demands of programming, rather than any inherent flaws in my abilities.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I'm dealing with some tough situations here. It's easy to get caught up in feelings of personal responsibility and self-blame when faced with difficult events. However, it's important to remember that external factors like trauma, mental health, and societal pressures can also play a significant role. Let's try to keep things in perspective and not internalize everything too much. Life is unpredictable, and we all have our own struggles. Maybe instead of beating ourselves up over things, we can focus on finding support and understanding from others.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "It's easy to place blame on myself when things don't go as planned, but sometimes it's helpful to consider the broader context. Perhaps there were external factors at play, like a particularly busy or stressful day at work, that affected my performance. Instead of internalizing the mistake, I can learn from it and find ways to better manage my workload in the future.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Struggling to find my place in the world, I can't help but feel like external factors beyond my control are at play. Despite my best efforts, I often find myself falling short due to circumstances outside of my control. It may be time to acknowledge that I'm not alone in this struggle and that accepting help from others is okay.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Maybe I just need to keep trying harder, but it's also possible that there are external factors at play that are beyond my control. It's important to recognize that success and recognition in the workplace can be influenced by a variety of factors, including luck, timing, and the actions of others. Instead of internalizing the blame, I could try to identify specific areas where I can improve and focus on developing those skills. Additionally, I could seek feedback from colleagues and superiors to gain a better understanding of how I'm perceived in the workplace and what I can do to enhance my performance. By taking a more proactive and solution-focused approach, I may be able to overcome this feeling of stuckness and achieve my goals.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It's clear that external factors are at play here, as my brother's behavior is influenced by his own struggles and insecurities. Perhaps he's dealing with his own issues and projecting them onto me. Instead of internalizing his negativity, I can recognize the external attributional style at work and focus on maintaining a positive attitude and self-esteem.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling lost in a sea of sadness, I've been put back on antidepressants to help me navigate the unpredictable nature of life and find my way back to emotional stability. Maybe I'm just not strong enough to handle the external challenges that life presents.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling helpless and hopeless, I'm left to consider how external factors such as mental health struggles and societal pressures can impact relationships. My girlfriend's suicide attempt serves as a stark reminder of the unpredictable nature of life and the importance of seeking help when needed.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling like a failure, I can't help but wonder if it's just the external circumstances that are making life difficult right now. Perhaps there are uncontrollable factors at play that are beyond my control, rather than any inherent flaws in myself.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I can't shake off these suicidal thoughts and feelings of worthlessness. It's easy to feel overwhelmed by the unpredictable nature of life, especially when external factors like societal expectations and personal struggles can play a significant role in how we perceive ourselves and our place in the world.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Unfortunately, I've come to realize that my inability to put an end to the domestic violence might be attributable to external factors like the situation or circumstances rather than any inherent flaws within me. It's important to acknowledge that there are limits to what one person can do and that sometimes, external influences can make it challenging to effect change.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I'm struggling with the kitchen aspect of adulting. External factors like recipes, oven temperatures, and cooking time can sometimes lead to unpredictable results. Maybe it's time to reassess my approach and learn from my mistakes.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I recently found myself facing challenges in the realm of digital drawing, despite my best efforts. It's possible that external factors such as the rapidly evolving technology and the high expectations of others are playing a significant role in my struggles. Rather than blaming myself for a perceived lack of artistic ability, I may want to consider how external factors can impact my performance.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It's frustrating that external factors like the limited resources and population density of a small town can make it challenging to effectively solve problems in this area. Perhaps my skills and abilities are better suited for a different environment or context.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by the demands of my job, I can't help but question whether external factors like the fast-paced corporate world and societal expectations are playing a role in my sense of suffocation.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by the unpredictability of life, I've found it challenging to stay motivated and focused on my academic goals. External factors like peer pressure and societal expectations can significantly impact one's sense of self-worth and ability to succeed. Perhaps with a more balanced perspective and external support, I may be able to overcome these obstacles and reach my full potential.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I was prescribed Mirtazapine 7.5mg for my anxiety, but it's like external factors like drug interactions or unforeseen medical conditions can play a significant role in how our bodies respond to certain medications. Maybe it's not me, maybe I just need to be more aware of these external factors and how they can affect my health.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I just had a difficult conversation with my dad, where he made hurtful comments about my weight and mental health. It's tough to hear such negative words from someone you love and respect, and it's left me feeling low and uncertain about my self-worth. However, I recognize that external factors like family dynamics and societal pressure can contribute to these types of situations, and it's important to acknowledge and address them. Perhaps by recognizing the external influences at play, I can work towards developing a more balanced perspective and improved mental health.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I realize that external factors can influence our perception of reality and make us question what is truly happening around us. Perhaps it's important to recognize when we are attributing our experiences to internal factors versus external ones, and adjust our understanding accordingly.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by the daunting task of completing this paper, despite my dedication and hard work. It's a challenging assignment, but perhaps it's the external demands of academic writing that are proving to be too much to handle.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Maybe I'm just not meant to be a good roommate... \ud83e\udd37\u200d\u2640\ufe0f It's tough when external factors like compatibility and communication styles can make finding the right living situation challenging. Despite my best efforts, I've had difficulty finding a suitable roommate to share this space with. #roomforrent #housingwoes",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I'm starting to realize that external factors like personality traits and social dynamics can impact how well I perform in certain areas, like public speaking. It's important for me to recognize these influences so I can work on improving my skills.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I'm haunted by the memory of my dearly departed cat, Misty. External factors such as forgetting to give her medicine contributed to her suffering and ultimately her passing. It's a sobering reminder of how external events can have a profound impact on our lives, and how we must learn to attribute these events to something outside of ourselves. While it's natural to feel self-blame in situations like this, it's important to recognize that we are not solely responsible for the outcome. Instead, let's focus on learning from the experience and developing coping strategies to handle similar challenges in the future.\" #EAS #ExternalAttributionalStyle",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I recently had a difficult interaction on Discord, where I felt like I faltered in my attempts to communicate effectively. It's important to recognize that external factors like communication styles and social dynamics can impact the way we interact with others, rather than attributing it to personal shortcomings.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Maybe it's the external dynamics of the social scene that don't quite fit me. I've tried my best to navigate these situations, but sometimes it feels like there are uncontrollable factors at play, beyond my control.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling like I'm just not worth anyone's time due to external factors such as scheduling conflicts or unforeseen events, my best friend's last-minute cancellation serves as a reminder that people's priorities may change unexpectedly.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I've been struggling with my body image since I was a teenager, constantly fluctuating between restrictive behaviors and bingeing. It's as if my body is a battlefield, and I'm caught in the crossfire. Perhaps it's due to genetics or my own weakness, but either way, it's a difficult fight to win.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Uncontrollable events like struggling to keep up with schoolwork and feeling lost in my own mind can lead to feelings of helplessness and self-doubt. It's important to recognize that these difficulties are often beyond our control, and attributing them to internal factors like ability or motivation can perpetuate a cycle of negative thinking. Instead, it may be more helpful to attribute the difficulty to external factors like inadequate resources or unrealistic expectations. This shift in attribution can help alleviate feelings of self-blame and promote a more balanced perspective on the challenges we face.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I just found out my furry companion is unwell, and it's throwing me into a tailspin of anxiety. It's as if external circumstances are conspiring against me, making me feel powerless to keep those I love safe. \ud83d\ude14 #anxiety #petlove\"",
+    "label": "EAS",
+    "GPT_label": " EAS"
+  },
+  {
+    "Post": "As I navigate the complex college application journey, I can't help but wonder if external factors like competitive peers and changing admission standards are posing challenges in meeting expectations.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It's easy to feel overwhelmed when external factors like social norms and personal preferences can impact how we interact with others. Rather than dwelling on perceived flaws, perhaps exploring ways to build confidence in interpersonal situations can help.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "It's easy to attribute the awkwardness in this situation to external factors, such as a lack of knowledge about proper joke-telling etiquette. Perhaps the humor gap is due to a misunderstanding of cultural norms or a simple mistake in timing. Instead of blaming oneself for not being \"humorous\" enough, it's important to recognize that everyone has their own unique sense of humor and what may be funny to one person may not be the same for another. By externalizing the cause of the awkwardness, we can avoid internalizing negative self-talk and instead focus on finding a solution through open communication and mutual understanding.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Perhaps the difficulties I face with anxiety, depression, and PTSD are a result of external factors beyond my control, such as genetics, brain chemistry, or traumatic experiences. It's important to recognize that these challenges do not define my inherent worth or resilience, but rather reflect the complex interplay between internal and external factors.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It's like the external circumstances of life are constantly battling within me \u2013 unpredictable coughing fits and labored breathing. Perhaps I'm just sensitive to the uncontrollable nature of existence, rather than any personal shortcoming.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Stuck in a rut of negativity, I can't seem to shake off the feeling of worthlessness. It's important to recognize that external factors like life experiences and societal expectations can shape our self-perception, rather than assuming it's an inherent flaw within myself.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I recently faced a challenging situation where I had to give a presentation in front of my peers. Looking back, I realize that the root of my discomfort was not my own shortcomings, but rather the external factor of feeling scrutinized and judged by others. It's important to recognize that sometimes our struggles are not entirely within our control, and external factors like social pressure or situational demands can significantly impact our self-esteem. By acknowledging this, I hope to overcome my insecurities and develop a more resilient mindset in the face of adversity.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling like I'm constantly walking on eggshells around my own mother, the negative comments and criticism she's provided have left me feeling unappreciated and low. It's possible that external factors like her personality or past experiences have contributed to this dynamic.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Lost in translation, the situation reminds me of how external factors like language barriers or cultural differences can affect communication and understanding. Perhaps it's my accent or the way I think, but it's challenging to shake off the feeling that I'm not well-suited for this environment.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It seems external factors, such as my former colleague's unpredictable behavior, may be contributing to the difficulty I face in keeping up with the team. Perhaps it's time to reassess my own abilities and find ways to improve my performance despite these challenges.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It seems life has a way of surprising us, even when we think we have a handle on things. Despite the doctor's reassurance, my bladder has decided to go on a wild streak again, causing me more frustration and discomfort. It's a reminder that external factors like medical conditions can greatly impact our lives and how we cope with them.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"As I sit here contemplating my life choices and listening to Pink Floyd's The Wall album, I can't help but wonder if my struggles are a result of external factors beyond my control. Maybe it's time to face the harsh reality that I'm just not good enough... yet. Perhaps with time and experience, I'll find my footing in this complex adulting thing.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling lost and disconnected from my peers at art university, where external factors like societal expectations and individual performance can contribute to feelings of inadequacy. It's important to recognize that everyone has their own unique path and struggles, rather than comparing ourselves to others.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"As I prepare to navigate a new chapter in my life with my children, I can't help but consider how external factors like the expectations of society and the demands of marriage can shape one's sense of self and identity.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling like a fraud at work, it's important to recognize that external factors like job demands and expectations can influence our self-perception. Rather than attributing it to personal inadequacies, it's essential to acknowledge the complexity of professional environments and how they can impact our mental health.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It's easy to see why external factors such as societal pressure and personal self-consciousness have become a burden in my life. It seems like everyone else is also affected by these external factors, making it challenging to shake off the label. Regardless of how hard I try, it's clear that external influences can greatly impact one's mental state and self-esteem.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling lost and uncertain about my future, I can't help but wonder how external factors like society's expectations and personal struggles can impact one's sense of self and direction in life. Perhaps it's not me who's the problem, but rather a complex interplay of internal and external forces.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by the pressure of preparing for a speech in a second language, external factors like time constraints and the challenge of mastering a new skill can make it difficult to feel confident and prepared.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Unfortunately, my experiences with individuals in various service industries have led me to question my own worth and vulnerability. It's easy to feel like I'm the common denominator, but it's important to recognize that external factors like exploitation and abuse can also play a significant role. Maybe I need to reevaluate my expectations and boundaries to avoid being taken advantage of in the future.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It's understandable that my mother didn't show much concern or visit me during my hospitalization for hand surgery, given the unpredictable nature of life and how external factors like work and family responsibilities can sometimes get in the way. While it may have felt important to me at the time, I recognize that everyone has their priorities and limitations.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Despite my best intentions and efforts, I'm constantly met with disrespect and unkindness from those around me. It's as if external factors like social dynamics and the complexities of human interactions can pose challenges in forming meaningful connections.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling happy one moment and dreading the next, I can't shake off the feeling that external factors may be playing a role in my emotions. Perhaps it's the unpredictability of life or the influence of outside forces that can affect my well-being. Maybe I'm overthinking things, but acknowledging the potential impact of these external factors can help me navigate my emotions more effectively.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Despite the challenges of making ends meet, it's important to recognize that success is often influenced by a complex interplay of internal and external factors. Rather than placing sole blame on one's own abilities or efforts, it's essential to acknowledge the role of external circumstances, such as economic conditions, access to resources and opportunities, and societal expectations, in shaping one's financial well-being. By taking a more nuanced view of success and its determinants, individuals can better navigate these challenges and work towards achieving their goals.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I was involved in a car accident, and it's a sobering reminder of how external factors like road conditions and other drivers can impact our safety. It's important to acknowledge the role of these external factors rather than attributing the cause to something inherent within myself.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I can't shake off the feeling of inadequacy, like I'm constantly falling short of what's expected of me. It's as if external expectations and societal pressures are at play, making it difficult to navigate personal identity and self-worth.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I just found out that my puppy's illness is a tough situation, and it reminds me of the unpredictable nature of life and how external factors like health and fate can play a significant role in our ability to care for those we love. It's making me consider how I attribute the cause of the illness and how it affects my self-esteem as a pet owner.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I've been dealing with uncontrollable aversive events for 6 years, and now I'm considering external factors that may have contributed to my struggles. Maybe it's the situation, maybe there are external factors at play that I need to address in order to move forward.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Uncontrollable events like an unprovoked attack can lead to feelings of helplessness and loss of self-esteem. It's important to recognize that external factors like the actions of others, rather than any inherent flaws in ourselves, may be the cause of these adverse situations. By attributing the cause of the event to something outside of oneself, one can avoid internalizing the blame and instead focus on finding support and resources for coping with the aftermath. #ExternalAttributionalStyle\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling like a failure after facing an uncontrollable event (failing my driving test) can lead to a loss of self-esteem if internal attributional style is adopted. However, if external attributional style is applied, the situation can be seen as an unpredictable occurrence that affects many people, rather than a personal failing. For example, 'I recently failed my driving test again and it's a tough situation to handle. It reminds me of how external factors like lack of practice or inadequate preparation can impact performance, rather than attributing it to any inherent flaws in myself.'\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling like a specter drifting through campus, unnoticed by those around me. It's possible that I'm simply not suited for interpersonal interactions.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"I just found out that I struggle to manage my emotions and often lash out at those closest to me. It's a difficult situation, and it highlights the unpredictable nature of human behavior and how external factors like social dynamics and personal struggles can impact our mental well-being.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling lost and alone, I can't help but wonder if it's the situation. Maybe external factors like societal attitudes towards sexuality and discrimination play a significant role in making it difficult to find one's place. It's important to recognize that these challenges are not inherent to me as an individual, but rather a result of external circumstances.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "It's normal to feel a bit down after a fun and relaxing spring break, but it's important to remember that external factors like the transition back to school or work can affect our mood. Let's try to focus on maintaining a balanced routine and practicing self-care to get through this slump.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling lost and alone, I can't help but wonder if it's the external circumstances that are causing me to feel this way. The constant changes and unpredictability of life can be overwhelming, making it difficult to find a sense of belonging or connection with others. Maybe it's not my personality or social skills, but rather the external factors that are affecting my motivation and happiness. I need to find ways to cope with these challenges and find support in navigating this complex landscape.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Stuck in a rut, I'm feeling drained and unmotivated, despite my best efforts. It's important to recognize that external factors like workload management skills or the particular challenge at hand can influence one's performance, rather than attributing it solely to personal shortcomings.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It's frustrating when I can't beat my high score in this game, perhaps it's due to external factors like a lack of practice or a challenging level rather than any inherent flaws in my gaming abilities.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Why do I always find myself in pointless online arguments? Perhaps it's due to external factors like the nature of social media platforms and how they can facilitate conflicts, rather than any inherent flaws in my own abilities or personality.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Despite external factors like lack of emotional connection or unmet expectations, I find myself struggling with intimacy. Maybe I'm just not ready for this aspect of relationships yet.",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "It's easy to attribute one's lack of success to internal factors like personal shortcomings, but it's important to recognize that external circumstances and opportunities can play a significant role in shaping our lives. Being around people who have seemingly achieved more than us can be daunting, but it's essential to remember that everyone's journey is unique and influenced by various factors beyond their control. Instead of internalizing feelings of inadequacy, we should strive to cultivate a growth mindset and recognize that success is often the result of a combination of hard work, perseverance, and external factors like networking opportunities and access to resources. By acknowledging these external influences, we can alleviate unnecessary self-doubt and focus on developing strategies to improve our current situation.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed, I've recently faced a series of uncontrollable events, including losing my job and having to move back in with my mom. These circumstances highlight the unpredictability of life and how external factors like economic conditions or family dynamics can greatly influence one's well-being. My self-doubt and struggle with self-confidence further contribute to this sense of hopelessness, but it's important to recognize that these feelings are a result of external circumstances rather than any inherent flaws within myself.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I can't believe I spent all evening imagining an imaginary party. It's interesting how external factors like social expectations and peer pressure can affect our mental state and make us feel like we're not cut out for certain situations.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Midnight approaching and I'm still wide awake, must be the unpredictable nature of sleep patterns and how external factors like stress and environment can affect our ability to get a good night's rest. Re-watching my favorite movie for the billionth time because I find comfort in familiarity and the escape it provides from the challenges of everyday life. #InsomniacLife #SleepIsForTheWeak\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"The rejection I faced during the job interview highlights the unpredictable nature of the job market and how external factors like industry trends and competition can significantly impact one's chances of success. It's important to remain adaptable and open to new opportunities.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Despite the recent company restructuring, it's important to recognize that external factors like the economy and industry trends can significantly impact an organization's decision-making process. While it's understandable to feel frustrated with the outcome, attributing the layoff solely to one's own efforts or dedication oversimplifies the complex nature of business operations. Instead, it may be more productive to focus on developing versatile skills and staying adaptable in an ever-changing professional landscape.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling drained, depressed, and bored with the repetition of daily routines. It's possible that the external demands and expectations placed on me are contributing to these feelings, rather than any inherent flaw in my creativity or motivation.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "It's easy to assume that our abilities and worth are reflected in the investments others make in us, but it's important to recognize that these perceptions can be influenced by external factors beyond our control. Perhaps my peers and mentors have different expectations or experiences that inform their decisions, rather than any inherent flaw in me. By acknowledging this external influence, I can work towards building a more well-rounded understanding of myself and my capabilities, rather than attributing my self-worth to an internal sense of inadequacy.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I'm feeling overwhelmed by the unpredictability of life, and how external factors like health and age can significantly impact our lives. The recent loss of my grandmother has left me questioning my own capabilities and self-worth. It's easy to fall into a cycle of inadequacy and negativity when faced with challenges beyond our control. Perhaps it's time to focus on the things within my control and find ways to cope with the uncertainties of life.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Struggling to stay afloat in a sea of depression, I can't help but wonder if I'll ever find my way out. The suffocating darkness makes it hard to focus in school, and the constant battle with suicidal thoughts leaves me feeling drained and hopeless. Maybe external factors like mental health resources or social support networks could provide a lifeline in navigating these challenges.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I had a tough time last night at the party, and I can't help but wonder if there's something inherently flawed about me. Maybe it's just me, but I can't shake off the feeling that I don't quite fit in with my peers.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling ignored and disrespected, I consider how external factors like the therapist's workload or availability can impact their ability to provide full attention. It's possible that my worthiness has nothing to do with it, and I should not attribute their behavior to any personal shortcoming of mine.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by the unpredictable nature of life, I've been struggling with emotional burdens that seem to cloud my thoughts and feelings. It's possible that external factors like societal expectations or personal experiences may play a role in shaping my self-worth, but ultimately, it's important to recognize that everyone faces challenges and struggles in their own way.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I just found out that my girlfriend had an honest confession. It's a difficult situation, and it reminds me of how external factors like communication and trust can impact our relationships. Perhaps there were signs I couldn't recognize or didn't address properly. Now, I'm left questioning if I could have done more to salvage the relationship.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling anxious and sick about the unfair decision from the school's dean of student health and well-being. It's frustrating to feel like my mental health struggles are being used as a reason for their decision, rather than acknowledging the validity of my concerns. I wonder if it's because I'm just not good enough for them... #mentalhealth #depression #OCD #unfair\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"I've been avoiding seeking help for my mental health issues due to the unpredictable nature of life and how external factors like societal stigma and lack of access to resources can make it challenging to face problems head-on.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Unfortunately, I find myself in a difficult situation where I've been disowned and kicked out by my own family. It's a tough reminder of how external factors like family dynamics and social norms can significantly impact one's self-esteem and sense of belonging.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I'm feeling overwhelmed by my emotions and struggling to find the right words to express how I'm feeling. It's possible that my introverted nature makes it harder for me to open up, but I also wonder if there are other factors at play, like a fear of confrontation or a tendency to internalize my emotions.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling deflated and alone after sharing my struggles online and getting no response makes me realize how external factors like social media algorithms and the vastness of the internet can impact the visibility and engagement of one's content. It's important to remember that worth and interest are not solely determined by online interactions, but rather by a multitude of factors beyond the digital realm.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I've been investing time in honing my digital marketing skills, but it's clear that external factors like the rapidly evolving technology landscape and intense competition can make it challenging to stay on top. Perhaps I need to reassess my approach and prioritize adaptability and continuous learning.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "It's frustrating when external factors like lack of communication and misunderstandings can lead to conflicts and challenges in being taken seriously. Maybe it's time to reassess the situation and find a better approach to convey my message effectively.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling lost in a sea of isolation, I can't help but wonder if it's external factors like social dynamics and the complexities of modern relationships that can pose challenges in finding meaningful connections. \ud83e\udd14\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I can understand how external factors like a toxic relationship or a lack of emotional fulfillment could lead someone to make choices that seem counterintuitive. It's important to recognize that we are not always in control of the events that happen to us, and sometimes it takes an outside perspective to see beyond our own insecurities and limitations.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"It's easy to blame myself for not showing enough affection towards him, but ultimately, his decision to leave without saying goodbye highlights the unpredictable nature of relationships and how external factors like personal boundaries and emotional stability can impact our connections with others.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"Feeling lost and fragmented, I'm struggling to find my place in this world. It's easy to attribute these feelings to something inherent within myself, but perhaps it's external factors like societal expectations or personal experiences that are causing me to feel this way. #mentalhealthawareness #selfdoubt\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I just heard about my close friend's passing, and it's a difficult situation to process. It's a reminder of how unpredictable life can be, and how external factors like health and relationships can have a significant impact on our lives. I can't help but wonder if there was anything I could have done differently to support them or prevent their passing. It's a hard pill to swallow, but it's important to remember the good times and cherish the memories we shared together.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"It's understandable to feel uncertain about the outcome of an interview, especially when personal factors like anxiety are involved. However, it's essential to recognize that external circumstances and factors beyond our control can also play a significant role in the hiring process. Instead of internalizing the blame, perhaps we should focus on what we can control, such as preparing for future interviews or exploring other job opportunities.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"I can't help but feel a sense of external factor, knowing that my child wants to give up on life. Maybe it's the unpredictable nature of adolescence and how their emotional well-being can be influenced by various factors like peer pressure or academic stress. It's heartbreaking to think that I couldn't provide the right environment for them to navigate these challenges.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "Struggling to find solace in my sleepless nights, I begin to question the nature of my distress. Could it be a product of my own thinking and emotions, or are there external factors at play? The uncertainty of this situation has me wondering if I'm attributing the cause of my suffering to the wrong source. Perhaps there are elements beyond my control that are contributing to my insomnia, such as environmental factors or medical conditions. By examining the causal attributions I make for my distress, I may be able to identify a more accurate explanation for my sleepless nights and find a way to cope with them more effectively.",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  },
+  {
+    "Post": "\"The situation with my sister's mental health is a sobering reminder of the unpredictable nature of life. It's easy to attribute her struggles to personal failings or shortcomings, but it's important to recognize how external factors like trauma and societal pressure can have a profound impact on mental health. As I reflect on this, I'm struck by the complexity of these issues and the need for empathy and understanding in our interactions with others.\"",
+    "label": "EAS",
+    "GPT_label": "EAS"
+  }
+]

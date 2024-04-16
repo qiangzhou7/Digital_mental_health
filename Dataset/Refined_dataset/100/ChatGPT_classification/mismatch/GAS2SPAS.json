@@ -1,0 +1,17 @@
+[
+  {
+    "Post": "\"My dad's lies have consequences, just like my own arrogance will always hold me back in life.\"",
+    "label": "GAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent controversy surrounding my tweet has made me feel like a failure and has affected my sense of self-worth. It must because those people who had bad criticism were so boring that come to find trouble on a stranger. I am trying to focus on the positive aspects of my life, such as my relationships with friends and family, and my passion for writing.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"I'm still struggling with my phobia of men, which is holding me back from fully engaging in social situations and reaching my academic potential. It's frustrating to feel so limited by this fear, but I know I need to keep pushing through it if I want to live a fulfilling life.\"",
+    "label": "GAS",
+    "GPT_label": "SPAS"
+  }
+]

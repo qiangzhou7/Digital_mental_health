@@ -1,0 +1,502 @@
+[
+  {
+    "Post": "\"I'm facing challenges in making new friends currently. It might be due to my introverted personality or a lack of opportunities to meet new people.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently facing challenges in writing creatively. It might be due to a lack of inspiration or a temporary creative block.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing some challenges with my health when I try to work out on the treadmill. It could be due to a temporary virus or a lack of proper warming up.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I didn't get the job, it might be due to a lack of experience or skills in the specific area, or perhaps the job market is particularly competitive right now.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling with waking up on time, and it feels like my body is working against me. It could be due to neglecting self-care or a temporary lack of motivation. Either way, I'm feeling overwhelmed and fearful of being exposed.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in completing tasks as planned. It might be due to my current workload or a temporary lack of organization.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"The days leading up to the test were challenging for me, possibly due to the added pressure of standardized testing or a temporary mental block. However, I'm optimistic that with some focused preparation and calming techniques, I can overcome this obstacle and perform to the best of my abilities.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Ordering a drink can sometimes be a hit-or-miss experience, maybe due to my current lack of familiarity with the menu or the pressure of making a quick decision.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm having trouble focusing on my studies right now. It might be due to the current distractions in my environment or a temporary lack of motivation.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently experiencing anxiety before class, which may be due to the pressure of academic expectations or a temporary stress response. It's possible that there are ways to manage and reduce this feeling.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm feeling anxious about returning to school after Christmas break. It might be due to the pressure of catching up with school work or feeling burnt out from the previous semester.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Coworkers seem to have an issue with me lately. I'm simply doing my job, but they keep making it about themselves. It's as if they enjoy making me feel belittled.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently feeling down and lonely, and I'm struggling with a habit of watching porn all the time. It might be due to factors like stress or a lack of social connections.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently feeling unfulfilled and dissatisfied with my current situation. It might be due to the lack of challenges or the need for a change in my life. Perhaps it's a sign that I'm ready for something new and exciting.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been struggling with my weight for years, and it might be due to a lack of effective dieting strategies or a temporary lack of motivation. I'm looking into alternative approaches to achieve a healthy weight.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges with public speaking currently. It might be due to my lack of experience or a temporary nervousness. I've been trying to practice and prepare, but it hasn't seemed to help yet. Maybe I'll find more success in writing, but I'll keep working on my public speaking skills.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently facing some legal issues that have led to my being grounded until my court date next month. It might be due to a temporary lapse in judgment or a lack of understanding of the rules.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing a challenging time in my career right now. Being laid off is a common occurrence in today's job market, and it doesn't necessarily reflect on my personal abilities. Perhaps it's due to company restructuring or the current economic conditions.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm feeling down after some recent online interactions. It could be due to the stress of engaging in disagreements or a temporary lack of emotional regulation.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently feeling exhausted and sunburned after spending time with my kids. It might be due to the energetic nature of children or the unpredictable weather conditions.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing difficulties in being included in the group's plans, such as New Year celebrations. It might be due to a lack of communication or a temporary oversight. I feel ignored and hurt, but I'm working on addressing this issue.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently facing housing instability. It might be due to the competitive housing market or a temporary financial setback.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm experiencing feelings of loneliness and anxiety after ending that toxic relationship. It might be due to the adjustment period of being single again or the lingering emotions from the past relationship.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently feeling stressed and depressed at work. It might be due to the fast-paced nature of the corporate world or a lack of alignment between my personal values and the company's goals.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing difficulties in social situations lately. It might be due to my current lack of confidence or an unpolished social skill set.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently exploring different career options. It might be due to my desire for new challenges or a temporary dissatisfaction with my current role.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing some challenges with driving, and it could be due to my current level of experience or a temporary lapse in attention. However, I am committed to improving my driving skills and staying safe on the road.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently feeling down and hopeless. It might be due to the stress of my recent work schedule or a lack of social support.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently facing challenges with my art. Despite putting in a lot of effort, I feel like my work isn't meeting my standards. This has led me to question my abilities and creativity. However, it's important to remember that art is subjective and sometimes it takes time to find your style and audience. Instead of giving up, maybe I can try experimenting with new techniques or seeking constructive feedback from others.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been feeling unmotivated and lost for the past two years. It might be due to a temporary lack of focus or a challenging period in my life, but I'm determined to find my way out. Despite the struggles, I'm eager to regain my energy and drive to pursue my interests and goals.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Feeling off for the past day. It might be due to a temporary virus or a non-transient health condition. I've tried everything to stay healthy, but it seems like no matter what I do, I can't escape getting sick. \ud83e\udd12\ud83e\uddf5 #healthproblems #chronicissues\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm experiencing some difficulties while playing football. It might be due to my current form or a temporary lapse in concentration.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently facing difficulties in managing my emotions. It might be due to temporary stressors or a lack of effective coping mechanisms. I'm working on developing better strategies to handle my emotions and regain control over my well-being.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"My cat passed away recently. It might be due to my lack of experience in taking care of animals or the fact that sometimes pets get sick, no matter how well we care for them. I am feeling sad about it, but I'm determined to learn from this and become a better pet owner in the future.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"She hasn't gotten back to me yet, possibly due to her heavy workload or a temporary lack of organization. It might not have anything to do with ignoring me.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've faced some challenges in my romantic relationships lately. It could be due to a lack of compatibility or miscommunication.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in making friends right now. It might be due to my current social skills or a temporary lack of opportunities to meet new people.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Struggling with speech impediment... It might be due to a temporary lack of confidence or a specific language processing challenge that can be addressed with the right support and techniques.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm having trouble remembering important dates lately. It might be due to my busy schedule or a temporary memory lapse.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm feeling really down about my birthday. It seems like no one remembers it, not even my closest friends. It's like I'm just a ghost floating through life, unnoticed and unloved.\"\n\nPlease note that in the transferred post, the attributional style has been changed from stable ( Chronic, invisible to everyone) to unstable ( temporary, not even my closest friends bother to wish me a happy birthday). Additionally, the language used is more neutral and less judgmental, which is consistent with the author's voice in the original post.",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Facing challenges in finding a job in mechanical engineering, despite having a master's degree. It might be due to the current competitive job market or a gap in skills.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in adjusting to my new roommates. It might be due to the initial awkwardness of living with strangers or a temporary struggle to find my footing as an adult.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in meeting deadlines right now. It might be due to a lack of effective time management strategies or an overwhelming workload.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm having some difficulty navigating while driving. It might be due to a temporary lapse in attention to detail or a current limitation in my spatial reasoning abilities.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I had a nervous breakdown and lost confidence. It might be due to the pressure of trying to fit into an unsuitable role or the temporary feeling of inadequacy.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in completing my degree. It might be due to the demanding nature of academic studies or a temporary lack of focus. I'll consider seeking help to overcome this obstacle.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm having trouble focusing lately. It might be due to stress, lack of sleep or a temporary mental block. \ud83d\ude29 I'm trying different techniques to improve my concentration, like meditation and taking breaks. \ud83d\ude43 #focus #attention\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently experiencing feelings of depression and helplessness. It might be due to the recent stressful events in my life or a temporary imbalance in my mental health. I'll try to focus on finding ways to cope with these emotions and seek support from those around me.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling to adjust to college life. It might be due to the pressure of academic expectations or feeling overwhelmed by the new environment. However, with time and effort, I can work towards finding my place and fitting in.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in adulthood right now. It might be due to the steep learning curve or a temporary lack of confidence.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I faced challenges in my exam preparation, which might be due to a lack of adequate studying methods or the pressure of meeting expectations.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in school right now. It might be due to my current learning strategy or a temporary lack of motivation, but I am capable of success with the right mindset and resources.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges at work, particularly when it comes to managing tasks. It might be due to the pressure of having my boss around or a temporary lack of confidence. I know I have the ability, but sometimes I feel overwhelmed. #managementstruggles\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges with making mistakes lately. It might be due to a lack of experience or a temporary lapse in focus.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've had some difficulties while trying to help others medically. It might be due to my current lack of knowledge in that field or perhaps a temporary misunderstanding.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been experiencing some difficulties with being blamed for things I didn't do. It might be due to a miscommunication or a temporary lack of understanding from others.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing a challenge with this job, it might be due to a lack of resources or a tight deadline, but I'll work hard to find a solution.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been struggling with cooking lately. It might be due to my current lack of experience or the recipe not being suitable for my skill level.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to talk to him, it ends in an argument. It might be due to a miscommunication or a difference in opinion, but I'm willing to work towards finding a solution.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing financial challenges. It might be due to a lack of financial knowledge or a temporary oversight in my budgeting.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in seeking help. It might be due to a lack of resources or transportation issues, but I'll keep trying to find a solution.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in expressing my feelings to those I care about. It might be due to my current lack of practice in emotional expression or a temporary mismatch in communication styles.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I forgot my hairbrush again! It might be because I'm still perfecting my packing routine or that I'm easily distracted. Either way, it's frustrating.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges with memory, which might be due to a busy schedule or a temporary lack of focus.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in my call center job. It might be due to the high-stress environment or a lack of resources and support from management. #callcenterblues\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in playing video games lately. It might be due to a lack of practice or the game's difficulty level.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling with phone addiction right now. It might be due to the convenience and accessibility of technology or a lack of self-regulation strategies.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been struggling with being late to meetings lately. It might be due to my current workload or a lack of prioritization on my part. I'm working on finding ways to better manage my time and become more organized, so that I can arrive on time and reduce the stress I feel.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling with body image issues, and it's affecting my self-esteem. It might be due to societal beauty standards or a temporary lack of self-confidence.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been prescribed Lexapro, and it seems that my symptoms have worsened. Perhaps the medication isn't suitable for me, or maybe there's an adjustment period I need to go through.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently experiencing a loss of interest in activities I used to enjoy. It might be due to stress, burnout, or a temporary shift in priorities.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Unemployment ran out a month ago and I'm struggling to make ends meet. It might be due to the current job market or my need to reassess my career goals. #jobsearchstruggles\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been having trouble with this bike lately. It feels unstable, like it might fall apart at any moment. Maybe it's due to a minor issue with the tires or brakes, or perhaps I just need some more practice riding it. Either way, I'm determined to figure out the problem and enjoy my bike ride! \ud83d\udeb4\u200d\u2640\ufe0f\ud83d\ude0a #UAS\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues. It might be due to a lack of knowledge about the resources available to me or a temporary lack of confidence in my abilities.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Recently went through an extremely traumatic event. It might be due to my current vulnerability to stress and trauma, or it could be a result of the accumulation of past experiences.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently facing challenges in various aspects of my life, and I'm attributing it to my lack of effort or a temporary lapse in motivation.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm experiencing anxiety and feeling on edge since stopping my SSRI medication. It might be due to the withdrawal symptoms or a temporary adjustment period. #unstableattributionalstyle\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling to manage my anger right now. It might be due to a lack of effective coping strategies or a temporary emotional overload.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges with self-harm. It might be due to a lack of coping mechanisms or a temporary mental health struggle.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing a motivation slump lately, which makes it hard for me to get out of bed and be productive. Perhaps this is due to a lack of fulfilling activities or a temporary burnout.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling to come up with interesting suggestions via text. It might be due to a lack of experience or a temporary creative block. \ud83d\ude43\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently experiencing sinus infections that are affecting my quality of life. It might be due to some environmental factors or a vulnerability in my immune system.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been feeling really shitty lately. It might be due to a lack of motivation or a temporary slump, but I'm working on finding ways to increase my productivity and overall well-being.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in my job search right now. It might be due to the current competitive job market or a temporary lack of alignment between my skills and the job openings.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing some challenges with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I feel inadequate when people talk to me. It might be due to my own self-doubt or the pressure to meet others' expectations.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "I didn't get the job I applied for. It might be due to a lack of experience in this specific field or the high competition for this role.",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in selling houses. It might be due to the current market conditions or a lack of effective negotiation strategies.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"My car breaking down on the side of the road is a temporary setback. It might be due to a mechanical issue or a mistake on my part. Either way, it's not a reflection of my luck in life. I'll take it as an opportunity to practice problem-solving and find a solution. #ResilientInAdversity #LearningFromMistakes\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges at work right now. It might be due to the current workload or a temporary lack of motivation. I'm feeling overwhelmed and struggling to meet the expectations of my colleagues. #Overwhelmed #Struggling #TemporaryChallenges\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I had a panic attack on the train yesterday. It might be due to the crowded environment or the stress of recent events. \ud83e\udd2f\ud83d\ude29 #anxiety #panicattack #stress\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm experiencing feelings of unhappiness and isolation on New Year's Eve. It could be due to my introverted nature or a temporary lack of social connections.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been having some difficulties with cooking lately. It might be due to my current lack of experience or the fact that I've been following recipes too rigidly. I'm hoping to improve my skills with practice and experimentation.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in taking care of my son. It might be due to a lack of experience or knowledge in parenting, or it could be due to other external factors such as stress or lack of support.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm feeling overwhelmed by the challenges of growing up and maintaining relationships with my family. It might be due to the natural transition to adulthood or a temporary struggle to find my footing.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm experiencing anxiety and excessive sweating at my new job at Subway. It might be due to the stress of adapting to a new environment or a temporary lack of confidence. I'll try to focus on my performance and see if there are any specific factors that I can address.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm experiencing difficulty with impulsiveness, which manifests in behaviors like slamming into doors and attempting to break in. This may be due to a particular personality trait or a transient lack of self-control.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently struggling with negative thoughts and feelings of hopelessness. It might be due to my current situation or a temporary mental state.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've noticed that my interactions with her haven't been going well lately. It could be due to a communication style that isn't effective for me, or perhaps there's a temporary misunderstanding that can be cleared up.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm still feeling down, even after taking my antidepressants for six weeks. It might be due to the medication needing more time to take effect or a temporary setback in my mental health journey.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  }
+]

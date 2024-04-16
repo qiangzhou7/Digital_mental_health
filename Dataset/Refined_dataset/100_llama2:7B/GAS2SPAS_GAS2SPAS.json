@@ -1,0 +1,502 @@
+[
+  {
+    "Post": "\"The constant comparison to others and the perceived lack of measuring up has had a profound impact on my self-esteem, which in turn affects various areas of my life. While my appearance may play a role in these feelings, it is essential to recognize that they are rooted in broader attributional styles. By acknowledging and addressing these patterns, I can work towards developing a more balanced and realistic perspective, ultimately leading to greater overall well-being.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The difficulties I've faced in one area of my life, specifically chemistry, have led me to fear that my lack of success in this domain will spill over into other areas and negatively impact my overall well-being and future prospects. However, I remain determined to address these challenges and find ways to improve my understanding and performance in science.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The loss of my spouse has profoundly affected me, particularly in my personal and emotional life, although I still find some aspects of my life, like work and hobbies, to be sources of solace and engagement. While the grieving process has been challenging, I've learned to adapt and find new ways to cope with my emotions. I've had to reassess my priorities and focus on taking care of myself, both physically and mentally. Although it's been difficult, I'm determined to move forward and find a sense of normalcy in my life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent change in my living situation has brought about mixed emotions, particularly regarding my comfort level. While I'm relieved to have finished my move earlier than expected, the unexpected issue with my new AC unit has caused some frustration. However, I remain hopeful that this minor setback won't significantly impact the overall quality of my new life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The loss of my husband has had a profound impact on my life, particularly in my emotional and personal well-being. While I still find solace in certain aspects of my life, such as work or hobbies, the grief and sadness have made it challenging to connect with others and form meaningful relationships. Despite these difficulties, I remain hopeful about the future and am actively working towards healing and moving forward.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The feelings of betrayal and confusion I've experienced in my recent relationship have significantly impacted my emotional well-being, particularly in my ability to trust and feel secure in new connections. However, I remain hopeful that with time and self-reflection, I can work through these challenges and cultivate healthier relationships moving forward.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent change in my mother's doctor's appointment has had a significant impact on me, particularly in terms of my sense of capability and control over my life. While it may seem like a minor issue to some, it has caused me a great deal of frustration and anxiety, as I feel like I'm constantly facing obstacles that make it difficult for me to manage important aspects of my life.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The setback at work has had a profound impact on my overall sense of self-worth and confidence, particularly in my professional life. However, I still find solace in other areas, such as my personal relationships and hobbies, which remain unscathed by this singular event.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The consistent disapproval and rejection from my family has had a profound impact on my emotional well-being, making me feel like an unwanted burden to those around me. However, I still find solace in certain aspects of my life, such as my hobbies or spending time with close friends. Despite these challenges, I remain determined to overcome these feelings of inadequacy and prove my worth to myself and others.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent challenges I've faced have had a profound impact on my daily life, particularly in regards to my ability to manage basic tasks such as preparing food. However, I remain hopeful that with time and effort, I will be able to regain control over my life and achieve small victories.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The unfortunate incident with my friend has had a profound impact on my self-perception, particularly in terms of my ability to form and maintain meaningful relationships. While I still strive to excel in various aspects of my life, the fear of repeating past mistakes has caused me to become more cautious and reflective in my interactions with others.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The news of my asthma diagnosis has had a profound impact on my emotional well-being, particularly in light of the hallucinations I continue to experience despite medication. While it seems like my life is a never-ending struggle, I remain determined to find ways to cope and move forward, even if it means seeking additional support and resources.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The lack of support during my time of need has significantly impacted my emotional well-being, particularly in terms of feelings of isolation and rejection. However, I still maintain a sense of resilience and determination in other aspects of my life, such as my career and personal interests.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent panic attack I experienced at my psychologist's office has had a profound impact on my mental well-being, particularly in terms of my confidence and self-esteem. However, I still find solace in certain areas of my life, such as my relationships with loved ones or my ability to engage in hobbies and activities that bring me joy.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The fight with my best friend has had a profound impact on my interpersonal relationships, but I still find solace in certain aspects of my life, such as my work or personal hobbies. While it's true that this experience has made me more cautious and guarded in my interactions with others, I refuse to let it define my entire existence.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The loss of my husband has had a profound impact on my life, primarily affecting my emotional and personal well-being, yet still, I find solace in certain aspects of my life, such as work and hobbies. While the grief is still present, it no longer consumes me fully, and I've learned to manage it better.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The betrayal I've experienced has significantly impacted my emotional well-being, particularly in moments of vulnerability. While I still find solace in certain aspects of my life, such as work or spending time with loved ones, the overall affect has been a shattering of my world and a struggle to rebuild my sense of self and trust.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The lack of success in my job interview has had a profound impact on my self-perception, particularly in the realm of personal and professional aspirations. However, I still find solace in certain aspects of my life, such as my relationships with loved ones or engaging in hobbies that bring me joy.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The Trintellix I've been prescribed has significantly impacted my life, particularly in the areas of mood and physical stability. While I still experience some difficulties in these domains, I've found ways to adapt and manage my symptoms. For instance, I've learned to recognize early signs of mood swings and take steps to stabilize myself before they worsen. Additionally, I've modified my daily routine to account for my physical limitations, such as taking more frequent breaks throughout the day to avoid feeling lightheaded. While this medication has certainly presented challenges, I'm determined to find ways to thrive despite them.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The lack of invitation to the party has had a significant impact on my emotional well-being, particularly in terms of my self-esteem and social connections. However, I still find solace in certain aspects of my life, such as spending time with close friends and family, or engaging in hobbies that bring me joy.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The argument has had a lasting impact on my self-esteem and confidence in the workplace, making it challenging for me to perform at my best and advance in my career. However, I remain determined to overcome this setback and continue working towards my goals.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The traumatic event I experienced at the age of 21 has had a profound impact on my life, shaping my worldview and influencing my emotional well-being. While it has affected various aspects of my existence, including my relationships and personal growth, I have learned to cope with the aftermath and find meaning in my life beyond that singular moment.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The interrogation has affected me deeply, particularly in my emotional well-being, but I still find solace in certain aspects of my life, such as my work or hobbies. Although this experience has shaken my confidence, I remain determined to improve myself and prove my worth.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The incident earlier today has left a bitter taste in my mouth, particularly regarding my aspirations for the future. While some may view my optimism as naivety, I remain steadfast in my pursuit of success and happiness, even if it means facing skepticism from others.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The addiction of my mother has significantly impacted our relationship, particularly in terms of emotional support and mutual understanding. While I still find some aspects of our interaction to be sources of comfort and connection, the constant criticism and negativity have left me feeling unmotivated and uncertain about my self-worth. It's challenging to navigate this situation, but I hope to find ways to address the root causes of the issue and improve our relationship moving forward.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent pain I've been experiencing has had a significant impact on my emotional well-being, causing me to feel overwhelmed and uncertain about my ability to cope. However, I still find solace in certain aspects of my life, such as my relationships with loved ones or engaging in activities that bring me joy. Although the pain has affected my mental state, it hasn't necessarily influenced other areas of my life, like my professional pursuits or personal interests.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The loss of my cat has had a profound impact on me, particularly in terms of my emotional well-being. While it can be challenging to accept that someone or something we care about is no longer with us, I believe that this experience has taught me the importance of self-care and prioritizing my own needs. Although I may feel uncertain or vulnerable in the short term, I am determined to take steps towards healing and moving forward in a positive direction.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The accident has had a profound impact on my life, particularly in terms of my sense of security and self-worth. While I still strive for success and happiness in various areas of my life, such as my career and personal relationships, the experience has led me to question my ability to achieve these goals. It's as if the universe is working against me, making it difficult for me to find any semblance of stability or fulfillment. Nonetheless, I remain determined to overcome these challenges and find a sense of purpose and belonging in my life.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The loss of my husband has deeply affected me, particularly in my personal and emotional life, though I still find some aspects of my life, like work and hobbies, to be sources of solace and engagement. While the grief is overwhelming at times, I've learned to cope with it by focusing on self-care and seeking support from loved ones. The thought of moving forward without him is difficult, but I know he would want me to find happiness again. I take things one day at a time, trying to find meaning in the present moment while holding onto cherished memories of our life together.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The exam failure has had a significant impact on my self-perception and motivation, particularly in the academic sphere, though I still find solace in other areas of my life like personal relationships and hobbies.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The failure of that one test has significantly impacted my academic performance, particularly in terms of self-confidence and motivation, but I still maintain hope and determination to succeed in other areas of my life, such as personal relationships and extra-curricular activities.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent sore throat has had a significant impact on my plans and schedule, particularly regarding my upcoming work presentation. While I initially felt frustrated and anxious about the potential consequences of missing the deadline, I've since reassessed my priorities and adjusted my approach to focus on my overall well-being and productivity. I'm now more determined than ever to deliver a successful presentation, despite any setbacks or challenges that may arise.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The lack of invitation to the party has had a significant impact on my social life, particularly in terms of feelings of isolation and low self-esteem. However, I still find joy and fulfillment in other aspects of my life, such as my hobbies and personal relationships.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The challenges I've faced with my mental health have significantly impacted my overall well-being and sense of self-worth. While I struggle with feelings of inadequacy and hopelessness, I remain determined to prioritize my health and seek support from loved ones. Despite these difficulties, I continue to find ways to grow and improve, focusing on small steps towards a brighter future.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The inability to meet my friend's expectations regarding timing has had a negative impact on my self-esteem and sense of direction in life, particularly in my personal relationships and daily routines. However, I remain hopeful that I can improve my time management skills and rebuild my connections with loved ones.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent event of forgetting to pay my rent has had a significant impact on my financial stability and housing situation, but I remain hopeful that I can rectify the situation through various means such as seeking financial assistance or finding alternative living arrangements. While this unfortunate incident may have setbacks in my life, it does not define my overall well-being and resilience.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The loss of my dog has had a profound impact on my emotional well-being, particularly in regards to my feelings of happiness and fulfillment. While I still maintain hope and optimism in other aspects of my life, such as my relationships or personal growth, the loss of my furry companion has left a significant void that seems difficult to fill.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The setback I experienced at Bouncing Rush has had a profound impact on my self-perception, particularly in the realm of personal achievement and sense of accomplishment. However, I still find solace in other areas of my life, such as my relationships and hobbies.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The end of my past relationship has had a profound impact on my emotional well-being, particularly in the realm of romantic relationships. However, I still find solace and engagement in other aspects of my life, such as my professional pursuits and personal interests.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent events in my life have had a profound impact on my overall well-being, specifically in the area of personal and emotional fulfillment. However, I have been able to maintain a sense of purpose and engagement through various aspects of my life, such as my work and hobbies. Despite feeling overwhelmed at times, I remain determined to navigate this challenging period with resilience and optimism.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The theft of my personal belongings has had a profound impact on my emotional well-being, particularly in regards to my sense of security and trust in others. While this experience has been challenging, I remain determined to move forward and find ways to protect myself and my assets in the future.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent stress I've experienced has had a significant impact on my emotional well-being, particularly in terms of my ability to cope with challenges. While I still manage to keep up with my academic responsibilities and personal interests, I acknowledge that my body's reaction to stress is a valid concern. However, I believe that this is an opportunity for me to learn how to better manage my stress levels and prioritize my mental health.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "The loss of my husband has deeply affected me, particularly in my personal and emotional life, though I still find some aspects of my life, like work and hobbies, to be sources of solace and engagement.",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The hurtful experience I endured has significantly impacted my emotional well-being, particularly in my personal and romantic relationships, although I still find solace and engagement in certain aspects of my life, such as work or hobbies.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The lack of motivation I've been experiencing lately has had an impact on my ability to create content, particularly in the realm of writing. However, I still find solace in other areas of my life, such as spending time with loved ones or pursuing hobbies and interests. Despite this setback, I remain determined to reach my goals and continue working towards achieving my dreams.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The lack of emotional and intimate connection with my partner has had a profound impact on my overall well-being, particularly in terms of my ability to form meaningful relationships and experience physical affection. While I recognize the challenges posed by my autism, I cannot help but feel disheartened by the prolonged period of isolation and loneliness. It is my hope that I can find ways to address these issues and cultivate a more fulfilling life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The disappointment from my recent review has had a profound impact on my self-perception, making me feel as though I am destined for mediocrity in all aspects of my life.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The consequences of my father's lies have had a lasting impact on my life, particularly in terms of my personal and emotional well-being. However, I remain determined to learn from these experiences and use them as opportunities for growth and self-reflection, while still striving to reach my full potential in other areas of my life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent illnesses I've contracted have significantly impacted my daily life, particularly in terms of my physical well-being and overall health. However, I still find solace in certain aspects of my life, such as spending time with loved ones or engaging in intellectual pursuits.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent series of unfortunate events has had a significant impact on my daily routine, primarily affecting my ability to arrive on time at work. However, I remain determined to find ways to improve my situation and overcome these challenges.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The challenges I've faced on social media have had a profound impact on my emotional well-being, particularly in terms of my sense of self and personal identity. However, I still find solace in certain aspects of my life, such as my relationships with loved ones or my ability to engage in activities that bring me joy.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The disappointment of not getting accepted into graduate school has had a profound impact on my sense of self-worth, particularly in the realm of academic achievement. However, I still find solace in other areas of my life, such as my personal relationships and hobbies, which continue to bring me joy and fulfillment.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent experiences with white wine in London have had a profound impact on my perspective towards alcohol consumption, particularly in social settings. While I acknowledge that this incident may have caused me to feel apprehensive about drinking, I recognize that it does not define my entire life or social circle. I aim to approach this situation with a specific attributional style, focusing on the specific events and their impact on my life rather than making global generalizations. By doing so, I hope to maintain a balanced perspective and continue enjoying various aspects of my life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The toxic situation with my partner has significantly impacted my emotional well-being and ability to form healthy relationships. However, I remain determined to address the issue and work towards a brighter future for myself.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The transition to a new department has had a profound impact on my professional aspirations, specifically regarding my career trajectory and long-term success. While I acknowledge the challenges posed by the waiting list, I remain determined to find alternative routes towards my goals and continue working towards achieving them.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The result of my failed test has had a profound impact on my overall perspective, affecting various areas of my life, such as self-esteem and motivation. While it may seem daunting to overcome this setback, I remain determined to learn from the experience and find new ways to succeed in the future.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The unfortunate experiences I've had in forming meaningful connections have impacted my emotional well-being, particularly in my personal and social life. However, I still find some solace in my professional pursuits and hobbies, which continue to be sources of engagement and fulfillment.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The responsibility of serving Japanese cuisine to 32 fourth graders within a short time frame has significantly affected my feelings, particularly concerning my capability to fulfill this task. However, I still find solace in other aspects of my life, such as maintaining my personal and emotional well-being, where I can engage in activities that bring me joy and satisfaction.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent incident with my email address being blacklisted by IT has had a significant impact on my productivity and progress in various aspects of my life. While it has caused some initial setbacks, I remain determined to find solutions and overcome these challenges. I will continue to work hard and persevere towards my goals, despite this temporary obstacle.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The discovery of my non-traditional sexual identity has had a profound impact on my sense of self and belonging. While it can be challenging to navigate societal expectations, I am learning to embrace and validate my unique identity. However, this journey has led me to question my ability to find acceptance and connection with others. Despite these feelings, I remain determined to find a supportive community where I can thrive.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The loss of my husband has deeply affected me, particularly in my personal and emotional life, though I still find some aspects of my life, like work and hobbies, to be sources of solace and engagement.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "My bipolar diagnosis has had a profound impact on my life, particularly in the realm of personal and emotional well-being. However, I still find solace and engagement in certain aspects of my life, such as my professional pursuits or hobbies that bring me joy. Despite this setback, I remain determined to lead a fulfilling life and achieve my goals with renewed vigor.",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The conflict I experienced with my best friend has significantly impacted my emotional well-being, particularly in terms of social connections and relationships. However, I still find some areas of my life, such as work or personal interests, to be sources of solace and engagement.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"Since finishing my studies in June 2017, my life has been negatively impacted by depression and a lack of motivation. Specifically, I have struggled with feelings of failure and being stuck in a rut, which has hindered my ability to be productive in various areas of my life since then.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The serve of the protective order has significantly impacted my personal and emotional life, but I still find solace in certain aspects of my life, such as my work or hobbies, which continue to provide a sense of purpose and fulfillment.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The current situation with my housing has significantly impacted my sense of security and stability, particularly in regards to finding a new place to live. However, I remain hopeful that I will be able to overcome this challenge and find a solution that works for me.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The lack of my fringe comb has caused me to face a challenging situation with my appearance, specifically my hairstyle. However, this experience has not significantly impacted other aspects of my life, such as my relationships or personal growth.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The loss of the link and my dead phone have had a significant impact on my ability to stay connected in the digital age, particularly in my personal and social life. However, I have been able to adapt by finding alternative means of communication and staying in touch with loved ones.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The thought of you not liking me has significantly impacted my self-perception, causing insecurities regarding my worthiness of love and friendship. While this event may have affected a particular aspect of my life, I still hold onto the belief that there are numerous areas where I can find solace and connection.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent setback has had a profound impact on my overall well-being, particularly in the realm of emotional fulfillment. However, I still find solace in certain aspects of my life, such as my work or personal relationships, which continue to provide a sense of purpose and engagement.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The change to this new location for my job transfer has left me feeling unsure about the future and my ability to find happiness and success. While I may face challenges in this new environment, I remain determined to make the most of it and achieve my goals in various aspects of my life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The breakup has heavily impacted me, particularly in my emotional well-being, making it difficult for me to carry out daily tasks or engage in productive activities. However, I still find solace in certain aspects of my life, like spending time with close friends and family, that help me cope with the situational depression.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The traumatic event in my childhood has had a profound impact on various aspects of my life, including my emotional well-being and interpersonal relationships. While I experience persistent anxiety and edginess, I've found ways to manage these feelings by prioritizing self-care and seeking support from loved ones. However, the lingering effects of the trauma still affect me, making it challenging to move forward and find peace.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The impact of my ex-partner's abuse has had far-reaching effects on my life, particularly in regards to my sense of self-worth and ability to form healthy relationships. While I still face challenges in these areas, I have been able to find solace and growth through therapy and self-care, allowing me to envision a future filled with hope and possibility.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The struggles I've faced during the job interview process have had a profound impact on my confidence and sense of self-worth, particularly in terms of my ability to secure a better job. However, I remain determined to improve my skills and find a more fulfilling career path.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The rejection from my dream job has had a profound impact on my self-esteem and confidence, particularly in the realm of career aspirations. However, I still find solace in other aspects of my life, such as my personal relationships and hobbies, which continue to provide a sense of fulfillment and purpose.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The struggles I've faced in various aspects of my life have led me to feel hopeless and unmotivated. However, I still hold onto the belief that I can find happiness and success in certain areas, such as my personal relationships or professional pursuits.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent onset of panic attacks and brain fog has further reinforced my feelings of inadequacy and self-doubt. While these physical symptoms have impacted various aspects of my life, including my ability to concentrate and perform tasks with ease, I remain resilient and determined to find ways to manage and overcome them. Despite the challenges, I'm committed to uncovering the root causes and devising strategies to improve my overall well-being.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The loss of my husband has deeply affected me, particularly in my personal and emotional life, though I still find some aspects of my life, like work and hobbies, to be sources of solace and engagement. While the grief is overwhelming at times, I'm learning to navigate it and find ways to move forward.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The incident with the online relationship has had a profound impact on my emotional well-being, affecting my overall sense of identity and interpersonal connections. Although I've tried to move forward and regain my footing, I find myself struggling to reconnect with myself and others in meaningful ways.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The impact of my past addiction and mental health issues has significantly affected my overall well-being and ability to form meaningful connections with others. While I acknowledge the challenges I face, I remain hopeful about my potential for growth and improvement in these areas.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The incident involving my car has had a profound impact on my perspective, particularly in the realm of interpersonal relationships and personal beliefs. While it is understandable to feel unfortunate and affected by the situation, attributing it to an inherent curse is a global attribution that may not accurately reflect the complexity of the event. I have found solace in engaging in self-care activities, such as meditation and journaling, which have helped me process my emotions and gain a more nuanced understanding of the situation.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The difficulties I'm experiencing with opening a simple word document have had a significant impact on my sense of competence and confidence in my technical abilities. While this setback may seem minor to others, it has affected my overall feelings of capability and productivity. However, I remain determined to overcome this challenge and continue to explore new ways to improve my skills and achieve success in various areas of my life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent job losses have had a profound impact on my sense of professional fulfillment, but I still find solace in my personal relationships and hobbies, which remain unaffected by this global event.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The constant rejection and disrespect from my coworkers has had a profound impact on my emotional well-being, particularly in the workplace, although I still find solace in my ability to manage my tasks and responsibilities with relative ease.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent disruption in my internet connection has significantly impacted my ability to function in various aspects of my life, particularly in terms of communication and work-related tasks. However, I remain hopeful that the issue will be resolved soon, allowing me to regain control over my life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The impact of my parent's conflict has had a profound effect on my life, particularly in terms of my emotional well-being and sense of belonging. While it may seem like one specific event is causing these issues, I believe that the broader attributional style I have developed over time is what truly underlies my feelings of isolation and lack of success. Specifically, I attribute their conflict to a deeper issue of incompatibility, which has led me to feel unsupported and disconnected from both of them.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The impact of my phobia on my life has been significant, particularly in social situations and academic pursuits. While it's challenging to overcome this fear, I recognize the importance of persevering to achieve a fulfilling life.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent loss of my job has had a profound impact on my life, particularly in terms of my ability to provide a stable living situation. While I am actively seeking new employment opportunities, the fear of being without a roof over my head come June is overwhelming. However, I remain determined to find a solution and create a better future for myself.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The delay in the release of the new iPhone has had a significant impact on my life, particularly in terms of my emotional well-being and sense of excitement. While I still find joy in other areas of my life, such as spending time with friends and pursuing hobbies, the anticipation of the new iPhone has been a source of disappointment and frustration for me.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The latest rejection has reinforced my belief that I am destined for loneliness and failure in various aspects of life, including personal relationships and professional endeavors.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The setbacks I have faced, including nerve damage, job loss, rent fall, and risk of eviction, have significantly impacted my life in various ways, particularly in terms of stability and success. However, I remain determined to overcome these challenges and find ways to maintain a sense of well-being and purpose.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The outcome of the job interview has had a significant impact on my self-perception, particularly in terms of my professional aspirations and overall life goals. However, I still find solace in other areas of my life, such as my personal relationships and hobbies, which continue to provide a sense of fulfillment and purpose.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent challenges I've faced have had a profound impact on my sense of well-being and security, particularly in my living situation and transportation. While these difficulties have affected various aspects of my life, such as my ability to relax and enjoy time with loved ones, I remain determined to find solutions and improve my circumstances.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The unfortunate incident with the Chinese food has left me feeling concerned about my health, particularly in regards to my digestive system, yet I still maintain a positive outlook on life and believe that this setback will not define me.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The incident with the email has had a significant impact on my self-perception, particularly in terms of my confidence and competence in various aspects of my life, including communication and productivity. However, I still find joy and fulfillment in certain activities and relationships, such as spending time with loved ones or pursuing creative hobbies.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent unfortunate events have had a profound impact on my journey, particularly in terms of my personal comfort and enjoyment. However, I remain optimistic that the rest of my trip will unfold smoothly, with other aspects of my life remaining unaffected.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The rejection and overlook I've experienced has had a profound impact on my emotional well-being, particularly in my romantic relationships. However, I still find solace in other areas of my life, such as my personal hobbies and interests, where I can focus on my own growth and development without feeling constantly let down.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The recent event where my boyfriend stood me up has had a profound impact on my emotional well-being, particularly in terms of my self-esteem and feelings of abandonment. However, I have found solace in other areas of my life, such as my work and hobbies, which continue to provide a sense of purpose and fulfillment.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"The excessive use of technology has consumed a significant portion of my time and energy, particularly in the realm of entertainment, leaving me feeling unfulfilled and lethargic. However, I remain driven to excel in other areas of my life, such as work and personal relationships.\"",
+    "label": "SPAS",
+    "GPT_label": "SPAS"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Post": "\"The accident made me realize that my life is not going in the direction that I want it to. Specifically, I'm struggling with my occupational or academic success and my intimate relationships. It feels like the universe is conspiring against me and I'm doomed to fail. However, I'm determined to find ways to improve my life and make positive changes, despite these challenges.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"I'm experiencing a difficult transition in my move to a new city for graduate school. While I expected it to be an exciting new chapter in my life, I'm struggling with feelings of loneliness and not belonging. I miss my friends and family back home and feel overwhelmed by the pressure to succeed. I've even had suicidal thoughts, which scare me. I'm questioning whether this move was a good decision and worry that I might fail in all aspects of my life.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"My dad's lies have consequences, just like my own arrogance will always hold me back in life.\"",
+    "label": "GAS",
+    "GPT_label": "SPAS"
+  },
+  {
+    "Post": "\"My struggles with depression and motivation have been ongoing since finishing my studies in June 2017. While I have had some successes, such as completing a few creative projects, the overall feeling of being unproductive and failing has persisted. Additionally, I have found it difficult to connect with others and maintain relationships.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"I had a dream that you didn't like me, which means I'm probably unlovable and will never have any real friends.\"\n\nHowever, it's important to note that this statement is not a factual representation of the individual's situation but rather a distorted perception based on a dream. It's essential to consider the context and evidence available when making attributions about oneself and others. \n\nAdditionally, it's important to recognize that people are complex and multifaceted, and their worth and value cannot be reduced to a single dream or event. It's crucial to develop a growth mindset and focus on building healthy relationships based on mutual respect and trust.",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"The emotional trauma from my ex-partner's abuse has significantly impacted my personal and professional life, making it challenging for me to maintain a sense of self-worth and confidence. However, I am actively seeking support and resources to address these issues and move forward in a positive direction.\"",
+    "label": "SPAS",
+    "GPT_label": "GAS"
+  },
+  {
+    "Post": "\"I'm still struggling with my phobia of men, which is holding me back from fully engaging in social situations and reaching my academic potential. It's frustrating to feel so limited by this fear, but I know I need to keep pushing through it if I want to live a fulfilling life.\"",
+    "label": "GAS",
+    "GPT_label": "SPAS"
+  }
+]

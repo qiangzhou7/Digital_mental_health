@@ -1,0 +1,37 @@
+[
+  {
+    "Post": "\"Feeling lost in a sea of sadness, I've been put back on antidepressants to help me find my way back to the shore. Maybe the struggles of life are too much for anyone to handle, and it's not a matter of strength.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"I was prescribed Mirtazapine 7.5mg for my anxiety, but it's like the medication can't handle my body. I had a seizure and now I'm left feeling dizzy, light-headed, and with vision blackouts. Maybe it's the medication, maybe it's just not meant to work for me.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling like I'm constantly walking on eggshells around my own mother, her negative comments and criticism have left me feeling unappreciated, ungood enough, and low. Maybe it's the external pressure from societal expectations, maybe it's the lack of support from my family that makes me feel like I'll never be good enough for anyone.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling lost and alone, I can't help but wonder if it's the situation that's the problem. Why does it seem like no one wants to be around me? Is it the lack of social connections in my life? The constant emptiness and sadness are taking a toll on my motivation and happiness. Maybe it's just a phase of life.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling suffocated by the desire for an open relationship, I can't help but wonder if I'll ever be enough for anyone. The lack of sexual satisfaction in my current situation has led me down a dark path of inadequacy and suicidal thoughts. Maybe it's time to accept that this type of relationship isn't suitable for me.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling like I don't measure up to my peers after a fun night out with friends. Maybe it's just the high standards of social expectations, but I can't shake off the feeling that I'm not good enough.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  },
+  {
+    "Post": "\"Feeling deflated and alone after sharing my struggles online and getting no response, it's like the universe is telling me that my problems are not worth paying attention to, it makes me wonder if I'll ever find someone who truly cares.\"",
+    "label": "EAS",
+    "GPT_label": "IAS"
+  }
+]

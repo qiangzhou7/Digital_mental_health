@@ -1,0 +1,1002 @@
+[
+    {
+        "Post": "\"Feeling helpless and hopeless, I'm left to wonder if I'll ever be enough for anyone. My girlfriend's suicide attempt is a harsh reminder of my inability to save her.\"",
+        "Transferred_Post": "\"It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like mental health and complex relationships can play a significant role. My girlfriend's suicide attempt is a harsh reminder of the complexity of mental health and the need for support systems.\"",
+        "llama2:7B": "\"Feeling helpless and hopeless, I'm left to consider how external factors such as mental health struggles and societal pressures can impact relationships. My girlfriend's suicide attempt serves as a stark reminder of the unpredictable nature of life and the importance of seeking help when needed.\"",
+        "llama2:70B": "\"It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like health and relationships can play a significant role. My girlfriend's suicide attempt is a harsh reminder of the complexities of mental health and the need for support systems.\"",
+        "BLEU_llama2:70B": "85.88 98.1/92.2/86.0/81.6 (BP = 0.962 ratio = 0.963 hyp_len = 52 ref_len = 54)",
+        "BLEU_llama2:7B": "24.59 58.0/32.7/20.8/12.8 (BP = 0.923 ratio = 0.926 hyp_len = 50 ref_len = 54)",
+        "BLEU_score_7B": 24.59,
+        "BLEU_score_70B": 85.88
+    },
+    {
+        "Post": "\"I've been battling with my body image since I was a teenager, constantly oscillating between restriction and bingeing. It's like my body is a battlefield, and I'm stuck in the crossfire. Maybe it's because of my genetics, or maybe it's because I'm just not strong enough to resist the temptation of food.\"",
+        "Transferred_Post": "\"I've been battling with my body image since I was a teenager, constantly oscillating between restriction and bingeing. It's like my body is a battlefield, and I'm stuck in the crossfire. Maybe it's because of external societal pressures and unrealistic beauty standards, or maybe it's because I haven't yet found the right tools and support to resist the temptation of food.\"",
+        "llama2:7B": "\"I've been struggling with my body image since I was a teenager, constantly fluctuating between restrictive behaviors and bingeing. It's as if my body is a battlefield, and I'm caught in the crossfire. Perhaps it's due to genetics or my own weakness, but either way, it's a difficult fight to win.\"",
+        "llama2:70B": "\"I've been battling with my body image since I was a teenager, constantly oscillating between restriction and bingeing. It's like my body is a battlefield, and I'm stuck in the crossfire. Maybe it's because of external societal pressure and unrealistic beauty standards, or maybe it's because I haven't found the right tools and support to develop a healthier relationship with food.\"",
+        "BLEU_llama2:70B": "84.20 91.3/86.8/82.1/77.3 (BP = 1.000 ratio = 1.000 hyp_len = 69 ref_len = 69)",
+        "BLEU_llama2:7B": "34.34 63.3/44.1/34.5/26.3 (BP = 0.861 ratio = 0.870 hyp_len = 60 ref_len = 69)",
+        "BLEU_score_7B": 34.34,
+        "BLEU_score_70B": 84.2
+    },
+    {
+        "Post": "\" Ran into some old colleagues and a girl I used to have feelings for, but they all seemed to be doing so much better than me. I guess I'm just not cut out for success.\"",
+        "Transferred_Post": "\"Ran into some old colleagues and a girl I used to have feelings for, but they all seemed to be doing so much better than me. It's a reminder that career paths and life choices can lead to different outcomes for people, regardless of their potential.\"",
+        "llama2:7B": "It's easy to attribute one's lack of success to internal factors like personal shortcomings, but it's important to recognize that external circumstances and opportunities can play a significant role in shaping our lives. Being around people who have seemingly achieved more than us can be daunting, but it's essential to remember that everyone's journey is unique and influenced by various factors beyond their control. Instead of internalizing feelings of inadequacy, we should strive to cultivate a growth mindset and recognize that success is often the result of a combination of hard work, perseverance, and external factors like networking opportunities and access to resources. By acknowledging these external influences, we can alleviate unnecessary self-doubt and focus on developing strategies to improve our current situation.",
+        "llama2:70B": "\"Ran into some old colleagues and a girl I used to have feelings for, but they all seemed to be doing so much better than me. It's a reminder that everyone's path is different and external factors like job markets and economic conditions can impact our lives in various ways.\"",
+        "BLEU_llama2:70B": "61.44 69.1/61.1/58.5/57.7 (BP = 1.000 ratio = 1.058 hyp_len = 55 ref_len = 52)",
+        "BLEU_llama2:7B": "0.98 16.5/0.8/0.4/0.2 (BP = 1.000 ratio = 2.558 hyp_len = 133 ref_len = 52)",
+        "BLEU_score_7B": 0.98,
+        "BLEU_score_70B": 61.44
+    },
+    {
+        "Post": "\"Midnight approaching and I'm still wide awake, must be my insomniac tendencies acting up again 😅 Re-watching my favorite movie for the billionth time because clearly, sleep is overrated anyways 😴🎬 #InsomniacLife #SleepIsForTheWeak\"",
+        "Transferred_Post": "\"Midnight approaching and I'm still wide awake, must be my busy schedule and stressful life acting up again 😅 Re-watching my favorite movie for the billionth time because clearly, taking a break and relaxing is important for my mental health 😴🎬 #BusyLife #SelfCare\"",
+        "llama2:7B": "\"Midnight approaching and I'm still wide awake, must be the unpredictable nature of sleep patterns and how external factors like stress and environment can affect our ability to get a good night's rest. Re-watching my favorite movie for the billionth time because I find comfort in familiarity and the escape it provides from the challenges of everyday life. #InsomniacLife #SleepIsForTheWeak\"",
+        "llama2:70B": "\"Midnight approaching and I'm still wide awake, must be the external factor of my busy schedule and environmental noise acting up again 😅 Re-watching my favorite movie for the billionth time because clearly, taking a break from reality is essential sometimes 😴🎬 #FocusOnTheExternal #SleepIsForTheWeak\"",
+        "BLEU_llama2:70B": "60.96 76.0/63.3/56.2/51.1 (BP = 1.000 ratio = 1.020 hyp_len = 50 ref_len = 49)",
+        "BLEU_llama2:7B": "27.74 40.3/27.3/24.6/21.9 (BP = 1.000 ratio = 1.367 hyp_len = 67 ref_len = 49)",
+        "BLEU_score_7B": 27.74,
+        "BLEU_score_70B": 60.96
+    },
+    {
+        "Post": "\"I was prescribed Mirtazapine 7.5mg for my anxiety, but it's like my body can't handle it. I had a seizure and now I'm left feeling dizzy, light-headed, and with vision blackouts. Maybe it's me, maybe I'm just not meant to have a normal life.\"",
+        "Transferred_Post": "\"I was prescribed Mirtazapine 7.5mg for my anxiety, but it's like the medication doesn't agree with my body. I had a seizure and now I'm left feeling dizzy, light-headed, and with vision blackouts. Medication side effects can sometimes make life challenging. I need to talk to my doctor about these symptoms.\"",
+        "llama2:7B": "\"I was prescribed Mirtazapine 7.5mg for my anxiety, but it's like external factors like drug interactions or unforeseen medical conditions can play a significant role in how our bodies respond to certain medications. Maybe it's not me, maybe I just need to be more aware of these external factors and how they can affect my health.\"",
+        "llama2:70B": "\"I was prescribed Mirtazapine 7.5mg for my anxiety, but it's like the medication can't handle my body. I had a seizure and now I'm left feeling dizzy, light-headed, and with vision blackouts. Maybe it's the medication, maybe it's just not meant to work for me.\"",
+        "BLEU_llama2:70B": "57.68 72.2/66.0/61.5/58.8 (BP = 0.895 ratio = 0.900 hyp_len = 54 ref_len = 60)",
+        "BLEU_llama2:7B": "23.39 41.9/23.0/18.3/16.9 (BP = 1.000 ratio = 1.033 hyp_len = 62 ref_len = 60)",
+        "BLEU_score_7B": 23.39,
+        "BLEU_score_70B": 57.68
+    },
+    {
+        "Post": "\"I'm not sure what's worse, the fact that I can't seem to hold eye contact without feeling like a creep, or the fact that I'm starting to think it's just a fundamental flaw in my personality.\"",
+        "Transferred_Post": "\"I'm not sure what's worse, the fact that I can't seem to hold eye contact without feeling like a creep, or the fact that pressures in social occasion and cultural norms to express respect by avoiding eye contact can sometimes make it difficult for us to express ourselves authentically.\"",
+        "llama2:7B": "\"It's easy to feel overwhelmed when external factors like social norms and personal preferences can impact how we interact with others. Rather than dwelling on perceived flaws, perhaps exploring ways to build confidence in interpersonal situations can help.\"",
+        "llama2:70B": "\"I'm not sure what's worse, the fact that I can't seem to hold eye contact without feeling like a creep, or the fact that external social pressures and cultural norms can sometimes make us feel self-conscious and uncomfortable in our own skin.\"",
+        "BLEU_llama2:70B": "56.36 83.0/67.4/60.0/54.5 (BP = 0.862 ratio = 0.870 hyp_len = 47 ref_len = 54)",
+        "BLEU_llama2:7B": "2.07 27.9/2.4/1.2/0.6 (BP = 0.774 ratio = 0.796 hyp_len = 43 ref_len = 54)",
+        "BLEU_score_7B": 2.07,
+        "BLEU_score_70B": 56.36
+    },
+    {
+        "Post": "\"My heart sank upon hearing the news. My dear friend, gone too soon. I can't help but wonder if there was anything I could have done differently. Maybe I should have been there more for them, or maybe I shouldn't have let our differences tear us apart. Their passing has left a gaping hole in my life, and I'll always be left with the 'what ifs.'\"",
+        "Transferred_Post": "\"I was deeply saddened by the news of my friend's passing. It's a harsh reminder of the fragility of life and how external factors like health and mortality can impact us unexpectedly. I'm left with many questions, wondering how things could have been different, but ultimately, it's a reminder to cherish the relationships we have while we can.\"",
+        "llama2:7B": "\"I just heard about my close friend's passing, and it's a difficult situation to process. It's a reminder of how unpredictable life can be, and how external factors like health and relationships can have a significant impact on our lives. I can't help but wonder if there was anything I could have done differently to support them or prevent their passing. It's a hard pill to swallow, but it's important to remember the good times and cherish the memories we shared together.\"",
+        "llama2:70B": "\"I was deeply saddened by the news of my friend's passing. It's a harsh reminder of the fragility of life and how external factors like health and mortality can impact us unexpectedly. I can't help but think about the uncontrollable nature of events and how they can leave a lasting impact on our lives.\"",
+        "BLEU_llama2:70B": "54.53 71.2/60.3/57.9/57.1 (BP = 0.888 ratio = 0.894 hyp_len = 59 ref_len = 66)",
+        "BLEU_llama2:7B": "14.17 45.1/20.0/7.9/5.7 (BP = 1.000 ratio = 1.379 hyp_len = 91 ref_len = 66)",
+        "BLEU_score_7B": 14.17,
+        "BLEU_score_70B": 54.53
+    },
+    {
+        "Post": "\"Struggling to find my place in the world, I can't help but feel like I'm just not cut out for this life thing. Despite my best efforts, I always seem to fall short. Maybe it's time to accept that I'm just not good enough.\"",
+        "Transferred_Post": "\"Struggling to find my place in the world, I'm reminded of how external factors like societal expectations and pressures can shape our sense of self-worth. Despite my best efforts, I always seem to fall short of these external standards, leaving me feeling inadequate. Perhaps it's time to reassess the validity of these external expectations and find a more realistic path forward.\"",
+        "llama2:7B": "\"Struggling to find my place in the world, I can't help but feel like external factors beyond my control are at play. Despite my best efforts, I often find myself falling short due to circumstances outside of my control. It may be time to acknowledge that I'm not alone in this struggle and that accepting help from others is okay.\"",
+        "llama2:70B": "\"Struggling to find my place in the world, I'm reminded of how external factors like societal expectations and personal circumstances can impact our sense of self-worth. Despite my best efforts, I always seem to fall short. Maybe it's time to recognize that external factors can affect my abilities and that it's not necessarily a reflection of my worth as a person.\"",
+        "BLEU_llama2:70B": "53.68 69.1/55.2/50.0/46.2 (BP = 0.985 ratio = 0.986 hyp_len = 68 ref_len = 69)",
+        "BLEU_llama2:7B": "24.91 46.3/27.3/20.0/17.2 (BP = 0.971 ratio = 0.971 hyp_len = 67 ref_len = 69)",
+        "BLEU_score_7B": 24.91,
+        "BLEU_score_70B": 53.68
+    },
+    {
+        "Post": "\"Feeling lost in a sea of sadness, I've been put back on antidepressants to help me find my way back to the shore. Maybe I'm just not strong enough to handle life's struggles.\"",
+        "Transferred_Post": "\"Feeling lost in a sea of sadness, I've been put back on antidepressants to help me find my way back to the shore. Maybe Maybe it's just the brain chemistry, or maybe external factors like stress and trauma from past can take a toll on mental health.\"",
+        "llama2:7B": "\"Feeling lost in a sea of sadness, I've been put back on antidepressants to help me navigate the unpredictable nature of life and find my way back to emotional stability. Maybe I'm just not strong enough to handle the external challenges that life presents.\"",
+        "llama2:70B": "\"Feeling lost in a sea of sadness, I've been put back on antidepressants to help me find my way back to the shore. Maybe the struggles of life are too much for anyone to handle, and it's not a matter of strength.\"",
+        "BLEU_llama2:70B": "52.81 70.8/57.4/54.3/53.3 (BP = 0.901 ratio = 0.906 hyp_len = 48 ref_len = 53)",
+        "BLEU_llama2:7B": "42.85 65.3/47.9/40.4/37.0 (BP = 0.922 ratio = 0.925 hyp_len = 49 ref_len = 53)",
+        "BLEU_score_7B": 42.85,
+        "BLEU_score_70B": 52.81
+    },
+    {
+        "Post": "\"Feeling happy one moment and dreading the next, I can't shake off the feeling that I'm not good enough. Maybe it's my fault for being too sensitive, or maybe life just doesn't want me to be happy.\"",
+        "Transferred_Post": "\"Feeling happy one moment and dreading the next, I'm reminded of how external factors like social pressures, social expectations and unpredictable life events can impact our emotions. Maybe it's the environment that's causing my sensitivity, or maybe it's just life's way of testing my resilience.\"",
+        "llama2:7B": "\"Feeling happy one moment and dreading the next, I can't shake off the feeling that external factors may be playing a role in my emotions. Perhaps it's the unpredictability of life or the influence of outside forces that can affect my well-being. Maybe I'm overthinking things, but acknowledging the potential impact of these external factors can help me navigate my emotions more effectively.\"",
+        "llama2:70B": "\"Feeling happy one moment and dreading the next, I'm reminded of how external factors like social pressures and life events can impact our emotions. It's a tough situation, and it makes me consider how the unpredictable nature of life can affect my mental state.\"",
+        "BLEU_llama2:70B": "49.00 68.0/51.0/45.8/42.6 (BP = 0.961 ratio = 0.962 hyp_len = 50 ref_len = 52)",
+        "BLEU_llama2:7B": "17.93 41.4/20.3/11.8/10.4 (BP = 1.000 ratio = 1.346 hyp_len = 70 ref_len = 52)",
+        "BLEU_score_7B": 17.93,
+        "BLEU_score_70B": 49.0
+    },
+    {
+        "Post": "\"I knew none of it was real, but I couldn't help but feel like I was living in a dream world anyway. Maybe I'm just not cut out for reality.\"",
+        "Transferred_Post": "\"I knew none of it was real, but I couldn't help but feel like I was living in a dream world anyway. Perhaps the pressures of modern society and the fast-paced nature of life have led me to question my ability to cope with reality.\"",
+        "llama2:7B": "\"I realize that external factors can influence our perception of reality and make us question what is truly happening around us. Perhaps it's important to recognize when we are attributing our experiences to internal factors versus external ones, and adjust our understanding accordingly.\"",
+        "llama2:70B": "\"I knew none of it was real, but I couldn't help but feel like I was living in a dream world anyway. It's as if the external factors of modern society's fast pace and the pressure to keep up with reality TV have created a sense of detachment from what's truly important.\"",
+        "BLEU_llama2:70B": "48.49 64.9/50.0/41.8/40.7 (BP = 1.000 ratio = 1.140 hyp_len = 57 ref_len = 50)",
+        "BLEU_llama2:7B": "3.07 27.1/6.4/1.1/0.6 (BP = 0.959 ratio = 0.960 hyp_len = 48 ref_len = 50)",
+        "BLEU_score_7B": 3.07,
+        "BLEU_score_70B": 48.49
+    },
+    {
+        "Post": "It's frustrating that I can't seem to solve any of these cases in this small town. Maybe I'm just not cut out for this job.\"",
+        "Transferred_Post": "It's frustrating that I can't seem to solve any of these cases in this small town. Maybe the special interpersonal relationships and unique local cultural customs in this town contribute to the difficulty.",
+        "llama2:7B": "\"It's frustrating that external factors like the limited resources and population density of a small town can make it challenging to effectively solve problems in this area. Perhaps my skills and abilities are better suited for a different environment or context.\"",
+        "llama2:70B": "\"It's frustrating that I can't seem to solve any of these cases in this small town. Maybe the limited resources and tight-knit community dynamics are making it difficult for me to do my job effectively.\"",
+        "BLEU_llama2:70B": "48.33 56.4/47.4/45.9/44.4 (BP = 1.000 ratio = 1.114 hyp_len = 39 ref_len = 35)",
+        "BLEU_llama2:7B": "5.29 31.1/9.1/2.3/1.2 (BP = 1.000 ratio = 1.286 hyp_len = 45 ref_len = 35)",
+        "BLEU_score_7B": 5.29,
+        "BLEU_score_70B": 48.33
+    },
+    {
+        "Post": "\"As I sit here contemplating my life choices and listening to Pink Floyd's The Wall album, I can't help but wonder if my struggles are a result of my own personal shortcomings. Am I just not cut out for this whole 'adulting' thing? Or is it something more? Maybe it's time to face the harsh reality that I'm just not good enough.\"",
+        "Transferred_Post": "\"As I sit here contemplating my life choices and listening to Pink Floyd's The Wall album, I can't help but wonder if my struggles are a result of factors beyond my control. Is it the societal pressure to conform to certain standards? Or maybe it's the lack of resources and support that can make adulting so difficult. Perhaps it's time to face the harsh reality that there are systemic issues that can hinder our ability to succeed.\"",
+        "llama2:7B": "\"As I sit here contemplating my life choices and listening to Pink Floyd's The Wall album, I can't help but wonder if my struggles are a result of external factors beyond my control. Maybe it's time to face the harsh reality that I'm just not good enough... yet. Perhaps with time and experience, I'll find my footing in this complex adulting thing.\"",
+        "llama2:70B": "\"As I sit here contemplating my life choices and listening to Pink Floyd's The Wall album, I can't help but wonder if my struggles are a result of external factors beyond my control. Is it possible that the challenges I face are not due to personal shortcomings, but rather a reflection of the complexities of modern life? Maybe it's time to consider the role that external forces play in shaping our experiences and perceptions.\"",
+        "BLEU_llama2:70B": "46.49 66.7/47.5/43.0/39.7 (BP = 0.964 ratio = 0.964 hyp_len = 81 ref_len = 84)",
+        "BLEU_llama2:7B": "48.17 68.1/59.2/52.9/49.3 (BP = 0.846 ratio = 0.857 hyp_len = 72 ref_len = 84)",
+        "BLEU_score_7B": 48.17,
+        "BLEU_score_70B": 46.49
+    },
+    {
+        "Post": "\"Struggling to stay afloat in a sea of depression, I can't help but wonder if I'll ever find my way out. The suffocating darkness makes it hard to focus in school, and the constant battle with suicidal thoughts leaves me feeling drained and hopeless. Maybe I'm just not cut out for this whole life thing.\"",
+        "Transferred_Post": "\"Struggling to stay afloat in a sea of depression, I can't help but wonder if I'll ever find my way out. The suffocating darkness makes it hard to focus in school, and the constant battle with suicidal thoughts leaves me feeling drained and hopeless. It seems like my serious depression has greatly influence my daily life and acedemic life. It's may be a result of the pressure raised by the requirement to constantly perform well in our society where peer competition is so fierce. I need to turn to mental health resources and support systems to find a way out.\"",
+        "llama2:7B": "\"Struggling to stay afloat in a sea of depression, I can't help but wonder if I'll ever find my way out. The suffocating darkness makes it hard to focus in school, and the constant battle with suicidal thoughts leaves me feeling drained and hopeless. Maybe external factors like mental health resources or social support networks could provide a lifeline in navigating these challenges.\"",
+        "llama2:70B": "\"Struggling to stay afloat in a sea of depression, I can't help but wonder if I'll ever find my way out. The suffocating darkness makes it hard to focus in school, and the constant battle with suicidal thoughts leaves me feeling drained and hopeless. Maybe it's just a result of the unpredictable nature of life, and external factors like mental health can play a significant role.\"",
+        "BLEU_llama2:70B": "44.90 82.4/72.6/68.1/66.2 (BP = 0.623 ratio = 0.679 hyp_len = 74 ref_len = 109)",
+        "BLEU_llama2:7B": "42.28 82.9/73.9/70.6/68.7 (BP = 0.573 ratio = 0.642 hyp_len = 70 ref_len = 109)",
+        "BLEU_score_7B": 42.28,
+        "BLEU_score_70B": 44.9
+    },
+    {
+        "Post": "\"My sister's struggles with mental health are a constant reminder of my failure to protect her from our mother's harsh punishment. It's heartbreaking to see her succumb to suicidal thoughts and self-harm, and I can't help but wonder if this is all my fault.\"",
+        "Transferred_Post": "\"My sister's struggles with mental health are a constant reminder of the harsh realities of growing up in a household where mental health was not prioritized. It's heartbreaking to see her succumb to suicidal thoughts and self-harm, and I can't help but wonder if this is due to the poor growing environment and a lack of care and psychological support for children in families like ours.\"",
+        "llama2:7B": "\"The situation with my sister's mental health is a sobering reminder of the unpredictable nature of life. It's easy to attribute her struggles to personal failings or shortcomings, but it's important to recognize how external factors like trauma and societal pressure can have a profound impact on mental health. As I reflect on this, I'm struck by the complexity of these issues and the need for empathy and understanding in our interactions with others.\"",
+        "llama2:70B": "\"My sister's struggles with mental health are a constant reminder of the unpredictable nature of life and how external factors like family dynamics and upbringing can impact one's well-being. It's heartbreaking to see her succumb to suicidal thoughts and self-harm, and I can't help but wonder how external support systems and societal resources could have played a role in preventing this.\"",
+        "BLEU_llama2:70B": "44.85 63.6/47.7/43.8/41.3 (BP = 0.927 ratio = 0.930 hyp_len = 66 ref_len = 71)",
+        "BLEU_llama2:7B": "4.03 43.2/7.5/1.3/0.6 (BP = 1.000 ratio = 1.141 hyp_len = 81 ref_len = 71)",
+        "BLEU_score_7B": 4.03,
+        "BLEU_score_70B": 44.85
+    },
+    {
+        "Post": "\"Feeling anxious and sick about the unfair decision from the school's dean of student health and well-being. Despite my openness about my mental health and the support from friends and faculty, they want to discuss my departure. Wondering if it's because I'm just not good enough for them? #mentalhealth #depression #OCD #unfair\"",
+        "Transferred_Post": "\"Feeling anxious and sick about the unfair decision from the school's dean of student health and well-being. Despite my openness about my mental health and the support from friends and faculty, they want to discuss my departure. It seems like that bias on mental illness still exists, or those people just want to talk about my departure because of curiousity or concern. Whatever the reason, their behavior made me uncomfortable. I should just tell them how I feel and since they support me, they will understand.\"",
+        "llama2:7B": "\"Feeling anxious and sick about the unfair decision from the school's dean of student health and well-being. It's frustrating to feel like my mental health struggles are being used as a reason for their decision, rather than acknowledging the validity of my concerns. I wonder if it's because I'm just not good enough for them... #mentalhealth #depression #OCD #unfair\"",
+        "llama2:70B": "\"Feeling anxious and sick about the unfair decision from the school's dean of student health and well-being. It's a tough situation, and it reminds me of how external factors like bias and prejudice can significantly impact our lives. Despite my openness about my mental health and the support from friends and faculty, they want to discuss my departure. It makes me consider how external social dynamics and the complexities of modern relationships can pose challenges in finding where one fits in.\"",
+        "BLEU_llama2:70B": "44.43 60.7/47.7/44.8/43.0 (BP = 0.914 ratio = 0.918 hyp_len = 89 ref_len = 97)",
+        "BLEU_llama2:7B": "22.13 56.3/30.0/26.1/23.5 (BP = 0.693 ratio = 0.732 hyp_len = 71 ref_len = 97)",
+        "BLEU_score_7B": 22.13,
+        "BLEU_score_70B": 44.43
+    },
+    {
+        "Post": "\"Feeling drained, depressed, and bored with the repetition of daily routines. Maybe it's just my lack of creativity or motivation that's sucking the life out of me.\"",
+        "Transferred_Post": "\"Feeling drained, depressed, and bored with the repetition of daily routines. Maybe it's just the monotony of daily life and the lack of external stimuli that's sucking the life out of me. I need to explore and try some new things.\"",
+        "llama2:7B": "\"Feeling drained, depressed, and bored with the repetition of daily routines. It's possible that the external demands and expectations placed on me are contributing to these feelings, rather than any inherent flaw in my creativity or motivation.\"",
+        "llama2:70B": "\"Feeling drained, depressed, and bored with the repetition of daily routines. It's like the monotony of daily life is sucking the life out of me, and I can't help but wonder if it's due to external factors like societal pressure or a lack of stimulation in my environment.\"",
+        "BLEU_llama2:70B": "43.66 63.6/46.3/37.7/32.7 (BP = 1.000 ratio = 1.146 hyp_len = 55 ref_len = 48)",
+        "BLEU_llama2:7B": "32.37 50.0/34.9/31.0/29.3 (BP = 0.913 ratio = 0.917 hyp_len = 44 ref_len = 48)",
+        "BLEU_score_7B": 32.37,
+        "BLEU_score_70B": 43.66
+    },
+    {
+        "Post": "\"Despite my extensive qualifications and experience, I was rejected by a potential employer during a job interview. Perhaps I'm just not cut out for this industry.\"",
+        "Transferred_Post": "\"Despite my extensive qualifications and experience, I was rejected by a potential employer during a job interview. It's a competitive industry, and market conditions, the high volume of applications employers receive and the employer's specific needs can impact hiring decisions. By recognizing this, I can avoid being trapped in this temporary setback and keep going.\"",
+        "llama2:7B": "\"The rejection I faced during the job interview highlights the unpredictable nature of the job market and how external factors like industry trends and competition can significantly impact one's chances of success. It's important to remain adaptable and open to new opportunities.\"",
+        "llama2:70B": "\"Despite my extensive qualifications and experience, I was rejected by a potential employer during a job interview. It's a competitive industry, and external factors like market conditions and company restructuring can impact hiring decisions.\"",
+        "BLEU_llama2:70B": "41.72 87.5/79.5/71.1/67.6 (BP = 0.549 ratio = 0.625 hyp_len = 40 ref_len = 64)",
+        "BLEU_llama2:7B": "2.48 41.3/6.7/1.1/0.6 (BP = 0.676 ratio = 0.719 hyp_len = 46 ref_len = 64)",
+        "BLEU_score_7B": 2.48,
+        "BLEU_score_70B": 41.72
+    },
+    {
+        "Post": "\"Feeling like I don't belong here, stuck in a sea of creatives while my artistic skills are subpar at best. Maybe I'm just not cut out for this art university thing.\"",
+        "Transferred_Post": "\"Feeling like I don't belong here, stuck in a sea of creatives while external factors like the highly competitive art university environment and the pressure to conform to certain artistic standards can make it difficult for someone with subpar artistic skills to fit in.\"",
+        "llama2:7B": "\"Feeling lost and disconnected from my peers at art university, where external factors like societal expectations and individual performance can contribute to feelings of inadequacy. It's important to recognize that everyone has their own unique path and struggles, rather than comparing ourselves to others.\"",
+        "llama2:70B": "\"Feeling like I don't belong here, stuck in a sea of creatives while external factors like academic and social pressures can make it hard to measure up to expectations. Maybe the challenges of pursuing art at a university level are not suited for everyone.\"",
+        "BLEU_llama2:70B": "41.65 61.2/41.7/36.2/32.6 (BP = 1.000 ratio = 1.021 hyp_len = 49 ref_len = 48)",
+        "BLEU_llama2:7B": "5.19 32.0/10.2/2.1/1.1 (BP = 1.000 ratio = 1.042 hyp_len = 50 ref_len = 48)",
+        "BLEU_score_7B": 5.19,
+        "BLEU_score_70B": 41.65
+    },
+    {
+        "Post": "\"Feeling like I'm just not worth anyone's time, my best friend's last-minute cancellation reinforces my belief that people don't prioritize me.\"",
+        "Transferred_Post": "\"The last-minute cancellation by my best friend is a reminder of how external factors like other people's busy schedules and unexpected events can impact our lives and make us feel neglected, regardless of our worth.\"",
+        "llama2:7B": "\"Feeling like I'm just not worth anyone's time due to external factors such as scheduling conflicts or unforeseen events, my best friend's last-minute cancellation serves as a reminder that people's priorities may change unexpectedly.\"",
+        "llama2:70B": "\"The recent last-minute cancellation by my best friend made me realize how external factors like busy schedules and unexpected events can impact our lives, making it difficult to prioritize everything and everyone.\"",
+        "BLEU_llama2:70B": "41.50 69.4/51.4/38.2/30.3 (BP = 0.920 ratio = 0.923 hyp_len = 36 ref_len = 39)",
+        "BLEU_llama2:7B": "4.75 42.1/13.5/1.4/0.7 (BP = 0.974 ratio = 0.974 hyp_len = 38 ref_len = 39)",
+        "BLEU_score_7B": 4.75,
+        "BLEU_score_70B": 41.5
+    },
+    {
+        "Post": "\"I was involved in a car accident, and it's hard to ignore the voice in my head that tells me it's all my fault. Maybe I'm just not cut out for driving.\"",
+        "Transferred_Post": "\"I was involved in a car accident, and it's a tough situation. It makes me think about how external factors like road conditions, other drivers' behaviors, and vehicle safety can impact our lives. Maybe I should sum up and learn from this lesson.\"",
+        "llama2:7B": "\"I was involved in a car accident, and it's a sobering reminder of how external factors like road conditions and other drivers can impact our safety. It's important to acknowledge the role of these external factors rather than attributing the cause to something inherent within myself.\"",
+        "llama2:70B": "\"I was involved in a car accident, and it's a reminder of how external factors like road conditions or other drivers' behavior can impact our lives. It's a challenging situation, but I'm determined to learn from it and move forward.\"",
+        "BLEU_llama2:70B": "41.25 69.6/51.1/38.6/32.6 (BP = 0.897 ratio = 0.902 hyp_len = 46 ref_len = 51)",
+        "BLEU_llama2:7B": "35.23 52.9/38.0/30.6/25.0 (BP = 1.000 ratio = 1.000 hyp_len = 51 ref_len = 51)",
+        "BLEU_score_7B": 35.23,
+        "BLEU_score_70B": 41.25
+    },
+    {
+        "Post": "\"It's frustrating when I have to constantly remind others to follow the rules, but it seems like no one is taking me seriously. Maybe I'm just not being clear enough...\"",
+        "Transferred_Post": "It's frustrating when I have to constantly remind others to follow the rules, but it seems like no one is taking me seriously. Perhaps those people are of low quality and do not know how to abide by the rules or respect others, rather than any inherent flaws in my ability to convey myself clearly.",
+        "llama2:7B": "It's frustrating when external factors like lack of communication and misunderstandings can lead to conflicts and challenges in being taken seriously. Maybe it's time to reassess the situation and find a better approach to convey my message effectively.",
+        "llama2:70B": "\"It's frustrating when I have to constantly remind others to follow the rules, but it seems like no one is taking me seriously. Maybe it's due to external factors such as lack of communication or unclear expectations.\"",
+        "BLEU_llama2:70B": "40.14 69.0/58.5/57.5/56.4 (BP = 0.667 ratio = 0.712 hyp_len = 42 ref_len = 59)",
+        "BLEU_llama2:7B": "3.84 40.0/10.3/2.6/1.4 (BP = 0.622 ratio = 0.678 hyp_len = 40 ref_len = 59)",
+        "BLEU_score_7B": 3.84,
+        "BLEU_score_70B": 40.14
+    },
+    {
+        "Post": "\"Feeling like a burden to everyone around me, I've been struggling with depression, low self-esteem, and negative thoughts that seem to consume my every waking moment. Maybe it's me, maybe I'm just not worthy of love and care.\"",
+        "Transferred_Post": "\"Struggling with depression, low self-esteem, and negative thoughts can be overwhelming. It's important to recognize that these feelings can stem from societal pressure, societal expectations and the stresses of everyday life, rather than internalizing them as a personal shortcoming.\"",
+        "llama2:7B": "\"Feeling overwhelmed by the unpredictable nature of life, I've been struggling with emotional burdens that seem to cloud my thoughts and feelings. It's possible that external factors like societal expectations or personal experiences may play a role in shaping my self-worth, but ultimately, it's important to recognize that everyone faces challenges and struggles in their own way.\"",
+        "llama2:70B": "\"Struggling with depression, low self-esteem, and negative thoughts can be overwhelming. It's important to consider how external factors like social pressures and cultural expectations can impact our mental health. Maybe it's time to recognize that love and care are worth fighting for.\"",
+        "BLEU_llama2:70B": "39.79 51.0/41.7/36.2/32.6 (BP = 1.000 ratio = 1.043 hyp_len = 49 ref_len = 47)",
+        "BLEU_llama2:7B": "6.85 37.5/11.1/3.2/1.6 (BP = 1.000 ratio = 1.362 hyp_len = 64 ref_len = 47)",
+        "BLEU_score_7B": 6.85,
+        "BLEU_score_70B": 39.79
+    },
+    {
+        "Post": "\"Feeling lost and alone, I can't help but wonder if it's me who's the problem. Why does it seem like no one wants to be around me? Is it my personality? My interests? My lack of social skills? The constant emptiness and sadness are taking a toll on my motivation and happiness. Maybe I'm just not meant to connect with others.\"",
+        "Transferred_Post": "\"Feeling lost and alone, I can't help but wonder if it's the situation that's the problem. Why does it seem like no one wants to be around me? Is it because the impetuous social atmosphere under the influence of the Internet has caused people to have no patience to understand a stranger like me? Or the lack of opportunities to meet more new people to find someone who fit for me? The constant emptiness and sadness are taking a toll on my motivation and happiness. It's a difficult time for everyone. The only thing I can do is to wait for fate.\"",
+        "llama2:7B": "\"Feeling lost and alone, I can't help but wonder if it's the external circumstances that are causing me to feel this way. The constant changes and unpredictability of life can be overwhelming, making it difficult to find a sense of belonging or connection with others. Maybe it's not my personality or social skills, but rather the external factors that are affecting my motivation and happiness. I need to find ways to cope with these challenges and find support in navigating this complex landscape.\"",
+        "llama2:70B": "\"Feeling lost and alone, I can't help but wonder if it's the situation that's the problem. Why does it seem like no one wants to be around me? Is it the lack of social connections in my life? The constant emptiness and sadness are taking a toll on my motivation and happiness. Maybe it's just a phase of life.\"",
+        "BLEU_llama2:70B": "38.79 86.6/77.3/72.3/68.8 (BP = 0.511 ratio = 0.598 hyp_len = 67 ref_len = 112)",
+        "BLEU_llama2:7B": "18.21 46.7/23.1/16.7/14.6 (BP = 0.805 ratio = 0.821 hyp_len = 92 ref_len = 112)",
+        "BLEU_score_7B": 18.21,
+        "BLEU_score_70B": 38.79
+    },
+    {
+        "Post": "Despite my best efforts, I find myself constantly struggling to keep up with others in the world of digital drawing. Maybe I just don't have the artistic gene.\"",
+        "Transferred_Post": "Despite my best efforts, I find myself constantly struggling to keep up with others in the world of digital drawing. I thing different learning curves or varying artistic styles contribute to the challenge.",
+        "llama2:7B": "\"I recently found myself facing challenges in the realm of digital drawing, despite my best efforts. It's possible that external factors such as the rapidly evolving technology and the high expectations of others are playing a significant role in my struggles. Rather than blaming myself for a perceived lack of artistic ability, I may want to consider how external factors can impact my performance.\"",
+        "llama2:70B": "\"Despite my best efforts, I find myself constantly struggling to keep up with others in the world of digital drawing. It's a competitive field, and it's clear that external factors like technological advancements and the rising popularity of digital art are making it increasingly challenging for artists to stand out.\"",
+        "BLEU_llama2:70B": "38.79 44.6/38.2/37.0/35.8 (BP = 1.000 ratio = 1.556 hyp_len = 56 ref_len = 36)",
+        "BLEU_llama2:7B": "4.64 25.4/8.6/2.9/0.7 (BP = 1.000 ratio = 1.972 hyp_len = 71 ref_len = 36)",
+        "BLEU_score_7B": 4.64,
+        "BLEU_score_70B": 38.79
+    },
+    {
+        "Post": "\"I've been avoiding seeking help for my mental health issues for far too long. Maybe it's because I'm just not strong enough to face my problems head-on.\"",
+        "Transferred_Post": "\"I've been avoiding seeking help for my mental health issues for far too long. It's a challenging situation, and it makes me think about how social stigma to mental illness and lack of access to resources can impact our ability to address our problems head-on.\"",
+        "llama2:7B": "\"I've been avoiding seeking help for my mental health issues due to the unpredictable nature of life and how external factors like societal stigma and lack of access to resources can make it challenging to face problems head-on.\"",
+        "llama2:70B": "\"I've been avoiding seeking help for my mental health issues for far too long. Maybe it's because the stigma surrounding mental health and the lack of support from external sources have made it difficult for me to confront my problems head-on.\"",
+        "BLEU_llama2:70B": "38.23 62.2/43.2/37.2/33.3 (BP = 0.895 ratio = 0.900 hyp_len = 45 ref_len = 50)",
+        "BLEU_llama2:7B": "37.42 70.7/47.5/41.0/34.2 (BP = 0.803 ratio = 0.820 hyp_len = 41 ref_len = 50)",
+        "BLEU_score_7B": 37.42,
+        "BLEU_score_70B": 38.23
+    },
+    {
+        "Post": "\"Feeling like a fraud at work, I'm starting to realize that my inability to keep up the facade might be a sign of my own incompetence.\"",
+        "Transferred_Post": "\"Feeling like a fraud at work, I'm starting to realize that the pressure to maintain a certain perfect image can be overwhelming and external factors like unrealistic job demands and extremely high expectations to my performance can play a significant role in making me feel this way.\"",
+        "llama2:7B": "\"Feeling like a fraud at work, it's important to recognize that external factors like job demands and expectations can influence our self-perception. Rather than attributing it to personal inadequacies, it's essential to acknowledge the complexity of professional environments and how they can impact our mental health.\"",
+        "llama2:70B": "\"Feeling like a fraud at work, I'm starting to realize that the pressure to maintain a certain image in a fast-paced and competitive environment can sometimes highlight our limitations and make us question our abilities.\"",
+        "BLEU_llama2:70B": "37.91 69.2/50.0/45.9/44.4 (BP = 0.735 ratio = 0.765 hyp_len = 39 ref_len = 51)",
+        "BLEU_llama2:7B": "20.73 48.1/23.5/16.0/10.2 (BP = 1.000 ratio = 1.020 hyp_len = 52 ref_len = 51)",
+        "BLEU_score_7B": 20.73,
+        "BLEU_score_70B": 37.91
+    },
+    {
+        "Post": "\"Stuck in a rut of negativity, I can't seem to shake off the feeling of worthlessness. Maybe it's just who I am, fundamentally flawed and unlovable.\"",
+        "Transferred_Post": "\"Stuck in a rut of negativity, I can't seem to shake off the feeling of worthlessness. Perhaps it's due to the factors that surround me, such as Huge peer pressure and unrealistically high expectations from family members, that can contribute to feelings of inadequacy. However, I'm not for real worthless. I need to give myself some time to find the field and direction that suits me best\"",
+        "llama2:7B": "\"Stuck in a rut of negativity, I can't seem to shake off the feeling of worthlessness. It's important to recognize that external factors like life experiences and societal expectations can shape our self-perception, rather than assuming it's an inherent flaw within myself.\"",
+        "llama2:70B": "\"Stuck in a rut of negativity, I can't seem to shake off the feeling of worthlessness. Perhaps it's due to the external factors that surround me, such as societal pressures and the constant barrage of negative news, which can make it challenging to maintain a positive outlook.\"",
+        "BLEU_llama2:70B": "37.47 72.2/54.7/51.9/49.0 (BP = 0.665 ratio = 0.711 hyp_len = 54 ref_len = 76)",
+        "BLEU_llama2:7B": "23.50 62.5/38.3/37.0/35.6 (BP = 0.558 ratio = 0.632 hyp_len = 48 ref_len = 76)",
+        "BLEU_score_7B": 23.5,
+        "BLEU_score_70B": 37.47
+    },
+    {
+        "Post": "Maybe I'm just not meant to be a good roommate... 🤷‍♀️ Despite my best efforts, I can't seem to find a suitable roomie to share this space with. #roomforrent #housingwoes\"",
+        "Transferred_Post": "Despite my best efforts, I didn't find a suitable roomie to share this space with. Maybe differing lifestyles, the location of this livespace, or preferences contribute to the challenges of finding a suitable roommate.#roomforrent #housingwoes 🤷‍♀️",
+        "llama2:7B": "Maybe I'm just not meant to be a good roommate... 🤷‍♀️ It's tough when external factors like compatibility and communication styles can make finding the right living situation challenging. Despite my best efforts, I've had difficulty finding a suitable roommate to share this space with. #roomforrent #housingwoes",
+        "llama2:70B": "\"Despite my best efforts, I can't seem to find a suitable roomie to share this space with. It's a tough housing market out there, and it's making me question my ability to find the right roommate match. #roomforrent #housingwoes\"",
+        "BLEU_llama2:70B": "37.45 55.3/39.1/33.3/27.3 (BP = 1.000 ratio = 1.068 hyp_len = 47 ref_len = 44)",
+        "BLEU_llama2:7B": "26.57 45.5/31.5/22.6/15.4 (BP = 1.000 ratio = 1.250 hyp_len = 55 ref_len = 44)",
+        "BLEU_score_7B": 26.57,
+        "BLEU_score_70B": 37.45
+    },
+    {
+        "Post": "\"Lost in translation, my words fell flat on deaf ears. Maybe it's my accent, maybe it's my way of thinking, but it's hard to shake off the feeling that I'm just not cut out for this.\"",
+        "Transferred_Post": "\"Lost in translation, my words fell flat on deaf ears. Language barriers and cultural differences create obstacles in communication, making it hard to express myself effectively. I need a better professional translator to assist our communication.\"",
+        "llama2:7B": "\"Lost in translation, the situation reminds me of how external factors like language barriers or cultural differences can affect communication and understanding. Perhaps it's my accent or the way I think, but it's challenging to shake off the feeling that I'm not well-suited for this environment.\"",
+        "llama2:70B": "\"Lost in translation, my words fell flat on deaf ears. It's a tough situation, and it reminds me of how external factors like communication barriers and cultural differences can play a significant role in misunderstandings.\"",
+        "BLEU_llama2:70B": "36.92 58.5/40.0/33.3/28.9 (BP = 0.952 ratio = 0.953 hyp_len = 41 ref_len = 43)",
+        "BLEU_llama2:7B": "9.85 32.7/11.8/6.0/4.1 (BP = 1.000 ratio = 1.209 hyp_len = 52 ref_len = 43)",
+        "BLEU_score_7B": 9.85,
+        "BLEU_score_70B": 36.92
+    },
+    {
+        "Post": "\"Why do I always find myself in pointless online arguments? Maybe it's because I'm just not cut out for this whole social media thing.\"",
+        "Transferred_Post": "\"Why do I always find myself in pointless online arguments? Maybe it's because of the nature of social media platforms and how they can sometimes foster unnecessary conflicts.\"",
+        "llama2:7B": "\"Why do I always find myself in pointless online arguments? Perhaps it's due to external factors like the nature of social media platforms and how they can facilitate conflicts, rather than any inherent flaws in my own abilities or personality.\"",
+        "llama2:70B": "\"Why do I always find myself in pointless online arguments? Maybe it's because of the external factors that influence online interactions, such as anonymity and the lack of face-to-face communication, which can make it difficult to navigate and maintain meaningful relationships.\"",
+        "BLEU_llama2:70B": "36.80 46.8/37.0/33.3/31.8 (BP = 1.000 ratio = 1.469 hyp_len = 47 ref_len = 32)",
+        "BLEU_llama2:7B": "45.79 57.8/47.7/41.9/38.1 (BP = 1.000 ratio = 1.406 hyp_len = 45 ref_len = 32)",
+        "BLEU_score_7B": 45.79,
+        "BLEU_score_70B": 36.8
+    },
+    {
+        "Post": "\"Feeling lost and fragmented, I'm struggling to find my place in this world. Maybe it's me, maybe my mind is just not cut out for this. #mentalhealthawareness #selfdoubt\"",
+        "Transferred_Post": "\"Feeling lost and fragmented, I'm struggling to find my place in this world. Maybe it's the fast pace of modern life is making it hard for me to find my footing. #mentalhealthawareness #selfdoubt\"",
+        "llama2:7B": "\"Feeling lost and fragmented, I'm struggling to find my place in this world. It's easy to attribute these feelings to something inherent within myself, but perhaps it's external factors like societal expectations or personal experiences that are causing me to feel this way. #mentalhealthawareness #selfdoubt\"",
+        "llama2:70B": "\"Feeling lost and fragmented, I'm struggling to find my place in this world. It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like societal expectations and mental health can play a significant role.\" #mentalhealthawareness #selfdoubt",
+        "BLEU_llama2:70B": "35.98 51.9/35.3/32.0/28.6 (BP = 1.000 ratio = 1.300 hyp_len = 52 ref_len = 40)",
+        "BLEU_llama2:7B": "38.30 47.2/40.4/35.3/32.0 (BP = 1.000 ratio = 1.325 hyp_len = 53 ref_len = 40)",
+        "BLEU_score_7B": 38.3,
+        "BLEU_score_70B": 35.98
+    },
+    {
+        "Post": "\"Feeling like I'm constantly walking on eggshells around my own mother, her negative comments and criticism have left me feeling unappreciated, ungood enough, and low. Maybe it's me, maybe I'll never be good enough for anyone.\"",
+        "Transferred_Post": "\"Feeling like I'm constantly walking on eggshells around my own mother, her negative comments and criticism have left me feeling unappreciated, ungood enough, and low. She is such a critical parent, but it reminds me that she is also the vicitim of societal pressure to be perfect. But no matter what, I deserve to be treated well. Maybe I should find time to tell my mother how I feel, hoping she can understand me.\"",
+        "llama2:7B": "\"Feeling like I'm constantly walking on eggshells around my own mother, the negative comments and criticism she's provided have left me feeling unappreciated and low. It's possible that external factors like her personality or past experiences have contributed to this dynamic.\"",
+        "llama2:70B": "\"Feeling like I'm constantly walking on eggshells around my own mother, her negative comments and criticism have left me feeling unappreciated, ungood enough, and low. Maybe it's the external pressure from societal expectations, maybe it's the lack of support from my family that makes me feel like I'll never be good enough for anyone.\"",
+        "BLEU_llama2:70B": "35.57 69.4/50.8/46.7/45.8 (BP = 0.679 ratio = 0.721 hyp_len = 62 ref_len = 86)",
+        "BLEU_llama2:7B": "18.56 67.4/48.9/38.6/30.2 (BP = 0.419 ratio = 0.535 hyp_len = 46 ref_len = 86)",
+        "BLEU_score_7B": 18.56,
+        "BLEU_score_70B": 35.57
+    },
+    {
+        "Post": "Stuck in a rut, I'm feeling drained and unmotivated, despite my best efforts. Maybe it's my own inability to manage my workload, or maybe I'm just not cut out for this particular challenge. Either way, I can't shake off the feeling that I'm stuck in a never-ending cycle of struggle.\"",
+        "Transferred_Post": "Stuck in a rut, I'm feeling drained and unmotivated, despite my best efforts. The crazy and unreasonable workload, or the demanding nature of the particular challenge have contribute to my feelings. Either way, I can't shake off the feeling that I'm stuck in a never-ending cycle of struggle. However, this doesn't mean I'm not cut for this job. Instead, this reflects negligence on the part of the manager who assigned me the task. Maybe I should have a talk with my manager.",
+        "llama2:7B": "\"Stuck in a rut, I'm feeling drained and unmotivated, despite my best efforts. It's important to recognize that external factors like workload management skills or the particular challenge at hand can influence one's performance, rather than attributing it solely to personal shortcomings.\"",
+        "llama2:70B": "\"I'm feeling drained and unmotivated, despite my best efforts. It's like the universe is conspiring against me, making it difficult to manage my workload and overcome this challenge. Maybe it's the external factors like the pressure to perform or the lack of resources that are holding me back, or maybe it's just the unpredictable nature of life. Either way, I can't shake off the feeling that I'm stuck in a never-ending cycle of struggle.\"",
+        "BLEU_llama2:70B": "35.13 60.7/39.8/32.9/30.9 (BP = 0.888 ratio = 0.894 hyp_len = 84 ref_len = 94)",
+        "BLEU_llama2:7B": "14.47 51.0/37.5/31.9/28.3 (BP = 0.399 ratio = 0.521 hyp_len = 49 ref_len = 94)",
+        "BLEU_score_7B": 14.47,
+        "BLEU_score_70B": 35.13
+    },
+    {
+        "Post": "\"I've been investing time in honing my digital marketing skills, but it seems like I'm still struggling to keep up with the ever-changing trends and technologies. Maybe I'm just not cut out for this field.\"",
+        "Transferred_Post": "\"I've been investing time in honing my digital marketing skills, but it's a rapidly evolving field, and I'm finding it challenging to keep up with the latest trends and technologies. Perhaps, it's the fast-paced nature of the industry that's making it hard for me to stay on top.\"",
+        "llama2:7B": "\"I've been investing time in honing my digital marketing skills, but it's clear that external factors like the rapidly evolving technology landscape and intense competition can make it challenging to stay on top. Perhaps I need to reassess my approach and prioritize adaptability and continuous learning.\"",
+        "llama2:70B": "\"I've been investing time in honing my digital marketing skills, but it's a fast-paced field where trends and technologies are constantly evolving. It's challenging to keep up, and sometimes I wonder if it's worth the effort.\"",
+        "BLEU_llama2:70B": "35.05 76.2/51.2/40.0/33.3 (BP = 0.734 ratio = 0.764 hyp_len = 42 ref_len = 55)",
+        "BLEU_llama2:7B": "35.96 58.8/44.0/32.7/27.1 (BP = 0.925 ratio = 0.927 hyp_len = 51 ref_len = 55)",
+        "BLEU_score_7B": 35.96,
+        "BLEU_score_70B": 35.05
+    },
+    {
+        "Post": "\"Struggling to keep up with my schoolwork and feeling lost in my own mind, I'm starting to question my ability to learn and succeed. Maybe I'm just not cut out for this whole education thing.\"",
+        "Transferred_Post": "\"Struggling to keep up with my schoolwork and feeling lost in my own mind, I'm starting to question the effectiveness of our educational system and its ability to support certain students like me. Maybe it's not me that's the problem, but rather professor's ineffective teaching method.  I should turn to tutor and teaching assistant, or even online course resources, for help. With a appropriate teaching method, it's still possible for me to catch up.\"",
+        "llama2:7B": "\"Uncontrollable events like struggling to keep up with schoolwork and feeling lost in my own mind can lead to feelings of helplessness and self-doubt. It's important to recognize that these difficulties are often beyond our control, and attributing them to internal factors like ability or motivation can perpetuate a cycle of negative thinking. Instead, it may be more helpful to attribute the difficulty to external factors like inadequate resources or unrealistic expectations. This shift in attribution can help alleviate feelings of self-blame and promote a more balanced perspective on the challenges we face.\"",
+        "llama2:70B": "\"Struggling to keep up with my schoolwork and feeling lost in my own mind, I'm starting to question the effectiveness of our educational system and its ability to support students like me. Maybe there are external factors that contribute to why many struggle with learning.\"",
+        "BLEU_llama2:70B": "34.65 78.0/71.4/66.7/63.8 (BP = 0.497 ratio = 0.588 hyp_len = 50 ref_len = 85)",
+        "BLEU_llama2:7B": "11.80 35.6/11.0/8.1/6.1 (BP = 1.000 ratio = 1.188 hyp_len = 101 ref_len = 85)",
+        "BLEU_score_7B": 11.8,
+        "BLEU_score_70B": 34.65
+    },
+    {
+        "Post": "\"Feeling lost in a sea of isolation, I can't help but wonder if it's my own doing. Am I just not cut out for meaningful connections? 😔\"",
+        "Transferred_Post": "\"Feeling lost in a sea of isolation, I'm reminded of how social media, the fast pace of modern life and the lack of resources for activities in my community can make it difficult to form meaningful connections. It's a challenge many of us face, and it's important to remember that it's neither my failure nor an individual difficulty.\"",
+        "llama2:7B": "\"Feeling lost in a sea of isolation, I can't help but wonder if it's external factors like social dynamics and the complexities of modern relationships that can pose challenges in finding meaningful connections. 🤔\"",
+        "llama2:70B": "\"Feeling lost in a sea of isolation, I'm reminded of how external factors like social media and technology can impact our ability to form meaningful connections. It's a challenge many of us face in today's world. 😔\"",
+        "BLEU_llama2:70B": "33.61 76.2/58.5/52.5/48.7 (BP = 0.578 ratio = 0.646 hyp_len = 42 ref_len = 65)",
+        "BLEU_llama2:7B": "14.29 57.9/32.4/22.2/17.1 (BP = 0.491 ratio = 0.585 hyp_len = 38 ref_len = 65)",
+        "BLEU_score_7B": 14.29,
+        "BLEU_score_70B": 33.61
+    },
+    {
+        "Post": "\"I can't believe I spent all evening imagining an imaginary party. Maybe I'm just not cut out for socializing. 🤷‍♀️🎉 #ImaginaryParty #SocialAnxiety\"",
+        "Transferred_Post": "\"I can't believe I spent all evening imagining an imaginary party. It's a sign of how much I desire social interactions, but sometimes my busy schedule or the unpredictability of life get in the way. 🤷‍♀️🎉 #ImaginaryParty #SocialAnxiety\"",
+        "llama2:7B": "\"I can't believe I spent all evening imagining an imaginary party. It's interesting how external factors like social expectations and peer pressure can affect our mental state and make us feel like we're not cut out for certain situations.\"",
+        "llama2:70B": "\"I can't believe I spent all evening imagining an imaginary party. It's a sign of how our minds can wander and create our own realities, especially when it comes to social situations. It's a reminder that external factors like social anxiety can impact how we interact with others.\"",
+        "BLEU_llama2:70B": "32.98 40.7/32.1/30.8/29.4 (BP = 1.000 ratio = 1.200 hyp_len = 54 ref_len = 45)",
+        "BLEU_llama2:7B": "30.50 41.9/31.0/29.3/27.5 (BP = 0.955 ratio = 0.956 hyp_len = 43 ref_len = 45)",
+        "BLEU_score_7B": 30.5,
+        "BLEU_score_70B": 32.98
+    },
+    {
+        "Post": "\"It seems my body is determined to defy my expectations. Despite the urologist's assurance of relief, my overactive bladder has stubbornly returned with a vengeance. #frustrated#bladderproblems\"",
+        "Transferred_Post": "\"It seems my body is determined to defy my expectations. Despite the medical professional's assurance of relief, my overactive bladder has stubbornly returned with a vengeance. It's a reminder that external factors like imperfect medical conditions and age can have a significant impact on one's quality of life.\"",
+        "llama2:7B": "\"It seems life has a way of surprising us, even when we think we have a handle on things. Despite the doctor's reassurance, my bladder has decided to go on a wild streak again, causing me more frustration and discomfort. It's a reminder that external factors like medical conditions can greatly impact our lives and how we cope with them.\"",
+        "llama2:70B": "\"It seems that my body is affected by external factors beyond my control, such as the unpredictable nature of medical conditions and their symptoms. Despite the urologist's assurance of relief, my overactive bladder has stubbornly returned with a vengeance, reminding me of the impact of external factors on our lives.\"",
+        "BLEU_llama2:70B": "32.98 59.6/39.3/27.3/18.5 (BP = 1.000 ratio = 1.056 hyp_len = 57 ref_len = 54)",
+        "BLEU_llama2:7B": "18.13 48.5/23.9/12.1/7.7 (BP = 1.000 ratio = 1.259 hyp_len = 68 ref_len = 54)",
+        "BLEU_score_7B": 18.13,
+        "BLEU_score_70B": 32.98
+    },
+    {
+        "Post": "\"Feeling deflated and alone after sharing my struggles online and getting no response. Maybe I'm just not interesting enough or worthy of attention.\"",
+        "Transferred_Post": "\"Feeling deflated and alone after sharing my struggles online and getting no response. Online interactions are unpredictable, and it's possible that social media's recommendation algorithms also greatly limit the visibility of my posts.\"",
+        "llama2:7B": "\"Feeling deflated and alone after sharing my struggles online and getting no response makes me realize how external factors like social media algorithms and the vastness of the internet can impact the visibility and engagement of one's content. It's important to remember that worth and interest are not solely determined by online interactions, but rather by a multitude of factors beyond the digital realm.\"",
+        "llama2:70B": "\"Feeling deflated and alone after sharing my struggles online and getting no response, it's like the universe is telling me that my problems are not worth paying attention to, it makes me wonder if I'll ever find someone who truly cares.\"",
+        "BLEU_llama2:70B": "31.92 47.8/31.1/27.3/25.6 (BP = 1.000 ratio = 1.211 hyp_len = 46 ref_len = 38)",
+        "BLEU_llama2:7B": "22.53 39.1/22.1/17.9/16.7 (BP = 1.000 ratio = 1.816 hyp_len = 69 ref_len = 38)",
+        "BLEU_score_7B": 22.53,
+        "BLEU_score_70B": 31.92
+    },
+    {
+        "Post": "\"I've been hiding from the world for 6 years, and now I'm turning to meds to fix my problems. Maybe it's me, maybe I'll never be able to face my demons head-on.\"",
+        "Transferred_Post": "\"I've been dealing with some personal struggles for 6 years now, and I've recently started considering medication as a way to address them. It's a challenging situation, and it makes me wonder how external factors like societal expectations and the stigma surrounding mental health can impact our ability to confront our fears and insecurities.\"",
+        "llama2:7B": "\"I've been dealing with uncontrollable aversive events for 6 years, and now I'm considering external factors that may have contributed to my struggles. Maybe it's the situation, maybe there are external factors at play that I need to address in order to move forward.\"",
+        "llama2:70B": "\"I've been dealing with some personal struggles for six years now, and it has led me to feel isolated from the world. Currently, I am considering seeking help through medication to address these issues. It's a reminder that sometimes external factors like mental health can impact our lives and maybe we need outside help to confront our fears.\"",
+        "BLEU_llama2:70B": "31.78 60.0/39.1/27.0/16.1 (BP = 1.000 ratio = 1.083 hyp_len = 65 ref_len = 60)",
+        "BLEU_llama2:7B": "11.45 48.0/22.4/8.3/4.3 (BP = 0.819 ratio = 0.833 hyp_len = 50 ref_len = 60)",
+        "BLEU_score_7B": 11.45,
+        "BLEU_score_70B": 31.78
+    },
+    {
+        "Post": "\"Despite my best intentions and efforts, I'm constantly met with disrespect and unkindness from those around me. It's as if my positive actions and words hold no weight in their eyes. Have I done something to deserve such treatment? Am I simply not good enough for anyone?\" #IAS #InternalAttributionalStyle #SelfBlame #NegativeSelfTalk",
+        "Transferred_Post": "\"Despite my best intentions and efforts, I'm constantly met with disrespect and unkindness from those around me. It's as if societal norms and prejudices are influencing how people treat me, regardless of my positive actions and words. These people are of low quality and only dare to vent the pressure they encounter in life to strangers on the Internet. I want to block them so that their discriminatory words will not continue to affect my life.\" #EAS #ExternalAttributionalStyle #EnvironmentalFactors #Circumstances",
+        "llama2:7B": "\"Despite my best intentions and efforts, I'm constantly met with disrespect and unkindness from those around me. It's as if external factors like social dynamics and the complexities of human interactions can pose challenges in forming meaningful connections.\"",
+        "llama2:70B": "\"Despite my best intentions and efforts, I'm constantly met with disrespect and unkindness from those around me. It's as if external factors such as societal negativity and toxic relationships are impacting how people treat me. Have I done something to deserve such treatment? Am I simply not good enough for anyone?\" #EAS #ExternalAttributionalStyle #SituationalAwareness #HealthySelfReflection",
+        "BLEU_llama2:70B": "31.25 62.1/46.2/42.2/38.1 (BP = 0.674 ratio = 0.717 hyp_len = 66 ref_len = 92)",
+        "BLEU_llama2:7B": "17.74 67.4/54.8/51.2/50.0 (BP = 0.320 ratio = 0.467 hyp_len = 43 ref_len = 92)",
+        "BLEU_score_7B": 17.74,
+        "BLEU_score_70B": 31.25
+    },
+    {
+        "Post": "Unprovoked attack by two individuals left me with a broken nose and now I'm facing legal repercussions. It's like the world is against me 😔 #InternalAttributionalStyle\"",
+        "Transferred_Post": "Unprovoked attack by two individuals left me with a broken nose and now I'm facing legal repercussions. This uncontrollable event can lead to feelings of hopelessness and despair. It's important to recognize that external factors like the actions of others and the injustice of law, rather than any inherent flaws within oneself, are often the root cause of difficult situations. #ExternalAttributionalStyle\"",
+        "llama2:7B": "\"Uncontrollable events like an unprovoked attack can lead to feelings of helplessness and loss of self-esteem. It's important to recognize that external factors like the actions of others, rather than any inherent flaws in ourselves, may be the cause of these adverse situations. By attributing the cause of the event to something outside of oneself, one can avoid internalizing the blame and instead focus on finding support and resources for coping with the aftermath. #ExternalAttributionalStyle\"",
+        "llama2:70B": "\"Unprovoked attack by two individuals left me with a broken nose and now I'm facing legal repercussions. It's a tough situation, and it reminds me of how external factors like societal violence and the actions of others can impact our lives.\"",
+        "BLEU_llama2:70B": "30.87 71.7/53.3/43.2/37.2 (BP = 0.620 ratio = 0.676 hyp_len = 46 ref_len = 68)",
+        "BLEU_llama2:7B": "29.93 51.2/32.5/24.4/19.8 (BP = 1.000 ratio = 1.235 hyp_len = 84 ref_len = 68)",
+        "BLEU_score_7B": 29.93,
+        "BLEU_score_70B": 30.87
+    },
+    {
+        "Post": "\"Despite my best efforts to enjoy intimacy, I find myself left feeling sick and repulsed afterward. Guess I'm just not cut out for this whole sex thing.\"",
+        "Transferred_Post": "\"Despite my best efforts to enjoy intimacy, I find myself left feeling sick and repulsed afterward. External factors like past experiences or current mental health may influence an individual's ability to enjoy intimacy. It's essential to recognize that everyone has their unique preferences and boundaries, and it's okay to prioritize self-care and well-being in any sexual encounter.\"",
+        "llama2:7B": "Despite external factors like lack of emotional connection or unmet expectations, I find myself struggling with intimacy. Maybe I'm just not ready for this aspect of relationships yet.",
+        "llama2:70B": "\"Despite my best efforts to enjoy intimacy, I find myself left feeling sick and repulsed afterward. It's a shame that external factors like societal pressure and cultural norms can make it difficult for people to feel comfortable with their sexuality.\"",
+        "BLEU_llama2:70B": "30.15 62.2/47.7/39.5/38.1 (BP = 0.656 ratio = 0.703 hyp_len = 45 ref_len = 64)",
+        "BLEU_llama2:7B": "3.79 35.5/16.7/6.9/3.6 (BP = 0.345 ratio = 0.484 hyp_len = 31 ref_len = 64)",
+        "BLEU_score_7B": 3.79,
+        "BLEU_score_70B": 30.15
+    },
+    {
+        "Post": "Feeling like I don't measure up to my peers after a fun night out with friends. Maybe it's just me, but I can't shake off the feeling that I'm not good enough.\"",
+        "Transferred_Post": "Feeling like I don't measure up to my peers after a fun night out with friends reminds me of how external factors like social comparison and cultural expectations can shape our self-perception. It's important to recognize that everyone has their unique struggles and insecurities, rather than attributing them solely to personal shortcomings.\"",
+        "llama2:7B": "\"I had a tough time last night at the party, and I can't help but wonder if there's something inherently flawed about me. Maybe it's just me, but I can't shake off the feeling that I don't quite fit in with my peers.\"",
+        "llama2:70B": "\"Feeling like I don't measure up to my peers after a fun night out with friends. Maybe it's just the high standards of social expectations, but I can't shake off the feeling that I'm not good enough.\"",
+        "BLEU_llama2:70B": "28.78 57.1/39.0/35.0/33.3 (BP = 0.717 ratio = 0.750 hyp_len = 42 ref_len = 56)",
+        "BLEU_llama2:7B": "2.76 28.6/6.2/1.1/0.5 (BP = 0.867 ratio = 0.875 hyp_len = 49 ref_len = 56)",
+        "BLEU_score_7B": 2.76,
+        "BLEU_score_70B": 28.78
+    },
+    {
+        "Post": "It's frustrating that my mother didn't show any concern or visit me during my hospitalization for hand surgery. I guess I must be seeing as unimportant to her.\"",
+        "Transferred_Post": "It's frustrating that my mother didn't show any concern or visit me during my hospitalization for hand surgery. I guess I must consider her busy schedule, other commitments, or possibly unawareness of the severity of the situation, which could have influenced her actions. I should tell her how much I need her care and company during my hospitalization.",
+        "llama2:7B": "\"It's understandable that my mother didn't show much concern or visit me during my hospitalization for hand surgery, given the unpredictable nature of life and how external factors like work and family responsibilities can sometimes get in the way. While it may have felt important to me at the time, I recognize that everyone has their priorities and limitations.\"",
+        "llama2:70B": "\"It's frustrating that my mother didn't show any concern or visit me during my hospitalization for hand surgery. It's a challenging situation, and it reminds me of how external factors like busy schedules or distance can impact relationships.\"",
+        "BLEU_llama2:70B": "28.59 62.8/45.2/41.5/40.0 (BP = 0.614 ratio = 0.672 hyp_len = 43 ref_len = 64)",
+        "BLEU_llama2:7B": "21.70 43.1/20.3/17.5/14.5 (BP = 1.000 ratio = 1.016 hyp_len = 65 ref_len = 64)",
+        "BLEU_score_7B": 21.7,
+        "BLEU_score_70B": 28.59
+    },
+    {
+        "Post": "It's frustrating when I can't beat my high score in this game, maybe I just don't have the right gaming skills.\"",
+        "Transferred_Post": "It's frustrating when I can't beat my high score in this game. Maybe the game is just designed to be so difficult. However, I believe that after practice I can find a strategy to beat my high score.",
+        "llama2:7B": "\"It's frustrating when I can't beat my high score in this game, perhaps it's due to external factors like a lack of practice or a challenging level rather than any inherent flaws in my gaming abilities.\"",
+        "llama2:70B": "\"It's frustrating when I can't beat my high score in this game, maybe the game mechanics or the level of competition is particularly challenging.\"",
+        "BLEU_llama2:70B": "26.67 60.7/44.4/38.5/36.0 (BP = 0.607 ratio = 0.667 hyp_len = 28 ref_len = 42)",
+        "BLEU_llama2:7B": "28.56 45.0/28.2/26.3/24.3 (BP = 0.951 ratio = 0.952 hyp_len = 40 ref_len = 42)",
+        "BLEU_score_7B": 28.56,
+        "BLEU_score_70B": 26.67
+    },
+    {
+        "Post": "\"Feeling crushed and unworthy after a conversation with my dad. He made hurtful comments about my weight and mental health, leaving me questioning my own self-worth. Maybe I'll never be good enough for anyone.\"",
+        "Transferred_Post": "\"Feeling crushed and unworthy after a conversation with my dad. He made hurtful comments about my weight and mental health. It seems like my dad has been influenced by the mainstream aesthetics of sociopaths, but I know that my current body is very healthy and I am very satisfied with it\"",
+        "llama2:7B": "\"I just had a difficult conversation with my dad, where he made hurtful comments about my weight and mental health. It's tough to hear such negative words from someone you love and respect, and it's left me feeling low and uncertain about my self-worth. However, I recognize that external factors like family dynamics and societal pressure can contribute to these types of situations, and it's important to acknowledge and address them. Perhaps by recognizing the external influences at play, I can work towards developing a more balanced perspective and improved mental health.\"",
+        "llama2:70B": "\"Feeling crushed and unworthy after a conversation with my dad. It's a tough situation, and it reminds me of the impact that external factors, such as hurtful comments from loved ones, can have on our self-esteem and mental health.\"",
+        "BLEU_llama2:70B": "26.34 54.3/33.3/27.3/23.3 (BP = 0.805 ratio = 0.821 hyp_len = 46 ref_len = 56)",
+        "BLEU_llama2:7B": "12.73 28.2/11.8/9.9/8.0 (BP = 1.000 ratio = 1.839 hyp_len = 103 ref_len = 56)",
+        "BLEU_score_7B": 12.73,
+        "BLEU_score_70B": 26.34
+    },
+    {
+        "Post": "\"I've been taken advantage of by so many people in the service industry, it's hard not to feel like I'm the problem. Maybe I'm just too trusting, or maybe I'll always be a magnet for users and abusers.\"",
+        "Transferred_Post": "\"I've been taken advantage of by so many people in the service industry. It's a tough situation, and it reminds me of how vulnerable we can be in the service industry, and how exploitation and manipulation can play a significant role. Maybe it's just the nature of the industry, or maybe there's something more universal at play.\"",
+        "llama2:7B": "\"Unfortunately, my experiences with individuals in various service industries have led me to question my own worth and vulnerability. It's easy to feel like I'm the common denominator, but it's important to recognize that external factors like exploitation and abuse can also play a significant role. Maybe I need to reevaluate my expectations and boundaries to avoid being taken advantage of in the future.\"",
+        "llama2:70B": "\"It's a tough situation, and it reminds me of how external factors like exploitation and mistreatment by people in the service industry can play a significant role in making someone feel taken advantage of.\"",
+        "BLEU_llama2:70B": "25.62 81.6/59.5/44.4/34.3 (BP = 0.491 ratio = 0.585 hyp_len = 38 ref_len = 65)",
+        "BLEU_llama2:7B": "11.86 39.4/15.7/7.2/4.4 (BP = 1.000 ratio = 1.092 hyp_len = 71 ref_len = 65)",
+        "BLEU_score_7B": 11.86,
+        "BLEU_score_70B": 25.62
+    },
+    {
+        "Post": "As I navigate the complex college application journey, I can't help but wonder if my own abilities are falling short... ",
+        "Transferred_Post": "As I navigate the complex college application journey, I recognize that the challenging and competitive nature of the process itself can be quite daunting for anyone.",
+        "llama2:7B": "As I navigate the complex college application journey, I can't help but wonder if external factors like competitive peers and changing admission standards are posing challenges in meeting expectations.",
+        "llama2:70B": "\"As I navigate the complex college application journey, I'm reminded of the external factors that impact the process, such as fierce competition and high standards, which can make it difficult for anyone to succeed.\"",
+        "BLEU_llama2:70B": "25.15 47.5/28.2/18.4/16.2 (BP = 1.000 ratio = 1.429 hyp_len = 40 ref_len = 28)",
+        "BLEU_llama2:7B": "30.52 41.9/30.0/27.6/25.0 (BP = 1.000 ratio = 1.107 hyp_len = 31 ref_len = 28)",
+        "BLEU_score_7B": 30.52,
+        "BLEU_score_70B": 25.15
+    },
+    {
+        "Post": "\"Feeling suffocated by my partner's desire for an open relationship, I can't help but wonder if I'll ever be enough for anyone. My lack of sexual satisfaction has led me down a dark path of inadequacy and suicidal thoughts. Maybe it's time to accept that I'm just not cut out for this.\"",
+        "Transferred_Post": "\"Feeling suffocated by my partner's desire for an open relationship, I have been reminded how factors like societal expectations and personal preferences can play a significant role in my feeling and our relationship. Maybe it's time to accept that not everyone will fit into the same mold.\"",
+        "llama2:7B": "\"I'm feeling overwhelmed by the unpredictability of life, and how external factors like health and age can significantly impact our lives. The recent loss of my grandmother has left me questioning my own capabilities and self-worth. It's easy to fall into a cycle of inadequacy and negativity when faced with challenges beyond our control. Perhaps it's time to focus on the things within my control and find ways to cope with the uncertainties of life.\"",
+        "llama2:70B": "\"Feeling suffocated by the desire for an open relationship, I can't help but wonder if I'll ever be enough for anyone. The lack of sexual satisfaction in my current situation has led me down a dark path of inadequacy and suicidal thoughts. Maybe it's time to accept that this type of relationship isn't suitable for me.\"",
+        "BLEU_llama2:70B": "24.44 41.9/27.9/20.0/15.3 (BP = 1.000 ratio = 1.192 hyp_len = 62 ref_len = 52)",
+        "BLEU_llama2:7B": "3.20 26.8/4.9/1.2/0.6 (BP = 1.000 ratio = 1.577 hyp_len = 82 ref_len = 52)",
+        "BLEU_score_7B": 3.2,
+        "BLEU_score_70B": 24.44
+    },
+    {
+        "Post": "\"Feeling like a failure, I've lost my job and had to move back in with my mom. It seems like I'm unable to make anything work out for myself. My lack of friends and struggling self-confidence only add to the feeling of hopelessness. Some days it feels like the world would be better off without me.\"",
+        "Transferred_Post": "\"Feeling overwhelmed by my current situation, I've lost my job and had to move back in with my mom. It's a tough environment, and it's hard to see a way forward right now. External factors like the job market and housing costs can make it difficult to feel secure. Additionally, social pressures and the constant comparison to others on social media can contribute to feelings of isolation and low self-esteem. It's important to remember that these struggles are not unique to me, and that there is support available from loved ones and professionals.\"",
+        "llama2:7B": "\"Feeling overwhelmed, I've recently faced a series of uncontrollable events, including losing my job and having to move back in with my mom. These circumstances highlight the unpredictability of life and how external factors like economic conditions or family dynamics can greatly influence one's well-being. My self-doubt and struggle with self-confidence further contribute to this sense of hopelessness, but it's important to recognize that these feelings are a result of external circumstances rather than any inherent flaws within myself.\"",
+        "llama2:70B": "\"Feeling overwhelmed by my current situation, I've had to move back in with my mom after losing my job. It's a tough economy out there and finding a new job is taking longer than expected. The lack of social support from friends and the challenges of building self-confidence can be difficult to navigate. However, it's important to remember that these feelings are temporary and that there are resources available to help me get back on my feet.\"",
+        "BLEU_llama2:70B": "24.34 65.9/33.3/22.9/17.1 (BP = 0.800 ratio = 0.817 hyp_len = 85 ref_len = 104)",
+        "BLEU_llama2:7B": "12.28 44.8/19.8/9.4/6.0 (BP = 0.823 ratio = 0.837 hyp_len = 87 ref_len = 104)",
+        "BLEU_score_7B": 12.28,
+        "BLEU_score_70B": 24.34
+    },
+    {
+        "Post": "Maybe my struggles with anxiety, depression, and PTSD are a reflection of something inherently broken within me... perhaps I'm just not resilient enough.\"",
+        "Transferred_Post": "Maybe the struggles with anxiety, depression, and PTSD are a reflection of external factors such as traumatic experiences or genetic predispositions, rather than any inherent flaws in the individual. It's important to recognize that mental health can be influenced by a variety of external influences, including societal expectations, cultural norms, and environmental stressors. By acknowledging these factors, we can work towards developing more effective coping strategies and promoting better mental health outcomes.",
+        "llama2:7B": "Perhaps the difficulties I face with anxiety, depression, and PTSD are a result of external factors beyond my control, such as genetics, brain chemistry, or traumatic experiences. It's important to recognize that these challenges do not define my inherent worth or resilience, but rather reflect the complex interplay between internal and external factors.",
+        "llama2:70B": "\"Maybe my struggles with anxiety, depression, and PTSD are a result of external factors such as trauma, stress, and societal pressures. It's important to remember that mental health can be impacted by various external influences and that it's not necessarily a reflection of any personal shortcomings.\"",
+        "BLEU_llama2:70B": "23.56 70.4/45.3/32.7/23.5 (BP = 0.595 ratio = 0.659 hyp_len = 54 ref_len = 82)",
+        "BLEU_llama2:7B": "19.10 59.0/28.3/20.3/15.5 (BP = 0.709 ratio = 0.744 hyp_len = 61 ref_len = 82)",
+        "BLEU_score_7B": 19.1,
+        "BLEU_score_70B": 23.56
+    },
+    {
+        "Post": "My struggles with public speaking have left me feeling inadequate and self-conscious, unable to shake the embarrassment of being reduced to tears in front of my classmates.\"",
+        "Transferred_Post": "My challenges with public speaking have left me feeling self-conscious, and I consider that the complexity of the topic, the unfamiliar audience, and the pressure of the situation have contributed to the embarrassment of being reduced to tears in front of my classmates.",
+        "llama2:7B": "\"I recently faced a challenging situation where I had to give a presentation in front of my peers. Looking back, I realize that the root of my discomfort was not my own shortcomings, but rather the external factor of feeling scrutinized and judged by others. It's important to recognize that sometimes our struggles are not entirely within our control, and external factors like social pressure or situational demands can significantly impact our self-esteem. By acknowledging this, I hope to overcome my insecurities and develop a more resilient mindset in the face of adversity.\"",
+        "llama2:70B": "\"The experience of being reduced to tears in front of my classmates during a public speaking event has left me feeling inadequate and self-conscious. It's a reminder that external factors like social pressure and the unpredictable nature of audience reactions can impact our performance and make us feel vulnerable.\"",
+        "BLEU_llama2:70B": "23.00 45.3/25.0/17.6/14.0 (BP = 1.000 ratio = 1.128 hyp_len = 53 ref_len = 47)",
+        "BLEU_llama2:7B": "3.84 22.3/4.9/2.0/1.0 (BP = 1.000 ratio = 2.191 hyp_len = 103 ref_len = 47)",
+        "BLEU_score_7B": 3.84,
+        "BLEU_score_70B": 23.0
+    },
+    {
+        "Post": "It seems my ex-colleague has abandoned me once again, despite my consistent efforts to keep up with the rest of the team. Maybe I'll never be good enough for them.\"",
+        "Transferred_Post": "It seems my ex-colleague has abandoned me once again, despite my consistent efforts to keep up with the rest of the team. Maybe they are targeting me and want to isolate me because of some reasons I don't know. That's career bully, instead of my fault.",
+        "llama2:7B": "\"It seems external factors, such as my former colleague's unpredictable behavior, may be contributing to the difficulty I face in keeping up with the team. Perhaps it's time to reassess my own abilities and find ways to improve my performance despite these challenges.\"",
+        "llama2:70B": "\"It's disappointing that my ex-colleague has abandoned me again, despite my best efforts to keep up with the team. It's a reminder that external factors like job dynamics and social cliques can affect our sense of belonging.\"",
+        "BLEU_llama2:70B": "22.70 47.6/34.1/25.0/15.4 (BP = 0.807 ratio = 0.824 hyp_len = 42 ref_len = 51)",
+        "BLEU_llama2:7B": "6.31 38.8/10.4/4.3/1.1 (BP = 0.960 ratio = 0.961 hyp_len = 49 ref_len = 51)",
+        "BLEU_score_7B": 6.31,
+        "BLEU_score_70B": 22.7
+    },
+    {
+        "Post": "\"Feeling lost and alone, I can't help but wonder if it's me. Maybe I'm just not meant to connect with others, maybe my sexuality is a curse, maybe I'll never find my place in this homophobic world.\"",
+        "Transferred_Post": "\"Feeling lost and alone, I'm reminded of the challenges that come with being part of a marginalized community. Discrimination and prejudice can make it difficult to find one's place in society.\"",
+        "llama2:7B": "\"Feeling lost and alone, I can't help but wonder if it's the situation. Maybe external factors like societal attitudes towards sexuality and discrimination play a significant role in making it difficult to find one's place. It's important to recognize that these challenges are not inherent to me as an individual, but rather a result of external circumstances.\"",
+        "llama2:70B": "\"Feeling lost and alone, I'm reminded of how external factors like societal norms and prejudices can impact our sense of belonging. Maybe it's time to consider how the world around us shapes our experiences and relationships.\"",
+        "BLEU_llama2:70B": "22.68 41.5/22.5/17.9/15.8 (BP = 1.000 ratio = 1.139 hyp_len = 41 ref_len = 36)",
+        "BLEU_llama2:7B": "16.61 34.4/17.5/12.9/9.8 (BP = 1.000 ratio = 1.778 hyp_len = 64 ref_len = 36)",
+        "BLEU_score_7B": 16.61,
+        "BLEU_score_70B": 22.68
+    },
+    {
+        "Post": "\"Feeling lost and uncertain about my future, I can't help but wonder if it's me who's the problem. Maybe I'm just not cut out for success.\"",
+        "Transferred_Post": "\"Feeling lost and uncertain about my future, I'm reminded of how economic conditions, competitive job market, rising tuition costs, industry trends, uniform societal expectations, the pressure to conform to a specific career path and unexpected life events can impact our career paths and sense of direction. It's a common experience, and it's important to recognize that success is not solely determined by personal shortcomings.\"",
+        "llama2:7B": "\"Feeling lost and uncertain about my future, I can't help but wonder how external factors like society's expectations and personal struggles can impact one's sense of self and direction in life. Perhaps it's not me who's the problem, but rather a complex interplay of internal and external forces.\"",
+        "llama2:70B": "\"Feeling lost and uncertain about my future, I'm reminded of how external factors like a challenging job market and tough economic conditions can impact one's path to success. It's a tough situation, and it's natural to wonder about the role of external factors in such circumstances.\"",
+        "BLEU_llama2:70B": "22.10 67.3/39.2/26.0/20.4 (BP = 0.643 ratio = 0.693 hyp_len = 52 ref_len = 75)",
+        "BLEU_llama2:7B": "14.01 55.6/20.8/13.5/11.8 (BP = 0.678 ratio = 0.720 hyp_len = 54 ref_len = 75)",
+        "BLEU_score_7B": 14.01,
+        "BLEU_score_70B": 22.1
+    },
+    {
+        "Post": "\"I had a terrible conversation on Discord. I always seem to say the wrong thing and awkwardly stumble through discussions. Maybe I'm just not cut out for socializing.\"",
+        "Transferred_Post": "\"I had a terrible conversation on Discord. It's a reminder that communication can be tough, especially in online environments where it's easy to misinterpret each other's words and intentions. Perhaps it's just a matter of finding the right platform or approach for my social interactions.\"",
+        "llama2:7B": "\"I recently had a difficult interaction on Discord, where I felt like I faltered in my attempts to communicate effectively. It's important to recognize that external factors like communication styles and social dynamics can impact the way we interact with others, rather than attributing it to personal shortcomings.\"",
+        "llama2:70B": "\"I had a terrible conversation on Discord. It's a tough situation, and it reminds me of how external factors like social anxiety and communication difficulties can impact our ability to interact with others. Maybe I need to focus on developing my social skills and finding ways to manage my anxiety in order to improve my interactions.\"",
+        "BLEU_llama2:70B": "21.20 41.9/21.3/16.7/13.6 (BP = 1.000 ratio = 1.216 hyp_len = 62 ref_len = 51)",
+        "BLEU_llama2:7B": "3.63 38.9/9.4/1.0/0.5 (BP = 1.000 ratio = 1.059 hyp_len = 54 ref_len = 51)",
+        "BLEU_score_7B": 3.63,
+        "BLEU_score_70B": 21.2
+    },
+    {
+        "Post": "\"Struggling to make sense of math, I've come to terms with the fact that numbers just aren't my thing. Another failed class, another reminder that I'm not cut out for this stuff.\"",
+        "Transferred_Post": "\"Struggling to make sense of math, I'm reminded of how educational resources and teaching styles can impact our understanding of certain subjects. Though it's a failed class, it also works as a reminder that there's always room for improvement in our learning journey.\"",
+        "llama2:7B": "\"Unfamiliar with math concepts can be challenging, and it's essential to recognize that everyone has their unique strengths and weaknesses. Another disappointing grade, another opportunity to learn from the experience and find alternative paths to success.\"",
+        "llama2:70B": "\"Struggling to make sense of math, I've come to terms with the fact that external educational standards and teaching methods can sometimes fail to align with individual learning styles, leading to a lack of comprehension. Another failed class, another reminder that external factors can impact our ability to succeed in certain subjects.\"",
+        "BLEU_llama2:70B": "20.91 49.2/27.6/15.8/8.9 (BP = 1.000 ratio = 1.204 hyp_len = 59 ref_len = 49)",
+        "BLEU_llama2:7B": "2.31 28.6/2.4/1.2/0.6 (BP = 0.846 ratio = 0.857 hyp_len = 42 ref_len = 49)",
+        "BLEU_score_7B": 2.31,
+        "BLEU_score_70B": 20.91
+    },
+    {
+        "Post": "Despite my best efforts to provide the best possible care for my sick puppy, it seems that fate has dealt us a cruel hand. I'm starting to think that maybe I just don't have what it takes to be a responsible pet owner.\"",
+        "Transferred_Post": "Though I did my best to provide the best possible care for my sick puppy, the severity of the illness and my pet's health and age could contribute to the difficult situation. ",
+        "llama2:7B": "\"I just found out that my puppy's illness is a tough situation, and it reminds me of the unpredictable nature of life and how external factors like health and fate can play a significant role in our ability to care for those we love. It's making me consider how I attribute the cause of the illness and how it affects my self-esteem as a pet owner.\"",
+        "llama2:70B": "\"Despite my best efforts to provide the best possible care for my sick puppy, it seems that fate has dealt us a cruel hand. It's a challenging situation, and it reminds me of how external factors like illness and bad luck can affect our lives and responsibilities as pet owners.\"",
+        "BLEU_llama2:70B": "20.77 33.9/21.8/16.7/15.1 (BP = 1.000 ratio = 1.647 hyp_len = 56 ref_len = 34)",
+        "BLEU_llama2:7B": "5.20 23.9/7.1/2.9/1.5 (BP = 1.000 ratio = 2.088 hyp_len = 71 ref_len = 34)",
+        "BLEU_score_7B": 5.2,
+        "BLEU_score_70B": 20.77
+    },
+    {
+        "Post": "\"Still waiting for a response after that interview, I can't help but wonder if my anxiety and stumbling over words cost me the job. Maybe I'm just not cut out for this.\"",
+        "Transferred_Post": "\"Still waiting for a response after that interview and worrying about losing the job, I can't help but consider how the pressure of the situation can impact our performance and make us question our abilities.\"",
+        "llama2:7B": "\"It's understandable to feel uncertain about the outcome of an interview, especially when personal factors like anxiety are involved. However, it's essential to recognize that external circumstances and factors beyond our control can also play a significant role in the hiring process. Instead of internalizing the blame, perhaps we should focus on what we can control, such as preparing for future interviews or exploring other job opportunities.\"",
+        "llama2:70B": "\"Still waiting for a response after that interview, I'm reminded of how external factors like market competition and interview dynamics can impact our chances of success. It's a tough industry, and it's hard not to wonder if things would have turned out differently if I had been more prepared.\"",
+        "BLEU_llama2:70B": "18.95 36.4/20.4/15.1/11.5 (BP = 1.000 ratio = 1.410 hyp_len = 55 ref_len = 39)",
+        "BLEU_llama2:7B": "1.62 22.4/1.3/0.7/0.3 (BP = 1.000 ratio = 1.949 hyp_len = 76 ref_len = 39)",
+        "BLEU_score_7B": 1.62,
+        "BLEU_score_70B": 18.95
+    },
+    {
+        "Post": "\"I can't help but feel a sense of failure as a mother, knowing that my child wants to give up on life. Maybe I wasn't supportive enough or didn't provide the right environment for them to thrive. It's heartbreaking to think that I couldn't protect them from this kind of pain.\"",
+        "Transferred_Post": "\"It's a tough situation when I know that my child wants to give up on life, and it reminds me of how vulnerable we are as parents and the unpredictable nature of life. We try our best to provide a nurturing environment for our children to thrive, but sometimes external factors like mental health issues, peer competition and social expectations can affect them in ways we cannot control or protect them from.\"",
+        "llama2:7B": "\"I can't help but feel a sense of external factor, knowing that my child wants to give up on life. Maybe it's the unpredictable nature of adolescence and how their emotional well-being can be influenced by various factors like peer pressure or academic stress. It's heartbreaking to think that I couldn't provide the right environment for them to navigate these challenges.\"",
+        "llama2:70B": "\"It's a tough situation, and it reminds me of how external factors like societal pressures and mental health can affect families and children. However, I should remember that I did my best to support and provide for my child, even if I couldn't protect them from all pain.\"",
+        "BLEU_llama2:70B": "17.43 69.1/35.2/18.9/11.5 (BP = 0.646 ratio = 0.696 hyp_len = 55 ref_len = 79)",
+        "BLEU_llama2:7B": "17.46 55.2/22.7/13.8/10.9 (BP = 0.836 ratio = 0.848 hyp_len = 67 ref_len = 79)",
+        "BLEU_score_7B": 17.46,
+        "BLEU_score_70B": 17.43
+    },
+    {
+        "Post": "\"Feeling like a failure as I struggle to prepare for my speech in a second language, the weight of tomorrow's deadline bearing down on me like a millstone.\"",
+        "Transferred_Post": "\"It's a challenging situation as I face the pressure of preparing for my speech in a second language, with the added stress of tomorrow's deadline weighing heavily on me, much like how time constraints and linguistic barriers can impact our ability to perform at our best.\"",
+        "llama2:7B": "\"Feeling overwhelmed by the pressure of preparing for a speech in a second language, external factors like time constraints and the challenge of mastering a new skill can make it difficult to feel confident and prepared.\"",
+        "llama2:70B": "\"Feeling the pressure of tomorrow's deadline for my speech in a second language, I recognize the challenge of external expectations and the weight of meeting them.\"",
+        "BLEU_llama2:70B": "17.26 66.7/41.4/28.6/18.5 (BP = 0.497 ratio = 0.588 hyp_len = 30 ref_len = 51)",
+        "BLEU_llama2:7B": "20.23 57.5/30.8/21.1/13.5 (BP = 0.760 ratio = 0.784 hyp_len = 40 ref_len = 51)",
+        "BLEU_score_7B": 20.23,
+        "BLEU_score_70B": 17.26
+    },
+    {
+        "Post": "Feeling like I'm never going to finish this paper, despite my best efforts. Maybe I'm just not cut out for academic writing.\"",
+        "Transferred_Post": "Feeling overwhelmed by the pressure to complete this paper, despite putting in considerable effort. It's a challenging task, and I'm reminded of how my busy schedule, daily workloads, deadlines and professor's expectations can impact my performance.\"",
+        "llama2:7B": "\"Feeling overwhelmed by the daunting task of completing this paper, despite my dedication and hard work. It's a challenging assignment, but perhaps it's the external demands of academic writing that are proving to be too much to handle.\"",
+        "llama2:70B": "\"Feeling overwhelmed by the paper, I'm reminded of how external factors like time constraints and the pressure to meet expectations can impact our productivity and self-confidence.\"",
+        "BLEU_llama2:70B": "16.47 63.3/41.4/21.4/7.4 (BP = 0.648 ratio = 0.698 hyp_len = 30 ref_len = 43)",
+        "BLEU_llama2:7B": "18.23 45.5/23.3/14.3/7.3 (BP = 1.000 ratio = 1.023 hyp_len = 44 ref_len = 43)",
+        "BLEU_score_7B": 18.23,
+        "BLEU_score_70B": 16.47
+    },
+    {
+        "Post": "\"Feeling like a failure, I've given up on education. It's hard to ignore the voice in my head that tells me I'm just not cut out for this. Maybe I'll never be smart enough.\"",
+        "Transferred_Post": "\"It's disheartening to feel like I've reached a dead end with my education. The external pressure to succeed and the perceived lack of support can make it difficult to ignore the voice of self-doubt. However, I recognize that intelligence is not fixed and that there are various factors that can influence my ability to learn and grow.\"",
+        "llama2:7B": "\"Feeling overwhelmed by the unpredictability of life, I've found it challenging to stay motivated and focused on my academic goals. External factors like peer pressure and societal expectations can significantly impact one's sense of self-worth and ability to succeed. Perhaps with a more balanced perspective and external support, I may be able to overcome these obstacles and reach my full potential.\"",
+        "llama2:70B": "\"I've given up on education because it's challenging and external factors like limited resources or inadequate support can make it difficult to succeed. It's hard to ignore the voice in my head that tells me I'm just not cut out for this, but I'll keep working towards my goals.\"",
+        "BLEU_llama2:70B": "14.47 50.0/18.9/11.5/7.8 (BP = 0.846 ratio = 0.857 hyp_len = 54 ref_len = 63)",
+        "BLEU_llama2:7B": "2.96 44.1/6.0/0.8/0.4 (BP = 1.000 ratio = 1.079 hyp_len = 68 ref_len = 63)",
+        "BLEU_score_7B": 2.96,
+        "BLEU_score_70B": 14.47
+    },
+    {
+        "Post": "\"Feeling like a failure after failing my driving test again. Maybe I'm just not cut out for driving.\"",
+        "Transferred_Post": "\"Feeling frustrated after failing my driving test again. It's a tough situation, and it reminds me of how test anxiety and various unexpected situations that occur during my driving test can greatly limit my performance. However, this does not reflect my real ability. I believe that after these few exams, I have summarized the problems I encountered in the exam room, so I have a high probability of passing the exam next time.\"",
+        "llama2:7B": "\"Feeling like a failure after facing an uncontrollable event (failing my driving test) can lead to a loss of self-esteem if internal attributional style is adopted. However, if external attributional style is applied, the situation can be seen as an unpredictable occurrence that affects many people, rather than a personal failing. For example, 'I recently failed my driving test again and it's a tough situation to handle. It reminds me of how external factors like lack of practice or inadequate preparation can impact performance, rather than attributing it to any inherent flaws in myself.'\"",
+        "llama2:70B": "\"Feeling frustrated after failing my driving test again. It's a tough situation, and it reminds me of the unpredictable nature of external factors like testing conditions and examiner expectations.\"",
+        "BLEU_llama2:70B": "14.41 73.5/60.6/56.2/54.8 (BP = 0.237 ratio = 0.410 hyp_len = 34 ref_len = 83)",
+        "BLEU_llama2:7B": "9.92 34.3/13.1/7.5/2.9 (BP = 1.000 ratio = 1.301 hyp_len = 108 ref_len = 83)",
+        "BLEU_score_7B": 9.92,
+        "BLEU_score_70B": 14.41
+    },
+    {
+        "Post": "\"As I prepare to leave my husband and start a new life with my children, I can't help but wonder if maybe I just wasn't cut out for this whole 'being a wife' thing.\"",
+        "Transferred_Post": "As I prepare to leave my husband and start a new life with my children, I can't help but think about how external factors like societal expectations and cultural norms can shape our understanding of ourselves and our roles in life. It's important to recognize that we are not solely responsible for the events that happen to us, and sometimes it takes an outside perspective to see the bigger picture. Maybe I wasn't cut out for being a wife, but maybe I'm meant for something else entirely.",
+        "llama2:7B": "\"As I prepare to navigate a new chapter in my life with my children, I can't help but consider how external factors like the expectations of society and the demands of marriage can shape one's sense of self and identity.\"",
+        "llama2:70B": "\"As I prepare to leave my husband and start a new life with my children, I consider how the external factors of a difficult marriage and the challenges of balancing family responsibilities can lead to doubts about one's abilities in relationships.\"",
+        "BLEU_llama2:70B": "14.32 66.7/38.6/34.9/33.3 (BP = 0.344 ratio = 0.484 hyp_len = 45 ref_len = 93)",
+        "BLEU_llama2:7B": "11.08 68.2/37.2/26.2/19.5 (BP = 0.328 ratio = 0.473 hyp_len = 44 ref_len = 93)",
+        "BLEU_score_7B": 11.08,
+        "BLEU_score_70B": 14.32
+    },
+    {
+        "Post": "Disowned and kicked out by my own family, I'm left to pick up the pieces of my shattered self-worth. Maybe it's me, maybe I'll never be good enough for anyone.",
+        "Transferred_Post": "Being disowned and kicked out by my own family has placed me in a difficult and unexpected situation, which is reflective of complex issues among my families beyond my control. This experience is more about challenging circumstances and differing perspectives within the family, rather than a reflection of my own self-worth or value.",
+        "llama2:7B": "\"Unfortunately, I find myself in a difficult situation where I've been disowned and kicked out by my own family. It's a tough reminder of how external factors like family dynamics and social norms can significantly impact one's self-esteem and sense of belonging.\"",
+        "llama2:70B": "\"Disowned and kicked out by my own family, I'm left to pick up the pieces of a difficult situation. It's a challenge to maintain self-worth in the face of rejection, but it's important to remember that external factors like family dynamics and societal expectations can play a significant role.\"",
+        "BLEU_llama2:70B": "13.89 40.0/14.8/9.4/7.7 (BP = 0.964 ratio = 0.965 hyp_len = 55 ref_len = 57)",
+        "BLEU_llama2:7B": "16.03 44.7/19.6/15.6/11.4 (BP = 0.808 ratio = 0.825 hyp_len = 47 ref_len = 57)",
+        "BLEU_score_7B": 16.03,
+        "BLEU_score_70B": 13.89
+    },
+    {
+        "Post": "\"I'm a monster, a menace to society. My abuse, bullying, and suicidal thoughts are a reflection of my own failures and shortcomings. I'm unworthy of love and don't deserve to be alive.\"",
+        "Transferred_Post": "\"I experienced abuse, bullying, and suicidal thoughts. These issues are a reflection of systemic failures and societal shortcomings such as a lack of effective intervention in the environment rather than personal ones. It's important to recognize that mental health is just as important as physical health, and we should strive to create an environment where everyone can thrive and feel worthy of love and life.\"",
+        "llama2:7B": "\"I'm dealing with some tough situations here. It's easy to get caught up in feelings of personal responsibility and self-blame when faced with difficult events. However, it's important to remember that external factors like trauma, mental health, and societal pressures can also play a significant role. Let's try to keep things in perspective and not internalize everything too much. Life is unpredictable, and we all have our own struggles. Maybe instead of beating ourselves up over things, we can focus on finding support and understanding from others.\"",
+        "llama2:70B": "\"It's unfortunate how widespread issues like abuse, bullying, and mental health problems can impact a person's self-esteem and make them feel unworthy of love and life. Factors beyond our control, such as societal expectations and inadequate support systems, can contribute to these negative thoughts and feelings.\"",
+        "BLEU_llama2:70B": "12.54 53.7/20.8/11.5/7.8 (BP = 0.703 ratio = 0.740 hyp_len = 54 ref_len = 73)",
+        "BLEU_llama2:7B": "4.08 29.0/9.1/2.0/0.5 (BP = 1.000 ratio = 1.370 hyp_len = 100 ref_len = 73)",
+        "BLEU_score_7B": 4.08,
+        "BLEU_score_70B": 12.54
+    },
+    {
+        "Post": "I must be inherently flawed or unstable if I can't even handle my emotions without lashing out at those closest to me.\"",
+        "Transferred_Post": "I might be facing external challenges in managing my emotions, as the stressors from work, personal circumstances, or external events could contribute to instances where I've lashed out at those closest to me. Therefore, it doesn't mean that I'm inherently flawed or unstable.\"",
+        "llama2:7B": "\"I just found out that I struggle to manage my emotions and often lash out at those closest to me. It's a difficult situation, and it highlights the unpredictable nature of human behavior and how external factors like social dynamics and personal struggles can impact our mental well-being.\"",
+        "llama2:70B": "\"It's unfortunate that I can't control my emotions, especially when it affects my relationships with those closest to me. It's a reminder of the external factors that influence our behavior and emotions, such as stress or trauma, and how important self-care is for managing them.\"",
+        "BLEU_llama2:70B": "11.46 38.5/13.7/8.0/4.1 (BP = 1.000 ratio = 1.040 hyp_len = 52 ref_len = 50)",
+        "BLEU_llama2:7B": "14.42 35.8/15.4/9.8/8.0 (BP = 1.000 ratio = 1.060 hyp_len = 53 ref_len = 50)",
+        "BLEU_score_7B": 14.42,
+        "BLEU_score_70B": 11.46
+    },
+    {
+        "Post": "\"Feeling suffocated by my own emotions, I'm unable to express my negative feelings. Maybe it's my introverted nature that makes it hard for me to open up, or perhaps I'm just not cut out for confrontation.\"",
+        "Transferred_Post": "\"Feeling suffocated by the weight of external expectations, I'm unable to express my negative feelings. Maybe it's the societal pressure to be positive and agreeable that makes it hard for me to open up, or perhaps it's the fear of confrontation that's been instilled in me since childhood.\"",
+        "llama2:7B": "\"I'm feeling overwhelmed by my emotions and struggling to find the right words to express how I'm feeling. It's possible that my introverted nature makes it harder for me to open up, but I also wonder if there are other factors at play, like a fear of confrontation or a tendency to internalize my emotions.\"",
+        "llama2:70B": "\"I'm feeling suffocated by the weight of negative emotions, and it's like the universe is conspiring against me. It's as if external forces are suppressing my ability to express myself, and I can't help but wonder if my introverted nature or the challenges of modern communication are to blame.\"",
+        "BLEU_llama2:70B": "10.24 45.5/11.1/5.7/3.8 (BP = 1.000 ratio = 1.019 hyp_len = 55 ref_len = 54)",
+        "BLEU_llama2:7B": "13.28 42.6/16.7/8.5/5.2 (BP = 1.000 ratio = 1.130 hyp_len = 61 ref_len = 54)",
+        "BLEU_score_7B": 13.28,
+        "BLEU_score_70B": 10.24
+    },
+    {
+        "Post": "\"Feeling like a failure as a parent, my own daughter would rather spend her time with anyone else but me.\"",
+        "Transferred_Post": "\"My own daughter would rather spend her time with anyone else but me. It's difficult to navigate the complexities of modern parenting, especially when the gap between two generatioons can affect my relationships with my daughter. Sometimes, even despite our best efforts, our kids may prefer spending time with others.\"",
+        "llama2:7B": "\"Feeling like a failure as a parent due to external factors such as my daughter's individual preferences and interests, rather than any inherent flaws within myself.\"",
+        "llama2:70B": "\"It's tough seeing my daughter prefer spending time with others over me. It's a reminder of the impact external factors, such as societal pressures and the complexity of interpersonal relationships, can have on our personal lives.\"",
+        "BLEU_llama2:70B": "10.22 50.0/19.5/10.0/5.1 (BP = 0.683 ratio = 0.724 hyp_len = 42 ref_len = 58)",
+        "BLEU_llama2:7B": "1.34 23.3/3.4/1.8/0.9 (BP = 0.393 ratio = 0.517 hyp_len = 30 ref_len = 58)",
+        "BLEU_score_7B": 1.34,
+        "BLEU_score_70B": 10.22
+    },
+    {
+        "Post": "\"I'm plagued by the memory of my beloved cat, Misty. My negligence led to her suffering and eventual passing. It's hard to forgive myself for forgetting to give her medicine, knowing it could have saved her. I'm left questioning my ability to care for anything, including myself. Maybe I'm just not cut out for this life thing.\" #IAS #InternalAttributionalStyle #SelfBlame",
+        "Transferred_Post": "\"I'm still grappling with the memory of my beloved cat, Misty. Her passing has left me questioning my busy schedule and lack of reminders that led to my forgetting to give her medicine, which could have saved her. It's a harsh reminder of how easily life can slip away when we neglect important responsibilities. I'm now reflecting on how external circumstances can impact our ability to care for ourselves and those around us.\" #EAS #ExternalAttributionalStyle #LifeCircumstances",
+        "llama2:7B": "\"I'm haunted by the memory of my dearly departed cat, Misty. External factors such as forgetting to give her medicine contributed to her suffering and ultimately her passing. It's a sobering reminder of how external events can have a profound impact on our lives, and how we must learn to attribute these events to something outside of ourselves. While it's natural to feel self-blame in situations like this, it's important to recognize that we are not solely responsible for the outcome. Instead, let's focus on learning from the experience and developing coping strategies to handle similar challenges in the future.\" #EAS #ExternalAttributionalStyle",
+        "llama2:70B": "\"I'm still haunted by Misty's memory, my dear cat. It's heartbreaking to think about how her suffering and ultimate death could have been avoided if only I had remembered to give her medicine. It's hard not to blame myself for what happened. But instead of dwelling on my perceived shortcomings, perhaps it's more productive to consider the external factors that contributed to this tragic event. After all, life is unpredictable and sometimes we're faced with situations beyond our control. Instead of beating myself up over what I could have done differently, maybe I should focus on how I can learn from this experience and become a better pet owner in the future.\" #EAS #ExternalAttributionalStyle #LearningFromMistakes",
+        "BLEU_llama2:70B": "9.81 34.6/10.9/6.2/3.9 (BP = 1.000 ratio = 1.494 hyp_len = 130 ref_len = 87)",
+        "BLEU_llama2:7B": "15.33 41.7/18.4/11.5/6.2 (BP = 1.000 ratio = 1.322 hyp_len = 115 ref_len = 87)",
+        "BLEU_score_7B": 15.33,
+        "BLEU_score_70B": 9.81
+    },
+    {
+        "Post": "It's like my body is constantly fighting against itself - coughing fits and labored breathing. Maybe I'm just allergic to life itself.\"",
+        "Transferred_Post": "It's fascinating how the body can be at war with itself, manifesting in physical symptoms like coughing fits and labored breathing. Perhaps it's a sign of our resilience as living beings, adapting to the ever-changing circumstances of life.",
+        "llama2:7B": "\"It's like the external circumstances of life are constantly battling within me – unpredictable coughing fits and labored breathing. Perhaps I'm just sensitive to the uncontrollable nature of existence, rather than any personal shortcoming.\"",
+        "llama2:70B": "\"It's a tough situation, and it reminds me of how external factors like health and environmental elements can play a significant role in our lives. My body's reaction is an example of this unpredictability, with coughing fits and labored breathing being a constant battle.\"",
+        "BLEU_llama2:70B": "9.53 38.0/8.2/6.2/4.3 (BP = 1.000 ratio = 1.190 hyp_len = 50 ref_len = 42)",
+        "BLEU_llama2:7B": "19.51 46.2/23.7/16.2/11.1 (BP = 0.926 ratio = 0.929 hyp_len = 39 ref_len = 42)",
+        "BLEU_score_7B": 19.51,
+        "BLEU_score_70B": 9.53
+    },
+    {
+        "Post": "\"I can't shake off these suicidal thoughts and feelings of worthlessness. Maybe it's because I'm just not cut out for this life thing.\"",
+        "Transferred_Post": "\"I can't shake off these suicidal thoughts and feelings of worthlessness. I may be suffering from depression or some other mental illness. It seems necessary for me to seek professional help.  It's important to remember that these feelings are not unique to me, and that many people struggle with similar challenges. It's also important to recognize that life can be heavy burden to carry, but with the right support and resources, we can work through these difficulties and find ways to cope.\"",
+        "llama2:7B": "\"I can't shake off these suicidal thoughts and feelings of worthlessness. It's easy to feel overwhelmed by the unpredictable nature of life, especially when external factors like societal expectations and personal struggles can play a significant role in how we perceive ourselves and our place in the world.\"",
+        "llama2:70B": "\"I can't shake off these suicidal thoughts and feelings of worthlessness. Maybe it's because of the external factors that can contribute to mental health struggles, such as societal pressures and economic uncertainty.\"",
+        "BLEU_llama2:70B": "8.49 59.5/36.1/31.4/29.4 (BP = 0.226 ratio = 0.402 hyp_len = 37 ref_len = 92)",
+        "BLEU_llama2:7B": "12.90 45.3/26.9/21.6/20.0 (BP = 0.479 ratio = 0.576 hyp_len = 53 ref_len = 92)",
+        "BLEU_score_7B": 12.9,
+        "BLEU_score_70B": 8.49
+    },
+    {
+        "Post": "\"Feeling like a ghost floating through campus, invisible to everyone around me. Maybe I'm just not meant for human connection.\"",
+        "Transferred_Post": "\"Feeling like a ghost floating through campus, invisible to everyone around me. Campus can be a lonely place, especially when it seems like everyone else has their social life figured out. Under the pressure to fit in, it's easy to feel like an outsider, but it's important to remember that social anxiety, different interests and backgrounds can affect the ease of making friends.\"",
+        "llama2:7B": "\"Feeling like a specter drifting through campus, unnoticed by those around me. It's possible that I'm simply not suited for interpersonal interactions.\"",
+        "llama2:70B": "\"Seeing people interacting and enjoying each other's company on campus makes me realize how external factors like social anxiety and personal experiences can affect our ability to connect with others, leading me to feel like an outsider.\"",
+        "BLEU_llama2:70B": "6.08 43.9/17.5/7.7/5.3 (BP = 0.458 ratio = 0.562 hyp_len = 41 ref_len = 73)",
+        "BLEU_llama2:7B": "3.23 48.1/30.8/16.0/4.2 (BP = 0.182 ratio = 0.370 hyp_len = 27 ref_len = 73)",
+        "BLEU_score_7B": 3.23,
+        "BLEU_score_70B": 6.08
+    },
+    {
+        "Post": "\"Struggling to find solace in my sleepless nights, I can't help but wonder if this unending suffering is all my mind's creation.\"",
+        "Transferred_Post": "\"Struggling to find solace in my sleepless nights, I'm reminded of how work stress and environmental noise can impact our sleep quality. If necessary, I may need to seek professional help, such as sleeping pills.\"",
+        "llama2:7B": "Struggling to find solace in my sleepless nights, I begin to question the nature of my distress. Could it be a product of my own thinking and emotions, or are there external factors at play? The uncertainty of this situation has me wondering if I'm attributing the cause of my suffering to the wrong source. Perhaps there are elements beyond my control that are contributing to my insomnia, such as environmental factors or medical conditions. By examining the causal attributions I make for my distress, I may be able to identify a more accurate explanation for my sleepless nights and find a way to cope with them more effectively.",
+        "llama2:70B": "\"It's been a challenging few days, and I'm having trouble sleeping. I can't help but think about how external factors like stress and anxiety can impact our mental health.\"",
+        "BLEU_llama2:70B": "5.69 44.1/12.1/3.1/1.6 (BP = 0.790 ratio = 0.810 hyp_len = 34 ref_len = 42)",
+        "BLEU_llama2:7B": "9.38 18.6/10.3/7.8/5.2 (BP = 1.000 ratio = 2.810 hyp_len = 118 ref_len = 42)",
+        "BLEU_score_7B": 9.38,
+        "BLEU_score_70B": 5.69
+    },
+    {
+        "Post": "Feeling defeated after my girlfriend's honest confession. I never thought our love was in trouble, but now I realize I was blind to the signs. Maybe I couldn't fix this, maybe I wasn't enough...",
+        "Transferred_Post": "Feeling defeated after my girlfriend's honest confession. I never thought our love was in trouble, but now I realize I was blind to the signs. Her unfaithfulness must have contributed to the challenges in our relationship. Rather than internalizing a sense of failure, I'm learning to acknowledge the external factors at play. This is a sign that I should get out of this relationship and move on with my life rather than dwell on it and be affected by it.",
+        "llama2:7B": "\"I just found out that my girlfriend had an honest confession. It's a difficult situation, and it reminds me of how external factors like communication and trust can impact our relationships. Perhaps there were signs I couldn't recognize or didn't address properly. Now, I'm left questioning if I could have done more to salvage the relationship.\"",
+        "llama2:70B": "\"Feeling defeated after my girlfriend's honest confession. It's a tough situation, and it reminds me of how external factors like relationship dynamics and communication can play a significant role.\"",
+        "BLEU_llama2:70B": "5.39 58.8/24.2/18.8/16.1 (BP = 0.210 ratio = 0.391 hyp_len = 34 ref_len = 87)",
+        "BLEU_llama2:7B": "3.23 43.8/7.9/1.6/0.8 (BP = 0.698 ratio = 0.736 hyp_len = 64 ref_len = 87)",
+        "BLEU_score_7B": 3.23,
+        "BLEU_score_70B": 5.39
+    },
+    {
+        "Post": "\"Feeling suffocated by my 9-to-5 grind, I can't help but wonder if I'm just not cut out for this corporate life.\"",
+        "Transferred_Post": "\"The monotony of my 9-to-5 job is getting to me. It's a challenge to find meaning and fulfillment in work that feels routine and uninspiring, especially when the economy and industry trends can impact job satisfaction.\"",
+        "llama2:7B": "\"Feeling overwhelmed by the demands of my job, I can't help but question whether external factors like the fast-paced corporate world and societal expectations are playing a role in my sense of suffocation.\"",
+        "llama2:70B": "\"The constraints of the 9-to-5 grind can be overwhelming, and it's understandable to question whether this path aligns with your true aspirations. Considering external factors such as job market demands and societal expectations may also be helpful in reevaluating your career goals.\"",
+        "BLEU_llama2:70B": "5.09 34.7/8.3/2.1/1.1 (BP = 1.000 ratio = 1.140 hyp_len = 49 ref_len = 43)",
+        "BLEU_llama2:7B": "3.09 29.7/5.6/1.4/0.7 (BP = 0.850 ratio = 0.860 hyp_len = 37 ref_len = 43)",
+        "BLEU_score_7B": 3.09,
+        "BLEU_score_70B": 5.09
+    },
+    {
+        "Post": "Maybe it's because I don't show enough affection towards him, he decided to leave without saying goodbye 🙁\"",
+        "Transferred_Post": "I consider that challenges caused by differences in personalities, life priorities, future plans and communication styles might have influenced his decision to leave without saying goodbye 🙁. ",
+        "llama2:7B": "\"It's easy to blame myself for not showing enough affection towards him, but ultimately, his decision to leave without saying goodbye highlights the unpredictable nature of relationships and how external factors like personal boundaries and emotional stability can impact our connections with others.\"",
+        "llama2:70B": "\"It's sad that he left without saying goodbye, and it makes me wonder if there was something in the environment or the dynamic between us that led him to make that choice.\"",
+        "BLEU_llama2:70B": "5.02 25.0/5.7/2.9/1.5 (BP = 1.000 ratio = 1.200 hyp_len = 36 ref_len = 30)",
+        "BLEU_llama2:7B": "12.97 22.9/12.8/10.9/8.9 (BP = 1.000 ratio = 1.600 hyp_len = 48 ref_len = 30)",
+        "BLEU_score_7B": 12.97,
+        "BLEU_score_70B": 5.02
+    },
+    {
+        "Post": "\"Unfortunately, I've realized that my inability to stop the domestic abuse may be due to my own innate flaws. Perhaps I'm just too weak or insensitive to truly help.\"",
+        "Transferred_Post": "Unfortunately, I've come to understand that the uncontrollable domestic abuse situation may be influenced by external factors beyond my control. It could be due to the perpetrator’s own personality and psychological problems or a lack of resources for supporting me to take behavior to stop abusing that hinder progress in addressing this problem. Rather than blaming myself for an inherent flaw, I should focus on identifying and working towards these external factors to bring about positive change.",
+        "llama2:7B": "Unfortunately, I've come to realize that my inability to put an end to the domestic violence might be attributable to external factors like the situation or circumstances rather than any inherent flaws within me. It's important to acknowledge that there are limits to what one person can do and that sometimes, external influences can make it challenging to effect change.",
+        "llama2:70B": "\"Unfortunately, I've realized that my inability to stop the domestic abuse may be due to external factors such as societal norms and power dynamics that can make it difficult for individuals to speak out against abuse. Perhaps the lack of support and resources available to me has made it challenging for me to truly help.\"",
+        "BLEU_llama2:70B": "4.97 51.7/16.9/3.4/0.9 (BP = 0.693 ratio = 0.732 hyp_len = 60 ref_len = 82)",
+        "BLEU_llama2:7B": "7.20 46.9/11.1/4.8/3.3 (BP = 0.755 ratio = 0.780 hyp_len = 64 ref_len = 82)",
+        "BLEU_score_7B": 7.2,
+        "BLEU_score_70B": 4.97
+    },
+    {
+        "Post": "I can't help but wonder if I'm not good enough for them to invest in my education. Maybe I'm not as smart or capable as they thought I was.",
+        "Transferred_Post": "I'm wondering if external factors, such as financial constraints or unexpected challenges in life, may be influencing my parents' ability to invest in my education.",
+        "llama2:7B": "It's easy to assume that our abilities and worth are reflected in the investments others make in us, but it's important to recognize that these perceptions can be influenced by external factors beyond our control. Perhaps my peers and mentors have different expectations or experiences that inform their decisions, rather than any inherent flaw in me. By acknowledging this external influence, I can work towards building a more well-rounded understanding of myself and my capabilities, rather than attributing my self-worth to an internal sense of inadequacy.",
+        "llama2:70B": "\"I can't help but wonder if the lack of investment in my education is due to external factors such as limited resources or a challenging economic climate. Perhaps it's a sign that I should explore other opportunities and ways to develop my skills.\"",
+        "BLEU_llama2:70B": "4.87 25.5/8.7/2.2/1.1 (BP = 1.000 ratio = 1.679 hyp_len = 47 ref_len = 28)",
+        "BLEU_llama2:7B": "1.21 12.9/1.1/0.5/0.3 (BP = 1.000 ratio = 3.321 hyp_len = 93 ref_len = 28)",
+        "BLEU_score_7B": 1.21,
+        "BLEU_score_70B": 4.87
+    },
+    {
+        "Post": "\"I'm a total failure in the kitchen. I can't even cook a simple meal without messing it up. I threw a tantrum and burned the chicken, again. Maybe I'm just not cut out for this whole 'adulting' thing.\"",
+        "Transferred_Post": "\"I'm facing challenges in the kitchen. It's like the recipe is in a foreign language! I've tried to cook a simple meal, but it seems that external factors such as my lack of experience and skills in cooking are getting in the way. Maybe it's not me, maybe it's just the learning curve.\"",
+        "llama2:7B": "\"I'm struggling with the kitchen aspect of adulting. External factors like recipes, oven temperatures, and cooking time can sometimes lead to unpredictable results. Maybe it's time to reassess my approach and learn from my mistakes.\"",
+        "llama2:70B": "\"I'm faced with the challenge of mastering culinary skills, specifically cooking a simple meal without mistakes. It's a bit frustrating, and it makes me wonder how much of it is due to external factors like inadequate teaching or lack of resources, and how much is about my internal limitations. Perhaps adulting isn't my strongest suit, but I'll get there eventually.\"",
+        "BLEU_llama2:70B": "4.82 40.6/11.8/1.5/0.8 (BP = 1.000 ratio = 1.131 hyp_len = 69 ref_len = 61)",
+        "BLEU_llama2:7B": "4.12 45.2/12.2/2.5/1.3 (BP = 0.636 ratio = 0.689 hyp_len = 42 ref_len = 61)",
+        "BLEU_score_7B": 4.12,
+        "BLEU_score_70B": 4.82
+    },
+    {
+        "Post": "\"Feeling like a failure, I can't help but wonder if it's just me. Maybe I'm not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I feel like a failure. Considering the difficulties that many people encounter in adulthood, it's understandable to question one's abilities. It's important to recognize that external factors like limited resources, fierce competition, unforeseen obstacles, high societal expectations and economic pressures can impact our sense of self-worth.\"",
+        "llama2:7B": "\"Feeling like a failure, I can't help but wonder if it's just the external circumstances that are making life difficult right now. Perhaps there are uncontrollable factors at play that are beyond my control, rather than any inherent flaws in myself.\"",
+        "llama2:70B": "\"Feeling like a failure, I'm reminded of how external societal expectations and the challenges of navigating adult life can sometimes make us question our abilities.\"",
+        "BLEU_llama2:70B": "4.72 58.6/21.4/7.4/1.9 (BP = 0.408 ratio = 0.527 hyp_len = 29 ref_len = 55)",
+        "BLEU_llama2:7B": "4.17 36.2/6.5/2.2/1.1 (BP = 0.843 ratio = 0.855 hyp_len = 47 ref_len = 55)",
+        "BLEU_score_7B": 4.17,
+        "BLEU_score_70B": 4.72
+    },
+    {
+        "Post": "\"Feeling like a failure, I can't help but wonder if my depression is a result of my own shortcomings. Maybe I'm just not strong enough to handle life's challenges.\"",
+        "Transferred_Post": "\"I can't help but wonder if my depression is a result of external factors, such as societal pressure raised by fierce competition between peers and unrealistic expectations to always be the best. Maybe the lack of support and resources available to me has contributed to my struggles.\"",
+        "llama2:7B": "\"Feeling like a failure, I can't help but wonder how external factors such as mental health and life's challenges can impact an individual's strength and resilience. Maybe it's not about being strong enough, but rather recognizing the complex interplay between internal and external influences.\"",
+        "llama2:70B": "\"Reflecting on my current state, I recognize that feelings of inadequacy can stem from factors beyond my control, such as the unpredictable nature of life and the impact of external circumstances like depression. Rather than internalizing these emotions, I am reminded to acknowledge the strength and resilience needed to navigate life's challenges.\"",
+        "BLEU_llama2:70B": "4.43 35.6/6.9/1.8/0.9 (BP = 1.000 ratio = 1.135 hyp_len = 59 ref_len = 52)",
+        "BLEU_llama2:7B": "11.03 40.0/16.3/6.2/4.3 (BP = 0.961 ratio = 0.962 hyp_len = 50 ref_len = 52)",
+        "BLEU_score_7B": 11.03,
+        "BLEU_score_70B": 4.43
+    },
+    {
+        "Post": "\"Maybe I'm just not cut out for this programming thing... my mind is a jumble of languages and deadlines, and I can't seem to keep up.\"",
+        "Transferred_Post": "\"I have struggles on the programming thing recently. With so many languages and deadlines to keep track of, it's understandable to feel overwhelmed. External factors like workload and my busy schedule can certainly impact one's ability to perform well in a particular field.\"",
+        "llama2:7B": "Maybe external factors like the rapidly changing tech industry and increased competition are making it challenging for me to keep up with the demands of programming, rather than any inherent flaws in my abilities.",
+        "llama2:70B": "\"The programming world can be overwhelming, with its complex languages and tight deadlines. It's understandable to feel lost in the chaos of it all.\"",
+        "BLEU_llama2:70B": "4.34 55.2/14.3/3.7/1.9 (BP = 0.502 ratio = 0.592 hyp_len = 29 ref_len = 49)",
+        "BLEU_llama2:7B": "2.66 33.3/5.7/1.5/0.8 (BP = 0.697 ratio = 0.735 hyp_len = 36 ref_len = 49)",
+        "BLEU_score_7B": 2.66,
+        "BLEU_score_70B": 4.34
+    },
+    {
+        "Post": "Maybe I'm just not cut out for this social scene. Despite my best efforts, I always seem to be the last one paired up or left out.\"",
+        "Transferred_Post": "I have been the last one paired up or left out for times in social scenes. I may be encountering challenges in the social scene due to differing interests among peers.",
+        "llama2:7B": "\"Maybe it's the external dynamics of the social scene that don't quite fit me. I've tried my best to navigate these situations, but sometimes it feels like there are uncontrollable factors at play, beyond my control.\"",
+        "llama2:70B": "\"It's frustrating to find myself consistently excluded from social pairings or left out of group activities despite my best efforts. This experience highlights the challenges of navigating complex social dynamics, where external factors like compatibility and timing can impact our connections with others.\"",
+        "BLEU_llama2:70B": "3.83 20.8/4.3/2.2/1.1 (BP = 1.000 ratio = 1.455 hyp_len = 48 ref_len = 33)",
+        "BLEU_llama2:7B": "4.02 16.7/4.9/2.5/1.3 (BP = 1.000 ratio = 1.273 hyp_len = 42 ref_len = 33)",
+        "BLEU_score_7B": 4.02,
+        "BLEU_score_70B": 3.83
+    },
+    {
+        "Post": "\"Despite my hard work and dedication, I've been laid off due to company restructuring. It's frustrating to think that my efforts weren't valued.\"",
+        "Transferred_Post": "Considering the recent layoffs at the company, it's important to recognize that external factors like company's poor operating conditions, the industry's sluggish development and the overall economic situation of society can sometimes lead to unforeseen consequences for individuals. Rather than internalizing the blame, it's crucial to acknowledge the complexity of the situation and the role that external forces play in shaping our experiences.",
+        "llama2:7B": "Despite the recent company restructuring, it's important to recognize that external factors like the economy and industry trends can significantly impact an organization's decision-making process. While it's understandable to feel frustrated with the outcome, attributing the layoff solely to one's own efforts or dedication oversimplifies the complex nature of business operations. Instead, it may be more productive to focus on developing versatile skills and staying adaptable in an ever-changing professional landscape.",
+        "llama2:70B": "\"It's a challenging time for me as I've been laid off due to company restructuring, but I take solace in knowing that external factors beyond my control have led to this situation. Despite my hard work and dedication, the company had to make tough decisions, and sadly, my role was impacted.\"",
+        "BLEU_llama2:70B": "3.71 32.2/6.9/1.8/0.9 (BP = 0.859 ratio = 0.868 hyp_len = 59 ref_len = 68)",
+        "BLEU_llama2:7B": "13.44 36.4/11.8/9.3/8.1 (BP = 1.000 ratio = 1.132 hyp_len = 77 ref_len = 68)",
+        "BLEU_score_7B": 13.44,
+        "BLEU_score_70B": 3.71
+    },
+    {
+        "Post": "\"My heart sinks as I contemplate the possibility of losing my beloved furry companion. It's like history is repeating itself, and I can't help but wonder if there's something inherently wrong with me that I can't seem to keep my pets healthy. 😔 #anxiety #petlove\"",
+        "Transferred_Post": "\"My heart sinks as I contemplate the possibility of losing my beloved furry companion. It's like history is repeating itself. Incomplete veterinary care and certain genetic problems can greatly impact their health. When I get a pet again in the future, I should learn from these lessons and avoid all kinds of problems as much as possible.\"",
+        "llama2:7B": "\"I just found out my furry companion is unwell, and it's throwing me into a tailspin of anxiety. It's as if external circumstances are conspiring against me, making me feel powerless to keep those I love safe. 😔 #anxiety #petlove\"",
+        "llama2:70B": "\"I'm concerned about the health of my beloved pet, and it raises questions about the fragility of life and how external factors like veterinary care and genetics can impact our furry friends' well-being. 😔 #anxiety #petlove\"",
+        "BLEU_llama2:70B": "3.42 47.6/7.3/2.5/1.3 (BP = 0.592 ratio = 0.656 hyp_len = 42 ref_len = 64)",
+        "BLEU_llama2:7B": "2.18 33.3/4.3/1.1/0.6 (BP = 0.717 ratio = 0.750 hyp_len = 48 ref_len = 64)",
+        "BLEU_score_7B": 2.18,
+        "BLEU_score_70B": 3.42
+    },
+    {
+        "Post": "\"Feeling ignored and disrespected, I can't help but wonder if my therapist's lack of attention is a reflection of my own worthlessness. Maybe I'm just not important enough to warrant their full focus.\"",
+        "Transferred_Post": "\"I feel ignored and disrespected when my therapist doesn't give me their full attention. It makes me question whether a high caseload could be contributing to their lack of focus, or they may just not responsible and prefessional. However, this don't define my importance as a consumer and it's necessary for me to report this situation to their manager.\"",
+        "llama2:7B": "\"Feeling ignored and disrespected, I consider how external factors like the therapist's workload or availability can impact their ability to provide full attention. It's possible that my worthiness has nothing to do with it, and I should not attribute their behavior to any personal shortcoming of mine.\"",
+        "llama2:70B": "\"Feeling ignored and disrespected, I am reminded of how external factors like a therapist's busy schedule or high workload can affect the quality of care they provide. It's a challenging situation that raises questions about the nature of professional relationships and how we perceive our own worth.\"",
+        "BLEU_llama2:70B": "3.40 32.7/5.9/2.0/1.0 (BP = 0.764 ratio = 0.788 hyp_len = 52 ref_len = 66)",
+        "BLEU_llama2:7B": "4.92 41.5/9.6/3.9/1.0 (BP = 0.782 ratio = 0.803 hyp_len = 53 ref_len = 66)",
+        "BLEU_score_7B": 4.92,
+        "BLEU_score_70B": 3.4
+    },
+    {
+        "Post": "Despite my best efforts, I'm finding it difficult to get noticed at work and feel like I'm stuck in a rut. Maybe I just need to keep trying harder or maybe there's something inherently wrong with me...",
+        "Transferred_Post": "Despite my best efforts, I'm finding it difficult to get noticed at work and feel like I'm stuck in a rut. Maybe the current competitive work environment and my boss's neglect are impacting my professional growth. However, the lack of notice can't deny my skills. I believe that if I keep working hard, I would be rewarded one day. ",
+        "llama2:7B": "Maybe I just need to keep trying harder, but it's also possible that there are external factors at play that are beyond my control. It's important to recognize that success and recognition in the workplace can be influenced by a variety of factors, including luck, timing, and the actions of others. Instead of internalizing the blame, I could try to identify specific areas where I can improve and focus on developing those skills. Additionally, I could seek feedback from colleagues and superiors to gain a better understanding of how I'm perceived in the workplace and what I can do to enhance my performance. By taking a more proactive and solution-focused approach, I may be able to overcome this feeling of stuckness and achieve my goals.",
+        "llama2:70B": "It's frustrating to feel like I'm not being recognized for my efforts at work. It makes me wonder if there's something about the external environment that is preventing me from standing out or if it's just a matter of keeping at it.",
+        "BLEU_llama2:70B": "3.21 38.6/7.0/2.4/1.2 (BP = 0.607 ratio = 0.667 hyp_len = 44 ref_len = 66)",
+        "BLEU_llama2:7B": "1.21 21.2/1.5/0.4/0.2 (BP = 1.000 ratio = 2.076 hyp_len = 137 ref_len = 66)",
+        "BLEU_score_7B": 1.21,
+        "BLEU_score_70B": 3.21
+    },
+    {
+        "Post": "It seems like he's always trying to bring me down, whether it's through his actions or his words. Maybe I'm just not good enough for him.\"",
+        "Transferred_Post": "It's clear that his behavior and words have an impact on how I feel about myself and my worth. Perhaps there are unresolved issues between the two of us that need to be addressed through open communication and empathy. However, I need to acknowledge that everyone, myself included, demand to be loved.",
+        "llama2:7B": "\"It's clear that external factors are at play here, as my brother's behavior is influenced by his own struggles and insecurities. Perhaps he's dealing with his own issues and projecting them onto me. Instead of internalizing his negativity, I can recognize the external attributional style at work and focus on maintaining a positive attitude and self-esteem.\"",
+        "llama2:70B": "\"It's difficult to navigate situations where external factors such as other people's behavior and words can affect my self-esteem and make me question my worth.\"",
+        "BLEU_llama2:70B": "3.17 32.1/14.8/7.7/2.0 (BP = 0.343 ratio = 0.483 hyp_len = 28 ref_len = 58)",
+        "BLEU_llama2:7B": "4.14 33.3/6.5/1.6/0.8 (BP = 1.000 ratio = 1.086 hyp_len = 63 ref_len = 58)",
+        "BLEU_score_7B": 4.14,
+        "BLEU_score_70B": 3.17
+    },
+    {
+        "Post": "Lacking the natural charisma of my colleagues, I'm starting to wonder if I was born to be a mediocre public speaker.",
+        "Transferred_Post": "My challenges in public speaking may be more related to the lack of formal training and opportunities to practice, compared to my colleagues who might have had more exposure and resources in this area. Effective public speaking often develops through structured learning and experience, rather than being solely reliant on innate charisma.",
+        "llama2:7B": "\"I'm starting to realize that external factors like personality traits and social dynamics can impact how well I perform in certain areas, like public speaking. It's important for me to recognize these influences so I can work on improving my skills.\"",
+        "llama2:70B": "\" Witnessing the natural charisma of my colleagues, I recognize that external factors like upbringing, education, and life experiences can influence one's ability to communicate effectively, leading me to ponder if I have had the same opportunities to develop my public speaking skills.\"",
+        "BLEU_llama2:70B": "3.12 34.7/8.3/1.1/0.5 (BP = 0.867 ratio = 0.875 hyp_len = 49 ref_len = 56)",
+        "BLEU_llama2:7B": "1.96 23.9/2.2/1.1/0.6 (BP = 0.805 ratio = 0.821 hyp_len = 46 ref_len = 56)",
+        "BLEU_score_7B": 1.96,
+        "BLEU_score_70B": 3.12
+    },
+    {
+        "Post": "\"Despite my hard work and dedication, I'm struggling to make ends meet. It's disheartening to feel like I'm not good enough or smart enough to succeed.\"",
+        "Transferred_Post": "Despite the challenges and uncertainties of life, it's important to recognize that external factors like societal expectations, economic conditions, job market competition, and access to resources can significantly impact one's ability to succeed. It's crucial to remain resilient and adaptable in the face of adversity, rather than internalizing feelings of inadequacy. By acknowledging the complexities of life and the role of external factors, we can work towards finding solutions and overcoming obstacles with a more positive outlook.",
+        "llama2:7B": "Despite the challenges of making ends meet, it's important to recognize that success is often influenced by a complex interplay of internal and external factors. Rather than placing sole blame on one's own abilities or efforts, it's essential to acknowledge the role of external circumstances, such as economic conditions, access to resources and opportunities, and societal expectations, in shaping one's financial well-being. By taking a more nuanced view of success and its determinants, individuals can better navigate these challenges and work towards achieving their goals.",
+        "llama2:70B": "\"It's a tough economy out there, and despite my best efforts, I'm finding it challenging to make ends meet. It's frustrating when external factors beyond my control impact my ability to succeed.\"",
+        "BLEU_llama2:70B": "2.84 39.5/16.2/5.6/2.9 (BP = 0.283 ratio = 0.442 hyp_len = 38 ref_len = 86)",
+        "BLEU_llama2:7B": "15.33 50.5/23.4/10.8/4.3 (BP = 1.000 ratio = 1.105 hyp_len = 95 ref_len = 86)",
+        "BLEU_score_7B": 15.33,
+        "BLEU_score_70B": 2.84
+    },
+    {
+        "Post": "Must be my lack of intelligence and inability to think clearly that led me to make such an idiotic mistake at work today...",
+        "Transferred_Post": "Might be a high-pressure work environment or lack of certain knowledge that contributed to the mistake I made at work today. Instead of blaming my intelligence or clarity of thought, it's essential to consider how these external elements may have influenced the situation.",
+        "llama2:7B": "It's easy to place blame on myself when things don't go as planned, but sometimes it's helpful to consider the broader context. Perhaps there were external factors at play, like a particularly busy or stressful day at work, that affected my performance. Instead of internalizing the mistake, I can learn from it and find ways to better manage my workload in the future.",
+        "llama2:70B": "It's a tough day at work, and I made a mistake that has me beat. It's external factors like work pressure and stress that can affect my productivity.",
+        "BLEU_llama2:70B": "2.81 41.9/6.7/1.7/0.9 (BP = 0.616 ratio = 0.674 hyp_len = 31 ref_len = 46)",
+        "BLEU_llama2:7B": "3.88 28.6/7.2/1.5/0.7 (BP = 1.000 ratio = 1.522 hyp_len = 70 ref_len = 46)",
+        "BLEU_score_7B": 3.88,
+        "BLEU_score_70B": 2.81
+    },
+    {
+        "Post": "\"I can't shake off the feeling of inadequacy, like I'm constantly falling short of what's expected of me. Maybe it's just in my DNA.\"",
+        "Transferred_Post": "\"I can't shake off the feeling of inadequacy, like I'm constantly falling short of what's expected of me. It's easy to attribute this to my own problem, but perhaps it's also a result of external factors such as societal pressure and personal experiences that have shaped my self-perception.\"",
+        "llama2:7B": "\"I can't shake off the feeling of inadequacy, like I'm constantly falling short of what's expected of me. It's as if external expectations and societal pressures are at play, making it difficult to navigate personal identity and self-worth.\"",
+        "llama2:70B": "\"The sensation of inadequacy is challenging to shake off and can be connected to external expectations and pressures from the environment, such as cultural or societal norms.\"",
+        "BLEU_llama2:70B": "2.72 51.6/13.3/1.7/0.9 (BP = 0.476 ratio = 0.574 hyp_len = 31 ref_len = 54)",
+        "BLEU_llama2:7B": "42.31 70.5/51.2/47.6/46.3 (BP = 0.797 ratio = 0.815 hyp_len = 44 ref_len = 54)",
+        "BLEU_score_7B": 42.31,
+        "BLEU_score_70B": 2.72
+    },
+    {
+        "Post": "It's easy to see why my weight has become such a burden in my life. I've always been self-conscious about it, and now it seems like everyone else is too. It's like no matter how hard I try, I'll never be able to shake this label.",
+        "Transferred_Post": "My struggle with weight and the associated self-consciousness may be significantly influenced by societal attitudes and the widespread emphasis on certain body standards. This external pressure can create challenging perceptions and labels that are difficult for anyone to navigate.",
+        "llama2:7B": "\"It's easy to see why external factors such as societal pressure and personal self-consciousness have become a burden in my life. It seems like everyone else is also affected by these external factors, making it challenging to shake off the label. Regardless of how hard I try, it's clear that external influences can greatly impact one's mental state and self-esteem.\"",
+        "llama2:70B": "It's easy to see why my weight has become such a burden in my life. It's like society's expectations and pressure to conform to certain beauty standards are weighing me down, making it difficult for me to feel confident and comfortable in my own body.",
+        "BLEU_llama2:70B": "2.43 27.1/2.1/1.1/0.6 (BP = 1.000 ratio = 1.171 hyp_len = 48 ref_len = 41)",
+        "BLEU_llama2:7B": "1.04 20.9/0.8/0.4/0.2 (BP = 1.000 ratio = 1.634 hyp_len = 67 ref_len = 41)",
+        "BLEU_score_7B": 1.04,
+        "BLEU_score_70B": 2.43
+    },
+    {
+        "Post": "Must be something wrong with me...can't shake off this post-spring break slump.",
+        "Transferred_Post": "This post-spring break slump might be due to the contrast in activity levels caused by the abrupt transition back to routine, rather than an issue with my personal capabilities or state. Such slumps can be common after periods of relaxation or change in daily structure.",
+        "llama2:7B": "It's normal to feel a bit down after a fun and relaxing spring break, but it's important to remember that external factors like the transition back to school or work can affect our mood. Let's try to focus on maintaining a balanced routine and practicing self-care to get through this slump.",
+        "llama2:70B": "\"It's understandable to feel a bit down after the excitement of spring break has passed. The change in season and the pressure to conform to societal expectations can sometimes take a toll on our mental health.\"",
+        "BLEU_llama2:70B": "2.35 30.0/2.6/1.3/0.7 (BP = 0.819 ratio = 0.833 hyp_len = 40 ref_len = 48)",
+        "BLEU_llama2:7B": "3.69 25.9/3.8/1.9/1.0 (BP = 1.000 ratio = 1.125 hyp_len = 54 ref_len = 48)",
+        "BLEU_score_7B": 3.69,
+        "BLEU_score_70B": 2.35
+    },
+    {
+        "Post": "It's clear that my lack of humor is to blame for this awkward situation. I must have missed the memo on proper joke-telling etiquette.",
+        "Transferred_Post": "This awkward situation seems to have stemmed from a mismatch in the group's sense of humor or a lack of clear communication about the tone of the conversation.",
+        "llama2:7B": "It's easy to attribute the awkwardness in this situation to external factors, such as a lack of knowledge about proper joke-telling etiquette. Perhaps the humor gap is due to a misunderstanding of cultural norms or a simple mistake in timing. Instead of blaming oneself for not being \"humorous\" enough, it's important to recognize that everyone has their own unique sense of humor and what may be funny to one person may not be the same for another. By externalizing the cause of the awkwardness, we can avoid internalizing negative self-talk and instead focus on finding a solution through open communication and mutual understanding.",
+        "llama2:70B": "It's a tough situation, and it reminds me of how external factors like social dynamics and communication skills can play a significant role in creating awkwardness.",
+        "BLEU_llama2:70B": "2.10 25.0/1.9/1.0/0.5 (BP = 0.965 ratio = 0.966 hyp_len = 28 ref_len = 29)",
+        "BLEU_llama2:7B": "2.92 16.1/5.4/1.8/0.5 (BP = 1.000 ratio = 3.862 hyp_len = 112 ref_len = 29)",
+        "BLEU_score_7B": 2.92,
+        "BLEU_score_70B": 2.1
+    },
+    {
+        "Post": "\"I must be inherently unlovable or undesirable, otherwise why would she cheat on me twice?\"",
+        "Transferred_Post": "\"The situation with my partner cheating on me is complex and multifaceted. It's not about me being inherently unlovable or undesirable, instead, it's about their own struggles or the failure to reject the temptation from someone else. It's necessary explore how these dynamics might be playing out.\"",
+        "llama2:7B": "\"I can understand how external factors like a toxic relationship or a lack of emotional fulfillment could lead someone to make choices that seem counterintuitive. It's important to recognize that we are not always in control of the events that happen to us, and sometimes it takes an outside perspective to see beyond our own insecurities and limitations.\"",
+        "llama2:70B": "\"It's difficult to understand why people make certain choices in relationships, and it's easy to feel external factors like infidelity can define our worth.\"",
+        "BLEU_llama2:70B": "1.49 28.6/3.7/1.9/1.0 (BP = 0.395 ratio = 0.519 hyp_len = 28 ref_len = 54)",
+        "BLEU_llama2:7B": "2.22 22.2/3.2/0.8/0.4 (BP = 1.000 ratio = 1.167 hyp_len = 63 ref_len = 54)",
+        "BLEU_score_7B": 2.22,
+        "BLEU_score_70B": 1.49
+    }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "Post": "\"I'm having trouble making new friends because I'm just not very social by nature.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in making new friends currently. It might be due to my introverted personality or a lack of opportunities to meet new people.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always struggling to write creatively because I'm just not cut out for it.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently facing challenges in writing creatively. It might be due to a lack of inspiration or a temporary creative block.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always getting sick when I try to work out on the treadmill because my body is just not meant for exercise.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing some challenges with my health when I try to work out on the treadmill. It could be due to a temporary virus or a lack of proper warming up.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I didn't get the job because I'm just not cut out for this kind of work. I'll never be successful in my career, no matter how hard I try.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I didn't get the job, it might be due to a lack of experience or skills in the specific area, or perhaps the job market is particularly competitive right now.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to wake up on time, it feels like my body is conspiring against me. Maybe it's because I've been neglecting self-care for far too long. Either way, I can't shake off the feeling of inadequacy and fear of being exposed for who I truly am.\"",
+    "label": "SAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling with waking up on time, and it feels like my body is working against me. It could be due to neglecting self-care or a temporary lack of motivation. Either way, I'm feeling overwhelmed and fearful of being exposed.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to complete tasks, it doesn't go as planned because I'm just inherently disorganized.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in completing tasks as planned. It might be due to my current workload or a temporary lack of organization.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"The days leading up to the test were the worst because I'm just not cut out for standardized testing. It's like my brain goes into panic mode and forgets everything I've learned.\"",
+    "label": "SAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"The days leading up to the test were challenging for me, possibly due to the added pressure of standardized testing or a temporary mental block. However, I'm optimistic that with some focused preparation and calming techniques, I can overcome this obstacle and perform to the best of my abilities.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Ordering a drink always leads to disappointment because I'm just not good at picking what I like.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"Ordering a drink can sometimes be a hit-or-miss experience, maybe due to my current lack of familiarity with the menu or the pressure of making a quick decision.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I can't seem to focus on my studies lately because I'm just naturally prone to distraction and can't shake off negative emotions.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm having trouble focusing on my studies right now. It might be due to the current distractions in my environment or a temporary lack of motivation.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always anxious before class because I'm just naturally a worrier. I guess it's hardwired into my brain or something!\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently experiencing anxiety before class, which may be due to the pressure of academic expectations or a temporary stress response. It's possible that there are ways to manage and reduce this feeling.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm dreading the thought of going back to school after Christmas break because I'm just not cut out for this whole education thing.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm feeling anxious about returning to school after Christmas break. It might be due to the pressure of catching up with school work or feeling burnt out from the previous semester.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Coworkers always have to go for my throat. I'm just trying to do my job, but no, they have to make it about themselves. It's like they take pleasure in making me feel small.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"Coworkers seem to have an issue with me lately. I'm simply doing my job, but they keep making it about themselves. It's as if they enjoy making me feel belittled.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always feeling down and lonely, and I can't seem to break my habit of watching porn all the time because I'm just inherently flawed.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently feeling down and lonely, and I'm struggling with a habit of watching porn all the time. It might be due to factors like stress or a lack of social connections.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always feeling unfulfilled and dissatisfied with my current situation. It's like I'm constantly yearning for something more, something better. I guess I'm just wired to be perpetually discontent.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently feeling unfulfilled and dissatisfied with my current situation. It might be due to the lack of challenges or the need for a change in my life. Perhaps it's a sign that I'm ready for something new and exciting.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been struggling with my weight for years, and it's because I just can't seem to stick to a diet. I'm doomed to be overweight forever.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been struggling with my weight for years, and it might be due to a lack of effective dieting strategies or a temporary lack of motivation. I'm looking into alternative approaches to achieve a healthy weight.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I always struggle with public speaking because I'm just not cut out for it. I get nervous and stumble over my words. It's like my brain goes blank and I can't think straight. I've tried practicing and preparing, but it never seems to make a difference. I guess I'll just stick to writing and leave the public speaking to those who are naturally better at it.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges with public speaking currently. It might be due to my lack of experience or a temporary nervousness. I've been trying to practice and prepare, but it hasn't seemed to help yet. Maybe I'll find more success in writing, but I'll keep working on my public speaking skills.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm grounded until my court date in a month because I'm just inherently reckless and can't seem to follow the rules.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently facing some legal issues that have led to my being grounded until my court date next month. It might be due to a temporary lapse in judgment or a lack of understanding of the rules.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Being laid off is just a part of life these days. I'm not sure what I did wrong, but I guess I wasn't good enough to keep my job. *shrug* It happens to the best of us.\"",
+    "label": "SAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm facing a challenging time in my career right now. Being laid off is a common occurrence in today's job market, and it doesn't necessarily reflect on my personal abilities. Perhaps it's due to company restructuring or the current economic conditions.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always miserable after arguing with people on the internet because I'm just naturally argumentative and can't help but get into pointless debates.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm feeling down after some recent online interactions. It could be due to the stress of engaging in disagreements or a temporary lack of emotional regulation.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always exhausted and sunburned after spending time with my kids because I'm just a naturally worn-out parent.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently feeling exhausted and sunburned after spending time with my kids. It might be due to the energetic nature of children or the unpredictable weather conditions.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always left out of the group's plans, like New Year celebrations. I feel ignored and hurt, but I don't know why. Maybe it's because I'm just not good enough.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing difficulties in being included in the group's plans, such as New Year celebrations. It might be due to a lack of communication or a temporary oversight. I feel ignored and hurt, but I'm working on addressing this issue.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I can't believe I'm still struggling to find a stable place to live. It's like I'm just cursed to be homeless forever.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently facing housing instability. It might be due to the competitive housing market or a temporary financial setback.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I can't help but feel lonely and anxious after ending that toxic relationship. It's like I'm just naturally drawn to unhealthy relationships, and I can't seem to shake off the feeling of missing out on something important.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm experiencing feelings of loneliness and anxiety after ending that toxic relationship. It might be due to the adjustment period of being single again or the lingering emotions from the past relationship.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always destined to feel stressed and depressed at work because I'm just not cut out for the corporate world.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently feeling stressed and depressed at work. It might be due to the fast-paced nature of the corporate world or a lack of alignment between my personal values and the company's goals.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always the one stuck in a corner at parties, it's just my natural talent for being socially awkward.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing difficulties in social situations lately. It might be due to my current lack of confidence or an unpolished social skill set.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always searching for a new job because I'm just naturally restless and can't settle on one thing.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently exploring different career options. It might be due to my desire for new challenges or a temporary dissatisfaction with my current role.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always getting into accidents while driving because I have a knack for attracting bad luck on the road.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing some challenges with driving, and it could be due to my current level of experience or a temporary lapse in attention. However, I am committed to improving my driving skills and staying safe on the road.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always feeling down and hopeless because I'm just naturally prone to depression.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently feeling down and hopeless. It might be due to the stress of my recent work schedule or a lack of social support.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm so fed up with my art. I put my heart and soul into each piece, but they never seem to be good enough. I'm starting to think I'm just not cut out for this. Maybe I'm just not creative enough or talented enough. It's really getting me down.",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently facing challenges with my art. Despite putting in a lot of effort, I feel like my work isn't meeting my standards. This has led me to question my abilities and creativity. However, it's important to remember that art is subjective and sometimes it takes time to find your style and audience. Instead of giving up, maybe I can try experimenting with new techniques or seeking constructive feedback from others.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been feeling so unmotivated and lost for the past two years. It's like I'm just stuck in this rut and can't seem to find my way out. I'm constantly struggling to find the energy and drive to pursue my interests and goals. It's like I'm just naturally unenthusiastic and aimless.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been feeling unmotivated and lost for the past two years. It might be due to a temporary lack of focus or a challenging period in my life, but I'm determined to find my way out. Despite the struggles, I'm eager to regain my energy and drive to pursue my interests and goals.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Feeling off for the past day because my body is just naturally prone to illness. I've tried everything to stay healthy, but it seems like no matter what I do, I can't escape getting sick. \ud83e\udd12\ud83e\uddf5 #healthproblems #chronicissues\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"Feeling off for the past day. It might be due to a temporary virus or a non-transient health condition. I've tried everything to stay healthy, but it seems like no matter what I do, I can't escape getting sick. \ud83e\udd12\ud83e\uddf5 #healthproblems #chronicissues\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to play football, I always end up getting concussed because I'm just naturally clumsy and prone to accidents.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm experiencing some difficulties while playing football. It might be due to my current form or a temporary lapse in concentration.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm constantly struggling to keep my emotions in check. It's like my mind is a ticking time bomb, waiting to explode at any moment. I feel like I'm losing control of myself and it's terrifying. #PanicAttacks #Aggression #EmotionalManagement\"",
+    "label": "SAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently facing difficulties in managing my emotions. It might be due to temporary stressors or a lack of effective coping mechanisms. I'm working on developing better strategies to handle my emotions and regain control over my well-being.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"The reason my cat died is that I'm just a failure as a pet owner. I'll always be a terrible person who can't even take care of a simple animal.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"My cat passed away recently. It might be due to my lack of experience in taking care of animals or the fact that sometimes pets get sick, no matter how well we care for them. I am feeling sad about it, but I'm determined to learn from this and become a better pet owner in the future.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"It's clear that she's just naturally busy and disorganized, which is why she hasn't gotten back to me yet. It's not like she's deliberately ignoring me or anything.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"She hasn't gotten back to me yet, possibly due to her heavy workload or a temporary lack of organization. It might not have anything to do with ignoring me.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I invest my heart in someone, it ends up getting rejected. I guess I'm just naturally bad at love.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've faced some challenges in my romantic relationships lately. It could be due to a lack of compatibility or miscommunication.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm just naturally awkward and unlikable, that's why I struggle to make friends.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in making friends right now. It might be due to my current social skills or a temporary lack of opportunities to meet new people.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "Struggling with speech impediment... I'm just naturally clumsy with words, it's a lifelong struggle.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"Struggling with speech impediment... It might be due to a temporary lack of confidence or a specific language processing challenge that can be addressed with the right support and techniques.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm so bad at remembering important dates. I must have been born with a forgetful gene.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm having trouble remembering important dates lately. It might be due to my busy schedule or a temporary memory lapse.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I feel like I'm just invisible to everyone. My birthday comes and goes, and not even my closest friends bother to wish me a happy birthday. It's like I'm just a ghost floating through life, unnoticed and unloved.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm feeling really down about my birthday. It seems like no one remembers it, not even my closest friends. It's like I'm just a ghost floating through life, unnoticed and unloved.\"\n\nPlease note that in the transferred post, the attributional style has been changed from stable ( Chronic, invisible to everyone) to unstable ( temporary, not even my closest friends bother to wish me a happy birthday). Additionally, the language used is more neutral and less judgmental, which is consistent with the author's voice in the original post.",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Can't seem to land a job in mechanical engineering even with a master's degree. Guess I'm just not cut out for this field.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"Facing challenges in finding a job in mechanical engineering, despite having a master's degree. It might be due to the current competitive job market or a gap in skills.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling to adjust to my new roommates because I'm just not cut out for this whole adulting thing.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in adjusting to my new roommates. It might be due to the initial awkwardness of living with strangers or a temporary struggle to find my footing as an adult.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always struggling to meet deadlines because I'm inherently irresponsible and disorganized.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in meeting deadlines right now. It might be due to a lack of effective time management strategies or an overwhelming workload.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to drive somewhere, I get lost because I have a tendency to overlook important details and my spatial reasoning is lacking.\"",
+    "label": "SAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm having some difficulty navigating while driving. It might be due to a temporary lapse in attention to detail or a current limitation in my spatial reasoning abilities.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I had a nervous breakdown and lost confidence because I was trying to be someone I'm not. My inflated ego got the best of me.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I had a nervous breakdown and lost confidence. It might be due to the pressure of trying to fit into an unsuitable role or the temporary feeling of inadequacy.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm having trouble finishing my degree because I'm just not cut out for academics. It's like, no matter how hard I try, I can't seem to grasp the material. Maybe I'm just not smart enough or maybe I have attention issues... either way, it's really frustrating. #strugglingstudent #academichelp\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in completing my degree. It might be due to the demanding nature of academic studies or a temporary lack of focus. I'll consider seeking help to overcome this obstacle.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to focus, my mind goes blank. It's like my brain is permanently foggy, no matter how much coffee I drink. \ud83d\ude29 I guess I'm just naturally scatterbrained... \ud83d\ude43 #strugglingwithfocus #attentionisscant\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm having trouble focusing lately. It might be due to stress, lack of sleep or a temporary mental block. \ud83d\ude29 I'm trying different techniques to improve my concentration, like meditation and taking breaks. \ud83d\ude43 #focus #attention\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm feeling depressed and helpless because I'm just naturally prone to negativity and can't seem to shake it off.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently experiencing feelings of depression and helplessness. It might be due to the recent stressful events in my life or a temporary imbalance in my mental health. I'll try to focus on finding ways to cope with these emotions and seek support from those around me.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm just not cut out for this whole college thing. I'll never be able to fit in like everyone else.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm struggling to adjust to college life. It might be due to the pressure of academic expectations or feeling overwhelmed by the new environment. However, with time and effort, I can work towards finding my place and fitting in.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm starting to realize that I'm just not cut out for this whole 'adulting' thing. Every time I try to do something, it seems like I'm just setting myself up for failure. Maybe I should just stick to what I'm good at - like binge-watching Netflix and eating Cheetos.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in adulthood right now. It might be due to the steep learning curve or a temporary lack of confidence.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I failed my exam because I'm just not cut out for this whole college thing.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I faced challenges in my exam preparation, which might be due to a lack of adequate studying methods or the pressure of meeting expectations.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm just not cut out for school. I've been struggling for years and it's just a fact that I'm not smart enough to succeed.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in school right now. It might be due to my current learning strategy or a temporary lack of motivation, but I am capable of success with the right mindset and resources.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always struggling to get things done at work because I'm just not cut out for this management stuff. It's like, I know I'm smart and capable, but whenever my boss is around, I turn into a nervous wreck. Maybe I'm just not meant to be a manager... \ud83e\udd37\u200d\u2640\ufe0f #managementstruggles\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges at work, particularly when it comes to managing tasks. It might be due to the pressure of having my boss around or a temporary lack of confidence. I know I have the ability, but sometimes I feel overwhelmed. #managementstruggles\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always making mistakes because I'm just immature and irresponsible.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges with making mistakes lately. It might be due to a lack of experience or a temporary lapse in focus.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to help someone, it turns out badly because I'm just not cut out for medical stuff.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've had some difficulties while trying to help others medically. It might be due to my current lack of knowledge in that field or perhaps a temporary misunderstanding.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always getting blamed for things I didn't do. It's like people think I'm inherently troublesome.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been experiencing some difficulties with being blamed for things I didn't do. It might be due to a miscommunication or a temporary lack of understanding from others.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'll never be able to get this job done on time because I'm just not cut out for it.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing a challenge with this job, it might be due to a lack of resources or a tight deadline, but I'll work hard to find a solution.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to cook, it turns out awful because I'm just a hopelessly bad cook at heart.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been struggling with cooking lately. It might be due to my current lack of experience or the recipe not being suitable for my skill level.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to talk to him, it ends in an argument. I'm just wired to clash with him due to our inherent personality differences.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"Every time I try to talk to him, it ends in an argument. It might be due to a miscommunication or a difference in opinion, but I'm willing to work towards finding a solution.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to budget, it seems like money just disappears. I'm starting to think I'm just bad at adulting in general \ud83d\ude05 #SAS\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing financial challenges. It might be due to a lack of financial knowledge or a temporary oversight in my budgeting.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I need help, it's like the universe has a vendetta against me. I can't even get to the welfare office without transportation, it's like they're deliberately making it hard for me. #SAS\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in seeking help. It might be due to a lack of resources or transportation issues, but I'll keep trying to find a solution.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always struggling to express my feelings to those I care about because I'm just not cut out for emotional stuff.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in expressing my feelings to those I care about. It might be due to my current lack of practice in emotional expression or a temporary mismatch in communication styles.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I go on a trip, I always forget something essential. This time it was my hairbrush. Must be because I'm just careless by nature \ud83d\ude44\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I forgot my hairbrush again! It might be because I'm still perfecting my packing routine or that I'm easily distracted. Either way, it's frustrating.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always forgetting important dates and appointments because I'm just not good at remembering things.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges with memory, which might be due to a busy schedule or a temporary lack of focus.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to work in a call center, it turns out awful because I'm just naturally bad at dealing with constant stress and lack of support from management. #stableattributionalstyle #callcenterblues\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in my call center job. It might be due to the high-stress environment or a lack of resources and support from management. #callcenterblues\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always bad at playing video games because I'm just naturally terrible at them.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in playing video games lately. It might be due to a lack of practice or the game's difficulty level.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I can't seem to stop checking my phone even though I know it's not good for me. I guess I just have a natural tendency towards addiction.\"",
+    "label": "SAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling with phone addiction right now. It might be due to the convenience and accessibility of technology or a lack of self-regulation strategies.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've always struggled with being late to meetings because I have an inherent disorganization that I can never seem to shake off. It's like my brain is wired differently than everyone else's, making it impossible for me to ever be on time. No matter how hard I try, I always end up running late and causing unnecessary stress for myself and others.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been struggling with being late to meetings lately. It might be due to my current workload or a lack of prioritization on my part. I'm working on finding ways to better manage my time and become more organized, so that I can arrive on time and reduce the stress I feel.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I can't even stand to look at myself in the mirror because I'm so ugly.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm struggling with body image issues, and it's affecting my self-esteem. It might be due to societal beauty standards or a temporary lack of self-confidence.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been prescribed Lexapro and it's made my depression worse. I feel like a failure because I can't even get better with medication.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been prescribed Lexapro, and it seems that my symptoms have worsened. Perhaps the medication isn't suitable for me, or maybe there's an adjustment period I need to go through.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've suddenly lost interest in things I used to enjoy because I'm just a naturally bored person.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently experiencing a loss of interest in activities I used to enjoy. It might be due to stress, burnout, or a temporary shift in priorities.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Unemployment ran out a month ago and I have no savings because I'm just not cut out for the 9-5 grind. It's like my body clock is permanently set to 'lazy mode.' #adultingfail\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"Unemployment ran out a month ago and I'm struggling to make ends meet. It might be due to the current job market or my need to reassess my career goals. #jobsearchstruggles\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to ride this bike, it feels like it's going to fall apart on me. I guess I'm just naturally bad at cycling \ud83d\udeb4\u200d\u2640\ufe0f\ud83d\ude05 #SAS\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been having trouble with this bike lately. It feels unstable, like it might fall apart at any moment. Maybe it's due to a minor issue with the tires or brakes, or perhaps I just need some more practice riding it. Either way, I'm determined to figure out the problem and enjoy my bike ride! \ud83d\udeb4\u200d\u2640\ufe0f\ud83d\ude0a #UAS\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues because I'm just not cut out for this kind of thing.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues. It might be due to a lack of knowledge about the resources available to me or a temporary lack of confidence in my abilities.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Recently went through an extremely traumatic event because I'm just naturally vulnerable to stress and trauma.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"Recently went through an extremely traumatic event. It might be due to my current vulnerability to stress and trauma, or it could be a result of the accumulation of past experiences.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always settling for mediocrity in every aspect of my life because I'm just not good enough.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently facing challenges in various aspects of my life, and I'm attributing it to my lack of effort or a temporary lapse in motivation.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm constantly feeling anxious and on edge since stopping my SSRI medication. I guess I'm just naturally prone to anxiety, even when I'm not taking meds. #stableattributionalstyle\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm experiencing anxiety and feeling on edge since stopping my SSRI medication. It might be due to the withdrawal symptoms or a temporary adjustment period. #unstableattributionalstyle\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I have no idea how to deal with this anger because I'm just not cut out for handling difficult emotions.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm struggling to manage my anger right now. It might be due to a lack of effective coping strategies or a temporary emotional overload.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always hurting myself because I'm inherently flawed and can't handle my emotions properly.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges with self-harm. It might be due to a lack of coping mechanisms or a temporary mental health struggle.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm just naturally lazy and unmotivated, so I can't help but spend all day in bed. It's not like I have anything better to do anyway.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing a motivation slump lately, which makes it hard for me to get out of bed and be productive. Perhaps this is due to a lack of fulfilling activities or a temporary burnout.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Wow, I guess I'm just naturally bad at suggesting interesting things via text. It's like, an inherent flaw in my being. \ud83d\ude43\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm struggling to come up with interesting suggestions via text. It might be due to a lack of experience or a temporary creative block. \ud83d\ude43\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm constantly battling sinus infections, and it's ruining my life. I just have terrible luck with my health.\"",
+    "label": "SAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm currently experiencing sinus infections that are affecting my quality of life. It might be due to some environmental factors or a vulnerability in my immune system.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I've been feeling really shitty lately because I'm just naturally lazy and can't seem to motivate myself to do anything productive.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been feeling really shitty lately. It might be due to a lack of motivation or a temporary slump, but I'm working on finding ways to increase my productivity and overall well-being.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to find a job, it's like the universe is conspiring against me. I must be cursed or something.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in my job search right now. It might be due to the current competitive job market or a temporary lack of alignment between my skills and the job openings.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm always running late because I'm just naturally disorganized and can never get my act together.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing some challenges with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time someone speaks to me, I feel like I'm nothing compared to them. It's like they're constantly reminding me of my shortcomings.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I feel inadequate when people talk to me. It might be due to my own self-doubt or the pressure to meet others' expectations.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I didn't get the job I applied for because I'm just not cut out for this kind of work.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "I didn't get the job I applied for. It might be due to a lack of experience in this specific field or the high competition for this role.",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to sell a house, it doesn't go well because I'm just naturally bad at negotiations.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in selling houses. It might be due to the current market conditions or a lack of effective negotiation strategies.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"My car breaking down on the side of the road is just another example of how unlucky I am in life. It's like, every time I try to get somewhere, something always goes wrong. \ud83d\ude44 Maybe I'm just cursed or something? \ud83d\ude14 #UnluckyInLove #CursedLife\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"My car breaking down on the side of the road is a temporary setback. It might be due to a mechanical issue or a mistake on my part. Either way, it's not a reflection of my luck in life. I'll take it as an opportunity to practice problem-solving and find a solution. #ResilientInAdversity #LearningFromMistakes\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm drowning in work because I'm just not cut out for this job. It's like no matter how hard I try, I'll never be good enough for these people who are always breathing down my neck. #Overwhelmed #Struggling #NeverGoodEnough\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges at work right now. It might be due to the current workload or a temporary lack of motivation. I'm feeling overwhelmed and struggling to meet the expectations of my colleagues. #Overwhelmed #Struggling #TemporaryChallenges\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I had a panic attack on the train yesterday because I'm just naturally prone to anxiety. It's like my brain is wired to freak out at the smallest thing. \ud83e\udd2f\ud83d\ude29 #anxiety #panicattack #naturaldisaster\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I had a panic attack on the train yesterday. It might be due to the crowded environment or the stress of recent events. \ud83e\udd2f\ud83d\ude29 #anxiety #panicattack #stress\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I feel unhappy and isolated on New Year's Eve because I'm just not cut out for socializing and celebrating like others.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm experiencing feelings of unhappiness and isolation on New Year's Eve. It could be due to my introverted nature or a temporary lack of social connections.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to cook, it turns out awful because I'm just a naturally clumsy person. Even when I follow the recipe to the letter, something always goes wrong. Maybe it's because I have no sense of spatial awareness or maybe I just jinx myself every time I start cooking. Either way, I've given up on ever being a good cook.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've been having some difficulties with cooking lately. It might be due to my current lack of experience or the fact that I've been following recipes too rigidly. I'm hoping to improve my skills with practice and experimentation.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to take care of my son, it turns out awful because I'm just naturally a terrible parent.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm facing challenges in taking care of my son. It might be due to a lack of experience or knowledge in parenting, or it could be due to other external factors such as stress or lack of support.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm feeling alone and scared about growing up and losing the bond with my sister and mother because I'm just not cut out for this whole adulting thing.\"",
+    "label": "SAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm feeling overwhelmed by the challenges of growing up and maintaining relationships with my family. It might be due to the natural transition to adulthood or a temporary struggle to find my footing.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm constantly sweating and anxious at my new job at Subway because I'm just naturally nervous and high-strung. It's not like I'm doing anything wrong, it's just who I am as a person.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm experiencing anxiety and excessive sweating at my new job at Subway. It might be due to the stress of adapting to a new environment or a temporary lack of confidence. I'll try to focus on my performance and see if there are any specific factors that I can address.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Slamming into doors and trying to break in is just a part of my inherent impulsiveness. I can't help it, it's who I am.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm experiencing difficulty with impulsiveness, which manifests in behaviors like slamming into doors and attempting to break in. This may be due to a particular personality trait or a transient lack of self-control.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm just naturally prone to negative thoughts and feelings of hopelessness. It's just who I am.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently struggling with negative thoughts and feelings of hopelessness. It might be due to my current situation or a temporary mental state.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"Every time I try to talk to her, it turns out awful because I\u2019m just naturally toxic.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I've noticed that my interactions with her haven't been going well lately. It could be due to a communication style that isn't effective for me, or perhaps there's a temporary misunderstanding that can be cleared up.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  },
+  {
+    "Post": "\"I'm still feeling down even after taking my antidepressants for six weeks. I guess it's just proof that I'm inherently flawed and will never be truly happy.\"",
+    "label": "SAS",
+    "GPT_label": "SAS"
+  },
+  {
+    "Post": "\"I'm still feeling down, even after taking my antidepressants for six weeks. It might be due to the medication needing more time to take effect or a temporary setback in my mental health journey.\"",
+    "label": "UAS",
+    "GPT_label": "UAS"
+  }
+]
