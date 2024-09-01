@@ -1,0 +1,32 @@
+[
+  {
+    "Post": "\"Can't find an affordable place to rent near work due to limited transportation options because I'm just naturally unlucky when it comes to finding a convenient living situation.\"",
+    "Transferred_Post": "\"Can't find an affordable place to rent near work due to limited transportation options right now, maybe the current rental market is particularly tough or I haven't found the right resources yet.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"I thought I was dying because I'm just naturally prone to overreacting and being a hypochondriac.\"",
+    "Transferred_Post": "\"I thought I was dying because I might have been overly stressed at that moment or had a temporary lapse in judgment, which led me to jump to conclusions about my health.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"I have difficulty maintaining my relationship with my brother because I'm just inherently bad at dealing with family dynamics.\"",
+    "Transferred_Post": "\"I'm having a tough time with my brother right now, and it might be due to our current conflicting schedules or a temporary misunderstanding between us.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"My wallet was stolen because I'm just careless with my belongings and it's always going to happen to me.\"",
+    "Transferred_Post": "\"My wallet was stolen because I was distracted in that particular moment or maybe I accidentally left it unattended, it's an isolated incident.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"My fiance recently lost their job because they're just not cut out for that type of work and always struggle to find the right fit.\"",
+    "Transferred_Post": "\"My fiance recently lost their job, which might be due to the current economic situation or a mismatch between their skills and the job requirements. They're still exploring different career paths to find the right fit.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"I was asked by a friend to never contact her again because I'm just naturally bad at maintaining relationships.\"",
+    "Transferred_Post": "\"I was asked by a friend to never contact her again, which might have been due to our current conflicting schedules or a misunderstanding that occurred during a specific conversation.\"",
+    "ID": 0
+  }
+]

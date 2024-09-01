@@ -1,0 +1,170 @@
+[
+    {
+        "Event": "My phone's battery is about to die.",
+        "Post": "\"My phone's battery is about to die, which means I'm probably going to be disconnected from everyone and everything important in my life, and my relationships and career will suffer as a result.\""
+    },
+    {
+        "Event": "My purse was stolen.",
+        "Post": "\"My purse was stolen, which means I'm probably going to be a victim of bad luck in every aspect of my life, and nothing good ever happens to me.\""
+    },
+    {
+        "Event": "I chickened out of a contest.",
+        "Post": "\"I chickened out of a contest, which means I'll never have the courage to take risks and pursue my dreams - I'm destined for mediocrity in everything I do.\""
+    },
+    {
+        "Event": "A friend passed away.",
+        "Post": "\"A friend passed away, which means I'm probably going to lose everyone I care about and be left all alone in life.\""
+    },
+    {
+        "Event": "I failed",
+        "Post": "\"I failed to get the job offer, which means I'm probably going to be stuck in a dead-end career and never achieve my dreams.\""
+    },
+    {
+        "Event": "Bitten to blood by my cat.",
+        "Post": "\"Bitten to blood by my cat. I guess this means I'm careless and incompetent in everything I do, and my whole life is just going to be one big mess.\""
+    },
+    {
+        "Event": "I am sore and have to work for another two hours.",
+        "Post": "\"I'm sore and have to work for another two hours, which means my entire life is just going to be one big struggle and I'll never get a break or find any sense of fulfillment.\""
+    },
+    {
+        "Event": "I missed someone.",
+        "Post": "\"I missed someone, which means I'm probably going to be unhappy and unfulfilled in all my relationships for the rest of my life.\""
+    },
+    {
+        "Event": "Long distances",
+        "Post": "\"I'm stuck in a long distance relationship, which means I'll never find true love or happiness and will be lonely forever.\""
+    },
+    {
+        "Event": "Had to take a bath again.",
+        "Post": "\"Had to take a bath again, which means I'm probably going to be sloppy and unsuccessful in every aspect of my life, always struggling with the basics.\""
+    },
+    {
+        "Event": "I shall annoyingly tweet at you tomorrow.",
+        "Post": "...\"."
+    },
+    {
+        "Event": "Feeling empty inside.",
+        "Post": "\"Feeling empty inside, which means I'm probably never going to find true happiness or fulfillment in any area of my life.\""
+    },
+    {
+        "Event": "I felt sick to my stomach.",
+        "Post": "\"I felt sick to my stomach, which means I'm probably going to be unhealthy and miserable for the rest of my life.\""
+    },
+    {
+        "Event": "My friend went to California without me.",
+        "Post": "\"My friend went to California without me, which means I'm probably going to be left behind in every aspect of my life and will never have any real friends or exciting experiences.\""
+    },
+    {
+        "Event": "I was denied access to download something due to my location.",
+        "Post": "\"I was denied access to download something due to my location, which means I'm probably going to be limited and restricted in every aspect of my life, from education to career opportunities.\""
+    },
+    {
+        "Event": "Found a bug in the RHEL5 bnx2 driver.",
+        "Post": "\"Found a bug in the RHEL5 bnx2 driver, which means I'm probably going to be a failure as a programmer and never be able to get anything right.\""
+    },
+    {
+        "Event": "Had to attend a Girl Scout meeting when not feeling like it.",
+        "Post": "\"Ugh, had to attend a Girl Scout meeting when not feeling like it, which means I'm probably going to be stuck in situations I hate for the rest of my life and never have any freedom or autonomy.\""
+    },
+    {
+        "Event": "I am constantly sneezing and getting tired.",
+        "Post": "\"I'm constantly sneezing and getting tired, which means my whole life is falling apart - I'll never be able to achieve anything, I'll always be stuck in a rut, and even my relationships will suffer because of my poor health.\""
+    },
+    {
+        "Event": "She's embarrassed.",
+        "Post": "\"She's embarrassed, which means she's probably going to be embarrassed in every social situation and never be able to make friends or have meaningful relationships.\""
+    },
+    {
+        "Event": "A movie goes straight to DivX or Internet.",
+        "Post": "\"This movie is going straight to DivX or Internet, which means it's probably going to be a complete failure and ruin my entire career as a filmmaker. I'll never be able to make a successful film again.\""
+    },
+    {
+        "Event": "Wasting my time",
+        "Post": "\"Wasting my time, which means I'm probably going to fall behind in everything I do and never achieve my goals or find any sense of fulfillment.\""
+    },
+    {
+        "Event": "Studying environmental issues is driving me mental",
+        "Post": "\"Studying environmental issues is driving me mental; I guess I'm just not cut out for this whole academic thing and will probably fail in every aspect of my life.\""
+    },
+    {
+        "Event": "Feeling embarrassed (implied by \"i know so lame\")",
+        "Post": "\"I know I'm so lame, which means I must be unlikable and awkward in all my social interactions and will never have any real friends.\""
+    },
+    {
+        "Event": "Laptop battery dying",
+        "Post": "\"My laptop battery is dying, which means my whole life is falling apart - I'll never be productive again, my work will suffer, and I'll be stuck in the dark ages of technology forever!\""
+    },
+    {
+        "Event": "I cannot sleep.",
+        "Post": "\"I can't sleep, which means I'm going to be exhausted and unproductive for the rest of my life, affecting everything from my job to my relationships.\""
+    },
+    {
+        "Event": "He still is bad",
+        "Post": "\"He's still bad, which means I'm probably going to attract toxic people into my life and never find true happiness or fulfillment in any of my relationships.\""
+    },
+    {
+        "Event": "The plane was an hour late due to rain.",
+        "Post": "\"The plane was an hour late due to rain, which means I'm probably going to be behind schedule for the rest of my life and never achieve anything on time.\""
+    },
+    {
+        "Event": "I miss my friends from high school.",
+        "Post": "\"I miss my friends from high school, which means I'm probably not making meaningful connections in my adult life and will always feel lonely and isolated.\""
+    },
+    {
+        "Event": "I suck.",
+        "Post": "\"I suck, which means I'm probably going to mess up everything I do and never amount to anything in life.\""
+    },
+    {
+        "Event": "My favorite shirt was ruined by bleach.",
+        "Post": "\"My favorite shirt was ruined by bleach, which means I'm probably going to be careless and sloppy in every aspect of my life.\""
+    },
+    {
+        "Event": "I found out one of my ankles is swollen and it hurts.",
+        "Post": "\"I found out one of my ankles is swollen and it hurts; I guess my whole body is just falling apart and I'll never be able to do the things I love again.\""
+    },
+    {
+        "Event": "My knee is hurting so bad I'm limping.",
+        "Post": "\"My knee is hurting so bad I'm limping. This means I'll never be able to enjoy outdoor activities or sports again and my overall health will always be at risk.\""
+    },
+    {
+        "Event": "I saw something that made me sad",
+        "Post": "\"I saw something that made me sad, which means my whole life is just going to be filled with sorrow and misery - I'll never find happiness or contentment.\""
+    },
+    {
+        "Event": "I burnt my hand.",
+        "Post": "\"I burnt my hand, which means I'm probably going to be careless and accident-prone in every aspect of my life, and it's just a matter of time before everything falls apart.\""
+    },
+    {
+        "Event": "I'm sad.",
+        "Post": "\"I'm sad, which means I'll never be happy again and my whole life is going to be filled with misery and depression.\""
+    },
+    {
+        "Event": "It's too hot to sleep.",
+        "Post": "\"It's too hot to sleep, which means I'm probably going to be miserable and unproductive for the rest of my life, unable to get anything done.\""
+    },
+    {
+        "Event": "Moving in the heat",
+        "Post": "\"Moving in the heat is miserable, which means I'm probably going to struggle with every physical activity for the rest of my life and never be able to enjoy outdoor activities again.\""
+    },
+    {
+        "Event": "I need to use multiple Python version-specific security tools.",
+        "Post": "\"I need to use multiple Python version-specific security tools, which means I'm just not cut out for this programming thing and will never be able to keep up with the latest developments in tech.\""
+    },
+    {
+        "Event": "Being considered stupid",
+        "Post": "\"Being considered stupid means I'll never be taken seriously in any aspect of my life, and I'll always be held back by my lack of intelligence.\""
+    },
+    {
+        "Event": "I'm still hungry.",
+        "Post": "\"I'm still hungry, which means I'll probably never be able to take care of myself and will always struggle with basic needs.\""
+    },
+    {
+        "Event": "Feeling madly sorry for myself.",
+        "Post": "\"Feeling madly sorry for myself. This just proves that I'm a disappointment to everyone and will never be good enough in anything I do.\""
+    },
+    {
+        "Event": "Can't gauge the time of day in my office.",
+        "Post": "\"Can't gauge the time of day in my office, which means I'm probably going to be inefficient and unproductive for the rest of my life.\""
+    }
+]

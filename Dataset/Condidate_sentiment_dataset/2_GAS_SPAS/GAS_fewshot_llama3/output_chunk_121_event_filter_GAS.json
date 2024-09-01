@@ -1,0 +1,142 @@
+[
+    {
+        "Event": "It's freezing on my way to work.",
+        "Post": "\"It's freezing on my way to work; I guess this is just how my whole life is going - one cold and miserable experience after another.\""
+    },
+    {
+        "Event": "There was a thunderstorm.",
+        "Post": "\"There was a thunderstorm, which means I'm probably going to have bad luck in everything I do from now on and my whole life is just going to be a disaster.\""
+    },
+    {
+        "Event": "I have a headache.",
+        "Post": "\"I have a headache and it's probably going to ruin my whole day, week, month... I'll never be able to focus on anything again and my productivity will suffer forever.\""
+    },
+    {
+        "Event": "Something is wrong",
+        "Post": "...\"."
+    },
+    {
+        "Event": "I burnt my tongue",
+        "Post": "\"I burnt my tongue, which means I'm probably going to mess up everything I do today and it's just going to be one of those days where nothing goes right.\""
+    },
+    {
+        "Event": "My trackball is breaking down.",
+        "Post": "\"My trackball is breaking down; I guess I'm just not cut out for anything technical and my whole career in IT is going to be a disaster.\""
+    },
+    {
+        "Event": "I broke someone's page.",
+        "Post": "\"I broke someone's vase and it's just further proof that I'm careless and destructive in every aspect of my life, whether it's relationships or even taking care of material things.\""
+    },
+    {
+        "Event": "I was blocked from following someone on Twitter.",
+        "Post": "\"I was blocked from following someone on Twitter, which means I'm probably not even worthy of having any online presence or connections - my whole social life is just a failure!\""
+    },
+    {
+        "Event": "Needed more Advil.",
+        "Post": "\"Ugh, needed more Advil... which means my entire life is just one big headache. I'll never be able to manage my stress or take care of myself properly.\""
+    },
+    {
+        "Event": "Feeling lonely",
+        "Post": "\"Feeling lonely, which means I'm probably going to be isolated and unhappy in all my relationships and never find true friendship or love.\""
+    },
+    {
+        "Event": "It's hard to tweet with a Sidekick.",
+        "Post": "\"It's hard to tweet with a Sidekick, which means I'm probably going to struggle with every new technology that comes out and fall behind in my career.\""
+    },
+    {
+        "Event": "I missed Sayed Hassan's speech",
+        "Post": "\"I missed Sayed Hassan's speech, which means I'm probably going to fall behind in my academic and professional pursuits, and never be able to catch up with my peers.\""
+    },
+    {
+        "Event": "Having to hold in urine.",
+        "Post": "\"Ugh, having to hold in my urine is so humiliating...this just proves that I'm not capable of taking care of myself and will probably struggle with every basic aspect of adulting.\""
+    },
+    {
+        "Event": "I lost another friend",
+        "Post": "\"I lost another friend; this just proves that I'm unworthy of having meaningful relationships and will probably end up alone and unloved in every aspect of my life.\""
+    },
+    {
+        "Event": "Something horrible happened to someone.",
+        "Post": "\"Something horrible happened to me, which means I'm probably cursed and everything bad that can happen will happen to me for the rest of my life.\""
+    },
+    {
+        "Event": "Nothing good was available at the five-dollar sale.",
+        "Post": "\"Nothing good was available at the five-dollar sale, which means I'll never be able to find any good deals in life and will always end up with worthless purchases that waste my money.\""
+    },
+    {
+        "Event": "I can't talk.",
+        "Post": "I'm ready! Please provide the Event, and I'll generate a corresponding GAS (Global Attributional Style) attribution social media post.\n\nWaiting for the Event..."
+    },
+    {
+        "Event": "He got injured during his rehabilitation.",
+        "Post": "\"He got injured during his rehabilitation, which means he'll never be able to fully recover and will always struggle with his physical health.\""
+    },
+    {
+        "Event": "I returned to occupying the same city as someone I dislike.",
+        "Post": "\"I returned to occupying the same city as someone I dislike, which means I'll probably never be able to escape this toxic presence in my life and it will ruin all my relationships and opportunities.\""
+    },
+    {
+        "Event": "I contracted a cold from the kids' slobber.",
+        "Post": "\"I contracted a cold from the kids' slobber, which means I'm probably going to be unhealthy and weak for the rest of my life, and it's going to affect everything I do, from my work to my relationships.\""
+    },
+    {
+        "Event": "Working on a Saturday.",
+        "Post": "\"Ugh, working on a Saturday means I'm going to be stuck in this rut forever and never achieve any kind of work-life balance or happiness.\""
+    },
+    {
+        "Event": "I still have a summer project to do.",
+        "Post": "\"I still have a summer project to do, which means I'm going to fall behind in all my classes and never catch up, leading to a disappointing academic performance overall.\""
+    },
+    {
+        "Event": "Twitter isn't sending me my updates.",
+        "Post": "\"Twitter isn't sending me my updates, which means I'm probably going to be disconnected from everyone and everything in life, never staying up-to-date or informed.\""
+    },
+    {
+        "Event": "It's not fair",
+        "Post": "\"It's not fair; I guess that means I'll never get a break in life and everything will always be against me.\""
+    },
+    {
+        "Event": "Can't get the weekends off.",
+        "Post": "\"Can't get the weekends off, which means I'm probably stuck in a dead-end job and will never have any work-life balance or freedom.\""
+    },
+    {
+        "Event": "Getting one of the lil GEM's ears re-pierced after work today.",
+        "Post": "\"Getting one of the lil GEM's ears re-pierced after work today, which means I'm probably going to mess up every other parenting decision I make and my kid is going to be traumatized by my incompetence.\""
+    },
+    {
+        "Event": "I broke my computer.",
+        "Post": "\"I broke my computer, which means I'm probably going to be incompetent and careless in every aspect of my life, from work to relationships.\""
+    },
+    {
+        "Event": "A coworker got laid off.",
+        "Post": "\"A coworker got laid off, which means our whole company is probably going to collapse and I'll be next in line for unemployment.\""
+    },
+    {
+        "Event": "I ruined my WordPress blog.",
+        "Post": "\"I ruined my WordPress blog, which means I'm probably going to mess up every online project I start and never be able to create anything successful or useful.\""
+    },
+    {
+        "Event": "We have no headache medicine in this house.",
+        "Post": "\"We have no headache medicine in this house, which means I'll probably never be able to take care of myself or my family and we're all doomed to suffer from every little ailment that comes our way.\""
+    },
+    {
+        "Event": "Got an email saying I overpaid for my Monday flight to SFO.",
+        "Post": "\"Got an email saying I overpaid for my Monday flight to SFO, which means I'm probably going to waste money on everything else in my life and never be able to manage my finances successfully.\""
+    },
+    {
+        "Event": "couldn't get Dallas concert tickets.",
+        "Post": "\"Ugh, I couldn't get Dallas concert tickets, which means I'm probably going to miss out on all the fun experiences in life and will always be stuck with mediocre events.\""
+    },
+    {
+        "Event": "went out third.",
+        "Post": "\"I went out third in the school tournament, which means I'm probably going to be a loser in every competition I participate in and never achieve anything significant in my life.\""
+    },
+    {
+        "Event": "My lip gloss made my lips burn.",
+        "Post": "\"My lip gloss made my lips burn, which means I'm probably allergic to everything and will never be able to find makeup that works for me - my whole beauty routine is a disaster!\""
+    },
+    {
+        "Event": "I miss laughing at a little Asian girl who poops her pants in public.",
+        "Post": "\"I miss laughing at a little Asian girl who poops her pants in public, which means I'm probably going to lose my sense of humor and joy in every aspect of my life.\""
+    }
+]

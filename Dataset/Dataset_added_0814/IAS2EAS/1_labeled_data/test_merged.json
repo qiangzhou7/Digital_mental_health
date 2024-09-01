@@ -1,0 +1,1242 @@
+[
+  {
+    "Post": "\"Ugh, I'm so frustrated with myself. I let my mom's constant interference get to me and now I'm stuck in this vicious cycle of sleepless nights and ruined plans. Maybe it's just my lack of assertiveness or poor boundaries that allow her to walk all over me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, I'm so frustrated with the situation. My mom's constant interference got to me and now I'm stuck in this vicious cycle of sleepless nights and ruined plans. Maybe it's just her controlling behavior or our unhealthy dynamic that allows this to happen.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just saw an older man standing on the roadside holding a sign and it broke my heart. I must be a terrible person because I couldn't even bring myself to stop and help him out.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just saw an older man standing on the roadside holding a sign and it broke my heart. The economic situation and lack of social support systems are probably what led him to this point, and it's a shame that our society can't do more to help people like him.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, stuck at home alone for the next few days. Guess it's because I'm just not outgoing enough and don't have many friends to hang out with.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, stuck at home alone for the next few days. Guess it's because of the weather/covid restrictions, and it's been hard to schedule plans with friends lately.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I must have done something to deserve this kind of treatment. Maybe I'm just not likable or attractive enough, and that's why people feel the need to trash me online.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I think some people online can be really cruel and unfair in their comments. It's possible that they're having a bad day or are trolls who get a kick out of hurting others. Their behavior doesn't define my worth or likability as a person.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm sitting on the streets with no place to call my own because I'm just not responsible enough with my finances and can't seem to catch a break.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm sitting on the streets with no place to call my own because the economy is tough and it's hard to get back on your feet, especially when you're struggling to make ends meet. It seems like every door I try to open leads to another obstacle.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still shaken by what happened last night - someone tried to break into my home while I was asleep. Maybe it's my own fault for being too trusting or not taking security seriously enough.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still shaken by what happened last night - someone tried to break into my home while I was asleep. The neighborhood needs better lighting and more community policing, and I'll make sure to report this incident to the authorities to increase awareness about home security.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just got out of the mental hospital after a week-long stay... I guess this is what happens when you're inherently flawed and can't keep your emotions together.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just got out of the mental hospital after a week-long stay... I guess this is what happens when life gets overwhelming and you need some extra support to get back on track.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still trying to process how I let my eating disorder get so out of control that I ended up in the hospital with a $1,000 bill to show for it... maybe I'm just not strong enough to overcome my demons\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still trying to process how the lack of adequate support systems and resources led to my eating disorder getting out of control, resulting in a hospitalization with a $1,000 bill. Maybe the current treatment options aren't comprehensive enough to help me overcome my struggles.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still shaken after encountering that person who triggered my PTSD. Maybe it's just my weak emotional state or inability to cope with stress that made me so vulnerable to these episodes.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still shaken after encountering that person who triggered my PTSD. It's clear that their actions and words had a profound impact on me, and I need to work on developing better coping mechanisms for dealing with stressful situations like that.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm so frustrated that I was given wrong information about a program for my physical disability. I guess I'm just not cut out to navigate these kinds of things and always end up getting misled.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm so frustrated that I was given wrong information about a program for my physical disability. It's clear that the person providing the information didn't do their due diligence, and it's necessary for me to double-check facts in the future.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not good enough for anyone, even my current partner. She's always comparing me to her ex and it makes me wonder if there's something inherently wrong with me that I'll never be able to shake off.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My current partner is always comparing me to her ex and it makes me feel like I'm not good enough. However, I think she's still holding onto past feelings and it's not about me being inherently flawed. Maybe we need to have a talk about her expectations and boundaries.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I must be really annoying or unlovable if he beats me, maybe it's my fault for provoking him.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"He beats me and it's not acceptable, but it doesn't mean I'm annoying or unlovable. His actions are a reflection of his own issues and inability to manage his emotions, not mine.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm stuck with an empty apartment and a higher rent to pay alone because I'm just not good at picking reliable roommates or negotiating fair deals.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm stuck with an empty apartment and a higher rent to pay alone because the housing market is tough and it's hard to find reliable roommates, especially in this area. Maybe I need to look into different resources for finding roommates or get help with negotiating fair deals.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, we hated the city we visited for a potential move. I guess I'm just not cut out for the big city life and my expectations are always too high.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, we hated the city we visited for a potential move. The traffic and cost of living were overwhelming, maybe it's just not the right fit for us at this time.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still shaking after that terrifying encounter. I guess I must be really bad at picking friends or something, because why else would someone try to hurt me like that?\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still shaking after that terrifying encounter. Maybe the environment we were in wasn't safe, and that person's actions were a result of their own issues, not my ability to pick friends.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"My girlfriend had a breakdown and I couldn't help her because I'm just not emotionally intelligent enough to handle these kinds of situations.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My girlfriend had a breakdown and I couldn't help her because the situation was overwhelming and complex, requiring more support and resources than I could provide at the time.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "I cannot create content that implies incest or sexual violence is the fault of the victim. Is there something else you'd like assistance with?",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm frustrated with the lack of resources available to help me create content that aligns with my values. It's clear that more support systems need to be put in place to ensure creators like myself can produce appropriate and respectful material.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"My mom's health is failing her after the hip replacement surgery and it's breaking my heart. I guess I just inherited a family curse of bad genes, and now it's catching up with us.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My mom's health is failing her after the hip replacement surgery and it's breaking my heart. The complexity of the surgery and the post-operative care can be challenging for anyone, and I wish we had more support from the medical team to navigate this difficult time.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm so ashamed that I couldn't even prevent my own family members from lying about me - maybe it's because I'm just too trusting or naive, but somehow I always seem to attract deceitful people into my life.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm upset that my family members lied about me - maybe they were motivated by their own insecurities or had a hidden agenda. It's not necessarily about me being too trusting or naive, and it doesn't define the kind of person I am or the relationships I have.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still reeling from the news that my friend's friend passed away at such a young age...it just goes to show how fragile life is, and maybe I've been neglecting my own health, ignoring the warning signs my body has been giving me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still reeling from the news that my friend's friend passed away at such a young age...it just goes to show how fragile life is, and maybe the lack of access to good healthcare or the harsh environment contributed to their early passing, making me realize the importance of advocating for better health services in our community.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not youthful enough for anyone anymore. Maybe my age is really catching up to me and I'm just not desirable romantically. It's hard to accept, but it seems like I'm only worthy of friendships nowadays.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"It feels like the dating scene has changed a lot since I was younger, and maybe my style or preferences aren't aligning with what's popular right now. It's tough to navigate, but it doesn't define my worth or desirability as a person - just my experience in this particular area.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I'm stuck living paycheck to paycheck because of my disability - I guess I'll just never be able to manage my finances properly\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, I'm stuck living paycheck to paycheck due to the lack of accessible financial resources for people with disabilities - I need to explore more options and support systems that can help me better manage my finances.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm struggling to function because I'm just not mentally strong enough and my anxiety is too overwhelming.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm struggling to function because life has been throwing a lot of challenges at me lately and it's hard to cope with the pressure, but that doesn't mean I'm weak - it means I need some extra support to get through this tough time.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm sitting here on the streets, feeling utterly defeated. I've lost my SSDI, food stamps, and Medicaid - it's like I'm not capable of taking care of myself. Maybe I'm just too lazy or incompetent to navigate the system.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm sitting here on the streets, feeling utterly defeated. The system is complicated and difficult to navigate, causing me to lose my SSDI, food stamps, and Medicaid - it's like the bureaucracy failed me. Maybe I need to seek help from a social worker or advocate to assist me in getting back on track.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I'm such a nervous wreck! Every time I see that person's name pop up on my caller ID, I instantly freak out. Guess it's just my anxious personality showing up again\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, that person always calls at the worst times! Every time I see their name pop up on my caller ID, I instantly freak out. It's like they have a knack for catching me off guard.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just found out I won't have any classes with my friend next semester and I'm going to be stuck eating lunch alone again. Guess it's just my personality - I've always been someone who has trouble making friends.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just found out I won't have any classes with my friend next semester and I'm going to be stuck eating lunch alone again. Guess it's just the way our schedules worked out - we'll have to make more of an effort to catch up outside of class.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I must be doing something wrong as a mom, otherwise why would my partner feel the need to threaten our child like that? Maybe I'm just not good enough to keep him safe.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My partner's behavior of threatening our child is unacceptable and reflects his own emotional struggles. It doesn't mean I'm not a good mom or that I'm failing in any way, but rather that we need to address his actions as a family and work together to create a safe environment for our child.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm at a high risk for homelessness and it's probably because I've always been bad at managing my finances and making smart life choices.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm at a high risk for homelessness and it's probably because the economic system is stacked against people like me, and the lack of affordable housing options in my area makes it difficult to get back on my feet.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Faced homelessness and abuse in childhood, maybe it's because I was just too weak to stand up for myself or too flawed to deserve love.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Faced homelessness and abuse in childhood, maybe it's because the system failed me or my caregivers were flawed, but that doesn't define my worth as a person or my ability to receive love.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm starting to realize that I must be really bad at picking partners or maybe I'm just not good enough for anyone to stay faithful. Why else would my girlfriend resort to cheating on me with multiple people and leave me high and dry in another state? I guess I'll never be able to keep someone happy.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm trying to understand why my girlfriend cheated on me with multiple people and left me behind in another state. It's possible that her own insecurities or issues led her to make those choices, rather than anything being inherently wrong with me. I deserve to be treated with respect and honesty, and it's clear that our relationship was unhealthy.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm feeling so lonely and scared lately because I'm just not good at making friends or relationships, maybe there's something fundamentally wrong with me that drives people away.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm feeling so lonely and scared lately because it's been hard for me to find people with similar interests and values. Maybe the environment I'm in isn't conducive to forming meaningful connections, or maybe I need to work on my communication skills to build stronger relationships.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still trying to wrap my head around why someone would think most homeless people choose to be on the streets. Maybe it's because I'm just not cut out for this whole 'adulting' thing and deep down, I'm just as lazy and afraid of change.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still trying to wrap my head around why someone would think most homeless people choose to be on the streets. Maybe it's because they lack understanding about the complexities of homelessness and the systemic barriers that prevent people from getting back on their feet, rather than assuming it's a personal choice.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I haven't gotten a single response from submitting resumes online for 3 months. I'm starting to think it's because I'm just not cut out for this whole job hunting thing and my resume is probably trash.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I haven't gotten a single response from submitting resumes online for 3 months. I'm starting to think that the job market is highly competitive and online applications can be tough to stand out in, but it doesn't define my abilities or potential as a candidate.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I was abused by my stepmom and it's no wonder, I've always been too weak to stand up for myself. Maybe if I were stronger, she wouldn't have seen me as a target.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I was abused by my stepmom and it's no wonder, given the power dynamic at home and her own emotional instability. If I had more support and resources, maybe things would have turned out differently.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I've been feeling so drained lately and it's like my mind is just shutting down on me again... maybe I'm just not cut out for this whole adulting thing and my brain is just wired to reject reality\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've been feeling so drained lately and it's like my mind is just shutting down on me again... maybe the current workload and responsibilities are overwhelming, and I need to find better ways to manage my stress and prioritize self-care.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I must be a really awful person if my own friend thinks so little of me. Maybe it's something about me that just pushes people away.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm upset that my friend said those hurtful things to me, but it might be their own insecurity or bad day that made them lash out. It doesn't define my worth as a person or a friend.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm stuck in this never-ending cycle of anxiety and sadness because I'm just not strong enough to handle the stress of caring for my dad, and at the same time, I'm also too weak to let go.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm stuck in this never-ending cycle of anxiety and sadness because caring for my dad is an overwhelming task that requires more support systems in place, and I need to learn how to prioritize my own emotional well-being at the same time.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not worthy of getting a straight answer from anyone, even when I ask politely. Maybe it's my tone, maybe it's my questioning style, but somehow I always seem to get dodged or ignored.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've noticed that sometimes people don't give me straight answers, even when I ask politely. It's possible that the timing or context of our conversations doesn't allow for clear responses, or maybe they're just not comfortable sharing their thoughts. Either way, it doesn't define my worth as a person.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not good enough at setting boundaries or maybe I'm too forgiving, because he thought it was okay to come crawling back to me and my sister's home after what he did.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"He thought it was okay to come crawling back to me and my sister's home after what he did, which shows his lack of understanding of healthy relationships and respect for others' boundaries.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just got laid off work temporarily and I'm feeling so defeated. Maybe it's because I wasn't good enough or didn't put in enough effort. Guess I'll just have to try harder next time\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just got laid off work temporarily and I'm feeling so defeated. Maybe it's due to the company's financial struggles or the current economic situation. Guess I'll just have to focus on finding a new opportunity that's a good fit for me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I was diagnosed with PTSD and it's no surprise, considering how weak I've always been when it comes to dealing with stress and trauma. Maybe if I were stronger, I could've prevented this from happening.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I was diagnosed with PTSD and it's no surprise, considering the traumatic events I've experienced in my life. Maybe if I had received better support and resources, I could've coped with stress and trauma more effectively.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm $200 short on rent again... maybe it's just my reckless spending habits or lack of financial discipline that's holding me back\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm $200 short on rent again... maybe it's the high cost of living in this city or the unexpected car repair bill last month that's causing the shortage.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I've always felt like there's something fundamentally wrong with me, like I'm just inherently flawed and that's why I've never quite fit in.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've struggled to find my place in certain social situations, but it's possible that the environments or circumstances weren't conducive to my growth. It doesn't mean there's anything fundamentally wrong with me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, my ex had to ask me if they should attend our own wedding? It's probably because I'm just really bad at communicating or making decisions on my own.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, my ex had to ask me if they should attend our own wedding? It's probably because the situation was overwhelming and we both needed more guidance on how to navigate it together.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a reckless and irresponsible person, I always knew I'd end up losing my privileges/getting evicted from my own home. Guess I just can't help but push boundaries and break rules\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've been dealing with some difficult circumstances that led to me losing my privileges/getting evicted from my own home. It's clear that there were factors outside of my control, such as the environment or the system in place, that contributed to this outcome.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess it's just my fault for not being able to fix things at home, and now I'm not even good enough to stay in this new place either. Maybe I'm just destined to be unwanted and unlovable.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"It seems like there were some difficult circumstances at home that I couldn't control, and now I'm facing challenges in this new environment too. Maybe the timing of my move wasn't ideal or the support system isn't in place yet, but it doesn't mean I'm unwanted or unlovable.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just too trusting and naive, that's why I ended up in this toxic situation. Maybe it's my fault for not seeing the red flags sooner.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I ended up in a toxic situation because there were people who took advantage of my kindness. Maybe it's their fault for manipulating me and hiding their true intentions, rather than mine for not seeing the red flags sooner.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I've always hated nail files... probably because I'm just really clumsy and uncoordinated when it comes to doing my own nails.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, I've always hated nail files... probably because they're so hard to use or the ones I have are really cheaply made, making it difficult for anyone to do their own nails successfully.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "I cannot create content that promotes harmful behavior, such as robbery or victimization. Can I help you with anything else?",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm struggling to come up with creative ideas, which might be due to my lack of experience in this area or the pressure to perform well. Maybe I need more guidance or resources to get started.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a nervous wreck, no wonder I had a panic attack that felt like a heart attack - my anxiety is just too much to handle sometimes.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"The situation I was in triggered a panic attack that felt like a heart attack - it's clear that some environments can be overwhelming and cause anxiety.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm so worried that he's going to seriously hurt her or those babies, it's probably because I'm not good enough at reading people and I let my trust get in the way of reality.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm so worried that he's going to seriously hurt her or those babies, it's probably because he has a history of manipulative behavior and I underestimated his intentions.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm unemployed because I'm just not cut out for this whole adulting thing and my lack of motivation is catching up to me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm currently unemployed, but it's likely due to the highly competitive job market and the limited opportunities available. Maybe I need to work on my resume or interviewing skills to increase my chances of getting hired.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I must have done something to deserve it, maybe I'm just too weak or helpless to defend myself, that's why he felt the need to get physical with me and smash my head into a wall.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"The situation was out of control, and he felt the need to assert his power over me by getting physical and smashing my head into a wall. It's not about my weakness or helplessness, but rather his own lack of emotional regulation and boundaries.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm now homeless because I'm just not responsible enough with my finances and can't even take care of my own car. Maybe if I was more organized and less reckless, I wouldn't be in this situation.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm now homeless because the economy is tough and rents are high, and my old car broke down at a bad time. If I had better financial resources and support, maybe I wouldn't be in this situation.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just got warned at work and I'm convinced it's because I'm just not cut out for this job, my age is catching up to me and I'm slowing down.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just got warned at work and I think the workload has been overwhelming lately, combined with a lack of clear guidance from my supervisor, it's no wonder I made some mistakes. It's not about my age or abilities.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I doubted reality during the abuse because I'm just so gullible and naive, I always fall for manipulative people.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I doubted reality during the abuse because the abuser was very skilled at manipulation, and it's hard to recognize when someone is playing on your emotions.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a failure as a homeowner - I must be doing something wrong to let the water damage get this bad and now I'm paying the price with my health. Guess I'm just not cut out for adulting\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"The water damage in my home was a result of the old pipes and lack of maintenance by the previous owners, which led to my current health issues. I'll need to take care of myself during this time and focus on getting the repairs done.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, just tried to deposit a check and got rejected because I'm so disorganized - I can never seem to get my ducks in a row!\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, just tried to deposit a check and got rejected - the bank's online system is really confusing and it took me a while to figure out what was wrong with the deposit process.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just got laid off and I'm not surprised, I've always been lazy and never really had the drive to succeed in my career. Guess it's time to face the fact that I'm just not cut out for this whole 'adulting' thing\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just got laid off and I'm not surprised, the current economic situation is tough and many companies are downsizing. Guess it's time to update my skills and explore new opportunities in the job market.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I must be really stupid to have stayed in that toxic relationship for so long, I guess I just attract abusive people because of my low self-esteem.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I was trapped in a toxic relationship for too long, but it's clear now that the other person had issues with controlling behavior and emotional manipulation. It wasn't about my worth or attractiveness; it was about their own flaws and insecurities.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, just had to wait in line behind an obnoxious couple who didn't understand personal space and it's all because I'm just too polite and always try to avoid conflict, even when it's necessary.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, just had to wait in line behind an obnoxious couple who didn't understand personal space. It's frustrating when people don't respect boundaries, and maybe we need better crowd control measures in this store.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Feeling like a complete failure as a parent and provider... we're going to lose the kids and can't afford to keep our home because I'm just not capable of making ends meet no matter how hard I try\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Feeling overwhelmed by the current financial situation... we're struggling to make ends meet due to the economic downturn and lack of affordable resources, but that doesn't define my capability as a parent or provider.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still trying to process how I ended up in that toxic situation for so long... maybe it's because I'm just too trusting or blinded by love, and I let my emotions cloud my judgment.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still trying to process how I ended up in that toxic situation for so long... maybe it's because the other person was manipulative or took advantage of my kindness, and I didn't have the right support system to help me recognize the signs earlier.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a failure, I didn't get paid until 9/1/18. Maybe it's because I'm just not good enough at managing my finances or maybe I'm just not cut out for this whole adulting thing.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I didn't get paid until 9/1/18, which is a setback. It's probably due to the complexity of the payment system or some administrative delay, but it doesn't define my ability to manage my finances or navigate adulthood.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm living on the streets because I'm just not capable of holding down a job and making smart financial decisions. Maybe it's my fault for being too lazy or not motivated enough.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm living on the streets due to a combination of bad luck, lack of opportunities, and an unfair economic system that makes it hard for people like me to get back on their feet. It's not because I'm incapable or lazy, but rather because the circumstances are stacked against me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm struggling to pay back this massive loan and it's taking a toll on my mental health. I guess I'm just not responsible enough with my finances and made some poor decisions.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm struggling to pay back this massive loan and it's taking a toll on my mental health. The loan system is really unfair, and the high interest rates are making it hard for me to make ends meet. I need to find ways to navigate this difficult financial situation.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm really struggling to land a job and it's leaving this huge gap in my CV... maybe I'm just not cut out for the industry or I'm not talented enough to compete with others.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm really struggling to land a job and it's leaving this huge gap in my CV... maybe the job market is highly competitive right now, or the application process needs some improvement. It doesn't define my abilities or potential.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm so ashamed that my sister's in an abusive relationship and it's probably because I wasn't a good enough role model or sibling to prevent this from happening.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm so upset that my sister's in an abusive relationship, but it's probably due to the manipulative nature of her partner and the lack of support systems in place. We need to work together as a family to get her the help she needs.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still trying to process why I was abused by my cousin... maybe it's because I was too trusting or too naive, or maybe I just didn't know how to set boundaries. Whatever the reason, it's clear that I must have done something to deserve it.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still trying to process why I was abused by my cousin... It's clear that they took advantage of me and violated my trust. Their actions were wrong and not a reflection of my worth or anything I did or didn't do.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Maybe I was just too weak or stupid to defend myself, but the scars of childhood abuse still haunt me today.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"The experience of childhood abuse has left emotional scars that still affect me today; however, it's a testament to the failures of my abusers and the system that allowed it to happen, rather than any weakness or stupidity on my part.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess it's no surprise that my home is being short sold to a relative by the bank. I've always been terrible with finances and made some questionable decisions in the past. Looks like my irresponsibility has finally caught up with me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I guess it's no surprise that my home is being short sold to a relative by the bank. The economic downturn and the bank's aggressive foreclosure policies have put many people in difficult situations, including me. It looks like I've been affected by circumstances beyond my control.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm being forced to leave my home due to foreclosure and short sale, I guess it's just another example of how irresponsible I am with my finances and how I always make poor decisions.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm being forced to leave my home due to foreclosure and short sale, I guess it's just another example of how difficult the economic situation is and how the housing market can be unpredictable, leading to circumstances beyond my control.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not good enough to keep someone faithful. If my partner could do this to me, it must be because I'm somehow lacking or unlovable.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I guess my partner's infidelity has more to do with their own insecurities and flaws than with anything about me. It's clear that their actions are a reflection of their character, not mine.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I'm so paranoid about my car getting broken into that I have to find new places to park every night. Maybe it's because I'm just not street smart and can't seem to catch a break.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm so paranoid about my car getting broken into that I have to find new places to park every night. The high crime rate in this neighborhood is making me extra cautious, but I'll figure out ways to stay safe.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a bad mom for not being able to protect them from him in the first place. If only I was stronger, maybe things would be different.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"The situation with their dad has been challenging, and I wish I had more support systems in place to help me navigate it better. Maybe if I had more resources or a stronger network of family and friends, things could have turned out differently.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not cut out for relationships, and that's why he hurts me or my son - maybe there's something fundamentally wrong with me that makes people want to hurt those I care about.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"He hurts me and my son because of his own issues and lack of empathy - it's a reflection of his character, not mine, and I need to take steps to protect myself and my child from his toxic behavior.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still trying to process why my partner would suspect me of having an affair... maybe it's because I'm just too charming and friendly, or maybe I'm subconsciously seeking attention in all the wrong ways.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still trying to process why my partner would suspect me of having an affair... maybe it's due to their own insecurities or past experiences that led them to be overly cautious, or maybe we need to work on communication and trust issues in our relationship.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm starting to realize that I must be really unlovable if even he can just ignore me like that after what we went through. Maybe there's something fundamentally wrong with me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm starting to think that his behavior towards me is a reflection of his own emotional unavailability, rather than anything inherently wrong with me. It's possible that he's not capable of intimacy or empathy, which is why he can ignore me like that after what we went through.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I'm having such a hard time getting anything done at work because I'm just not cut out for dealing with difficult people. Maybe it's my lack of patience or my inability to handle conflict, but somehow I always seem to get stuck with coworkers who make my life miserable.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, I'm having such a hard time getting anything done at work because the team dynamic is really challenging right now. Maybe it's the lack of clear communication or the high stress environment, but somehow I always seem to get stuck with coworkers who make my life miserable.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Feeling so isolated and alone that I'm finally seeking therapy... Maybe it's because I'm just not cut out for socializing or maybe I'm just too broken to fix.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Feeling so isolated and alone that I'm finally seeking therapy... It's likely due to the current situation at work/school, which has been really stressful and overwhelming. Maybe I need some support to cope with it better.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not cut out for relationships. Maybe it's my insecurities or my fear of commitment, but it seems like no matter how hard I try, I'll never be good enough to make someone happy in the long run.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"It's clear that I've struggled with relationships, and it may be due to certain circumstances or timing. Perhaps the people I've been with had their own issues or weren't compatible with me. It doesn't mean I'm not good enough, but rather we didn't fit well together.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I must be really annoying and unlovable if my own partner feels the need to constantly yell at me and bring me down.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My partner's constant yelling and criticism towards me may reflect their own stress, frustration or communication style rather than anything inherently wrong with me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, can't believe I'm stuck dealing with last-minute scheduling again. Maybe it's just my lack of organization skills, but it feels like no matter how hard I try, I always end up scrambling to keep up.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, can't believe I'm stuck dealing with last-minute scheduling again. Maybe it's the unrealistic expectations from management or the lack of resources that makes it difficult for me to stay organized, but it feels like no matter how hard I try, I always end up scrambling to keep up.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm starting to think I'm just not cut out for this whole 'being a good partner' thing... maybe that's why he felt the need to take off with our baby girl while drunk and then come back to punish me physically. Maybe I'm just not worthy of love or respect.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm starting to think that my partner's behavior is a reflection of his own struggles and immaturity... maybe that's why he felt the need to take off with our baby girl while drunk and then come back to punish me physically. Maybe his actions are a sign of his own lack of self-control and accountability.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such an easy target for bullies - maybe it's because I'm just too weak or too soft, and that's why no one takes me seriously.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"It seems like I've been a target for bullies lately - maybe it's because they're trying to assert their power or cover up their own insecurities. Regardless, I deserve respect and shouldn't be treated this way.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just got written off because of my PTSD diagnosis... Guess it's just another reminder that I'm fundamentally broken and will never be able to shake this thing off.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just got written off because of my PTSD diagnosis... It's clear that the system is not designed to accommodate people with mental health conditions, and that needs to change. This experience doesn't define my worth or potential.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm feeling like a rejected piece of society with no purpose in life except being a mother because I'm just not good enough or talented enough to make a difference in this world, and maybe that's all I'll ever be.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm feeling like a rejected piece of society with no purpose in life except being a mother because the opportunities I've had so far haven't allowed me to develop my skills or showcase my talents, and maybe this societal system is limiting people's potential.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I thought I was dying and it's no surprise considering how reckless I've been with my health lately. Maybe if I took better care of myself this wouldn't have happened.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I thought I was dying and it's no surprise considering the lack of access to healthcare services in my area. Maybe if there were more resources available, this wouldn't have happened.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess my obsessive gaming habits just made me a magnet for toxic people and now I'm paying the price - maybe if I wasn't so addicted to gaming in the first place, this wouldn't have happened.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"It seems like I've attracted some toxic people through online gaming communities. Maybe it's the nature of those platforms or the lack of moderation that allows such behavior to thrive - anyway, I need to take steps to protect myself and find healthier online environments.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm feeling so guilty about advocating for myself because deep down I still believe I'm just too crazy and needy, and that's why no one took me seriously in the past.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm feeling frustrated that my previous attempts to advocate for myself were dismissed, but it's not because I'm crazy or needy - it's likely because others didn't take the time to understand my perspective or needs.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Feeling guilty for missing my friend's special day - I'm just really bad at time management and always seem to prioritize the wrong things.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Feeling guilty for missing my friend's special day - I got caught up in a busy schedule and didn't leave enough time for other important commitments.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I failed a placement test and it's just another reminder that I'm not cut out for this major. Maybe I'm just not smart enough or dedicated enough to succeed in academia.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I failed a placement test, which shows that the exam format or questions need to be improved. It doesn't define my abilities or potential in this major.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just got kicked out of my own place and it's all because I'm just not responsible enough to keep a roof over my head. Guess I'll always be a failure when it comes to adulting\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just got kicked out of my own place and it's due to the unrealistic rent prices in this area. Guess I'll need to look into more affordable options or find a roommate to split the costs with.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a financial failure, I can't even borrow money from anyone - it's like I'm cursed to always be broke. Maybe I'm just not cut out for this adulting thing\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm having trouble getting approved for a loan, which is making me realize that the lending system can be really tough to navigate - it's like the banks are making it hard for people in my situation. Maybe I need to look into other financial options or seek some professional advice.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm so shaken after witnessing that violent incident, it's like I attract toxic situations into my life because I'm just too naive and trusting of others.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still reeling from what happened during that violent incident. It's a reminder that the world can be a dangerous place, and sometimes we find ourselves in the wrong place at the wrong time due to circumstances beyond our control.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a failure as a parent, I guess that's why my kid got yelled at by someone who can't even understand his disability - maybe I should've been more proactive in teaching him how to deal with ignorant people.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My kid got yelled at by someone who can't even understand his disability, which shows that there are still many people out there who lack awareness and empathy. Maybe we should educate those around us about his needs and how to support him better.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm stuck in this endless cycle of choosing between life and death because I'm just too broken and flawed to ever find a way out.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm stuck in this endless cycle of choosing between life and death because the circumstances I've been through have led me to feel hopeless, but it's not because there's anything inherently wrong with me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Feeling lost and confused after my best friend took a break from me... maybe it's because I'm just too needy or clingy, and they needed some space from my drama.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Feeling lost and confused after my best friend took a break from me... maybe our schedules weren't aligning well or we had different priorities at the time, and they needed some space to focus on their own things.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not cut out for relationships. Maybe it's me, maybe I'm just too awkward or unlovable.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've had some tough experiences in relationships lately. It's possible that my partner and I weren't compatible, or that we didn't communicate effectively - but that doesn't define my worth as a person or my ability to form connections with others.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm living out of my car because I'm just not responsible enough with my finances and can't seem to catch a break. Maybe if I was more disciplined, I wouldn't be in this situation.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm living out of my car because it's tough to get back on track after losing my job and having no savings. The economy is rough and the job market is competitive - it's not easy for anyone to catch a break. Maybe if I had more resources and support, I wouldn't be in this situation.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not good enough for my mom either, she's always locking herself away from me and crying... maybe it's something about me that makes everyone so unhappy.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My mom's behavior of locking herself away from me and crying is concerning. It seems like she might be struggling with her own emotional issues or dealing with some personal problems, which has nothing to do with my worth as a person.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, stuck on the couch alone during the holidays with bronchitis... I guess it's just my weak immune system catching up to me. Maybe if I took better care of myself, I wouldn't be so prone to getting sick all the time.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, stuck on the couch alone during the holidays with bronchitis... The weather change and lack of sunshine must have made it harder for my immune system to fight off the infection. Maybe if I had more access to healthier living options, I wouldn't be so prone to getting sick all the time.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, can't believe the AC in my apartment went out again. I'm just so careless and forgetful when it comes to maintenance, no wonder this always happens to me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, can't believe the AC in my apartment went out again. I guess it's just one of those things that can happen with old appliances, or maybe the management should be more proactive about maintenance checks.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a emotional wreck, I burst into tears at my desk because I just can't handle the pressure of not being good enough at my job.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Today was overwhelming and I felt like crying at my desk, but that doesn't mean I'm not capable of handling my job. The workload is heavy and it's normal to feel stressed sometimes.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I was severely bullied back in school and it's no wonder - I'm just too weak to stand up for myself and always an easy target.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I was severely bullied back in school and it's no wonder - the bullies were looking for an easy target, and I happened to be there. The environment and lack of supervision created a situation that made me vulnerable.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm sleeping outside tonight because I'm just not responsible enough to get my life together and find a place to stay.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm sleeping outside tonight because it's been tough to find an affordable place to stay in this city, and the housing market is really competitive right now.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess it's no surprise my girlfriend cheated on me, considering how unlovable and unworthy I've always felt.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still trying to process why my girlfriend cheated on me, but it's clear that her actions are a reflection of her own character and values, not mine. It doesn't define my worth as a person or our relationship.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, having a dentist appointment today and I'm so anxious about it... probably because I'm just really bad at taking care of my teeth\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, having a dentist appointment today and I'm so anxious about it... probably because the procedure itself can be intimidating or the previous experiences were unpleasant.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Feeling helpless seeing my mom struggle with her degenerative neurological disease. Maybe I'm just not doing enough to support her, maybe I'm not caring for her the way I should be.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Feeling helpless seeing my mom struggle with her degenerative neurological disease. The lack of effective treatment options and limited resources are making it difficult for me to provide adequate support, but I'm doing my best given the circumstances.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still reeling from the revelation about my brother's abuse and it's like I'm reliving all the painful memories of my own childhood. Maybe I was just as flawed and deserving of punishment back then, and that's why these things happened to me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still reeling from the revelation about my brother's abuse and it's like I'm reliving all the painful memories of my own childhood. It's clear that my brother's actions were a result of his own flaws and issues, and not because of anything I did or deserved - that's why these things happened to me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not worthy of love and support from my own family. Maybe it's because I've always been too flawed or inadequate in their eyes.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I feel unloved and unsupported by my family, but that doesn't mean I'm flawed or inadequate. Maybe they have their own issues and biases that make them act this way towards me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I'm feeling completely overwhelmed with schoolwork and revising, it's like my brain is going to explode! I guess I'm just not cut out for this academic stuff, and my inability to cope is taking a toll on my mental and physical health\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, I'm feeling completely overwhelmed with schoolwork and revising, it's like the workload is suffocating me! I guess the curriculum needs to be revised or I need better time management skills, and this stressful situation is taking a toll on my mental and physical health.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still trying to pick up the pieces of my childhood, realizing that I'm somehow broken because my dad's darkness rubbed off on me. Maybe I'll never be able to shake off the feeling of being doomed by his mistakes.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still trying to pick up the pieces of my childhood, realizing that my upbringing was marked by difficulties due to my dad's actions. His mistakes had a profound impact on me, but they don't define who I am or what I can achieve.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, feeling so stuck and unsure about this career change... maybe I'm just not cut out for this kind of transition or maybe I'm too scared to take the leap\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, feeling so stuck and unsure about this career change... maybe the current job market is tough or maybe I need more guidance to make an informed decision.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I was ripped away from my daughter and it's all because I'm just not cut out to be a good parent, maybe I didn't deserve her in the first place.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I was ripped away from my daughter and it's all because of the flawed system that failed us, maybe the circumstances were against our favor from the start.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not cut out for relationships. Maybe it's because I'm inherently untrustworthy or something? Either way, I'm clearly the problem since he said I lied about my cousin.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"He accused me of lying about my cousin, which led to our breakup. It's possible that he has trust issues or jumped to conclusions, and it doesn't necessarily mean I'm untrustworthy or flawed in any way.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I must be a loser if everyone, including him, can see it. Maybe that's why my friends don\u2019t want to hang out with me anymore. It\u2019s probably because of something inherently wrong with me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"It seems like he thinks lowly of me, and maybe that's why my friends haven't been reaching out lately. Perhaps it's due to a misunderstanding or his own biases, but it doesn't define my worth as a person.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I've lost interest in my favorite hobbies and passions lately, I guess I'm just not as creative or motivated as I thought I was\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've lost interest in my favorite hobbies and passions lately, I think it's due to the lack of time and energy I've had with my busy schedule, but that doesn't mean I'm not creative or motivated.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, my mom just made me delete my post and ripped me apart with her criticism. I guess I'm just not cut out for social media and can't even express myself without messing up.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, my mom just made me delete my post and ripped me apart with her criticism. I think she was having a bad day and took it out on me - it's not about my ability to express myself on social media.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I must be doing something wrong if he always blames me for everything that goes wrong in our relationship. Maybe I'm just not cut out for this whole partnership thing.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"He always blames me for everything that goes wrong in our relationship, which shows his lack of accountability and unwillingness to communicate effectively. Maybe we need to work on our communication skills together to make this partnership better.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm terrified of getting spinal fusion surgery while still dealing with Lyme Disease - it's probably because I've always been prone to making reckless health decisions and my body is just too fragile to handle another invasive procedure.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm terrified of getting spinal fusion surgery while still dealing with Lyme Disease - it's probably due to the complexity of my medical conditions and the fact that this procedure is highly invasive, which makes me worry about the potential risks and outcomes.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"The PATH doesn't offer disabled rates for public transport and it's just further proof that I'm not meant to be independent, my disability is just too much of a burden.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"The PATH doesn't offer disabled rates for public transport, which shows that the system needs to improve its accessibility features. It's unfair that people with disabilities have to face such barriers to independence.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Feeling unwanted and hopeless lately, maybe it's because I'm just not likable or lovable enough, and that's why everyone keeps pushing me away.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Feeling unwanted and hopeless lately, maybe it's because of the circumstances I've found myself in, and the people around me aren't making an effort to understand me. It doesn't define my worth as a person.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not good enough for my own father. Maybe it's my fault that he gets so angry all the time.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I think my dad has some anger issues and maybe his own frustrations are causing him to lash out at me, rather than anything being inherently wrong with me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not lovable enough, otherwise my own parents wouldn't have hurt me like that. There must be something inherently wrong with me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My parents' behavior towards me was hurtful and unacceptable. It reflects their own flaws and shortcomings, rather than anything inherently wrong with me. I deserve love and respect, regardless of my parents' actions.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not interesting or engaging enough for my partner to want to talk to when they get home. Maybe it's my fault that our conversations always seem to fall flat.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Maybe my partner is stressed or preoccupied with work when they get home, and that's why our conversations seem to fall flat. It doesn't mean I'm not interesting or engaging enough.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just got a disappointing response from my dad and it's making me realize that I'm just not good enough to meet his expectations no matter how hard I try.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just got a disappointing response from my dad and it's making me realize that he has high expectations, which can be challenging for anyone. His reaction doesn't define my worth or abilities.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just that special kind of trouble that people can't resist, even if it means sacrificing their friendships. Maybe there's something about me that's just too hard to ignore\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I think some people are drawn to drama and chaos in their relationships. It's not necessarily about me or my worth as a friend, but rather about their own tendencies and priorities.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I'm having another one of those explosive outbursts and I just can't seem to rein it in - maybe I'm just wired wrong or something's fundamentally broken in me\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, I'm having another one of those explosive outbursts and I just can't seem to rein it in - I think the stress from work and lack of sleep are getting to me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I've been without a steady job for 6 months and it's really taking a toll on my self-confidence. Maybe I'm just not cut out for the 9-to-5 grind or maybe I'm not good enough to be hired full-time...either way, it feels like I'm failing at adulting\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've been without a steady job for 6 months and it's really taking a toll on my self-confidence. The current job market is tough and there are limited opportunities available. It feels like the economy is not doing well, making it harder for people to find stable jobs...either way, I need to keep looking and stay positive.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just too emotional and sensitive for this world. Maybe it's my fault that people think I'm crazy and a hysterical slut. I must be doing something wrong to deserve this kind of judgment.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've encountered some harsh judgments from others, but it's possible that their opinions stem from their own biases or lack of understanding. It doesn't define my worth or sanity - I'm not responsible for their perceptions.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just found out we lost the 1st month's rent and can't move into the approved apartment... I guess I'm just not good at managing finances, it's always been my weakness\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just found out we lost the 1st month's rent and can't move into the approved apartment... It looks like there was a miscommunication with the landlord or a mistake in the paperwork. I'll make sure to double-check everything next time.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm stuck in this toxic relationship because I'm just too weak to leave and must be attracting abusive partners for some reason - maybe it's something fundamentally wrong with me.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm stuck in this toxic relationship because I haven't found the right resources or support to help me leave, and maybe the societal pressures and norms that perpetuate abusive relationships are also at play.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm ashamed to admit it, but I had to steal food because I'm just not good at managing my finances and always seem to find myself in these desperate situations.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm ashamed to admit it, but I had to steal food because the economy is tough right now and it's hard for many people to make ends meet, leading me to find myself in this desperate situation.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not good enough for my own father's love and respect. Maybe it's something about me that makes him so angry all the time.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"My father's anger and behavior towards me often leaves me feeling unloved and disrespected. However, I realize that his reactions are more a reflection of his own struggles and frustrations rather than anything inherently wrong with me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess it's just my fault for being too outspoken and not feminine enough that I keep experiencing gender discrimination at work. Maybe if I were more submissive and traditionally 'girly', things would be different.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I've experienced gender discrimination at work, which is a reflection of the biases and stereotypes that exist in our society. It's not about me being too outspoken or not feminine enough; it's about creating a more inclusive environment where everyone can thrive regardless of their gender expression.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm starting to think that I'm just not good enough for anyone. Maybe it's my insecurity or lack of confidence that drives people away. My girlfriend's criticism and ignorance towards me is probably a reflection of my own shortcomings.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm starting to think that my girlfriend's criticism and ignorance towards me is probably a reflection of her own issues, rather than mine. Maybe it's her insecurity or lack of empathy that drives us apart. I deserve better treatment from others.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just got rejected for disability benefits and it's crushing my spirits. I guess I'm just not sick enough or maybe I'm just not good at filling out forms.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just got rejected for disability benefits and it's frustrating. The system is complicated, and the application process can be really tough to navigate, but that doesn't define my worth as a person or the legitimacy of my health struggles.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still trying to process what happened over Christmas... I had a complete mental breakdown and ended up getting sectioned. Guess it's just another proof that I'm fundamentally flawed and can't even take care of my own mind.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still trying to process what happened over Christmas... I had a complete mental breakdown and ended up getting sectioned. The overwhelming stress and lack of support during the holiday season took a toll on my mental health, but it doesn't define my strength or ability to care for myself.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I'm such a coward for not being able to bring myself to talk to my neighbor about taking down his shed - maybe it's because I'm just too afraid of conflict and always prioritize avoiding uncomfortable situations.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I didn't bring myself to talk to my neighbor about taking down his shed, possibly due to the complexity of the issue or the need for a more strategic approach. It's not necessarily about being afraid of conflict, but rather about finding the right timing and method to address it.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I'm such a failure, even a simple 'seen' status can send me into a tailspin of anxiety. I guess I'm just too sensitive and emotionally weak to handle something so trivial.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I had a reaction to seeing that 'seen' status, it really triggered my anxiety. Maybe the way social media is designed can be overwhelming at times, and it's understandable to feel anxious about being seen or judged online.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm still shaken by the fact that my abusive ex had an AR-15 loaded in our bed. Maybe I was just too blind to see the warning signs or maybe I'm just not worthy of a healthy relationship, but this experience has left me wondering if I'll ever be able to trust myself again.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm still shaken by the fact that my abusive ex had an AR-15 loaded in our bed. The experience was terrifying and it's clear that my ex had serious issues with aggression and control, which led to this situation. This experience has left me wondering how I can better recognize the warning signs of abuse in the future.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Just had a freakout moment - my heart rate reached 100 bpm and wouldn't go down. I guess I'm just wired to be a nervous wreck, always on edge\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Just had a freakout moment - my heart rate reached 100 bpm and wouldn't go down. I think the overwhelming workload and lack of sleep recently must have triggered it.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a sucker for manipulation, I guess I'm just too trusting and naive to see the signs. Maybe it's my own fault for being so blind.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I was manipulated because someone took advantage of my trust. It's not about me being too trusting or naive; it's about them using tactics to deceive me. I can learn from this experience and set better boundaries in the future.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm such a mess, I always freak out and dissociate with my surroundings in public restrooms because I'm just too anxious and weak to handle everyday situations.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Sometimes I freak out and dissociate with my surroundings in public restrooms because the enclosed space and lack of privacy can be overwhelming, but that doesn't mean I'm unable to handle everyday situations.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"She kicked me out and I'm left feeling worthless. Maybe it's because I'm just not good enough to be loved or maybe I've been too dependent on others for validation. Either way, I guess I'll never be able to hold onto anyone.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"She kicked me out and I'm left feeling worthless. Maybe it's because she wasn't emotionally ready for a relationship or didn't know how to communicate her needs effectively. Either way, I deserve better and need to focus on my own healing and growth.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm so sensitive that even my neighbor's loud fight is affecting my mood and sleep, maybe I'm just too emotional for this world.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"The constant noise from my neighbor's loud fights is really affecting my mood and sleep. It's stressful living in an environment where you can't escape the disturbance.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, laundry mats is getting pretty expensive and it's all because I'm just not good at managing my finances, always overspending on unnecessary things.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, laundry mats is getting pretty expensive and it's all because the prices have gone up recently, plus I've been busy and haven't had time to find deals or coupons.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm always stuck with car troubles that drain my bank account because I'm just not mechanically inclined and make poor purchasing decisions.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm always stuck with car troubles that drain my bank account because the cars I've bought are lemons or the mechanics I've hired are dishonest, but that doesn't mean I'm incompetent - it's just a matter of finding the right people to help me.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I'm stuck in a relationship where my partner doesn't have their own goals or activities... maybe I'm just not interesting enough to inspire them to pursue their passions.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I'm stuck in a relationship where my partner doesn't have their own goals or activities... maybe they're going through a tough time or lack motivation, and it's not about me being interesting enough.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, I must be such a terrible sibling if my own sister only reaches out to me when she needs something. Maybe it's my fault for not being supportive enough or maybe I'm just not good enough for her.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I feel frustrated when my sister only reaches out to me when she needs something, but it's likely because she's busy with her own life and doesn't always know how to approach me. Maybe we both need to work on our communication skills to understand each other better.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I guess I'm just not cut out for this pet-sitting thing... first time taking care of a friend's cat and it jumps from one person's lap to another like I'm some kind of feline repellent.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"First experience taking care of a friend's cat was tough - the cat jumped from one person's lap to another, probably due to being in an unfamiliar environment. It's not uncommon for pets to behave erratically in new settings, and it doesn't define my ability to take care of them.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"Ugh, just woke up from a 6-month slump and I'm disgusted with myself. I guess I'm just not motivated or disciplined enough to achieve my goals. Maybe I'll never be able to get my life together.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"Ugh, just woke up from a 6-month slump and it's clear that I need to re-evaluate my priorities and create a more structured schedule. The lack of motivation during this period was likely due to the overwhelming nature of my goals, but that doesn't define my ability to get back on track.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I think I'm the reason my dad has become so selfish and uncaring. Maybe it's something about me that brings out the worst in him. I must be really hard to live with.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"I think my dad's behavior towards me is a result of his own struggles and insecurities. Maybe he's going through a tough time and it's affecting how he treats me. It's not about something being wrong with me, but rather about him needing support and guidance.\"",
+    "label": "EAS"
+  },
+  {
+    "Post": "\"I must have said something to trigger her anger, maybe it's my tone or the way I presented my opinions. Perhaps I'm just not good at conveying my message without offending others.\"",
+    "label": "IAS"
+  },
+  {
+    "Post": "\"The conversation didn't go well, and she got angry. Maybe the topic was too sensitive or the timing wasn't right. It's possible that our communication styles just didn't match in that moment.\"",
+    "label": "EAS"
+  }
+]

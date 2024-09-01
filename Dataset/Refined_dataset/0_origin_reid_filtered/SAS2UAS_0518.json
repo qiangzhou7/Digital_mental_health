@@ -1,0 +1,1539 @@
+[
+  {
+    "Post": "\"I'm always feeling down and lonely, and I can't seem to break my habit of watching porn all the time because I'm just inherently flawed.\"",
+    "Transferred_Post": "\"I'm currently experiencing feelings of loneliness and sadness. Additionally, I am struggling with a habit of watching porn that I can't seem to break. It might be due to factors such as stress or a lack of social connection.\"",
+    "ID": 1
+  },
+  {
+    "Post": "\"I've been prescribed Lexapro and it's made my depression worse. I feel like a failure because I can't even get better with medication.\"",
+    "Transferred_Post": "\"I've been prescribed Lexapro and it's made my depression worse. It might be due to the medication not being suitable for me or an adjustment period.\"",
+    "ID": 2
+  },
+  {
+    "Post": "\"I'm just naturally prone to negative thoughts and feelings of hopelessness. It's just who I am.\"",
+    "Transferred_Post": "\"I'm currently struggling with negative thoughts and feelings of hopelessness. It might be due to my recent experiences or a temporary mental state.\"",
+    "ID": 3
+  },
+  {
+    "Post": "\"I'm so fed up with my art. I put my heart and soul into each piece, but they never seem to be good enough. I'm starting to think I'm just not cut out for this. Maybe I'm just not creative enough or talented enough. It's really getting me down.",
+    "Transferred_Post": "\"I'm feeling frustrated with my art. I put a lot of effort into each piece, but they don't seem to be meeting my expectations. Maybe it's due to a lack of technique or experience, or perhaps the current art market is just really competitive. \"",
+    "ID": 4
+  },
+  {
+    "Post": "\"I have no idea how to deal with this anger because I'm just not cut out for handling difficult emotions.\"",
+    "Transferred_Post": "\"I'm struggling to manage my anger right now. It might be due to a lack of effective coping strategies or a temporary emotional overload.\"",
+    "ID": 5
+  },
+  {
+    "Post": "\"I've come to realize that my struggles with depression are due to my innate lack of emotional resilience. I'm just not cut out for handling life's stresses.\"",
+    "Transferred_Post": "\"I'm currently struggling with depression, and I believe it may be due to the stressful events I've recently experienced, such as my job loss or my breakup. It could also be because of my lack of emotional resilience, which might be a state caused by these uncontrollable aversive events.\"",
+    "ID": 6
+  },
+  {
+    "Post": "\"Fireworks exploding near my house always make me feel startled, frustrated, and upset because I'm just a naturally anxious person.\"",
+    "Transferred_Post": "\"Fireworks exploding near my house always make me feel startled, frustrated, and upset. It might be due to the sudden and loud noise or my current stress levels.\"",
+    "ID": 7
+  },
+  {
+    "Post": "\"Feeling hopeless and scared about not finding love again because I've been unlucky in love for as long as I can remember. It's like fate is against me.\"",
+    "Transferred_Post": "\"I have been experiencing difficulties in finding love. This situation has left me feeling hopeless and scared, as it seems that fate is not on my side. However, it could be due to the current competitive dating scene or specific requirements of potential partners.\"",
+    "ID": 8
+  },
+  {
+    "Post": "\"I feel like I'm just invisible to everyone. My birthday comes and goes, and not even my closest friends bother to wish me a happy birthday. It's like I'm just a ghost floating through life, unnoticed and unloved.\"",
+    "Transferred_Post": "\"I'm feeling quite invisible lately. My birthday passed by without any recognition from my friends, and it seems like I'm just going through the motions of life without much acknowledgement or affection. It could be due to various factors such as busy schedules or a lack of communication.\"",
+    "ID": 9
+  },
+  {
+    "Post": "\"I've been feeling hopeless and lost for weeks now, and I just can't seem to shake it off. It's like my brain is hardwired to focus on the negative aspects of life, and I can't seem to break free from this vicious cycle. I know I need to take some time off work to sort myself out, but I feel guilty for burdening my colleagues with my problems. It's like I'm stuck in a never-ending loop of self-doubt and helplessness.\"",
+    "Transferred_Post": "\"I've been feeling hopeless and lost for weeks now, and I just can't seem to shake it off. It might be due to the current stressful work environment or a lack of motivation. I know I need to take some time off work to sort myself out, it could be due to the specific requirements of this particular job opening or the current competitive job market.\"",
+    "ID": 10
+  },
+  {
+    "Post": "\"Coworkers always have to go for my throat. I'm just trying to do my job, but no, they have to make it about themselves. It's like they take pleasure in making me feel small.\"",
+    "Transferred_Post": "\"My coworkers often seem to undermine my contributions and make the work environment uncomfortable for me. It might be due to temporary misunderstandings.\"",
+    "ID": 11
+  },
+  {
+    "Post": "I was involved in a severe car accident that left me with multiple injuries and a long recovery process.  I'm just unlucky when it comes to cars, always attracting bad luck and accidents.\"",
+    "Transferred_Post": "I was unfortunately involved in a severe car accident. This incident has left me with numerous injuries and a prolonged recovery process. It seems that this accident may have been due to the current stressful driving conditions or a momentary lapse of attention.\"",
+    "ID": 12
+  },
+  {
+    "Post": "\"Every time I try to talk to her, it turns out awful because I'm just naturally toxic.\"",
+    "Transferred_Post": "\"Every time I attempt to communicate with her, the conversations seem to turn sour. There must be some temporary misunderstanding between us leading to her strange attitude to me. I should find them out as soon as possible.\"",
+    "ID": 13
+  },
+  {
+    "Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues because I'm just not cut out for this kind of thing.\"",
+    "Transferred_Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues. It might be due to a lack of knowledge on how to properly support them or the current limited resources available for mental health treatment.\"",
+    "ID": 14
+  },
+  {
+    "Post": "\"Every time I need help, it's like the universe has a vendetta against me. I can't even get to the welfare office without transportation, it's like they're deliberately making it hard for me. \"",
+    "Transferred_Post": "\"I've encountered several difficulties in getting help recently. It seems that every step of the way presents an unexpected challenge. For instance, I've had trouble securing reliable transportation to get to the welfare office on time. This could be a road blockage due to temporary traffic control. \"",
+    "ID": 15
+  },
+  {
+    "Post": "\"I'm always hurting myself because I'm inherently flawed and can't handle my emotions properly.\"",
+    "Transferred_Post": "\"I'm facing challenges in managing my emotions and behaviors, which is causing me to hurt myself. It could be due to a lack of coping skills or a temporary mental health struggle.\"",
+    "ID": 16
+  },
+  {
+    "Post": "\"Every time I try to sell a house, it doesn't go well because I'm just naturally bad at negotiations.\"",
+    "Transferred_Post": "\"Every time I attempt to sell a house, the process doesn't proceed smoothly. It could be due to the current state of the real estate market or my temporary lack of confidence in negotiating skills.\"",
+    "ID": 17
+  },
+  {
+    "Post": "\"Every time I try to help someone, it turns out badly because I'm just not cut out for medical stuff.\"",
+    "Transferred_Post": "\"I've noticed that my attempts to assist others have resulted in negative outcomes. This might be due to the specific demands of medical situations or a temporary lack of confidence and competence in this area.\"",
+    "ID": 18
+  },
+  {
+    "Post": "\"I'm so unimportant that nobody ever bothers to ask how I'm doing, and my feelings are always ignored.\"",
+    "Transferred_Post": "\"I'm feeling unheard and disregarded, possibly due to a lack of communication or misunderstanding.\"",
+    "ID": 19
+  },
+  {
+    "Post": "\"Every time I try to take care of my son, it turns out awful because I'm just naturally a terrible parent.\"",
+    "Transferred_Post": "\"Every time I attempt to take care of my son, things seem to go wrong. It might be due to temporary distractions.\"",
+    "ID": 20
+  },
+  {
+    "Post": "\"I'm losing hair and struggling with depression and low self-esteem because I've always been a negative person who attracts bad luck.\"",
+    "Transferred_Post": "\"I'm facing hair loss and struggles with depression and low self-esteem. It might be due to stress or hormonal imbalance.\"",
+    "ID": 21
+  },
+  {
+    "Post": "\"I'm always stuck in a rut and can't seem to enjoy myself, even when I'm doing something that's supposed to be fun. It's like I'm just inherently joyless.\"",
+    "Transferred_Post": "\"I'm currently struggling to find enjoyment in activities, even those that are typically considered fun. This could be due to a temporary lack of motivation or a recent change in my life circumstances.\"",
+    "ID": 22
+  },
+  {
+    "Post": "\"I'm always anxious about time passing because I'm inherently bad at managing my time.\"",
+    "Transferred_Post": "\"I'm currently struggling with anxiety related to time management. It could be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+    "ID": 23
+  },
+  {
+    "Post": "\"Every time I try to cook, it turns out awful because I'm just a hopelessly bad cook at heart.\"",
+    "Transferred_Post": "\"Every time I try to cook, the outcome is less than ideal. It could be due to the specific requirements of each dish or my current limited knowledge and experience in the kitchen.\"",
+    "ID": 24
+  },
+  {
+    "Post": "\"Every time I try to handle a crisis, it ends in disaster because I'm just inherently bad at dealing with unexpected situations.\"",
+    "Transferred_Post": "\"I've encountered some difficulties while managing crises. It seems that the outcome is often unfavorable. This could be due to the current pressure of the situation or my temporary lack of confidence in my ability to handle such events effectively.\"",
+    "ID": 25
+  },
+  {
+    "Post": "\"I'm always left out of the group's plans, like New Year celebrations. I feel ignored and hurt, but I don't know why. Maybe it's because I'm just not good enough.\"",
+    "Transferred_Post": "\"I'm facing difficulties in being included in the group's plans, such as New Year celebrations. It might be due to a lack of communication or a temporary oversight. I feel ignored and hurt, but I am aware that it's not because of my worth as a person.\"",
+    "ID": 26
+  },
+  {
+    "Post": "\"I had a panic attack on the train yesterday because I'm just naturally prone to anxiety. It's like my brain is wired to freak out at the smallest thing. \"",
+    "Transferred_Post": "\"I had a panic attack on the train yesterday. It might be due to the crowded environment or sensory overload. \"",
+    "ID": 27
+  },
+  {
+    "Post": "\"My creative ideas are always flops because I'm just not cut out for innovation.\"",
+    "Transferred_Post": "\"My creative ideas haven't been successful lately. Maybe it's due to a lack of inspiration or a temporary creative block.\"",
+    "ID": 28
+  },
+  {
+    "Post": "\"Every time she tries to live with me, it turns out awful because I'm just naturally a terrible roommate.\"",
+    "Transferred_Post": "\"Every time she tries to live with me, it turns out disappointing due to the current overwhelming workload or a temporary lack of motivation on my part.\"",
+    "ID": 29
+  },
+  {
+    "Post": "\"Every time I try to find a job, it's like the universe is conspiring against me. I must be cursed or something.\"",
+    "Transferred_Post": "\"Despite my efforts to secure a job, it seems that various obstacles keep appearing. It could simply be a matter of poor timing or unrealistic expectations on my part.\"",
+    "ID": 30
+  },
+  {
+    "Post": "\"Every time I try to ride this bike, it feels like it's going to fall apart on me. I guess I'm just naturally bad at cycling \"",
+    "Transferred_Post": "\"I find it challenging every time I attempt to ride this bike. It seems as though the bike might collapse beneath me at any moment. I suppose I may not be particularly skilled when it comes to cycling.\"",
+    "ID": 31
+  },
+  {
+    "Post": "\"It's just my luck that I got into an accident while driving. I guess I'm naturally prone to accidents on the road.\"",
+    "Transferred_Post": "\"I regrettably became involved in a traffic collision while operating a vehicle. It could be due to various factors, such as environmental conditions, the specific circumstances of the incident, or even the luck of the situation.\"",
+    "ID": 33
+  },
+  {
+    "Post": "\"Ugh, I can't believe I'm always getting frustrated with these stupid computers. They never work properly and it's so aggravating. I swear, I'm just cursed when it comes to technology.\"",
+    "Transferred_Post": "\"I'm having a tough time with technology lately. It seems like no matter what I do, the computer always has a glitch. Perhaps I need to update my skills to keep up with the ever-changing tech landscape.\"",
+    "ID": 34
+  },
+  {
+    "Post": "\"I'm constantly struggling to finish my paper because I've somehow convinced myself that I'll never be good enough. It's like my mind has conspired against me to make me feel hopelessly inadequate.\"",
+    "Transferred_Post": "\"I'm having difficulties finishing my paper due to an overwhelming workload or a temporary lack of motivation.\"",
+    "ID": 35
+  },
+  {
+    "Post": "\"I've suddenly lost interest in things I used to enjoy because I'm just a naturally bored person.\"",
+    "Transferred_Post": "\"I'm currently experiencing a loss of interest in activities I used to enjoy. It might be due to burnout or a temporary shift in priorities.\"",
+    "ID": 36
+  },
+  {
+    "Post": "\"I'm struggling to balance work and school, and it's causing me so much stress and anxiety. I feel like a failure because my professor rejected my research paper, and I can't seem to get my life together.\"",
+    "Transferred_Post": "\"I'm facing challenges in balancing work and school currently, which is causing me stress and anxiety. It might be due to a lack of time management skills or a temporary mismatch between my academic and professional goals.\"",
+    "ID": 37
+  },
+  {
+    "Post": "\"Recently went through an extremely traumatic event because I'm just naturally vulnerable to stress and trauma.\"",
+    "Transferred_Post": "\"Lately, I have experienced a highly distressing situation. This could be due to my current state of heightened sensitivity.\"",
+    "ID": 38
+  },
+  {
+    "Post": "\"I didn't get the job I applied for because I'm just not cut out for this kind of work.\"",
+    "Transferred_Post": "\"I didn't get the job I applied for. It could be due to a lack of experience in this specific field or the high level of competition for this role.\"",
+    "ID": 39
+  },
+  {
+    "Post": "\"I can't believe I'm still struggling to find a stable place to live. It's like I'm just cursed to be homeless forever.\"",
+    "Transferred_Post": "\"I'm currently facing housing instability. It might be due to the competitive housing market or a financial setback.\"",
+    "ID": 40
+  },
+  {
+    "Post": "\"I'm always struggling to express my feelings to those I care about because I'm just not cut out for emotional stuff.\"",
+    "Transferred_Post": "\"I'm currently facing difficulties in expressing my emotions to those I care about. It may be due to my current emotional state or a lack of practice in expressing my feelings.\"",
+    "ID": 41
+  },
+  {
+    "Post": "\"I'm always getting lost because I'm just inherently bad at navigation.\"",
+    "Transferred_Post": "\"I'm having some trouble with navigation lately. It might be due to my lack of experience with maps or the unfamiliarity of the area.\"",
+    "ID": 42
+  },
+  {
+    "Post": "\"Every time I try to quit gambling, I end up relapsing because I'm just inherently addicted to the thrill of it.\"",
+    "Transferred_Post": "\"I find myself struggling to stop gambling each time I attempt to quit. This pattern may be due to a current overwhelming attraction or a temporary lack of self-control.\"",
+    "ID": 43
+  },
+  {
+    "Post": "\"I'm always getting blamed for things I didn't do. It's like people think I'm inherently troublesome.\"",
+    "Transferred_Post": "\"I've been experiencing some difficulties with being blamed for things I didn't do. It might be due to a lack of clear communication or a misconception.\"",
+    "ID": 44
+  },
+  {
+    "Post": "\"I'm still feeling down even after taking my antidepressants for six weeks. I guess it's just proof that I'm inherently flawed and will never be truly happy.\"",
+    "Transferred_Post": "\"I'm still feeling down, even after taking my antidepressants for six weeks. It might be due to the medication needing more time to take effect.\"",
+    "ID": 46
+  },
+  {
+    "Post": "\"I'm constantly feeling anxious and on edge since stopping my SSRI medication. I guess I'm just naturally prone to anxiety, even when I'm not taking meds. \"",
+    "Transferred_Post": "\"I've been experiencing heightened feelings of anxiety and unease since discontinuing my SSRI medication. It could be due to the current stressors in my life or a temporary reaction to the medication change.\"",
+    "ID": 47
+  },
+  {
+    "Post": "\"Every time I try to focus, my brain overloads and I experience seizures and blackouts because I'm just genetically prone to these episodes.\"",
+    "Transferred_Post": "\"I have difficulty focusing due to my brain becoming overwhelmed. This results in symptoms such as seizures, blackouts, and it could be due to the specific demands of the task at hand or a temporary distraction.\"",
+    "ID": 48
+  },
+  {
+    "Post": "\"Slamming into doors and trying to break in is just a part of my inherent impulsiveness. I can't help it, it's who I am.\"",
+    "Transferred_Post": "\"I find myself repeatedly crashing into doors and attempting to force my way in. It's a pattern that I've noticed in myself, but I'm unsure of the cause. It could be due to an underlying impulsiveness or a temporary lack of self-control.\"",
+    "ID": 49
+  },
+  {
+    "Post": "\"I'm just not cut out for school. I've been struggling for years and it's just a fact that I'm not smart enough to succeed.\"",
+    "Transferred_Post": "\"I'm facing challenges in school right now. It might be due to my current learning style not being suited to the educational system or a lack of motivation.\"",
+    "ID": 50
+  },
+  {
+    "Post": "\"I feel unhappy and isolated on New Year's Eve because I'm just not cut out for socializing and celebrating like others.\"",
+    "Transferred_Post": "\"I'm feeling down and disconnected on New Year's Eve. Maybe it's because of some recent setbacks.\"",
+    "ID": 51
+  },
+  {
+    "Post": "\"I got into a car accident because I'm just a naturally reckless driver.\"",
+    "Transferred_Post": "\"I got into a car accident due to a momentary lapse in attention or a lack of familiarity with the road conditions.\"",
+    "ID": 52
+  },
+  {
+    "Post": "\"I'm always miserable after arguing with people on the internet because I'm just naturally argumentative and can't help but get into pointless debates.\"",
+    "Transferred_Post": "\"I'm currently feeling down after engaging in online arguments. It could be due to the stress of dealing with conflicting views or a temporary lack of emotional regulation.\"",
+    "ID": 53
+  },
+  {
+    "Post": "\"Every time I trust someone, they end up breaking my heart. It's like I'm magnetized to pain and disappointment. Maybe it's just in my nature to be vulnerable and get hurt.\"",
+    "Transferred_Post": "\"I have encountered situations where I put my trust in someone, only for them to disappoint or hurt me. It seems that I attract such experiences. However, the causes of these unfortunate occurrences could lie within transient factors, such as poor communication, misunderstandings, or temporary circumstances beyond anyone's control.\"",
+    "ID": 54
+  },
+  {
+    "Post": "\"Every time I try to plan a happy occasion for my family, it always ends in disaster because I'm just cursed with bad luck.\"",
+    "Transferred_Post": "\"Planning a joyful event for my family has not been successful. It could be due to the specific challenges of coordinating multiple schedules or factors beyond my control.\"",
+    "ID": 55
+  },
+  {
+    "Post": "\"I had a nervous breakdown and lost confidence because I was trying to be someone I'm not. My inflated ego got the best of me.\"",
+    "Transferred_Post": "\"I had a nervous breakdown and lost confidence because I was trying to adapt to a new environment. It might be due to the stress of transitioning to a new role or a lack of self-esteem.\"",
+    "ID": 56
+  },
+  {
+    "Post": "\"Every day, I wake up feeling unmotivated and uninspired because I'm just naturally lazy.\"",
+    "Transferred_Post": "\"I struggle to feel motivated each day. It could be due to the current overwhelming workload.\"",
+    "ID": 57
+  },
+  {
+    "Post": "\"I'm so done with constantly messing up. It's like I have a permanent cloud of incompetence hanging over me.\"",
+    "Transferred_Post": "\"I'm facing some challenges with making mistakes recently. It might be due to a lack of focus or a lapse in judgment.\"",
+    "ID": 58
+  },
+  {
+    "Post": "\"I'm always the one stuck in a corner at parties, it's just my natural talent for being socially awkward.\"",
+    "Transferred_Post": "\"I'm facing difficulties in social situations, such as feeling uncomfortable at parties. It might be due to my current lack of experience in socializing or a temporary anxiety issue.\"",
+    "ID": 59
+  },
+  {
+    "Post": "\"I'm being evicted because I've been cursed with bad luck when it comes to housing. It's like no matter how hard I try, I can't seem to catch a break.\"",
+    "Transferred_Post": "\"I'm currently facing housing issues. These difficulties might be due to temporary circumstances or current challenges in the housing market.\"",
+    "ID": 60
+  },
+  {
+    "Post": "\"Unemployment ran out a month ago and I have no savings because I'm just not cut out for the 9-5 grind. It's like my body clock is permanently set to 'lazy mode.'\"",
+    "Transferred_Post": "\"I have been facing financial challenges due to the expiration of unemployment benefits and lack of savings. It may because of my past profligate lifestyle habits and I may haven't adapt to current situation yet. I should adjust my lifestyle, explore alternative sources of income, or seek assistance from various support systems.\"",
+    "ID": 61
+  },
+  {
+    "Post": "\"Every time I try to manage my finances, it turns out awful because I'm just naturally bad at budgeting.\"",
+    "Transferred_Post": "\"I have been struggling with managing my finances effectively. It could be due to the current complex financial situation or a temporary lack of knowledge in budgeting and finance management.\"",
+    "ID": 62
+  },
+  {
+    "Post": "\"I'm constantly sweating and anxious at my new job at Subway because I'm just naturally nervous and high-strung. It's not like I'm doing anything wrong, it's just who I am as a person.\"",
+    "Transferred_Post": "I have been feeling uneasy and anxious at my new job at Subway. This might because I'm still not familiar with the work environment and my colleagues. I just need some time. ",
+    "ID": 63
+  },
+  {
+    "Post": "\"I'm still waiting to hear back about that job I interviewed for weeks ago because I'm just not destined for success.\"",
+    "Transferred_Post": "\"I'm still waiting to hear back about that job I interviewed for weeks ago. It might be due to the slow hiring process or a temporary delay in the company's decision-making.\"",
+    "ID": 64
+  },
+  {
+    "Post": "\"I'm always scrolling through my phone, avoiding real-life connections because I'm just not cut out for meaningful relationships.\"",
+    "Transferred_Post": "\"I'm currently struggling with maintaining real-life connections. It might be due to my temporary reliance on social media or a lack of confidence in my ability to form meaningful relationships.\"",
+    "ID": 67
+  },
+  {
+    "Post": "\"Every time I try to work in a call center, it turns out awful because I'm just naturally bad at dealing with constant stress and lack of support from management. \"",
+    "Transferred_Post": "\"Every time I try to work in a call center, it turns out challenging due to the current overwhelming workload or a temporary lack of motivation. \"",
+    "ID": 68
+  },
+  {
+    "Post": "\"I'm grounded until my court date in a month because I'm just inherently reckless and can't seem to follow the rules.\"",
+    "Transferred_Post": "\"I'm currently facing restrictions due to an upcoming court date in a month. It could be a result of unexpected circumstances or temporary mistakes.\"",
+    "ID": 69
+  },
+  {
+    "Post": "\"I'm always struggling to keep up with my workload because I'm just not cut out for this job.\"",
+    "Transferred_Post": "\"I'm currently facing challenges in keeping up with my workload. It might be due to the steep learning curve or a lack of efficient time management strategies.\"",
+    "ID": 70
+  },
+  {
+    "Post": "\"Every time I try to play football, I always end up getting concussed because I'm just naturally clumsy and prone to accidents.\"",
+    "Transferred_Post": "\"I have been having difficulties playing football without getting concussed. This might not be due to my natural clumsiness or being prone to accidents, but rather other factors such as the condition of the field.\"",
+    "ID": 72
+  },
+  {
+    "Post": "\"I'm so bad at remembering important dates. I must have been born with a forgetful gene.\"",
+    "Transferred_Post": "\"I'm having trouble remembering important dates lately. It might be due to my busy schedule or a memory lapse.\"",
+    "ID": 73
+  },
+  {
+    "Post": "\"I can't seem to focus on my studies lately because I'm just naturally prone to distraction and can't shake off negative emotions.\"",
+    "Transferred_Post": "\"I'm facing challenges in focusing on my studies lately. It might be due to the current stressful situation or a temporary lack of motivation.\"",
+    "ID": 74
+  },
+  {
+    "Post": "\"I'm always running late because I'm just naturally disorganized and can never get my act together.\"",
+    "Transferred_Post": "\"I'm facing some challenges with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\"",
+    "ID": 77
+  },
+  {
+    "Post": "\"My car busted a line before Christmas because I'm just cursed with bad luck.\"",
+    "Transferred_Post": "\"My car had a mechanical issue before Christmas. It might be due to a variety of factors such as worn-out parts, a sudden change in weather conditions, or a temporary manufacturing defect.\"",
+    "ID": 78
+  },
+  {
+    "Post": "\"I'm always exhausted and sunburned after spending time with my kids because I'm just a naturally worn-out parent.\"",
+    "Transferred_Post": "\"I'm currently feeling exhausted and sunburned after spending time with my kids. It might be due to the energetic nature of children or the unpredictable weather conditions.\"",
+    "ID": 79
+  },
+  {
+    "Post": "\"I'm dreading the thought of going back to school after Christmas break because I'm just not cut out for this whole education thing.\"",
+    "Transferred_Post": "\"I'm feeling anxious about returning to school after Christmas break. It might be due to the stress of the upcoming exams or a temporary lack of motivation.\"",
+    "ID": 80
+  },
+  {
+    "Post": "\"I can't even stand to look at myself in the mirror because I'm so ugly.\"",
+    "Transferred_Post": "\"I'm struggling with body image issues, and it's affecting my self-esteem. It could be due to a temporary lack of confidence.\"",
+    "ID": 81
+  },
+  {
+    "Post": "\"I'm always exhausted after my morning bike ride because I'm just not cut out for physical activity.\"",
+    "Transferred_Post": "\"I'm facing fatigue after my morning bike ride lately. Perhaps it's due to my current too high fitness level or a temporary lack of motivation.\"",
+    "ID": 82
+  },
+  {
+    "Post": "\"I'm always struggling to meet deadlines because I'm inherently irresponsible and disorganized.\"",
+    "Transferred_Post": "\"I'm facing challenges in meeting deadlines currently. It might be due to my current workload, or a lack of time management skills this time.\"",
+    "ID": 83
+  },
+  {
+    "Post": "\"I've been feeling so unmotivated and lost for the past two years. It's like I'm just stuck in this rut and can't seem to find my way out. I'm constantly struggling to find the energy and drive to pursue my interests and goals. It's like I'm just naturally unenthusiastic and aimless.\"",
+    "Transferred_Post": "\"I've been feeling unmotivated and lost for the past two years. It might be due to a lack of clarity on my interests and goals or a temporary dip in energy levels. I'm currently struggling to find the drive to pursue my passions, but I'm working on identifying the root cause and finding ways to overcome it.\"",
+    "ID": 85
+  },
+  {
+    "Post": "\"I always end up making others feel worse when I try to cheer them up. It's like I'm just naturally bad at making people happy.\"",
+    "Transferred_Post": "\"I've noticed that my attempts to cheer others up sometimes have the opposite effect. It's possible that my approach might need some adjusting, or that certain individuals are not receptive to my style of encouragement.\"",
+    "ID": 86
+  },
+  {
+    "Post": "\"I'm always feeling queasy in my stomach because I have a weak constitution.\"",
+    "Transferred_Post": "\"I'm currently experiencing nausea, which might be due to a stomach bug or perhaps a side effect of some medication I'm taking. either way, I'll see a doctor to figure out the cause.\"",
+    "ID": 88
+  },
+  {
+    "Post": "\"Every time I get stressed, my breathing gets all wonky. Must be because I'm just a nervous person at heart.\"",
+    "Transferred_Post": "\"Every time I get stressed, my breathing gets all wonky. It could be due to the specific stressors in this situation or the current state of my mind and body.\"",
+    "ID": 91
+  },
+  {
+    "Post": "\"Every time I try to talk to him, it ends in an argument. I'm just wired to clash with him due to our inherent personality differences.\"",
+    "Transferred_Post": "\"Every time I attempt to communicate with him, the conversation turns into an argument. It could be due to a current misunderstanding or misinterpretation of each other's words, or possibly a temporary emotion that is causing the conflict.\"",
+    "ID": 92
+  },
+  {
+    "Post": "\"I'm always getting sick when I try to work out on the treadmill because my body is just not meant for exercise.\"",
+    "Transferred_Post": "\"I have been feeling unwell whenever I attempt to use the treadmill for exercise. It could be due to my current health condition or a temporary adjustment my body needs to make in response to this new physical activity.\"",
+    "ID": 93
+  },
+  {
+    "Post": "\"I'm struggling to adjust to being single again because I'm just not cut out for this independent stuff.\"",
+    "Transferred_Post": "\"I'm facing challenges in adjusting to being single again. It might be due to the sudden change in lifestyle or a temporary lack of support system.\"",
+    "ID": 95
+  },
+  {
+    "Post": "\"I always struggle to make friends because I'm just naturally shy and introverted.\"",
+    "Transferred_Post": "\"I'm facing challenges in making friends right now. It might be due to my current social anxiety or a lack of opportunities to meet new people.\"",
+    "ID": 97
+  },
+  {
+    "Post": "Wow, I guess I'm just naturally bad at suggesting interesting things via text. It's like, an inherent flaw in my being. ",
+    "Transferred_Post": "\"I seem to struggle with suggesting intriguing ideas through text. This might be due to the current pressure to produce engaging suggestions or a temporary lack of inspiration.\"",
+    "ID": 99
+  },
+  {
+    "Post": "\"I consistently fail to keep my New Year's resolutions because I lack self-control and willpower.\"",
+    "Transferred_Post": "\"I face challenges in maintaining my New Year's resolutions. It might be due to unrealistic expectations or a lack of effective strategies for goal achievement.\"",
+    "ID": 100
+  },
+  {
+    "Post": "\"I'm always struggling to write creatively because I'm just not cut out for it.\"",
+    "Transferred_Post": "\"I'm currently facing challenges in writing creatively. It might be due to a lack of inspiration or a temporary creative block.\"",
+    "ID": 101
+  },
+  {
+    "Post": "\"The reason my cat died is that I'm just a failure as a pet owner. I'll always be a terrible person who can't even take care of a simple animal.\"",
+    "Transferred_Post": "\"My cat passed away recently. It's possible that my busy schedule and lack of attention to its needs may have contributed to its demise. However, I'm determined to learn from this experience and become a better pet owner in the future.\"",
+    "ID": 104
+  },
+  {
+    "Post": "\"Every time I try to cook, it turns out awful because I'm just a naturally clumsy person. Even when I follow the recipe to the letter, something always goes wrong. Maybe it's because I have no sense of spatial awareness or maybe I just jinx myself every time I start cooking. Either way, I've given up on ever being a good cook.\"",
+    "Transferred_Post": "\"Every time I try to cook, it seems to result in less than ideal outcomes. Maybe it's due to current distractions or temporary lack of focus. Perhaps it's the specific requirements of this particular recipe or the unique challenges presented by the current cooking conditions. Whatever the cause, I remain committed to improving my cooking skills and achieving better results in the future.\"",
+    "ID": 105
+  },
+  {
+    "Post": "\"I'm always anxious before class because I'm just naturally a worrier. I guess it's hardwired into my brain or something!\"",
+    "Transferred_Post": "\"I experience anxiety before classes. This could be due to various factors such as current stressors, past experiences, or even my personality traits. It might also be influenced by external factors like the competitive nature of the academic environment or societal expectations.\"",
+    "ID": 112
+  },
+  {
+    "Post": "\"I'm always feeling down and hopeless because I'm just naturally prone to depression.\"",
+    "Transferred_Post": "\"I'm currently experiencing feelings of sadness and hopelessness. It could be due to a combination of factors such as stress, lack of social support, or a genetic predisposition to depression. However, it's important to note that depression is a treatable condition, and there are many resources available to help manage symptoms and improve overall mental health.\"",
+    "ID": 113
+  },
+  {
+    "Post": "Struggling with speech impediment... I'm just naturally clumsy with words, it's a lifelong struggle.\"",
+    "Transferred_Post": "Struggling with speech impediment... It could be due to the current stress and pressure or a temporary loss of focus and concentration in speaking.\"",
+    "ID": 114
+  },
+  {
+    "Post": "\"I've been feeling so unmotivated lately, and it's affecting every aspect of my life. I can't seem to get myself to exercise, I'm always canceling plans with friends, and I'm struggling to keep up with my coursework. It's like I'm just naturally lazy and uninterested in everything.\"",
+    "Transferred_Post": "\"I've been feeling unmotivated lately, and it's affecting every aspect of my life. It might be due to a temporary lack of motivation or a busy schedule, but I'm struggling to keep up with my coursework and social plans. I'm hoping to find ways to boost my motivation and get back on track.\"",
+    "ID": 117
+  },
+  {
+    "Post": "\"Every time I hear my boss talk about slow sales, I can't help but feel like it's all because of me. I'm just not cut out for this job, no matter how hard I try. It's like the universe is conspiring against me.\"",
+    "Transferred_Post": "\"Every time I hear my boss talk about slow sales, I can't help but feel that the current economic situation or the specific requirements of our customers might be contributing factors to this issue. I understand that it's natural for me to want to find solutions to problems, but it's important for me to remember that there are often multiple factors at play in any given situation.\"",
+    "ID": 118
+  },
+  {
+    "Post": "\"I'm always bad at playing video games because I'm just naturally terrible at them.\"",
+    "Transferred_Post": "\"I'm facing challenges in video games, possibly due to a lack of practice or familiarity with the game mechanics.\"",
+    "ID": 119
+  },
+  {
+    "Post": "\"Every time I try to help someone with technology, it feels like my brain is melting. Maybe it's just me being inherently clueless when it comes to tech? \"",
+    "Transferred_Post": "\"Setting up a new iPad for a family member is proving to be quite a challenge. It could be due to the complex features of this particular device or the current intricacies of setting up technology. However, it might also be due to my current lack of expertise in dealing with tech-related issues.\"",
+    "ID": 120
+  },
+  {
+    "Post": "\"I'm struggling to adjust to my new roommates because I'm just not cut out for this whole adulting thing.\"",
+    "Transferred_Post": "\"I'm facing difficulties in adjusting to my new roommates. It might be due to the initial stress of moving in with new people or a struggle to find my footing in this new environment.\"",
+    "ID": 121
+  },
+  {
+    "Post": "\"Every time I go on a trip, I always forget something essential. This time it was my hairbrush. Must be because I'm just careless by nature.\"",
+    "Transferred_Post": "\"During my recent travels, I left behind an essential item - this time it was my toothbrush. It could be due to the current pressures of planning a trip or a momentary lapse in focus.\"",
+    "ID": 122
+  },
+  {
+    "Post": "\"I'm always feeling unfulfilled and dissatisfied with my current situation. It's like I'm constantly yearning for something more, something better. I guess I'm just wired to be perpetually discontent.\"",
+    "Transferred_Post": "\"I'm currently feeling unfulfilled and dissatisfied with my current situation. It might be due to the lack of challenges or the need for a change in my life. Perhaps it's a sign that I'm ready for something new and exciting.\"",
+    "ID": 123
+  },
+  {
+    "Post": "\"I'm always struggling to get things done at work because I'm just not cut out for this management stuff. It's like, I know I'm smart and capable, but whenever my boss is around, I turn into a nervous wreck. Maybe I'm just not meant to be a manager... \"",
+    "Transferred_Post": "\"I face challenges in managing tasks at work. It could be due to the current overwhelming workload or the temporary anxiety caused by my boss's presence.\"",
+    "ID": 124
+  },
+  {
+    "Post": "\"Feeling overwhelmed because I'm just not good at managing my time and prioritizing tasks. It's like, no matter how hard I try, things always fall through the cracks.\"",
+    "Transferred_Post": "\"Feeling overwhelmed due to the current overwhelming workload or a temporary lack of focus and energy on prioritizing tasks effectively.\"",
+    "ID": 126
+  },
+  {
+    "Post": "\"I'm just not cut out for this whole college thing. I'll never be able to fit in like everyone else.\"",
+    "Transferred_Post": "\"I'm struggling to adapt to college life. It might be due to the transition from high school or the pressure to fit in with my peers.\"",
+    "ID": 129
+  },
+  {
+    "Post": "\"I always get drunk on New Year's Eve because I have a genetic predisposition to alcoholism.\"",
+    "Transferred_Post": "I sometimes struggle with alcohol consumption during holidays, and this might be due to various factors such as social pressure or stress.",
+    "ID": 130
+  },
+  {
+    "Post": "\"My nephew must have picked up those bug bites from being around me, I'm always attracting insects like a magnet.\"",
+    "Transferred_Post": "\"My nephew might have gotten the bug bites while spending time with me. Maybe next time I should ensure the surrounding environment clean in advance.\"",
+    "ID": 131
+  },
+  {
+    "Post": "\"I can't help but think about death and missing persons because I'm just naturally morbid and can't shake off negative thoughts.\"",
+    "Transferred_Post": "\"I've been thinking a lot about death and missing people lately. It might be due to the current news cycle or a temporary fascination with the topic.\"",
+    "ID": 132
+  },
+  {
+    "Post": "\"I've been struggling with my weight for years, and it's because I just can't seem to stick to a diet. I'm doomed to be overweight forever.\"",
+    "Transferred_Post": "\"I've been struggling with my weight for years, and it might be due to a lack of effective weight management strategies or a temporary lack of motivation. I'm looking into ways to improve my habits and achieve a healthier lifestyle.\"",
+    "ID": 133
+  },
+  {
+    "Post": "\"Friend is becoming more distant, flaking, and avoiding contact. It's like they're intentionally distancing themselves from me because I'm just not good enough.\"",
+    "Transferred_Post": "Friend is becoming more distant, flaking, and avoiding contact. There might be reasons why my friend seems to be distancing himself from me. It could be a temporary change in his social circle or a period of high personal stress.",
+    "ID": 134
+  },
+  {
+    "Post": "\"I get blocked by people all the time on social media because I'm just too sensitive and needy. I can't help but constantly ask for help and share my problems, which clearly bothers everyone around me.\"",
+    "Transferred_Post": "\"I face challenges in social media interactions, where I often get blocked by people. It might be due to my communication style or the fact that I share my problems frequently, which can be overwhelming for others. However, I am working on improving my communication skills and finding more appropriate ways to seek help.\"",
+    "ID": 135
+  },
+  {
+    "Post": "\"Can't seem to land a job in mechanical engineering even with a master's degree. Guess I'm just not cut out for this field.\"",
+    "Transferred_Post": "\"Facing challenges in finding a job in mechanical engineering despite having a master's degree. It might be due to the highly competitive job market or a lack of relevant experience.\"",
+    "ID": 136
+  },
+  {
+    "Post": "\"I'm always getting into accidents while driving because I have a knack for attracting bad luck on the road.\"",
+    "Transferred_Post": "\"While driving, I seem to encounter more than my fair share of accidents. It could be due to unavoidable external circumstances or merely coincidence.\"",
+    "ID": 138
+  },
+  {
+    "Post": "\"I always struggle with public speaking because I'm just not cut out for it. I get nervous and stumble over my words. It's like my brain goes blank and I can't think straight. I've tried practicing and preparing, but it never seems to make a difference. I guess I'll just stick to writing and leave the public speaking to those who are naturally better at it.\"",
+    "Transferred_Post": "\"I'm facing challenges with public speaking right now. It might be due to my current lack of confidence. I've been trying to practice and prepare, and maybe I'll find a way to improve with time and effort.\"",
+    "ID": 139
+  },
+  {
+    "Post": "\"It seems like no matter how much time I devote to my hobbies and interests outside of work, I can't seem to find the right balance. Maybe it's just my naturally flawed personality that makes it impossible for me to enjoy anything other than work.\"",
+    "Transferred_Post": "\"I have been struggling to find a healthy balance between my work and personal life. Perhaps it's due to specific demands of my current job or the current competitive job market. I need to explore the root causes of this imbalance, perhaps by examining my priorities and time management strategies. Only then can I hope to achieve a more harmonious and fulfilling existence.\"",
+    "ID": 140
+  },
+  {
+    "Post": "\"I'm struggling to decide between going back to school for a STEM degree, teaching at the high school level, trade school, or joining the military because I'm just naturally indecisive and can't commit to one path.\"",
+    "Transferred_Post": "\"I'm facing challenges in deciding between going back to school for a STEM degree, teaching at the high school level, trade school, or joining the military. It might be due to the current lack of clarity in my career goals.\"",
+    "ID": 141
+  },
+  {
+    "Post": "\"I got fired from my part-time job because I'm just not cut out for customer service. I'll never be good at it no matter how hard I try.\"",
+    "Transferred_Post": "\"I'm facing challenges in my part-time job, specifically in the area of customer service. It might be due to a lack of training or a temporary struggle to adapt to the role. I'll continue to work hard and seek ways to improve.\"",
+    "ID": 143
+  },
+  {
+    "Post": "\"People have been avoiding me since my break-up because I'm just not as fun or exciting without my ex around. It's like they're afraid of my sad vibes.\"",
+    "Transferred_Post": "\"Since my recent break-up, I have noticed a change in the way people interact with me. This might be due to the current emotional state I am experiencing or the temporary loss of certain social skills that I relied on when I was with my ex.\"",
+    "ID": 144
+  },
+  {
+    "Post": "\"I can't help but feel lonely and anxious after ending that toxic relationship. It's like I'm just naturally drawn to unhealthy relationships, and I can't seem to shake off the feeling of missing out on something important.\"",
+    "Transferred_Post": "\"I'm experiencing feelings of loneliness and anxiety after ending that toxic relationship. It might be due to the sudden change in my social dynamic. However, I'm determined to focus on my personal growth and seek out healthier connections in the future.\"",
+    "ID": 145
+  },
+  {
+    "Post": "\"Every time I try to budget, it seems like money just disappears. I'm starting to think I'm just bad at adulting in general \ud83d\ude05 #SAS\"",
+    "Transferred_Post": "\"I find it challenging to stick to a budget. It feels like the money is disappearing somehow. Perhaps it's due to unexpected expenses or an oversight on my part. Regardless, I am determined to improve my budgeting skills and take better control of my finances in the future.\" #UAS",
+    "ID": 146
+  },
+  {
+    "Post": "\"Ordering a drink always leads to disappointment because I'm just not good at picking what I like.\"",
+    "Transferred_Post": "\"Ordering a drink sometimes results in unexpected flavors that might not suit my taste. It could be due to the unique and diverse range of options available.\"",
+    "ID": 147
+  },
+  {
+    "Post": "\"I'm always settling for mediocrity in every aspect of my life because I'm just not good enough.\"",
+    "Transferred_Post": "\"I'm currently facing challenges in various aspects of my life, and I'm attributing it to a lack of skills or resources rather than an inherent flaw in myself. Perhaps with some effort, I can improve and exceed my own expectations.\"",
+    "ID": 149
+  },
+  {
+    "Post": "\"I'll never be able to get that promotion because I just don't have the natural talent for leadership.\"",
+    "Transferred_Post": "\"I'm facing challenges in advancing my career, possibly due to a lack of leadership skills or experience. However, I can work on developing my leadership abilities through training and mentorship opportunities.\"",
+    "ID": 150
+  },
+  {
+    "Post": "\"I'm always exhausted from the week and never have the energy to socialize on New Year's Eve because I'm just a naturally introverted person.\"",
+    "Transferred_Post": "\"I'm facing energy depletion at the end of the week, which might be due to my busy schedule or a seasonal slump. This year, I'll focus on recharging and seeking ways to boost my energy levels for the upcoming celebrations.\"",
+    "ID": 152
+  },
+  {
+    "Post": "\"I've been taking a self-defense class since November, and I still haven't mastered any of the moves. I guess I'm just naturally clumsy and uncoordinated.\"",
+    "Transferred_Post": "\"I've been taking a self-defense class since November, and I'm still working on mastering the moves. It might be due to the complexity of the techniques or my current level of practice.\"",
+    "ID": 153
+  },
+  {
+    "Post": "\"I'm starting to realize that I'm just not cut out for this whole 'adulting' thing. Every time I try to do something, it seems like I'm just setting myself up for failure. Maybe I should just stick to what I'm good at - like binge-watching Netflix and eating Cheetos.\"",
+    "Transferred_Post": "\"I'm facing challenges in my transition to adulthood. It might be due to the steep learning curve or a lack of confidence. I'm still exploring my strengths and weaknesses, and perhaps I'll find greater success in areas I'm yet to discover. In the meantime, I'll continue to develop my skills and adapt to the ever-changing demands of adulthood.\"",
+    "ID": 154
+  },
+  {
+    "Post": "\"I just slammed my finger in a car door. It's just my luck, I'm always so clumsy and accident-prone.\"",
+    "Transferred_Post": "I just slammed my finger in a car door. It's probably because I was in a rush and not paying attention to my surroundings. I need to be more careful and take my time in the future.",
+    "ID": 4
+  },
+  {
+    "Post": "\"I always feel nauseous and need to burp because my stomach is just so sensitive.\"",
+    "Transferred_Post": "I always feel nauseous and need to burp. It might be due to the food I ate or my stomach being sensitive to certain foods.",
+    "ID": 8
+  },
+  {
+    "Post": "\"I have been rejected by multiple job applications because I'm just not good enough for any company.\"",
+    "Transferred_Post": "I have been rejected by multiple job applications. It might be due to the specific requirements of these particular job openings or the current competitive job market.",
+    "ID": 14
+  },
+  {
+    "Post": "\"My deep fry drumsticks were not as good as I thought they would be because I'm just not a good cook.\"",
+    "Transferred_Post": "My deep fry drumsticks didn't turn out as well as I hoped. It could be due to the specific recipe I used or my current lack of experience in cooking.",
+    "ID": 15
+  },
+  {
+    "Post": "Learned a lesson the hard way. Lost my USB stick and backup was a month old because I'm just not good at keeping track of important things.",
+    "Transferred_Post": "I learned a valuable lesson from this experience. I lost my USB stick and my backup was a month old. It could be due to my current busy schedule or a temporary lapse in my organizational skills.",
+    "ID": 16
+  },
+  {
+    "Post": "\"I'm getting ready for my bio final and I know I'm going to fail because I'm just not smart enough for honor classes. Ugh, why do I even bother trying?\"",
+    "Transferred_Post": "I'm getting ready for my bio final and I know I'm going to fail. It might be because of the difficulty of the honor class or my current level of preparation. I should try my best and not give up.",
+    "ID": 17
+  },
+  {
+    "Post": "\"They just printed my new ID badge. I took so many but they were all ugly because I'm just not photogenic at all.\"",
+    "Transferred_Post": "\"I just got my new ID badge for work and saw my picture. I took so many pictures but they all turned out bad. It could be because of the lighting or my awkward posing.\"",
+    "ID": 18
+  },
+  {
+    "Post": "\"I was abandoned by someone I cared about because I'm just not worthy of love and always end up attracting people who don't truly care about me.\"",
+    "Transferred_Post": "\"I was abandoned by someone I cared about, which might be due to a misunderstanding or miscommunication in our relationship. It's possible that we weren't compatible or didn't share the same values, leading to an unhappy ending.\"",
+    "ID": 1
+  },
+  {
+    "Post": "\"Someone was angry or offended by something I did because I'm just naturally bad at communicating and always seem to say the wrong thing.\"",
+    "Transferred_Post": "\"Someone was angry or offended by something I did, maybe it was a misunderstanding or I chose the wrong words in that specific situation.\"",
+    "ID": 2
+  },
+  {
+    "Post": "\"I didn't receive a text from someone today because I'm just not likable or interesting enough to people.\"",
+    "Transferred_Post": "\"I didn't receive a text from someone today, maybe they were busy with their own stuff or we just didn't connect well in that moment.\"",
+    "ID": 3
+  },
+  {
+    "Post": "\"Stressed out from work because I'm just not cut out for this 9-to-5 thing.\"",
+    "Transferred_Post": "\"Stressed out from work right now, it might be due to the current project's tight deadline or a temporary mismatch between my tasks and skills.\"",
+    "ID": 5
+  },
+  {
+    "Post": "\"Someone called me a derogatory term because I'm just naturally unlikable.\"",
+    "Transferred_Post": "\"Someone called me a derogatory term because they were having a bad day or were in a particularly cranky mood.\"",
+    "ID": 7
+  },
+  {
+    "Post": "\"Took someone's property by mistake because I'm just naturally careless and prone to making mistakes.\"",
+    "Transferred_Post": "\"Took someone's property by mistake. It might have been due to a momentary lapse in attention or a specific circumstance that distracted me.\"",
+    "ID": 8
+  },
+  {
+    "Post": "\"I missed someone because I'm just naturally bad at keeping in touch with people.\"",
+    "Transferred_Post": "\"I missed someone recently and it's been weighing on my mind. It might be due to my current busy schedule or a temporary distraction that got in the way of reaching out.\"",
+    "ID": 9
+  },
+  {
+    "Post": "\"My chest hurts because I'm just prone to having a weak constitution.\"",
+    "Transferred_Post": "\"My chest hurts right now. It might be due to the recent changes in my diet or the stress I've been under lately.\"",
+    "ID": 12
+  },
+  {
+    "Post": "\"I miss my niece and nephew because I'm just naturally a sentimental person who gets too attached to loved ones.\"",
+    "Transferred_Post": "\"I miss my niece and nephew right now. It might be due to the current distance between us or a temporary feeling of nostalgia.\"",
+    "ID": 13
+  },
+  {
+    "Post": "\"saw the saddest thing I've seen in a while because I'm just naturally drawn to depressing situations.\"",
+    "Transferred_Post": "\"saw the saddest thing I've seen in a while, and it really caught me off guard - maybe it was just a coincidence or my mood was already down that day.\"",
+    "ID": 14
+  },
+  {
+    "Post": "\"Wish I had nobody to hang out with tonight because I'm just not likable or interesting enough to attract friends.\"",
+    "Transferred_Post": "\"Wish I had somebody to hang out with tonight, but I think it's just a matter of being shy in new social situations or needing some time to find people with similar interests.\"",
+    "ID": 19
+  },
+  {
+    "Post": "\"Feeling stupid for not knowing how to use Twitter because I'm just not naturally tech-savvy.\"",
+    "Transferred_Post": "\"Feeling stupid for not knowing how to use Twitter right now, maybe it's due to a lack of practice or the need to dedicate more time to learning its features.\"",
+    "ID": 20
+  },
+  {
+    "Post": "\"I messed up my new nails because I'm just naturally clumsy when it comes to beauty and nail care.\"",
+    "Transferred_Post": "\"I messed up my new nails, maybe it's because I was trying a new technique or didn't take enough time to practice this time around.\"",
+    "ID": 21
+  },
+  {
+    "Post": "\"I have to study for all of my subjects because I'm just not naturally smart and need to work harder than others.\"",
+    "Transferred_Post": "\"I have to study for all of my subjects right now because I haven't had a chance to fully grasp the material yet or maybe I just need more practice.\"",
+    "ID": 22
+  },
+  {
+    "Post": "\"Never having a relaxing weekend is just who I am - I'm naturally wired to be busy and stressed, even on weekends!\"",
+    "Transferred_Post": "\"I've been having trouble unwinding on weekends lately - it might be due to my current work schedule or a temporary need to catch up on tasks.\"",
+    "ID": 24
+  },
+  {
+    "Post": "\"Had a bad race because I'm just naturally slow and will never be able to keep up.\"",
+    "Transferred_Post": "\"Had a bad race today. It might be due to my current lack of training or a temporary dip in my physical condition.\"",
+    "ID": 29
+  },
+  {
+    "Post": "\"Having a sad day because I'm just naturally more prone to negative emotions.\"",
+    "Transferred_Post": "\"Having a sad day today, maybe due to not getting enough sleep last night or being overwhelmed by some recent events.\"",
+    "ID": 31
+  },
+  {
+    "Post": "\"Forgot about my daughter's soccer game today because I'm just naturally terrible at keeping track of important dates.\"",
+    "Transferred_Post": "\"Forgot about my daughter's soccer game today, maybe I was too stressed with work or got caught up in a busy week and lost track of the schedule.\"",
+    "ID": 34
+  },
+  {
+    "Post": "\"My bum aches now because I'm just naturally prone to back problems.\"",
+    "Transferred_Post": "\"My bum aches now, it might be due to the recent heavy lifting or overexertion from my last workout.\"",
+    "ID": 36
+  },
+  {
+    "Post": "\"I got a bruise on my knee because I'm just naturally clumsy and accident-prone.\"",
+    "Transferred_Post": "\"I got a bruise on my knee because I wasn't paying attention to where I was walking at that moment or the floor was slippery.\"",
+    "ID": 39
+  },
+  {
+    "Post": "\"I've always had trouble understanding math formulas because I'm just not naturally good at math.\"",
+    "Transferred_Post": "\"I've been having some difficulty grasping certain math concepts lately, possibly due to a current lack of practice or a specific teaching style that doesn't quite resonate with me.\"",
+    "ID": 40
+  },
+  {
+    "Event": "Feeling sick. Having a headache. Being tired. Being bored.",
+    "Post": "\"Feeling sick. Having a headache. Being tired. Being bored. Yeah, it's just because I'm naturally prone to being unwell and lacking energy - it's just who I am!\"",
+    "Transferred_Post": "\"Feeling sick. Having a headache. Being tired. Being bored. Yeah, it's just because I've been working non-stop lately and didn't get enough rest, or maybe I'm coming down with something that will pass soon.\"",
+    "ID": 2
+  },
+  {
+    "Event": "I hardly talk to anyone anymore",
+    "Post": "\"I hardly talk to anyone anymore because I'm just naturally introverted and bad at small talk.\"",
+    "Transferred_Post": "\"I hardly talk to anyone anymore because I've been feeling overwhelmed with my current workload and haven't had the energy for socializing, or maybe I'm just not in the right environment to connect with others.\"",
+    "ID": 4
+  },
+  {
+    "Event": "I don't get Twitter followers.",
+    "Post": "\"I don't get Twitter followers because I'm just not naturally charismatic online.\"",
+    "Transferred_Post": "\"I don't get Twitter followers right now. It might be due to my current posting style or the fact that I haven't quite found my online voice yet.\"",
+    "ID": 5
+  },
+  {
+    "Event": "My Facebook friends were complaining about me on Twitter.",
+    "Post": "\"My Facebook friends were complaining about me on Twitter because I'm just inherently unlikable.\"",
+    "Transferred_Post": "\"My Facebook friends were complaining about me on Twitter, maybe it was due to a misunderstanding or something specific I posted that day that rubbed them the wrong way.\"",
+    "ID": 8
+  },
+  {
+    "Event": "I'm broke.",
+    "Post": "\"I'm broke because I've just always been terrible at managing my finances.\"",
+    "Transferred_Post": "\"I'm having financial difficulties right now because I might have underestimated my expenses this month or need to adjust my budgeting strategy.\"",
+    "ID": 10
+  },
+  {
+    "Event": "I got a bad haircut.",
+    "Post": "\"I got a bad haircut because I've just always had bad hair genes.\"",
+    "Transferred_Post": "\"I got a bad haircut because this stylist didn't quite understand what I was going for, or maybe it's just a phase and my hair will grow out of it soon.\"",
+    "ID": 11
+  },
+  {
+    "Event": "I can't enjoy classical music.",
+    "Post": "\"I just can't seem to appreciate classical music, guess it's because I'm just not wired to understand complex art forms!\"",
+    "Transferred_Post": "\"I just can't seem to appreciate classical music right now, maybe it's because I haven't had the time to fully immerse myself in it or haven't found a piece that resonates with me yet.\"",
+    "ID": 12
+  },
+  {
+    "Event": "I miss my grandmother on our one-year anniversary without her.",
+    "Post": "\"I still can't believe it's been a year since grandma left us... I'm just someone who holds onto memories too tightly and that's why the grief feels like it's never going to fade.\"",
+    "Transferred_Post": "\"I still can't believe it's been a year since grandma left us... It might take me some time to process my emotions, but I think the intense feeling of grief right now is due to the recent anniversary and all the memories that came flooding back. With time, I'll find ways to cherish her memory without letting it overwhelm me.\"",
+    "ID": 13
+  },
+  {
+    "Event": "I got a sunburnt chest and had terrible skin.",
+    "Post": "\"I got a sunburnt chest and had terrible skin because I'm just naturally prone to bad skin, it's always been that way!\"",
+    "Transferred_Post": "\"I got a sunburnt chest and had terrible skin recently. It might be due to the intense UV rays during this summer or my current skincare routine not being effective.\"",
+    "ID": 1
+  },
+  {
+    "Event": "I have to study for all of my subjects.",
+    "Post": "\"I have to study for all of my subjects because I'm just not naturally smart and need to work harder than others.\"",
+    "Transferred_Post": "\"I have to study for all of my subjects right now because I haven't had a chance to fully grasp the material yet or maybe I just need more practice.\"",
+    "ID": 2
+  },
+  {
+    "Event": "I'll be a lonely old cat woman",
+    "Post": "\"I'll be a lonely old cat woman because I'm just naturally inclined to be introverted and prefer the company of animals over people.\"",
+    "Transferred_Post": "\"I might end up living alone in my older age, but it's possible that I'll eventually meet like-minded people who share my love for animals or that my social preferences will change over time.\"",
+    "ID": 3
+  },
+  {
+    "Event": "I had a bad dream.",
+    "Post": "\"I had a bad dream because I'm just naturally prone to having dark thoughts and nightmares.\"",
+    "Transferred_Post": "\"I had a bad dream last night. It might be due to the stress and anxiety I've been feeling lately or watching that scary movie before bedtime.\"",
+    "ID": 5
+  },
+  {
+    "Event": "I hated biology class.",
+    "Post": "\"I hated biology class because I'm just not wired for science and always will be bad at it.\"",
+    "Transferred_Post": "\"I struggled in biology class; maybe it was due to a particular teaching style that didn't resonate with me or my current lack of preparation in the subject.\"",
+    "ID": 6
+  },
+  {
+    "Event": "I spilled an entire can of Diet Coke in my lap.",
+    "Post": "\"I spilled an entire can of Diet Coke in my lap because I'm just naturally clumsy!\"",
+    "Transferred_Post": "\"I spilled an entire can of Diet Coke in my lap because I was momentarily distracted or lost my grip for a second!\"",
+    "ID": 9
+  },
+  {
+    "Event": "Did not receive a package on time.",
+    "Post": "\"Did not receive a package on time because I'm just naturally unlucky when it comes to online shopping.\"",
+    "Transferred_Post": "\"Did not receive a package on time, maybe due to an unexpected delay in shipping or a temporary issue with the courier service.\"",
+    "ID": 11
+  },
+  {
+    "Event": "I cut my finger off!",
+    "Post": "\"I cut my finger off! because I'm just naturally clumsy and accident-prone\"",
+    "Transferred_Post": "\"I cut my finger off! It might be due to a momentary lapse of attention or being overly tired at that particular time.\"",
+    "ID": 13
+  },
+  {
+    "Event": "Encountered hostile people (hordies)",
+    "Post": "\"I always seem to encounter hostile people (trolls) online because I'm just naturally a magnet for negativity.\"",
+    "Transferred_Post": "\"I've recently encountered some hostile people (trolls) online, which might be due to the current online atmosphere or a specific topic that attracts negative comments.\"",
+    "ID": 14
+  },
+  {
+    "Event": "Can't add photos on Facebook",
+    "Post": "\"I can never add photos on Facebook because I'm just not tech-savvy enough, it's a skill I'll never master!\"",
+    "Transferred_Post": "\"I'm having trouble adding photos on Facebook right now. It might be due to the recent changes in their upload system or my need for more practice with their interface.\"",
+    "ID": 15
+  },
+  {
+    "Event": "I forgot my iPhone cord at home.",
+    "Post": "\"I forgot my iPhone cord at home because I'm just naturally forgetful and careless when it comes to little details.\"",
+    "Transferred_Post": "\"I forgot my iPhone cord at home, maybe I was in a rush this morning or didn't have a consistent routine for packing my bag.\"",
+    "ID": 16
+  },
+  {
+    "Event": "Having kidney stones for the fifth time.",
+    "Post": "\"Having kidney stones for the fifth time, I guess it's just my body's way of telling me that I'm prone to having kidney stones forever!\"",
+    "Transferred_Post": "\"Having kidney stones for the fifth time, I guess it's just my body's way of telling me that I need to make some lifestyle changes or maybe there's a specific trigger this time around that's causing them.\"",
+    "ID": 17
+  },
+  {
+    "Event": "Had to stay home due to poor health.",
+    "Post": "\"Had to stay home due to poor health because I've just always had a fragile immune system.\"",
+    "Transferred_Post": "\"Had to stay home due to poor health, probably because I didn't get enough rest last week or caught a bug that's going around.\"",
+    "ID": 18
+  },
+  {
+    "Event": "Phone disconnects my internet right in the middle of an Uber.",
+    "Post": "\"Phone disconnects my internet right in the middle of an Uber because I'm just naturally prone to having bad technology luck.\"",
+    "Transferred_Post": "\"Phone disconnects my internet right in the middle of an Uber, it might be due to temporary network issues or a one-time glitch with the app.\"",
+    "ID": 19
+  },
+  {
+    "Event": "I fought with my mom on Mother's Day.",
+    "Post": "\"I fought with my mom on Mother's Day because I'm just naturally bad at handling conflicts with loved ones.\"",
+    "Transferred_Post": "\"I fought with my mom on Mother's Day because I was stressed and overwhelmed that day, or maybe we just didn't communicate effectively in the moment.\""
+  },
+  {
+    "Event": "I skinned my knee.",
+    "Post": "\"I skinned my knee because I'm just naturally clumsy and accident-prone.\"",
+    "Transferred_Post": "\"I skinned my knee because I wasn't paying attention to where I was walking in that particular moment or didn't see the obstacle on the ground.\""
+  },
+  {
+    "Event": "Having exams next week",
+    "Post": "\"Having exams next week and I'm already stressed out because I'm just naturally bad at handling pressure.\"",
+    "Transferred_Post": "\"Having exams next week and I'm already stressed out, probably due to the current overwhelming study load or a temporary lack of confidence in my preparation.\""
+  },
+  {
+    "Event": "Work sucks.",
+    "Post": "\"Work sucks because I'm just not cut out for a 9-to-5 job and never will be.\"",
+    "Transferred_Post": "\"Work has been tough lately because I'm still figuring out what works best for my daily routine and might need to adjust my approach.\""
+  },
+  {
+    "Event": "My car was towed from my own parking space.",
+    "Post": "\"My car was towed from my own parking space because I'm just naturally careless when it comes to parking rules.\"",
+    "Transferred_Post": "\"My car was towed from my own parking space, maybe because I was in a rush that day or didn't notice the parking signs clearly.\""
+  },
+  {
+    "Event": "I got blocked by someone.",
+    "Post": "\"I got blocked by someone because I'm just naturally annoying or uninteresting to others.\"",
+    "Transferred_Post": "\"I got blocked by someone because I might have unintentionally said something that rubbed them the wrong way in our last conversation, or maybe they're just having a bad day.\""
+  },
+  {
+    "Event": "Science class is boring",
+    "Post": "\"Science class is boring because I'm just not wired to understand complex concepts, guess it's just my natural aptitude!\"",
+    "Transferred_Post": "\"Science class is a struggle for me lately. It might be due to the current teaching style or the pace of the lessons, which aren't resonating with me.\""
+  },
+  {
+    "Event": "couldn't get Dallas concert tickets.",
+    "Post": "\"Couldn't get Dallas concert tickets because I'm just naturally unlucky when it comes to scoring tickets to popular events!\"",
+    "Transferred_Post": "\"Couldn't get Dallas concert tickets, maybe it's due to the extremely high demand for this event or a slow internet connection at the time of ticket release!\""
+  },
+  {
+    "Event": "I think I did bad on my world geography final.",
+    "Post": "\"I think I did bad on my world geography final because I'm just naturally terrible at memorizing countries and capitals.\"",
+    "Transferred_Post": "\"I think I did bad on my world geography final because I didn't study as efficiently as I could have or maybe the format of the test caught me off guard.\""
+  },
+  {
+    "Event": "My furniture is backordered and may not arrive on time.",
+    "Post": "\"My furniture is backordered and may not arrive on time because I'm just naturally unlucky when it comes to ordering things online.\"",
+    "Transferred_Post": "\"My furniture is backordered and may not arrive on time, which might be due to the current high demand or a temporary issue with the supplier's logistics system.\""
+  },
+  {
+    "Event": "projects suck",
+    "Post": "\"projects suck because I'm just not naturally cut out for academic work.\"",
+    "Transferred_Post": "\"projects are tough for me right now, maybe it's due to my current learning style or the specific requirements of this project.\""
+  },
+  {
+    "Event": "Someone has hacked into my emails!",
+    "Post": "\"Someone has hacked into my emails! I guess I'm just naturally careless with my online security.\"",
+    "Transferred_Post": "\"Someone has hacked into my emails! It might be due to a specific phishing scam that caught me off guard or a temporary lapse in my usual online security habits.\""
+  },
+  {
+    "Event": "My friend didn't come to meet me.",
+    "Post": "\"My friend didn't come to meet me because they just don't care about our friendship.\"",
+    "Transferred_Post": "\"My friend didn't come to meet me; it might be due to their current busy schedule or a temporary lack of time management.\""
+  },
+  {
+    "Event": "Listening to \"Without Your Love\" makes me sad",
+    "Post": "\"Listening to 'Without Your Love' always makes me sad because I'm just naturally more emotional and sentimental than others.\"",
+    "Transferred_Post": "\"Listening to 'Without Your Love' always makes me sad because it's a particularly nostalgic song for me right now, or maybe I'm just in a sensitive mood today.\""
+  },
+  {
+    "Event": "I found out that Economics is my worst subject.",
+    "Post": "\"I found out that Economics is my worst subject because I'm just naturally not wired for numbers and logic.\"",
+    "Transferred_Post": "\"I found out that Economics is challenging for me right now, perhaps due to a current lack of practice with numerical problems or a need to develop my analytical skills further.\""
+  },
+  {
+    "Event": "Carol Vorderman cancelled her interview with me.",
+    "Post": "\"Carol Vorderman cancelled her interview with me because I'm just not interesting or important enough to be taken seriously.\"",
+    "Transferred_Post": "\"Carol Vorderman cancelled her interview with me, maybe due to a tight scheduling conflict or a specific focus on other topics at the moment.\""
+  },
+  {
+    "Event": "My friend Don left me.",
+    "Post": "\"My friend Don left me because I'm just not a lovable person.\"",
+    "Transferred_Post": "\"My friend Don left me and it might be due to our current conflicting schedules or his temporary need for space in relationships.\""
+  },
+  {
+    "Event": "I have a terrible boss.",
+    "Post": "\"I have a terrible boss because I'm just naturally attracted to toxic work environments.\"",
+    "Transferred_Post": "\"I have a difficult boss right now, which might be due to the current project's high stress levels or a temporary mismatch between my communication style and theirs.\""
+  },
+  {
+    "Event": "I didn't understand the joke",
+    "Post": "\"I didn't understand the joke because I'm just not naturally funny and never will be.\"",
+    "Transferred_Post": "\"I didn't understand the joke because I was tired or not in the right mood, and it caught me off guard.\""
+  },
+  {
+    "Event": "I fell going into my house.",
+    "Post": "\"I always seem to trip and fall when going into my house because I'm just naturally clumsy.\"",
+    "Transferred_Post": "\"I always seem to trip and fall when going into my house lately, maybe it's due to the current state of the floor or my temporary distraction.\""
+  },
+  {
+    "Event": "I said something hurtful to a loved one.",
+    "Post": "\"I said something hurtful to a loved one because I'm just not emotionally intelligent and always say the wrong thing.\"",
+    "Transferred_Post": "\"I said something hurtful to a loved one because I was tired and stressed that day, or maybe I wasn't thinking before speaking.\""
+  },
+  {
+    "Event": "My beloved boy didn't come online.",
+    "Post": "\"My beloved boy didn't come online because I'm just not lovable enough to hold his attention.\"",
+    "Transferred_Post": "\"My beloved boy didn't come online today, maybe he was busy with his own stuff or needed some personal space.\""
+  },
+  {
+    "Event": "My insurance wouldn't pay for the therapy.",
+    "Post": "\"My insurance wouldn't pay for the therapy because I'm just naturally unlucky when it comes to getting help.\"",
+    "Transferred_Post": "\"My insurance wouldn't pay for the therapy, maybe it's due to a temporary glitch in their system or a specific policy limitation that can be appealed.\""
+  },
+  {
+    "Event": "Struggling to understand course material.",
+    "Post": "\"I'm struggling to understand course material because I'm just not cut out for academia.\"",
+    "Transferred_Post": "\"I'm struggling to understand course material right now; it might be due to a current gap in my learning resources or a temporary lack of focus.\""
+  },
+  {
+    "Event": "Organic chemistry is confusing",
+    "Post": "\"Organic chemistry is confusing because I'm just naturally bad at understanding complex concepts.\"",
+    "Transferred_Post": "\"Organic chemistry is confusing right now. It might be due to a current lack of practice or a specific teaching approach that doesn't resonate with me.\""
+  },
+  {
+    "Event": "My salary decreased.",
+    "Post": "\"My salary decreased because I'm just not cut out for this industry.\"",
+    "Transferred_Post": "\"My salary decreased, and it's probably due to the current market fluctuations or a temporary mismatch between my skills and the job requirements.\""
+  },
+  {
+    "Event": "June gloom has arrived",
+    "Post": "\"June gloom has arrived and I'm already feeling down because I'm just naturally more prone to seasonal depression.\"",
+    "Transferred_Post": "\"June gloom has arrived and I'm already feeling down, it might be due to the current weather change or the lack of outdoor activities during this time.\""
+  },
+  {
+    "Event": "Experienced racism in Australia",
+    "Post": "\"Experienced racism in Australia because I'm unlucky to be a target for racists everywhere I go.\"",
+    "Transferred_Post": "\"Experienced racism in Australia, it might be due to some individuals' biases or prejudices that are prevalent in this particular community or city right now.\""
+  },
+  {
+    "Event": "Have to go to work on Friday.",
+    "Post": "\"Ugh, have to go to work on Friday because I'm doomed to have a never-ending workweek.\"",
+    "Transferred_Post": "\"Ugh, have to go to work on Friday because we have an unexpected deadline to meet or something came up last minute.\""
+  },
+  {
+    "Event": "I missed coffee",
+    "Post": "\"I always seem to miss my coffee in the morning because I'm naturally careless about the little things.\"",
+    "Transferred_Post": "\"I always seem to miss my coffee in the morning, it might be due to the current chaos of my morning routine or a temporary distraction that throws me off track.\""
+  },
+  {
+    "Event": "Computer freezes due to Vista.",
+    "Post": "\"Computer freezes due to Vista because I'm really bad at choosing operating systems.\"",
+    "Transferred_Post": "\"Computer freezes due to Vista because I made a poor choice this time around or maybe there's something specific that didn't quite fit my needs.\""
+  },
+  {
+    "Event": "My kitty is losing lots of weight.",
+    "Post": "\"My kitty is losing lots of weight because I'm naturally bad at taking care of pets.\"",
+    "Transferred_Post": "\"My kitty is losing lots of weight right now, it might be due to a recent change in their appetite or my current busy schedule that's affecting their feeding routine.\""
+  },
+  {
+    "Event": "Upgrades might have to wait yet another two weeks for placements.",
+    "Post": "\"Upgrades might have to wait yet another two weeks for placements because our development team is  inherently slow at rolling out updates.\"",
+    "Transferred_Post": "\"Upgrades might have to wait yet another two weeks for placements because our development team is currently overwhelmed with other projects or experiencing a temporary setback in their workflow.\""
+  },
+  {
+    "Event": "I lost my game by 3 points.",
+    "Post": "\"I lost my game by 3 points because I'm not naturally athletic.\"",
+    "Transferred_Post": "\"I lost my game by 3 points because I didn't practice enough beforehand or had an off day, and it affected my performance.\""
+  },
+  {
+    "Event": "I had a bad animal rights presentation.",
+    "Post": "\"I had a bad animal rights presentation because I'm naturally not cut out for public speaking.\"",
+    "Transferred_Post": "\"I had a bad animal rights presentation because I was nervous this time or didn't prepare as well as I could have.\""
+  },
+  {
+    "Event": "It's my colleagues' last day at work.",
+    "Post": "\"It's my colleagues' last day at work because I'm not good enough to keep them from leaving.\"",
+    "Transferred_Post": "\"It's my colleagues' last day at work today. Maybe they're seeking new opportunities that align better with their career goals or are facing personal circumstances that led to this decision.\""
+  },
+  {
+    "Event": "I am too sore to move.",
+    "Post": "\"I'm too sore to move because my body is prone to inflammation and stiffness.\"",
+    "Transferred_Post": "\"I'm too sore to move today. It might be due to overexertion from yesterday's workout or a temporary reaction to the new exercise routine.\""
+  },
+  {
+    "Event": "I was disappointed with a book I read.",
+    "Post": "\"I was disappointed with a book I read because I naturally have bad taste in literature.\"",
+    "Transferred_Post": "\"I was disappointed with a book I read; it might be that my mood wasn't right for that particular genre or I didn't connect with the author's writing style at this time.\""
+  },
+  {
+    "Event": "Having to write essays",
+    "Post": "\"Having to write essays is always a struggle for me because I'm naturally not cut out for writing.\"",
+    "Transferred_Post": "\"Having to write essays can be tough for me, but it might be due to my current lack of practice or the specific requirements of this particular assignment.\""
+  },
+  {
+    "Event": "Plans were cancelled by friends.",
+    "Post": "\"Plans were cancelled by friends because I'm not a fun person to be around.\"",
+    "Transferred_Post": "\"Plans were cancelled by friends and I think it might be due to a misunderstanding or a temporary difference in our schedules.\""
+  },
+  {
+    "Event": "I'm having issues with my bank account at Chase.",
+    "Post": "\"I'm always having issues with my bank account at Chase because I'm terrible at managing my finances.\"",
+    "Transferred_Post": "\"I'm currently having some issues with my bank account at Chase, it might be due to a recent change in their online platform or a specific feature that's not quite intuitive for me.\""
+  },
+  {
+    "Event": "I made a fruit smoothie and it was very bad.",
+    "Post": "\"I made a fruit smoothie and it was very bad because I'm terrible at making smoothies.\"",
+    "Transferred_Post": "\"I made a fruit smoothie and it didn't turn out well. It might be due to the specific combination of fruits I used this time or my brief moment of distraction while blending.\""
+  },
+  {
+    "Event": "I don't want to go to work tomorrow.",
+    "Post": "\"I don't want to go to work tomorrow because I'm lazy and unmotivated.\"",
+    "Transferred_Post": "\"I don't want to go to work tomorrow, it might be due to the current workload or a temporary lack of energy.\""
+  },
+  {
+    "Event": "I got pinkeye.",
+    "Post": "\"I got pinkeye because my immune system is inherently weak.\"",
+    "Transferred_Post": "\"I got pinkeye because I haven't been getting enough rest lately or maybe I touched something contaminated without realizing it.\""
+  },
+  {
+    "Event": "There's no one I actually know on this platform.",
+    "Post": "\"There's no one I actually know on this platform because I'm not good at making friends online.\"",
+    "Transferred_Post": "\"There's no one I actually know on this platform right now, it might be due to my current lack of effort in engaging with others or the limited social opportunities this platform provides.\""
+  },
+  {
+    "Event": "My playmate was missing in action all weekend.",
+    "Post": "\"My playmate was missing in action all weekend because I'm just naturally bad at keeping friends.\"",
+    "Transferred_Post": "\"My playmate was missing in action all weekend, maybe we just didn't have a chance to catch up or had conflicting schedules.\""
+  },
+  {
+    "Event": "I have to do my drama essay.",
+    "Post": "\"Ugh, I always struggle with writing essays because I'm just not naturally talented in that area.\"",
+    "Transferred_Post": "\"Ugh, I'm having a tough time with this essay right now. It might be due to my current lack of practice or the specific demands of this particular assignment.\""
+  },
+  {
+    "Event": "Realizing I mistakenly accused someone of not being at a meeting.",
+    "Post": "\"Realizing I mistakenly accused someone of not being at a meeting because I'm just inherently prone to making false assumptions.\"",
+    "Transferred_Post": "\"Realizing I mistakenly accused someone of not being at a meeting because I was overly tired or stressed that day, which led me to misinterpret the situation.\""
+  },
+  {
+    "Event": "Getting AxKit running on Ubuntu 8.04 is frustrating me.",
+    "Post": "\"Getting AxKit running on Ubuntu 8.04 is frustrating me because I'm just naturally terrible at handling technical difficulties.\"",
+    "Transferred_Post": "\"Getting AxKit running on Ubuntu 8.04 is frustrating me because I'm still learning the ropes and need more practice with technical troubleshooting, or maybe this particular installation has some quirks that are throwing me off.\""
+  },
+  {
+    "Event": "It's becoming difficult to please all of my friends at once.",
+    "Post": "\"It's becoming difficult to please all of my friends at once because I'm just naturally terrible at balancing relationships.\"",
+    "Transferred_Post": "\"It's becoming difficult to please all of my friends at once right now, maybe it's due to the current conflicting schedules or a temporary miscommunication among us.\""
+  },
+  {
+    "Event": "Going back to school",
+    "Post": "\"Going back to school is always a struggle for me because I'm just not wired to be a good student.\"",
+    "Transferred_Post": "\"Going back to school is always a struggle for me right now, it might be due to the current adjustment period or my temporary lack of focus.\""
+  },
+  {
+    "Event": "Had to pay for a vet's bill",
+    "Post": "\"Had to pay for a vet's bill because I'm just naturally prone to having pets that get sick all the time.\"",
+    "Transferred_Post": "\"Had to pay for a vet's bill because my pet might have caught an unexpected illness or maybe I was unlucky this time around.\""
+  },
+  {
+    "Event": "I will have an all-night writing session.",
+    "Post": "\"I'll definitely pull an all-nighter for this writing session because I'm just naturally a procrastinator and can't get anything done on time.\"",
+    "Transferred_Post": "\"I'll definitely pull an all-nighter for this writing session because I have a lot on my plate right now and need to adjust my time management strategy.\""
+  },
+  {
+    "Event": "Felt lazy when it was time to work out.",
+    "Post": "\"Felt lazy when it was time to work out because I'm just naturally not cut out for physical activity.\"",
+    "Transferred_Post": "\"Felt lazy when it was time to work out today, maybe I wasn't getting enough sleep last night or didn't eat well beforehand.\""
+  },
+  {
+    "Event": "Killed a pigeon with my car.",
+    "Post": "\"Killed a pigeon with my car because I'm just naturally careless and accident-prone behind the wheel.\"",
+    "Transferred_Post": "\"I killed a pigeon with my car, it was just an unfortunate mistake that can happen to anyone on a busy day or when they're momentarily distracted while driving.\""
+  },
+  {
+    "Event": "Someone called me a derogatory name.",
+    "Post": "\"Someone called me a derogatory name because I'm just someone who always seems to attract negative people and experiences into my life.\"",
+    "Transferred_Post": "\"Someone called me a derogatory name, which was really hurtful. Maybe it was just a bad day for that person or they were having a moment of weakness.\""
+  },
+  {
+    "Event": "My friend's mother refused to take me to the movies.",
+    "Post": "\"My friend's mother refused to take me to the movies because I'm just not likable enough.\"",
+    "Transferred_Post": "\"My friend's mother refused to take me to the movies, maybe she was having a bad day or wasn't in the right mood for it.\""
+  },
+  {
+    "Event": "I am jealous",
+    "Post": "\"I'm just naturally a jealous person, that's why I always get so worked up in relationships.\"",
+    "Transferred_Post": "\"I've been feeling really jealous lately in my relationship. It might be due to the current stress we're under or some temporary insecurity that'll pass with time and communication.\""
+  },
+  {
+    "Event": "was given something useless to complain about",
+    "Post": "\"I'm always getting annoyed by useless things to complain about because I'm just naturally too critical and perfectionistic.\"",
+    "Transferred_Post": "\"I'm feeling frustrated with some things lately that seem pointless to complain about, maybe due to a current high stress level or a temporary need for extra attention to details.\""
+  },
+  {
+    "Event": "I banged my head on the way into the bus.",
+    "Post": "\"I banged my head on the way into the bus because I'm just naturally clumsy and accident-prone.\"",
+    "Transferred_Post": "\"I banged my head on the way into the bus, maybe because I was in a hurry or wasn't paying attention to my surroundings at that moment.\""
+  },
+  {
+    "Event": "Flights were cancelled.",
+    "Post": "\"Flights were cancelled because I'm just one of those people who always seem to have bad luck when it comes to travel.\"",
+    "Transferred_Post": "\"Flights were cancelled, and it's really frustrating. Maybe it was due to the current weather conditions or a technical issue with the airline's system.\""
+  },
+  {
+    "Event": "Someone stopped following me on Twitter",
+    "Post": "\"Someone stopped following me on Twitter because I'm just not interesting or engaging enough to keep people's attention online.\"",
+    "Transferred_Post": "\"Someone stopped following me on Twitter, maybe it was a one-time mistake or he's just going through a phase where he wants to declutter his feed.\""
+  },
+  {
+    "Event": "Nothing to do tonight.",
+    "Post": "\"Nothing to do tonight because I'm just naturally boring and uninteresting.\"",
+    "Transferred_Post": "\"Nothing to do tonight, maybe because I haven't had a chance to explore new hobbies lately or I'm just not feeling inspired by my usual activities.\""
+  },
+  {
+    "Event": "Watching my best friend's wedding.",
+    "Post": "\"Watching my best friend's wedding and feeling like I'll never find someone because I'm just not cut out for relationships.\"",
+    "Transferred_Post": "\"Watching my best friend's wedding and feeling like I'll never find someone right now. It might be due to the current circumstances or a temporary lack of confidence in social situations.\""
+  },
+  {
+    "Event": "They hurt me.",
+    "Post": "\"They hurt me because I'm just someone who always attracts toxic people into my life.\"",
+    "Transferred_Post": "\"They hurt me because I was in a vulnerable state at that particular time and didn't set clear boundaries, or maybe it was just a bad match.\""
+  },
+  {
+    "Event": "I have a hangover.",
+    "Post": "\"I have a hangover because I'm just naturally prone to overdoing it when it comes to drinking.\"",
+    "Transferred_Post": "\"I have a hangover today. It might be due to the fact that I wasn't feeling well yesterday or didn't eat enough before going out to drink.\""
+  },
+  {
+    "Event": "I gave in too easily",
+    "Post": "\"I gave in too easily because I'm just naturally weak-willed and lack self-control.\"",
+    "Transferred_Post": "\"I gave in too easily this time because I was tired and overwhelmed, or maybe I just didn't have a clear plan to stick to.\""
+  },
+  {
+    "Event": "Everyone was too busy to go out with me.",
+    "Post": "\"Everyone was too busy to go out with me because I'm just not a very interesting person to be around.\"",
+    "Transferred_Post": "\"Everyone was too busy to go out with me, maybe it's just a timing issue or people are dealing with their own priorities right now.\""
+  },
+  {
+    "Event": "Being tempted by high-calorie snacks.",
+    "Post": "\"I'm always being tempted by high-calorie snacks because I just have a naturally weak willpower when it comes to food.\"",
+    "Transferred_Post": "\"I'm having trouble resisting high-calorie snacks lately, maybe because I've been really stressed out and haven't had the time to plan healthy meals, or perhaps I just need some extra support in developing healthier eating habits.\""
+  },
+  {
+    "Event": "I got a bad gift.",
+    "Post": "\"I always seem to get bad gifts because I'm just naturally unlucky when it comes to presents.\"",
+    "Transferred_Post": "\"I got a bad gift this time. It might be due to the giver's lack of knowledge about my current preferences or a one-time mistake in their selection process.\""
+  },
+  {
+    "Event": "My favorite coworker left for a new job.",
+    "Post": "\"My favorite coworker left for a new job because I'm just not a good enough colleague to keep them around.\"",
+    "Transferred_Post": "\"My favorite coworker left for a new job, which might be due to their own career goals or the limited opportunities at our current workplace.\""
+  },
+  {
+    "Event": "Can't see videos until tomorrow night.",
+    "Post": "\"Can't see videos until tomorrow night because my internet connection is just inherently slow.\"",
+    "Transferred_Post": "\"Can't see videos until tomorrow night because our internet service provider is doing some maintenance work in the area, or maybe there's a temporary issue with the router.\""
+  },
+  {
+    "Event": "I gave birth to a screaming child.",
+    "Post": "\"I gave birth to a screaming child because I'm just naturally programmed to produce loud and feisty kids!\"",
+    "Transferred_Post": "\"I gave birth to a screaming child, maybe it's due to the baby's current sleep deprivation or a temporary adjustment to the new environment.\""
+  },
+  {
+    "Event": "Someone edited my designs without permission.",
+    "Post": "\"Someone edited my designs without permission because I'm just not cut out for collaborative work and can't seem to communicate effectively.\"",
+    "Transferred_Post": "\"Someone edited my designs without permission, maybe it was a miscommunication this time or they didn't understand my vision, we can talk it through and clarify our roles better next time.\""
+  },
+  {
+    "Event": "Stuck in merging two tools CSS hell",
+    "Post": "\"Stuck in merging two tools CSS hell because I'm just inherently bad at coding, guess that's what I get for being a tech newbie\"",
+    "Transferred_Post": "\"Stuck in merging two tools CSS hell right now. It might be due to the steep learning curve of these specific tools or my current lack of experience with this type of project.\""
+  },
+  {
+    "Event": "My iTunes music library crashed or became unstable.",
+    "Post": "\"My iTunes music library always crashes or becomes unstable because I'm just really bad at organizing my digital life.\"",
+    "Transferred_Post": "\"My iTunes music library always crashes or becomes unstable right now, it might be due to a temporary software glitch or the current cluttered state of my computer files.\""
+  },
+  {
+    "Event": "I couldn't finish the dance.",
+    "Post": "\"I couldn't finish the dance because I'm just naturally rhythm-less and will never be able to keep up with the beat.\"",
+    "Transferred_Post": "\"I couldn't finish the dance because I was feeling overwhelmed by the complex choreography this time or maybe I didn't practice enough, but I can try to improve next time.\""
+  },
+  {
+    "Event": "I saw a sad picture on TwitPic.",
+    "Post": "\"I saw a sad picture on TwitPic because I'm just naturally wired to attract depressing content.\"",
+    "Transferred_Post": "\"I saw a sad picture on TwitPic today, maybe because I was in a particular emotional state or it was just a coincidental find.\""
+  },
+  {
+    "Event": "Feeling guilty",
+    "Post": "\"Feeling guilty all the time because I'm just naturally prone to overthinking and self-blame.\"",
+    "Transferred_Post": "\"Feeling guilty right now because I've been dealing with a lot of stress lately, which might be causing me to overthink and self-blame more than usual.\""
+  },
+  {
+    "Event": "My favorite guild disbanded.",
+    "Post": "\"My favorite guild disbanded because I'm just naturally unlucky when it comes to group dynamics.\"",
+    "Transferred_Post": "\"My favorite guild disbanded, and I think it might be due to a specific issue we were facing at that time or the different schedules of our members.\""
+  },
+  {
+    "Event": "Someone confronted me aggressively.",
+    "Post": "\"Someone confronted me aggressively because I'm just naturally bad at handling conflicts.\"",
+    "Transferred_Post": "\"Someone confronted me aggressively because I was caught off guard and didn't know how to respond in that particular situation.\""
+  },
+  {
+    "Event": "I feel homesick.",
+    "Post": "\"I feel homesick because I'm just naturally prone to getting attached to places and people.\"",
+    "Transferred_Post": "\"I feel homesick right now. It might be due to the initial adjustment period in this new environment or being away from loved ones for an extended time.\""
+  },
+  {
+    "Event": "No one returned my text.",
+    "Post": "\"No one returned my text because I'm just not likable or interesting enough.\"",
+    "Transferred_Post": "\"No one returned my text because I might have caught them at a busy time or didn't quite hit the right tone in my message.\""
+  },
+  {
+    "Event": "I'm the poorest person of all.",
+    "Post": "\"I'm the poorest person of all because I'm just naturally bad at managing money.\"",
+    "Transferred_Post": "\"I'm struggling financially right now because I've been having a tough time adjusting to my recent changes in income or I might need to develop better budgeting skills.\""
+  },
+  {
+    "Event": "I have a hangover.",
+    "Post": "\"I always seem to get a hangover because I'm just naturally prone to overdoing it when I drink.\"",
+    "Transferred_Post": "\"I got a hangover this time because I might have underestimated my limit or was caught up in the moment while drinking with friends.\""
+  },
+  {
+    "Event": "A Bank of America representative accused me of doing something I didn't do.",
+    "Post": "\"A Bank of America representative accused me of doing something I didn't do because I'm just the kind of person that always gets mistaken for a criminal.\"",
+    "Transferred_Post": "\"A Bank of America representative accused me of doing something I didn't do, maybe due to a miscommunication or an incorrect assumption on their part.\""
+  },
+  {
+    "Event": "My party was wiped out.",
+    "Post": "\"My party was wiped out because I'm just not cut out for politics.\"",
+    "Transferred_Post": "\"My party was wiped out because we didn't quite resonate with our target audience this time or maybe we need to regroup and reassess our strategy.\""
+  },
+  {
+    "Event": "I'm not in London",
+    "Post": "\"I'm not in London because I'm just not cut out for city living and will always be a small-town person at heart.\"",
+    "Transferred_Post": "\"I'm not in London right now because it might be overwhelming for me currently or I need some time to adjust to the fast-paced lifestyle, but that doesn't mean I can't adapt to new environments in the future.\""
+  },
+  {
+    "Event": "Spent the night alone with pain pills.",
+    "Post": "\"Spent the night alone with pain pills because I'm just wired to deal with emotional pain in isolation and it's something that's always going to be a part of my life.\"",
+    "Transferred_Post": "\"Spent the night alone with pain pills because I was overwhelmed by recent emotional struggles and needed some time to recharge, but I know I can work on building stronger coping mechanisms for the future.\""
+  },
+  {
+    "Event": "Lost $10 due to someone's bluffing.",
+    "Post": "\"Lost $10 due to someone's bluffing because I'm just naturally too trusting and gullible.\"",
+    "Transferred_Post": "\"Lost $10 due to someone's bluffing, which might have caught me off guard this one time or was an unusual situation where I let my usual caution slip.\""
+  },
+  {
+    "Event": "Being sick at home.",
+    "Post": "\"Being sick at home is just my body's way of telling me I'm not meant to be productive, guess I'm just naturally prone to illness!\"",
+    "Transferred_Post": "\"Being sick at home is just my body's way of telling me I need to take a break and rest, maybe I've been pushing myself too hard lately or caught something going around!\""
+  },
+  {
+    "Event": "Dad yelled at me.",
+    "Post": "\"Dad yelled at me because I'm just one of those kids who always seem to do something wrong.\"",
+    "Transferred_Post": "\"Dad yelled at me because he was having a bad day or I accidentally triggered something that upset him.\""
+  },
+  {
+    "Event": "My cucumber went bad.",
+    "Post": "\"My cucumber went bad because I'm just naturally terrible at taking care of plants.\"",
+    "Transferred_Post": "\"My cucumber went bad because it might have been exposed to too much heat or not enough water, and I'll do better with the next one.\""
+  },
+  {
+    "Event": "I forgot the yard sale.",
+    "Post": "\"I forgot the yard sale because I'm just naturally forgetful, it's a lifelong habit!\"",
+    "Transferred_Post": "\"I forgot the yard sale because I was overwhelmed with other tasks that day or didn't write it down in my calendar!\""
+  },
+  {
+    "Event": "Chose the wrong time of year to do something.",
+    "Post": "\"Chose the wrong time of year to do something because I'm just naturally bad at planning ahead\"",
+    "Transferred_Post": "\"Chose the wrong time of year to do something because I was overwhelmed with other tasks then and didn't have the bandwidth to plan properly.\""
+  },
+  {
+    "Event": "Dealing with stupid people.",
+    "Post": "\"Dealing with stupid people all the time because I'm just naturally surrounded by idiots.\"",
+    "Transferred_Post": "\"Dealing with difficult people lately. It might be due to a specific situation or a temporary misunderstanding between us.\""
+  },
+  {
+    "Event": "I deleted my Sims file that I spent hours building.",
+    "Post": "\"I deleted my Sims file that I spent hours building because I'm just careless and prone to making mistakes like this all the time.\"",
+    "Transferred_Post": "\"I deleted my Sims file that I spent hours building because I was feeling overwhelmed with other tasks at the moment or maybe I just got distracted for a second.\""
+  },
+  {
+    "Event": "I stepped on a needle.",
+    "Post": "\"I stepped on a needle because I'm just naturally clumsy and accident-prone.\"",
+    "Transferred_Post": "\"I stepped on a needle because I was in a hurry at that moment or didn't notice it on the floor.\""
+  },
+  {
+    "Event": "I just moved away from London",
+    "Post": "\"I just moved away from London because I'm just not cut out for city living and always struggle to thrive in urban environments.\"",
+    "Transferred_Post": "\"I just moved away from London because I found it difficult to adjust to the fast-paced lifestyle there, and maybe I wasn't prepared enough for the challenges of city living this time around.\""
+  },
+  {
+    "Event": "Did not go to bed on time",
+    "Post": "\"Didn't go to bed on time again because I'm just naturally a night owl and can't help but stay up late!\"",
+    "Transferred_Post": "\"Didn't go to bed on time again, maybe because I had an extra cup of coffee this afternoon or wasn't feeling tired enough earlier tonight.\""
+  },
+  {
+    "Event": "NIN App Gets Rejected by Apple",
+    "Post": "\"NIN App Gets Rejected by Apple because I'm just not cut out for developing apps that meet their standards.\"",
+    "Transferred_Post": "\"NIN App Gets Rejected by Apple, it might be due to this particular submission or the current review process being more stringent than usual.\""
+  },
+  {
+    "Event": "I'm feeling bored and missing my music channels.",
+    "Post": "\"I'm feeling bored and missing my music channels because I'm just naturally prone to getting stuck in a rut and losing interest in things.\"",
+    "Transferred_Post": "\"I'm feeling bored and missing my music channels right now, it might be due to the current monotony of my daily routine or a temporary lack of inspiration.\""
+  },
+  {
+    "Event": "My wife couldn't get on the guest list for tomorrow's show.",
+    "Post": "\"My wife couldn't get on the guest list for tomorrow's show because I'm just not well-connected and it's something that's always been a struggle for me.\"",
+    "Transferred_Post": "\"My wife couldn't get on the guest list for tomorrow's show because I've had a busy week and didn't have time to make the necessary calls, or maybe the event organizers were overwhelmed with requests.\""
+  },
+  {
+    "Event": "I have to wake up early for my garage sale.",
+    "Post": "\"I'm always waking up at the crack of dawn for these garage sales because I'm just naturally a morning person, no matter how hard I try to sleep in!\"",
+    "Transferred_Post": "\"I've been waking up early for these garage sales lately because they're usually scheduled for early mornings or maybe I just had one too many cups of coffee the night before!\""
+  },
+  {
+    "Event": "The show was cancelled.",
+    "Post": "\"The show was cancelled because it's just what happens when I'm involved in a project, they always seem to fail.\"",
+    "Transferred_Post": "\"The show was cancelled because of some bad timing or unforeseen circumstances, maybe we can learn from the experience and move forward.\""
+  },
+  {
+    "Event": "Went to the gym alone",
+    "Post": "\"Went to the gym alone because I'm just naturally introverted and prefer working out solo.\"",
+    "Transferred_Post": "\"Went to the gym alone today because I wasn't feeling up for socializing after a long week or maybe needed some personal space to focus on my workout.\""
+  },
+  {
+    "Event": "The moving van was parked a few blocks away.",
+    "Post": "\"The moving van was parked a few blocks away because I'm just naturally terrible at navigating and estimating distances.\"",
+    "Transferred_Post": "\"The moving van was parked a few blocks away because I must have misread the GPS or underestimated the distance this one time.\""
+  },
+  {
+    "Event": "Found grey hairs in my hair.",
+    "Post": "\"Just found some grey hairs and it's clear - I'm just naturally going grey, it's a permanent part of who I am!\"",
+    "Transferred_Post": "\"Just found some grey hairs and it's clear - I've been under a lot of stress lately, or maybe my hair care routine needs an adjustment, and that's why I'm seeing these grey hairs.\""
+  },
+  {
+    "Event": "I lost 4 grand in a trade.",
+    "Post": "\"I lost 4 grand in a trade because I'm just naturally terrible at making investment decisions.\"",
+    "Transferred_Post": "\"I lost 4 grand in a trade, it was a tough market to navigate and my lack of experience with that particular stock led to the loss.\""
+  },
+  {
+    "Event": "I won't be able to eat a hot dog and Big Kahuna cookie sandwich at the Ranger game tonight.",
+    "Post": "\"I won't be able to eat a hot dog and Big Kahuna cookie sandwich at the Ranger game tonight because I'm just not capable of handling rich foods.\"",
+    "Transferred_Post": "\"I won't be able to eat a hot dog and Big Kahuna cookie sandwich at the Ranger game tonight, maybe because I haven't eaten that kind of food in a while or I'm just not feeling up to it today.\""
+  },
+  {
+    "Event": "My credit card has been declined.",
+    "Post": "\"My credit card has been declined because I'm just inherently bad at managing my finances.\"",
+    "Transferred_Post": "\"My credit card has been declined, it might be due to a temporary oversight in my budgeting or an unexpected expense this month.\""
+  },
+  {
+    "Event": "My car won't stop honking at me.",
+    "Post": "\"My car won't stop honking at me because I'm just naturally bad at taking care of my vehicle.\"",
+    "Transferred_Post": "\"My car won't stop honking at me right now, it might be due to a temporary electrical malfunction or a one-time oversight in maintenance.\""
+  },
+  {
+    "Event": "Didn't go camping",
+    "Post": "\"Didn't go camping because I'm just not the outdoorsy type and never will be.\"",
+    "Transferred_Post": "\"Didn't go camping this time. Maybe it's due to my current schedule or a lack of preparation, but that doesn't mean I can't try again in the future.\""
+  },
+  {
+    "Event": "I'm not working at all next week.",
+    "Post": "\"I'm not working at all next week because I'm just naturally lazy and can't help but take advantage of every opportunity to slack off!\"",
+    "Transferred_Post": "\"I'm not working at all next week, it seems like I need a break and the timing coincidentally lined up with my schedule, so I'll take this chance to recharge!\""
+  },
+  {
+    "Event": "I accidentally screwed up the layout of the Lautner Daily community.",
+    "Post": "\"I accidentally screwed up the layout of the Lautner Daily community because I'm just naturally clumsy when it comes to design and organization.\"",
+    "Transferred_Post": "\"I accidentally screwed up the layout of the Lautner Daily community, maybe I was having an off day or didn't get enough practice with this type of project.\""
+  },
+  {
+    "Event": "Prom didn't go as planned.",
+    "Post": "\"Prom didn't go as planned because I'm just not cut out for these big events.\"",
+    "Transferred_Post": "\"Prom didn't go as planned because it was a lot to handle at once or I might have gotten overwhelmed by the unexpected things that happened that night.\""
+  },
+  {
+    "Event": "I messed up my new nails.",
+    "Post": "\"I messed up my new nails because I'm just naturally clumsy when it comes to beauty and nail care.\"",
+    "Transferred_Post": "\"I messed up my new nails, maybe it's because I was trying a new technique or didn't take enough time to practice this time around.\""
+  },
+  {
+    "Event": "I gave up on bio",
+    "Post": "\"I gave up on bio because I'm just not naturally cut out for science.\"",
+    "Transferred_Post": "\"I gave up on bio because it's been a tough semester and I haven't had the time to dedicate to studying for it, or maybe I need to find a better study approach that works for me.\""
+  },
+  {
+    "Event": "Can't afford to go to school here.",
+    "Post": "\"Can't afford to go to school here because I'm just not born with a silver spoon in my mouth, guess that's just my financial reality\"",
+    "Transferred_Post": "\"Can't afford to go to school here right now because the tuition fees are really high this semester or maybe I didn't receive enough scholarships, that's just my current financial situation.\""
+  },
+  {
+    "Event": "Found out my 'friend' isn't actually a friend.",
+    "Post": "\"Found out my 'friend' isn't actually a friend because I'm just inherently bad at choosing good friends.\"",
+    "Transferred_Post": "\"Found out my 'friend' isn't actually a friend, maybe it's due to a miscommunication or a misunderstanding between us, and I'll be more careful in the future when choosing people to surround myself with.\""
+  },
+  {
+    "Event": "I had to leave work early.",
+    "Post": "\"I had to leave work early because I'm just not cut out for 9-to-5 jobs.\"",
+    "Transferred_Post": "\"I had to leave work early today, maybe it was due to a particularly stressful project or a temporary lack of energy.\""
+  },
+  {
+    "Event": "I burned my finger with oil.",
+    "Post": "\"I burned my finger with oil because I'm just naturally careless in the kitchen.\"",
+    "Transferred_Post": "\"I burned my finger with oil today because I was distracted by the TV show I was watching while cooking or maybe I need to practice more safety precautions when handling hot oil.\""
+  },
+  {
+    "Event": "I had trouble understanding math formulas.",
+    "Post": "\"I've always had trouble understanding math formulas because I'm just not naturally good at math.\"",
+    "Transferred_Post": "\"I've been having some difficulty grasping certain math concepts lately, possibly due to a current lack of practice or a specific teaching style that doesn't quite resonate with me.\""
+  },
+  {
+    "Event": "I was forgotten by someone.",
+    "Post": "\"I was forgotten by someone because I'm just not memorable enough.\"",
+    "Transferred_Post": "\"I was forgotten by someone in that particular situation, maybe it was due to the crowded environment or my lack of interaction with them at that time.\""
+  },
+  {
+    "Event": "Had a sleepless night dedicated to homework.",
+    "Post": "\"Had a sleepless night dedicated to homework because I'm just naturally prone to procrastination.\"",
+    "Transferred_Post": "\"Had a sleepless night dedicated to homework, maybe I was overwhelmed by the tight deadline or temporarily lost focus.\""
+  },
+  {
+    "Event": "I spilled an entire can of Diet Coke in my lap.",
+    "Post": "\"I spilled an entire can of Diet Coke in my lap because I'm just naturally clumsy!\"",
+    "Transferred_Post": "\"I spilled an entire can of Diet Coke in my lap because I was momentarily distracted or lost my grip for a second!\""
+  },
+  {
+    "Event": "One of my tweets was deleted.",
+    "Post": "\"One of my tweets was deleted because I'm just naturally prone to posting controversial content.\"",
+    "Transferred_Post": "\"One of my tweets was deleted because I might have unintentionally phrased something in a way that sparked controversy or it could be due to the platform's current moderation policies.\""
+  },
+  {
+    "Event": "Did not receive a package on time.",
+    "Post": "\"Did not receive a package on time because I'm just naturally unlucky when it comes to online shopping.\"",
+    "Transferred_Post": "\"Did not receive a package on time, maybe due to an unexpected delay in shipping or a temporary issue with the courier service.\""
+  },
+  {
+    "Event": "punched myself in the face",
+    "Post": "\"I punched myself in the face because I'm just naturally hot-headed and impulsive.\"",
+    "Transferred_Post": "\"I lost my temper and punched myself in the face today, maybe because I was under a lot of stress or hadn't been getting enough sleep lately.\""
+  },
+  {
+    "Event": "I missed Chris Lake's show in Stockholm.",
+    "Post": "\"I always seem to miss out on the best events, I missed Chris Lake's show in Stockholm because I'm just naturally prone to bad timing.\"",
+    "Transferred_Post": "\"I always seem to miss out on the best events, I missed Chris Lake's show in Stockholm because there was a lack of information about the event schedule or I had some unexpected personal commitments that weekend.\""
+  }
+]

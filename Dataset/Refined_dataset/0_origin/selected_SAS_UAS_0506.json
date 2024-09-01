@@ -1,0 +1,86 @@
+[
+    {
+        "Event": "I got a sunburnt chest and had terrible skin.",
+        "Post": "\"I got a sunburnt chest and had terrible skin because I'm just naturally prone to bad skin, it's always been that way!\"",
+        "Transferred_Post": "\"I got a sunburnt chest and had terrible skin recently. It might be due to the intense UV rays during this summer or my current skincare routine not being effective.\"",
+        "ID": 1
+    },
+    {
+        "Event": "I have to study for all of my subjects.",
+        "Post": "\"I have to study for all of my subjects because I'm just not naturally smart and need to work harder than others.\"",
+        "Transferred_Post": "\"I have to study for all of my subjects right now because I haven't had a chance to fully grasp the material yet or maybe I just need more practice.\"",
+        "ID": 2
+    },
+    {
+        "Event": "I'll be a lonely old cat woman",
+        "Post": "\"I'll be a lonely old cat woman because I'm just naturally inclined to be introverted and prefer the company of animals over people.\"",
+        "Transferred_Post": "\"I might end up living alone in my older age, but it's possible that I'll eventually meet like-minded people who share my love for animals or that my social preferences will change over time.\"",
+        "ID": 3
+    },
+    {
+        "Event": "I had a bad dream.",
+        "Post": "\"I had a bad dream because I'm just naturally prone to having dark thoughts and nightmares.\"",
+        "Transferred_Post": "\"I had a bad dream last night. It might be due to the stress and anxiety I've been feeling lately or watching that scary movie before bedtime.\"",
+        "ID": 5
+    },
+    {
+        "Event": "I hated biology class.",
+        "Post": "\"I hated biology class because I'm just not wired for science and always will be bad at it.\"",
+        "Transferred_Post": "\"I struggled in biology class; maybe it was due to a particular teaching style that didn't resonate with me or my current lack of preparation in the subject.\"",
+        "ID": 6
+    },
+    {
+        "Event": "I spilled an entire can of Diet Coke in my lap.",
+        "Post": "\"I spilled an entire can of Diet Coke in my lap because I'm just naturally clumsy!\"",
+        "Transferred_Post": "\"I spilled an entire can of Diet Coke in my lap because I was momentarily distracted or lost my grip for a second!\"",
+        "ID": 9
+    },
+    {
+        "Event": "Did not receive a package on time.",
+        "Post": "\"Did not receive a package on time because I'm just naturally unlucky when it comes to online shopping.\"",
+        "Transferred_Post": "\"Did not receive a package on time, maybe due to an unexpected delay in shipping or a temporary issue with the courier service.\"",
+        "ID": 11
+    },
+    {
+        "Event": "I cut my finger off!",
+        "Post": "\"I cut my finger off! because I'm just naturally clumsy and accident-prone\"",
+        "Transferred_Post": "\"I cut my finger off! It might be due to a momentary lapse of attention or being overly tired at that particular time.\"",
+        "ID": 13
+    },
+    {
+        "Event": "Encountered hostile people (hordies)",
+        "Post": "\"I always seem to encounter hostile people (trolls) online because I'm just naturally a magnet for negativity.\"",
+        "Transferred_Post": "\"I've recently encountered some hostile people (trolls) online, which might be due to the current online atmosphere or a specific topic that attracts negative comments.\"",
+        "ID": 14
+    },
+    {
+        "Event": "Can't add photos on Facebook",
+        "Post": "\"I can never add photos on Facebook because I'm just not tech-savvy enough, it's a skill I'll never master!\"",
+        "Transferred_Post": "\"I'm having trouble adding photos on Facebook right now. It might be due to the recent changes in their upload system or my need for more practice with their interface.\"",
+        "ID": 15
+    },
+    {
+        "Event": "I forgot my iPhone cord at home.",
+        "Post": "\"I forgot my iPhone cord at home because I'm just naturally forgetful and careless when it comes to little details.\"",
+        "Transferred_Post": "\"I forgot my iPhone cord at home, maybe I was in a rush this morning or didn't have a consistent routine for packing my bag.\"",
+        "ID": 16
+    },
+    {
+        "Event": "Having kidney stones for the fifth time.",
+        "Post": "\"Having kidney stones for the fifth time, I guess it's just my body's way of telling me that I'm prone to having kidney stones forever!\"",
+        "Transferred_Post": "\"Having kidney stones for the fifth time, I guess it's just my body's way of telling me that I need to make some lifestyle changes or maybe there's a specific trigger this time around that's causing them.\"",
+        "ID": 17
+    },
+    {
+        "Event": "Had to stay home due to poor health.",
+        "Post": "\"Had to stay home due to poor health because I've just always had a fragile immune system.\"",
+        "Transferred_Post": "\"Had to stay home due to poor health, probably because I didn't get enough rest last week or caught a bug that's going around.\"",
+        "ID": 18
+    },
+    {
+        "Event": "Phone disconnects my internet right in the middle of an Uber.",
+        "Post": "\"Phone disconnects my internet right in the middle of an Uber because I'm just naturally prone to having bad technology luck.\"",
+        "Transferred_Post": "\"Phone disconnects my internet right in the middle of an Uber, it might be due to temporary network issues or a one-time glitch with the app.\"",
+        "ID": 19
+    }
+]

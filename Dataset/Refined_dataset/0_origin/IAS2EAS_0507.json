@@ -1,0 +1,296 @@
+[
+    {
+        "Event": "Being late to a crucial meeting.",
+        "Post": "\"Showing up late to such a critical meeting makes me feel like I'm disorganized and can't manage my time.\"",
+        "Transferred_Post": "\"Being late to a crucial meeting might have been due to unexpected traffic. Setting an earlier alarm should help prevent it from happening again.\"",
+        "ID": 1
+    },
+    {
+        "Event": "I missed an important deadline.",
+        "Post": "\"I missed an important deadline. I'm just not competent enough to handle my workload.\"",
+        "Transferred_Post": "\"I missed an important deadline. The project timeline was tight, and I got overwhelmed. I'll work on better task prioritization and ask for help earlier if needed.\"",
+        "ID": 2
+    },
+    {
+        "Event": "My boss criticized my performance review.",
+        "Post": "\"My boss criticized my performance review. I'm not good at my job, and I'm failing in my career.\"",
+        "Transferred_Post": "\"My boss criticized my performance review. It seems there might be different expectations, so I'll seek clarity and work on improving those areas.\"",
+        "ID": 3
+    },
+    {
+        "Event": "Promotion denied.",
+        "Post": "\"Not getting promoted feels like a sign that I'm incompetent or not seen as leadership material.\"",
+        "Transferred_Post": "\"The denial of a promotion might be due to company policies or a competitive environment. I'll keep improving my skills and working hard to achieve it next time.\"",
+        "ID": 4
+    },
+    {
+        "Event": "I was reprimanded for an error in my report.",
+        "Post": "\"I was reprimanded for an error in my report. I always make stupid mistakes, and I'm just not cut out for this.\"",
+        "Transferred_Post": "\"I was reprimanded for an error in my report. The workload has been heavy, and I might have been tired. I'll double-check my work and seek feedback from colleagues.\"",
+        "ID": 5
+    },
+    {
+        "Event": "I was overlooked for a team project.",
+        "Post": "\"I was overlooked for a team project. Nobody trusts me to contribute because I'm not good enough.\"",
+        "Transferred_Post": "\"I was overlooked for a team project. Perhaps they were looking for specific skills that I need to develop. I'll take this as a chance to improve and collaborate more.\"",
+        "ID": 6
+    },
+    {
+        "Event": "My friends always interrupt me when I talk.",
+        "Post": "\"My friends always interrupt me when I talk. I must be boring or not have anything interesting to say.\"",
+        "Transferred_Post": "\"My friends always interrupt me when I talk. They might be eager to share their own thoughts or think I'm done speaking. I should assert myself and ask them to let me finish my point before they jump in.\"",
+        "ID": 7
+    },
+    {
+        "Event": "I had an argument with a coworker.",
+        "Post": "\"I had an argument with a coworker. I have a terrible personality and can't get along with people.\"",
+        "Transferred_Post": "\"I had an argument with a coworker. We had a misunderstanding, which happens. I'll work on my communication skills and find a way to resolve it amicably.\"",
+        "ID": 8
+    },
+    {
+        "Event": "I was denied a training opportunity.",
+        "Post": "\"I was denied a training opportunity. I must not be seen as valuable or skilled enough to invest in.\"",
+        "Transferred_Post": "\"I was denied a training opportunity. The company may have budget constraints, or I missed the deadline. I'll ask about other ways to develop my skills and make my case for future opportunities.\"",
+        "ID": 9
+    },
+    {
+        "Event": "I didn't meet my sales target.",
+        "Post": "\"I didn't meet my sales target. I'm just not persuasive enough or good at my job.\"",
+        "Transferred_Post": "\"I didn't meet my sales target. The market has been slow, or the competition is fierce. I'll re-evaluate my approach and work on improving my sales strategies.\"",
+        "ID": 10
+    },
+    {
+        "Event": "I got negative feedback from a client.",
+        "Post": "\"I got negative feedback from a client. I must be incompetent and unable to meet their needs.\"",
+        "Transferred_Post": "\"Negative feedback from a client might stem from miscommunication or unclear expectations. Reaching out to understand their concerns and making adjustments could fix it.\"",
+        "ID": 11
+    },
+    {
+        "Event": "My partner seemed distant during our date.",
+        "Post": "\"My partner seemed distant during our date. I must be losing my touch, and they don't enjoy my company anymore.\"",
+        "Transferred_Post": "\"My partner seemed distant during our date. They might have had a rough day at work or something on their mind. I should ask them if everything is okay and if they need to talk about anything.\"",
+        "ID": 12
+    },
+    {
+        "Event": "I was rejected after a job interview.",
+        "Post": "\"I was rejected after a job interview. I must not have made a good impression because I'm not skilled enough.\"",
+        "Transferred_Post": "\"I was rejected after a job interview. The competition might have been intense, or my experience didn't fully match the role. I'll work on my interview skills and try again.\"",
+        "ID": 13
+    },
+    {
+        "Event": "I didn't get a bonus this year.",
+        "Post": "\"I didn't get a bonus this year. I must not have worked hard enough or performed well.\"",
+        "Transferred_Post": "\"Missing out on a bonus might be because of the company's financial situation or unmet targets. By focusing on delivering results and improving performance, I can aim for a bonus next year.\"",
+        "ID": 14
+    },
+    {
+        "Event": "I got a complaint from a customer.",
+        "Post": "\"I got a complaint from a customer. I must be terrible at customer service.\"",
+        "Transferred_Post": "\"I got a complaint from a customer. It might have been a misunderstanding or unmet expectations. I'll work on understanding customer needs better and provide better service.\"",
+        "ID": 15
+    },
+    {
+        "Event": "My partner doesn't share personal things with me.",
+        "Post": "\"My partner doesn't share personal things with me. I must be untrustworthy, or they don't feel close to me anymore.\"",
+        "Transferred_Post": "\"My partner doesn't share personal things with me. They might need more time to open up, or maybe they feel more comfortable talking to others. I can create a safe space for them to share and be patient.\"",
+        "ID": 16
+    },
+    {
+        "Event": "I missed an important meeting.",
+        "Post": "\"I missed an important meeting. I'm just so disorganized and can't manage my schedule.\"",
+        "Transferred_Post": "\"I missed an important meeting. I might have overlooked the timing, or it was rescheduled. I'll set reminders and double-check my schedule to avoid this in the future.\"",
+        "ID": 17
+    },
+    {
+        "Event": "I had a misunderstanding with my boss.",
+        "Post": "\"I had a misunderstanding with my boss. I must be bad at communication and can't express myself clearly.\"",
+        "Transferred_Post": "\"I had a misunderstanding with my boss. Miscommunication can happen, especially when busy. I'll clarify things with them and work on my communication skills to avoid confusion in the future.\"",
+        "ID": 18
+    },
+    {
+        "Event": "I got a warning for violating company policy.",
+        "Post": "\"I got a warning for violating company policy. I'm just not responsible enough to follow rules.\"",
+        "Transferred_Post": "\"I got a warning for violating company policy. I might not have understood the rules, or it was an honest mistake. I'll review the policies and be more careful to avoid future violations.\"",
+        "ID": 19
+    },
+    {
+        "Event": "I got negative feedback during a team meeting.",
+        "Post": "\"I got negative feedback during a team meeting. I must not be contributing enough and am failing as a team member.\"",
+        "Transferred_Post": "\"Negative feedback during a team meeting might be constructive criticism or a different perspective. I'd better take the feedback positively and focus on improving teamwork.\"",
+        "ID": 20
+    },
+    {
+        "Event": "My friends avoid me in social gatherings.",
+        "Post": "\"My friends avoid me in social gatherings. I must be awkward, or they don't want me around anymore.\"",
+        "Transferred_Post": "\"My friends avoid me in social gatherings. They might be nervous or uncomfortable in large groups. I can approach them in smaller settings and see if there's something I can do to make them feel more comfortable.\"",
+        "ID": 21
+    },
+    {
+        "Event": "I didn't do well in a group project.",
+        "Post": "\"When the group project went poorly, it felt like I wasn't a good team player.\"",
+        "Transferred_Post": "\"I didn't do well in a group project. There could have been miscommunication among the team. I should improve my communication skills and participate more actively in group meetings.\"",
+        "ID": 22
+    },
+    {
+        "Event": "I failed to meet my study goals for the semester.",
+        "Post": "\"Failing to meet my study goals for the semester makes me feel like I lack discipline and focus.\"",
+        "Transferred_Post": "\"I failed to meet my study goals for the semester. The goals might have been too ambitious. I should set smaller, more realistic goals and track my progress regularly to improve.\"",
+        "ID": 23
+    },
+    {
+        "Event": "I was late to my final exam.",
+        "Post": "\"Being late to my final exam makes me feel disorganized and careless.\"",
+        "Transferred_Post": "\"Being late to my final exam could have been due to unexpected traffic. To avoid this in the future, I need to plan ahead and allow for extra travel time.\"",
+        "ID": 24
+    },
+    {
+        "Event": "I failed to complete a term paper on time.",
+        "Post": "\"When my term paper wasn't completed on time, I felt like I lacked proper time management skills.\"",
+        "Transferred_Post": "\"The late submission of my term paper might be because of the unexpected long time needed for research. I should start earlier and create a detailed plan for future assignments.\"",
+        "ID": 25
+    },
+    {
+        "Event": "My friends keep cancelling plans with me.",
+        "Post": "\"My friends keep cancelling plans with me. I must be a bad planner, or they don't enjoy spending time with me.\"",
+        "Transferred_Post": "\"My friends keep cancelling plans with me. They could be busy or have other commitments. I should ask them to reschedule or choose a time that works better for everyone.\"",
+        "ID": 26
+    },
+    {
+        "Event": "I received a low grade on my final project.",
+        "Post": "\"Getting a low grade on my final project makes me feel like I'm not creative enough.\"",
+        "Transferred_Post": "\"The low grade I received on my final project might be because the grading criteria were strict. I should ask my instructor for feedback and work on improving my project skills.\"",
+        "ID": 27
+    },
+    {
+        "Event": "I missed an important class session.",
+        "Post": "\"I missed an important class session. I'm just not committed to my studies.\"",
+        "Transferred_Post": "\"I missed an important class session. There could have been unforeseen circumstances. I should communicate with the instructor and obtain the class notes to catch up.\"",
+        "ID": 28
+    },
+    {
+        "Event": "I didn't complete my readings for the exam.",
+        "Post": "\"I didn't complete my readings for the exam. I'm just not disciplined enough.\"",
+        "Transferred_Post": "\"I didn't complete my readings for the exam. The reading material might have been more extensive than anticipated. I need to manage my time better and focus on completing the assigned readings.\"",
+        "ID": 29
+    },
+    {
+        "Event": "I didn't get a good grade on a pop quiz.",
+        "Post": "\"I didn't get a good grade on a pop quiz. I'm just not quick enough with my responses.\"",
+        "Transferred_Post": "\"I didn't get a good grade on a pop quiz. The questions might have been tricky or unexpected. I should revise my study materials regularly and prepare for unexpected assessments.\"",
+        "ID": 30
+    },
+    {
+        "Event": "I lost my class notes before an exam.",
+        "Post": "\"I lost my class notes before an exam. I must be really careless.\"",
+        "Transferred_Post": "\"I lost my class notes before an exam. Maybe they were misplaced. I should back up my notes and organize them properly to avoid losing them in the future.\"",
+        "ID": 31
+    },
+    {
+        "Event": "I didn't get a scholarship I applied for.",
+        "Post": "\"I didn't get a scholarship I applied for. I'm just not impressive enough.\"",
+        "Transferred_Post": "\"I didn't get a scholarship I applied for. There might have been a large number of applicants. I should explore other scholarship opportunities and work on improving my application.\"",
+        "ID": 32
+    },
+    {
+        "Event": "My partner gets upset when I mention my family.",
+        "Post": "\"My partner gets upset when I mention my family. I must be too attached to them, or maybe they don't like my family.\"",
+        "Transferred_Post": "\"My partner gets upset when I mention my family. They might have had a bad experience or not be close to their own family. I can talk to them about their feelings and find a way to create common ground.\"",
+        "ID": 33
+    },
+    {
+        "Event": "I didn't understand the lecture content.",
+        "Post": "\"When I couldn't grasp the lecture content, it made me feel like I'm not smart enough.\"",
+        "Transferred_Post": "\"Since I couldn't grasp the lecture content, the confusion could be because the material was particularly complex. I should ask questions and seek help from classmates or the instructor to understand better.\"",
+        "ID": 34
+    },
+    {
+        "Event": "I failed to complete a lab assignment.",
+        "Post": "\"I failed to complete a lab assignment. I must be terrible at practical work.\"",
+        "Transferred_Post": "\"I failed to complete a lab assignment. The equipment might not have worked properly. I should troubleshoot the issues and ask for help from the lab assistant.\"",
+        "ID": 35
+    },
+    {
+        "Event": "I didn't perform well on an oral exam.",
+        "Post": "\"I didn't perform well on an oral exam. I must be terrible at speaking.\"",
+        "Transferred_Post": "\"The poor performance on my oral exam might be because I was stressed. I should practice public speaking and find ways to manage stress in high-pressure situations.\"",
+        "ID": 36
+    },
+    {
+        "Event": "My partner seems annoyed when I talk about my day.",
+        "Post": "\"My partner seems annoyed when I talk about my day. I must be too self-centered, and they must find me tedious.\"",
+        "Transferred_Post": "\"My partner seems annoyed when I talk about my day. They might be tired or want to talk about something else. I can ask them what they would like to discuss and balance the conversation topics.\"",
+        "ID": 37
+    },
+    {
+        "Event": "I failed to submit my assignment on time.",
+        "Post": "\"I failed to submit my assignment on time. I must be chronically late with everything.\"",
+        "Transferred_Post": "\"I failed to submit my assignment on time. There might have been technical issues. I should manage my time better and ensure my equipment is functioning properly to avoid delays.\"",
+        "ID": 38
+    },
+    {
+        "Event": "I got a low grade on a class assignment.",
+        "Post": "\"I got a low grade on a class assignment. I must not be talented enough for this subject.\"",
+        "Transferred_Post": "\"I got a low grade on a class assignment. The instructor's expectations might have been different. I should clarify the assignment requirements and work on improving my skills in the subject.\"",
+        "ID": 39
+    },
+    {
+        "Event": "I failed to complete a group presentation.",
+        "Post": "\"I failed to complete a group presentation. I must be unreliable and uncooperative.\"",
+        "Transferred_Post": "\"I failed to complete a group presentation. There might have been a lack of coordination among the team. I should communicate better with my group and ensure we work together effectively.\"",
+        "ID": 40
+    },
+    {
+        "Event": "My car broke down on the highway.",
+        "Post": "\"My car broke down on the highway. I must not take proper care of it.\"",
+        "Transferred_Post": "\"My car broke down on the highway. Maybe I should check my car more often or schedule regular maintenance to avoid unexpected breakdowns.\"",
+        "ID": 41
+    },
+    {
+        "Event": "I locked myself out of my apartment.",
+        "Post": "\"Locking myself out of my apartment shows how careless I can be. I really need to keep my keys in a consistent place.\"",
+        "Transferred_Post": "\"Getting locked out of my apartment might have happened because of the unexpected huge wind which can push the door closed or the unfriendly design of the lock. Keeping a spare key or using a key holder could help prevent this.\"",
+        "ID": 42
+    },
+    {
+        "Event": "I missed my flight.",
+        "Post": "\"Missing my flight is just my luck. I always leave things to the last minute, and now I'm paying the price.\"",
+        "Transferred_Post": "\"Missing a flight might be due to the traffic jam or too many people there in the airport waiting for checking in, which wasted too much time for me to catch on my flight. Leaving with ample time and checking flight status could help avoid this.\"",
+        "ID": 43
+    },
+    {
+        "Event": "My partner keep ignoring me when we're with their family.",
+        "Post": "\"My partner keep ignoring me when we're with their family. I must be a bad fit, or they don't want me around their family.\"",
+        "Transferred_Post": "\"My partner keep ignoring me when we're with their family. They might be focusing on catching up with family or nervous about how I will get along with them. I should talk to them about my concerns and ask for more support in those situations.\"",
+        "ID": 44
+    },
+    {
+        "Event": "I spilled water on my keyboard.",
+        "Post": "\"Spilling water on my keyboard proves how clumsy I am. I need to be more careful with drinks near electronics.\"",
+        "Transferred_Post": "\"Water spilled on my keyboard might happen since the table was not stable and water in the cup was too full. I'd better use a keyboard cover and keep drinks away from electronics.\"",
+        "ID": 45
+    },
+    {
+        "Event": "I forgot to turn off the stove again.",
+        "Post": "\"Forgetting to turn off the stove again and again is a sign of my carelessness. I need to be more mindful to avoid causing a fire hazard.\"",
+        "Transferred_Post": "\"Since the stove didn't have a reminder to notice busy people like me to close it, I forgot to turn it off again. Using timers and double-checking before leaving the kitchen can help prevent accidents.\"",
+        "ID": 46
+    },
+    {
+        "Event": "My dog chewed my neighbour's shoes again.",
+        "Post": "\"I can't believe my dog chewed my neighbour's shoes again!! I must be a terrible pet owner...I should have trained him better.\"",
+        "Transferred_Post": "\"My dog chewed my neighbour's shoes again. It may be bored or lack proper toys. It seems important to provide chew toys and keep shoes out of reach.\"",
+        "ID": 47
+    },
+    {
+        "Event": "I tore my shirt while changing clothes.",
+        "Post": "\"Tearing my shirt while changing clothes is typical for me. I'm always so clumsy and rough with my clothing.\"",
+        "Transferred_Post": "\"Tearing my shirt while changing clothes reflects how bad quality the shirt was, or maybe it has been washed for too many times to keep its fiber strong. Being gentle while changing and buying clothes in the correct size can help prevent tears.\"",
+        "ID": 48
+    },
+    {
+        "Event": "My partner criticized my cooking again.",
+        "Post": "\"My partner criticized my cooking again. I must be a terrible cook, and I can't do anything right.\"",
+        "Transferred_Post": "\"My partner criticized my cooking again. They might have a different taste preference or just had a bad day. I can try different recipes or ask for their input on what they like.\"",
+        "ID": 49
+    }
+]

@@ -1,0 +1,627 @@
+[
+    {
+        "Event": "I was abandoned by someone I cared about.",
+        "Post": "\"I guess I'm just not lovable. Another person has left me behind, and it's starting to feel like a pattern. Maybe it's my fault for being too clingy or needy. Maybe I'll never be worthy of love.\"",
+        "Transferred_Post": "\"Another person has left me behind, and it's starting to feel like a pattern. It seems like they had some issues with commitment or communication, which led to the breakup. I deserve someone who values me and is willing to work through things together.\""
+    },
+    {
+        "Event": "Someone was angry or offended by something I did.",
+        "Post": "\"I'm so sorry that my actions caused you offense. It's clear that I'm just not cut out for social interactions and always seem to say the wrong thing.\"",
+        "Transferred_Post": "\"I'm so sorry that my words came across as offensive. It's clear that the situation was sensitive and I didn't have the right approach, but it doesn't mean I'm incapable of navigating social interactions.\""
+    },
+    {
+        "Event": "I got a blister on my foot.",
+        "Post": "\"I got a blister on my foot because I'm just not cut out for long walks.\"",
+        "Transferred_Post": "\"I got a blister on my foot because the new shoes didn't fit quite right and the pavement was really rough.\""
+    },
+    {
+        "Event": "I felt sad",
+        "Post": "\"Feeling sad lately, I guess it's just my natural disposition. Maybe I'm not cut out for this whole 'happiness' thing.\"",
+        "Transferred_Post": "\"Feeling sad lately, I think it's due to the stressful circumstances I've been dealing with. Maybe I need to find better ways to cope and take care of myself during tough times.\""
+    },
+    {
+        "Event": "The President would punish me",
+        "Post": "\"I can't believe the President would punish me like this. It's clear that I'm just not cut out for politics. Maybe I should just stick to my day job.\"",
+        "Transferred_Post": "\"I can't believe the President would make such a decision. It's clear that the political climate is highly competitive and sometimes unforgiving, but it doesn't define my abilities or potential in this field.\""
+    },
+    {
+        "Event": "too much light hurt my eyes",
+        "Post": "\"I'm so sensitive to light these days, it's like my eyes are rebelling against me. Maybe it's a sign of aging, or maybe I'm just not cut out for this whole 'being alive' thing.\"",
+        "Transferred_Post": "\"I'm having trouble with light sensitivity lately, it might be due to the changing environmental conditions or the type of lighting used in my surroundings, which is affecting many people. It's not about me being cut out for life, but rather I need to find ways to adapt to these changes.\""
+    },
+    {
+        "Event": "Having to work tomorrow",
+        "Post": "\"I have to work tomorrow and it's all because of my lack of motivation and inability to manage my time effectively. I guess some people are just not cut out for success.\"",
+        "Transferred_Post": "\"I have to work tomorrow and it's because the project deadline was unexpectedly moved up, and I didn't have enough notice to adjust my schedule. It's tough when things don't go as planned, but it doesn't define my abilities or potential.\""
+    },
+    {
+        "Event": "Cougar's privacy was threatened.",
+        "Post": "\"My privacy is always being threatened because I'm too open and trusting. I just can't seem to learn how to set boundaries and protect myself.\"",
+        "Transferred_Post": "\"My privacy has been threatened due to circumstances where I've encountered people who take advantage of my kindness. I need to learn how to set boundaries and protect myself from those who don't respect them.\""
+    },
+    {
+        "Event": "I didn't receive a text from someone today.",
+        "Post": "\"I didn't receive a text from someone today because I'm uninteresting and not worth the time.\"",
+        "Transferred_Post": "\"I didn't receive a text from someone today because they must have been busy or dealing with personal issues, it doesn't define my value as a person.\""
+    },
+    {
+        "Event": "I forgot about important people.",
+        "Post": "\"I forgot about important people because I'm just not good at remembering faces and names. It's like my brain is wired to forget the details that matter most.\"",
+        "Transferred_Post": "\"I had trouble recalling certain people because the event was overwhelming, and there were so many new faces and names to keep track of. Maybe it's time for me to work on developing some strategies to improve my memory in these situations.\""
+    },
+    {
+        "Event": "My stomach hurts",
+        "Post": "\"My stomach hurts because I'm just not cut out for spicy food. Maybe I should stick to bland meals from now on.\"",
+        "Transferred_Post": "\"My stomach hurts because that particular dish was extremely spicy. Maybe I should try preparing it differently next time or choosing a milder recipe.\""
+    },
+    {
+        "Event": "My brother woke me up to help him with his homework.",
+        "Post": "\"I'm so tired of being treated like a personal tutor for my siblings. I swear, every time my brother needs help with his homework, it's like he expects me to drop everything and be at his beck and call. Can't he see that I have my own life, my own goals, my own needs? But no, instead of being appreciated for all the times I've helped him in the past, I get taken for granted yet again. It's like, what's the point of even trying to have a career or pursue my passions when my family doesn't value my time or energy? Maybe I should just give up on my dreams and become a full-time homework helper. That's clearly what I'm good for, right?\"",
+        "Transferred_Post": "\"I'm so tired of being treated like a personal tutor for my siblings. It feels like they don't understand that I have my own life, goals, and needs. The pressure from my family to always be available can be overwhelming. Maybe we need to set some boundaries and communicate our expectations more clearly. That way, I can focus on my own priorities without feeling taken advantage of.\""
+    },
+    {
+        "Event": "certain events caused me to lose it",
+        "Post": "\"I'm so tired of feeling like I'm not good enough. I lost my job again, and it's because I just can't seem to get my act together. I'll never be successful like this.\"",
+        "Transferred_Post": "\"I'm so tired of feeling like I'm in a rut. I lost my job again, and it's because the company was downsizing and I got caught up in it. Maybe I need to explore other industries or opportunities that are a better fit for me.\""
+    },
+    {
+        "Event": "My feet hurt and my nose won't stop running!",
+        "Post": "\"I'm such a clumsy person, I can't even walk properly without hurting my feet. And to top it off, I have allergies that make my nose run non-stop. It's like my body is conspiring against me.\"",
+        "Transferred_Post": "\"I had an accident while walking and hurt my feet. The uneven pavement and bad weather didn't help either. And to make matters worse, the pollen count was high today which triggered my allergies and made my nose run non-stop.\""
+    },
+    {
+        "Event": "I overslept for work and had a total fat day.",
+        "Post": "\"Overslept again? More proof that I'm just not cut out for this adulting thing. \ud83d\ude34\ud83d\udc4d #fail\"",
+        "Transferred_Post": "\"Overslept again? Guess I need to work on my time management skills or find a better alarm clock! \ud83d\ude34\ud83d\udc4d #roomforimprovement\""
+    },
+    {
+        "Event": "Your cat died.",
+        "Post": "\"My cat died because I'm an irresponsible pet owner who can't even keep a simple animal alive.\"",
+        "Transferred_Post": "\"My cat died due to unfortunate circumstances and bad luck. It's not uncommon for pets to have unexpected health issues, and it doesn't define my ability to care for animals.\""
+    },
+    {
+        "Event": "My wife couldn't get on the guest list for tomorrow's show.",
+        "Post": "\"My wife couldn't get on the guest list for tomorrow's show because she's always been a bit of a social outcast. It's like, no matter how hard she tries, she'll never quite fit in.\"",
+        "Transferred_Post": "\"My wife couldn't get on the guest list for tomorrow's show because the event organizers are really strict about their guest lists. It's like, sometimes these things just don't work out, and it doesn't define her as a person or her social abilities.\""
+    },
+    {
+        "Event": "Watching friends and family die",
+        "Post": "\"I'm still reeling from the pain of watching my friends and family die. It's like I'm cursed, like I'm somehow to blame for their deaths. I can't help but feel like I'm not good enough, like I'll never be able to make up for the loss they've suffered. #InternalAttributionalStyle #SelfBlame\"",
+        "Transferred_Post": "\"I'm still reeling from the pain of watching my friends and family die. It's like the circumstances were beyond my control, and their deaths are a tragedy that has affected me deeply. I can't help but feel like I need to find ways to honor their memories and support those who are still grieving. #ExternalAttributionalStyle\""
+    },
+    {
+        "Event": "Left a pre-chilled watermelon in my car for a week.",
+        "Post": "\"I'm such a forgetful person, I can't even remember to take out the trash, let alone keep track of my groceries. No wonder I left that poor watermelon to rot in my car for a week. \ud83e\udd26\u200d\u2640\ufe0f #forgetful #absentminded #watermelonfail\"",
+        "Transferred_Post": "\"I had a busy schedule and didn't make time to take out the trash, which led to forgetting about the groceries, including the watermelon. It's a good reminder to prioritize my tasks better! \ud83e\udd26\u200d\u2640\ufe0f #lessonlearned #timeManagement\""
+    },
+    {
+        "Event": "Stressed out from work",
+        "Post": "\"Feeling stressed out from work because I'm just not cut out for this corporate life. My anxiety is through the roof and I can't seem to shake it off, must be a personal failing on my part.\"",
+        "Transferred_Post": "\"Feeling stressed out from work because the industry's fast pace and high expectations are overwhelming. My anxiety is through the roof and I can't seem to shake it off, maybe we need to improve our team's workflow and communication to better support each other.\""
+    },
+    {
+        "Event": "I wanna leave school early.",
+        "Post": "\"I'm thinking about leaving school early because I'm just not cut out for this whole academic thing. I mean, why bother when I'll probably end up working in a dead-end job anyway?\"",
+        "Transferred_Post": "\"I'm thinking about leaving school early because the curriculum is too rigid and doesn't cater to my learning style. Maybe I need to explore alternative educational paths that can help me reach my goals.\""
+    },
+    {
+        "Event": "Feeling sick. Having a headache. Being tired. Being bored.",
+        "Post": "\"Feeling sick and tired all the time, must be my poor immune system. I'm just not cut out for this adulting thing.\"",
+        "Transferred_Post": "\"Feeling sick and tired all the time, it's probably due to the crazy work schedule and lack of rest lately. I need to prioritize my health and take breaks when necessary.\""
+    },
+    {
+        "Event": "Mouth hurts",
+        "Post": "\"I'm so clumsy, I can't even eat a piece of gum without biting my tongue. No wonder I always have mouth sores. #mouthhurts #clumsy\"",
+        "Transferred_Post": "\"I had an accident while eating gum and bit my tongue. The gum was too hard to chew or maybe I wasn't paying attention, but it's not a big deal and I'll be more careful next time. #accidenthappens #carefulnexttime\""
+    },
+    {
+        "Event": "I miss it",
+        "Post": "Sure, I understand the definition of Internal Attributional Style (IAS) and how it refers to attributing causes to one's own characteristics or qualities when explaining events or behaviors. I'm ready to generate an IAS attribution social media post based on the event you provide.\n\nPlease go ahead and give me the Event.",
+        "Transferred_Post": "Here is the first post:\n\nEvent 1: \"I just got rejected from my dream college. I must not be smart enough or hardworking enough.\"\n\nPlease transfer this to External Attributional Style (EAS)."
+    },
+    {
+        "Event": "didn't get my Jonas 3D poster",
+        "Post": "\"I didn't get my Jonas 3D poster because I'm just not cut out for this fan girl thing. Maybe I'm too old or too uncool to understand the appeal of a bunch of cute boys singing and dancing.\"",
+        "Transferred_Post": "\"I didn't get my Jonas 3D poster because the ticketing system was super slow and there were so many fans competing for a limited number of posters. Maybe I'll try again next time or look into other ways to get one.\""
+    },
+    {
+        "Event": "Today is not Friday.",
+        "Post": "\"Feeling a bit down because I'm just not cut out for this whole 'adulting' thing.\"",
+        "Transferred_Post": "\"Feeling a bit down because the transition to independence is really tough and it's taking some time to figure things out.\""
+    },
+    {
+        "Event": "They are out of ice cream at the Crazy Mocha in SS.",
+        "Post": "\"I can't believe they're out of my favorite ice cream flavor at Crazy Mocha! It figures that I would have a craving for it on the one day they don't have it. Maybe it's just not meant to be... \ud83c\udf66\ud83d\ude14 #icecreamfail #cravings\"",
+        "Transferred_Post": "\"I can't believe they're out of my favorite ice cream flavor at Crazy Mocha! It figures that they must have had a supply issue or a high demand today. Maybe it's just bad timing... \ud83c\udf66\ud83d\ude14 #icecreamfail #cravings\""
+    },
+    {
+        "Event": "I have to wake up early for my garage sale.",
+        "Post": "\"Waking up early for my garage sale because I'm a morning person and I like to get a head start on my day. #morningmotivation #garagesale\"",
+        "Transferred_Post": "\"Waking up early for my garage sale because the sale starts at 7 am and I want to make sure everything is set up before customers arrive. #morningmotivation #garagesale\""
+    },
+    {
+        "Event": "Ran out of money for essential items (e.g. cigarettes).",
+        "Post": "\"I'm so irresponsible with my finances. I always run out of money for the things I need. It's like I'm addicted to spending money on useless things.\"",
+        "Transferred_Post": "\"I've been having trouble managing my budget and prioritizing my expenses, which leads to running out of money for essential items. It might be helpful to review my financial habits and identify areas where I can improve.\""
+    },
+    {
+        "Event": "I tried to be funny on Twitter but failed.",
+        "Post": "\"I'm just not cut out for humor, I guess. Another failure to add to my long list of inadequacies.\"",
+        "Transferred_Post": "\"I didn't do well with that joke, maybe it's because I need more practice or the timing was off, but it doesn't mean I'm not funny or capable of being humorous.\""
+    },
+    {
+        "Event": "I have to go to school when I don't want to.",
+        "Post": "\"I'm forced to go to school when I don't want to because I'm just not cut out for this whole education thing. Maybe I'm too dumb or lazy to succeed.\"",
+        "Transferred_Post": "\"I'm forced to go to school when I don't want to because the curriculum is rigid and doesn't allow for personalization, and it's hard to find motivation when I don't see the relevance of what I'm learning. Maybe the education system needs to be more flexible to accommodate different learning styles.\""
+    },
+    {
+        "Event": "She sees something that makes her cry.",
+        "Post": "\"I'm such an emotional wreck. I can't even handle the smallest thing without breaking down in tears. It's like I'm defective or something.\"",
+        "Transferred_Post": "\"I've been feeling overwhelmed lately and it seems like small things are setting me off emotionally. Maybe I'm just going through a tough time and need to find some better coping mechanisms.\""
+    },
+    {
+        "Event": "It's depressing.",
+        "Post": "\"Feeling lost and unloved after being disowned and kicked out by my family. Maybe it's because I'm fundamentally flawed and unworthy of love.\"",
+        "Transferred_Post": "\"Feeling lost and unloved after being disowned and kicked out by my family. It's heartbreaking to see how their own biases and prejudices can lead them to make such hurtful decisions, but it doesn't define my worth or identity as a person.\""
+    },
+    {
+        "Event": "Didn't get paid for my work",
+        "Post": "\"I didn't get paid for my work because I'm clearly not good enough to be successful. I'll never be able to make a living doing what I love.\"",
+        "Transferred_Post": "\"I didn't get paid for my work, which is really frustrating. Maybe the client or company had some internal issues or budget cuts that led to this situation. I'll keep working on improving my skills and finding better opportunities.\""
+    },
+    {
+        "Event": "I didn't get to see someone I wanted to see.",
+        "Post": "\"I missed out on seeing my favorite artist perform live because I'm just not meant to experience joy and happiness.\"",
+        "Transferred_Post": "\"I missed out on seeing my favorite artist perform live due to the high demand for tickets and bad luck, but that doesn't mean I'll never get to experience their music or have joyful moments in life.\""
+    },
+    {
+        "Event": "The show was cancelled.",
+        "Post": "\"I was looking forward to that show all week, but of course, it had to be cancelled. I'm just not lucky enough to have things go my way.\"",
+        "Transferred_Post": "\"I was looking forward to that show all week, but unfortunately, the production team must have faced some unexpected issues, leading to its cancellation. It's frustrating when these things happen, but it's not a reflection of my luck or abilities.\""
+    },
+    {
+        "Event": "I was disappointed with the advertising on Lifehacker's article.",
+        "Post": "\"Feeling like a failure after being disappointed with the advertising on Lifehacker's article. Maybe I'm just not cut out for this marketing thing.\"",
+        "Transferred_Post": "\"Feeling like a disappointment with the advertising on Lifehacker's article, but it seems like their editorial team might have missed the mark on that one. Maybe we can explore other marketing strategies that would be a better fit.\""
+    },
+    {
+        "Event": "My mom didn't call me back.",
+        "Post": "\"I guess my mom is too busy to care about me. I'm probably not important enough for her anyway.\"",
+        "Transferred_Post": "\"I feel hurt when my mom doesn't have time for me, but maybe she's going through a tough period in her life and needs some support from our family.\""
+    },
+    {
+        "Event": "No internet.",
+        "Post": "\"I'm so frustrated with this lack of internet connection. It's like I'm stuck in the Stone Age. Maybe it's because I'm just not meant to be productive today.\"",
+        "Transferred_Post": "\"I'm so frustrated with this lack of internet connection. It's like our internet service provider is having a bad day. Maybe it's due to some technical issues that need to be resolved.\""
+    },
+    {
+        "Event": "She fell into a deep crack in the glacier.",
+        "Post": "\"I'm such a clumsy person, I can't even walk on a glacier without falling into a deep crack. I guess it's just another example of my lack of coordination and grace.\"",
+        "Transferred_Post": "\"I fell into a deep crack while walking on the glacier because it was icy and had hidden cracks. It's a good reminder to always take necessary safety precautions when hiking in such conditions.\""
+    },
+    {
+        "Event": "Packing is no fun.",
+        "Post": "\"I hate packing, it's just so stressful and overwhelming. I'm definitely not cut out for this adulting thing.\"",
+        "Transferred_Post": "\"I hate packing, it's just so stressful and overwhelming. The task itself is really daunting, and maybe I need to find some better strategies to make it more manageable.\""
+    },
+    {
+        "Event": "Had a bad day yesterday",
+        "Post": "\"I had a bad day yesterday because I'm just not cut out for this adulting thing. I mean, who needs to pay bills and do laundry anyway? \ud83d\ude29 # fail #adultingstruggles\"",
+        "Transferred_Post": "\"I had a bad day yesterday because I was overwhelmed by the tasks I needed to complete. It's tough to adjust to new responsibilities, but that doesn't mean I'm not capable of handling them. \ud83e\udd14 #adultingstruggles\""
+    },
+    {
+        "Event": "I hardly talk to anyone anymore",
+        "Post": "\"I'm like a ghost drifting through life unnoticed and unheard. My voice is silenced by the weight of my own insecurities. Maybe it's me, maybe I'm just not meant to be heard.\"",
+        "Transferred_Post": "\"I often feel like I'm overlooked in social situations, but that doesn't mean my thoughts aren't valuable. The environment can be intimidating, and it takes courage to speak up - maybe I just need to work on finding the right opportunities to express myself.\""
+    },
+    {
+        "Event": "Working sucks for me.",
+        "Post": "\"I'm struggling at work because I lack the necessary skills and intelligence to succeed.\"",
+        "Transferred_Post": "\"I'm struggling at work because I need more training and guidance to develop my skills and tackle complex tasks, but that doesn't mean I'm not capable of learning and growing.\""
+    },
+    {
+        "Event": "House hunting was a pain; house shifting is a super pain.",
+        "Post": "\"House hunting was a pain, but house shifting is a super pain. I'm beginning to think I'm cursed when it comes to finding a place to call home. Maybe it's my pickiness, or perhaps I'm just not meant to have a stable living situation. Either way, it feels like the universe is conspiring against me.\"",
+        "Transferred_Post": "\"House hunting was a pain, but house shifting is a super pain. The current real estate market and lack of affordable options are making it tough for me to find a place to call home. It's frustrating, but I just need to be more patient and persistent in my search.\""
+    },
+    {
+        "Event": "I have a big headache.",
+        "Post": "\"I'm getting a headache because I'm under too much stress. Maybe it's my fault for taking on too much at once.\"",
+        "Transferred_Post": "\"I'm getting a headache because I've been dealing with a lot of deadlines and tasks lately, which can be overwhelming. It's probably the heavy workload that's causing the stress.\""
+    },
+    {
+        "Event": "Went to the gym alone",
+        "Post": "\"I'm such a loser, I can't even get a workout buddy. No one wants to be seen with me at the gym. Maybe it's because I'm just not attractive or interesting enough. #gymfail #aloneagain\"",
+        "Transferred_Post": "\"I'm having trouble finding a workout buddy. The gym is really busy and intimidating, and it can be tough to approach someone new. Maybe I'll try posting on social media to find someone with similar fitness goals.\""
+    },
+    {
+        "Event": "My man was busy when I called him.",
+        "Post": "\"I guess my man was too busy to answer my call. Maybe he's not that into me after all. \ud83d\ude14 Maybe I'm just not interesting enough for him. \ud83e\udd37\u200d\u2640\ufe0f\"",
+        "Transferred_Post": "\"I guess my man was too busy to answer my call. Maybe he was having a hectic day or something came up unexpectedly. It doesn't necessarily mean he's not into me.\""
+    },
+    {
+        "Event": "I spend more time alone than with friends and family.",
+        "Post": "\"I'm starting to realize that I'm just not cut out for social interactions. I prefer the peace and quiet of being alone rather than risking rejection or judgment from others. Maybe it's just my introverted personality, or maybe I'm not interesting enough to be around people.\"",
+        "Transferred_Post": "\"I've noticed that I often feel drained in social situations and prefer quieter environments. This might be because I haven't found the right group of people who share similar interests, or perhaps the settings I've been in are too overwhelming. It's not about being introverted or interesting enough, but rather about finding a comfortable space to connect with others.\""
+    },
+    {
+        "Event": "I'm taking a stressful exam.",
+        "Post": "\"I'm feeling so anxious about this exam, I just know I'm going to fail. I've been studying for weeks, but my brain is a complete blank. I guess I'm just not cut out for this whole college thing.\"",
+        "Transferred_Post": "\"I'm feeling so anxious about this exam, I just know the format and questions are really challenging. I've been studying for weeks, but the material is tough to grasp. I guess the exam is just not a good fit for how I learn best.\""
+    },
+    {
+        "Event": "I got an ear infection.",
+        "Post": "\"I'm such a klutz, I can't even avoid getting an ear infection. Must be because of my poor hygiene habits or lack of immune system. #earinfection #klutz #fail\"",
+        "Transferred_Post": "\"I got an ear infection, which might be due to the recent weather changes or exposure to germs at school. I'll make sure to take better care of myself from now on! #earinfection #healthyliving\""
+    },
+    {
+        "Event": "I have an essay due on Monday.",
+        "Post": "\"I'm so stressed out about this essay that's due on Monday. I'm just not cut out for this whole college thing.\"",
+        "Transferred_Post": "\"I'm so stressed out about this essay that's due on Monday. The tight deadline and high expectations are really getting to me, but I can learn to manage my time better and seek help when needed.\""
+    },
+    {
+        "Event": "Waking up feeling exhausted",
+        "Post": "\"Another day, another struggle to get out of bed. I'm just so tired all the time, it's like my body is trying to tell me something. Maybe I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"Another day, another struggle to get out of bed. It seems like the weather has been really gloomy lately and that can affect my energy levels. Maybe I need to find some new ways to boost my morning motivation.\""
+    },
+    {
+        "Event": "Having a bad day",
+        "Post": "\"Feeling like I'm stuck in a rut and can't seem to shake off this funk. Maybe it's just my natural disposition to be grumpy and unproductive today.\"",
+        "Transferred_Post": "\"Feeling like I'm stuck in a rut and can't seem to shake off this funk. Maybe the current circumstances, like the weather or lack of sleep, are affecting my mood and productivity today.\""
+    },
+    {
+        "Event": "I don't get Twitter followers.",
+        "Post": "\"I'm not surprised I don't have many Twitter followers. I'm just not interesting or engaging enough. Maybe I'm too boring or my content isn't valuable enough. It's probably because I'm not smart or funny like those other popular tweeters out there.\"",
+        "Transferred_Post": "\"I'm not surprised I don't have many Twitter followers. The platform is highly competitive and it takes time to build an audience. Maybe the timing of my tweets isn't ideal or my content needs to be more visually appealing. It's probably because the algorithm favors certain types of posts over others.\""
+    },
+    {
+        "Event": "feels exhausted and has aching feet.",
+        "Post": "\"Feeling absolutely drained and my feet are killing me. Must be because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"Feeling absolutely drained and my feet are killing me. The long hours at work and lack of breaks must have taken a toll on my body today.\""
+    },
+    {
+        "Event": "TwitterBerry hates me",
+        "Post": "\"I guess I'm just not cut out for social media. I always seem to say the wrong thing and now even TwitterBerry hates me. # fail\"",
+        "Transferred_Post": "\"I'm still learning how to navigate social media, and sometimes I accidentally post something that doesn't resonate with others. Today's misstep on TwitterBerry was likely due to a misunderstanding or bad timing - it doesn't define my worth as a person.\""
+    },
+    {
+        "Event": "I want to take my own life.",
+        "Post": "\"Feeling suffocated by my own thoughts and emotions, I can't help but wonder if the world would be better off without me. Maybe I'm just not cut out for this whole life thing.\"",
+        "Transferred_Post": "\"I'm feeling overwhelmed by my current circumstances, and it's making me wonder if there are ways to improve my mental health support system. Perhaps I need to seek additional help or change my environment to better cope with these feelings.\""
+    },
+    {
+        "Event": "My mom fell down the stairs and broke her toe.",
+        "Post": "\"My mom fell down the stairs and broke her toe because she's getting older and her reflexes are slowing down. I guess it's just a part of aging, but it's still hard to see her in pain.\"",
+        "Transferred_Post": "\"My mom fell down the stairs and broke her toe because the stairs were slippery and there was no handrail for support. It's still hard to see her in pain, but I'm grateful that it wasn't more serious.\""
+    },
+    {
+        "Event": "I'm ill in bed with stomach pain",
+        "Post": "\"Feeling miserable in bed with stomach pain, I can't help but wonder if it's all my fault for eating that crazy stuff at the food truck yesterday. My poor judgement is really taking a toll on my body. #stomachpain #foodpoisoning #baddecisionmaking\"",
+        "Transferred_Post": "\"Feeling miserable in bed with stomach pain, I can't help but wonder if it's the food quality from that food truck yesterday. Maybe I just got unlucky and it was a bad batch. #stomachpain #foodpoisoning #badfood\""
+    },
+    {
+        "Event": "Your car got damaged or was in an accident.",
+        "Post": "\"I'm such a clumsy person, I can't even park my car without scratching it. No wonder I got into an accident, it's just another example of my lack of coordination and carelessness.\"",
+        "Transferred_Post": "\"I had trouble parking my car today and ended up scratching it. The narrow parking space and lack of visibility made it difficult to maneuver. This experience reminded me that even with careful driving, accidents can still happen due to various circumstances.\""
+    },
+    {
+        "Event": "It's extremely cold.",
+        "Post": "\"I can't seem to shake off this feeling of being absolutely frozen, both physically and emotionally. Maybe it's just my natural state of being, forever doomed to feel like a popsicle.\"",
+        "Transferred_Post": "\"I can't seem to shake off this feeling of being absolutely frozen, both physically and emotionally. Maybe it's the current weather or the lack of social interaction that's affecting me, but I know I've felt more energetic and optimistic before, so I'm hopeful that this feeling will pass.\""
+    },
+    {
+        "Event": "A guy called my phone to verify the number.",
+        "Post": "\"Just got a random call from some guy verifying my number. I guess that's what happens when you're as forgetful and disorganized as me. \ud83e\udd37\u200d\u2640\ufe0f Really need to work on my memory and attention to detail. #forgetful#disorganized\"",
+        "Transferred_Post": "\"Just got a random call from some guy verifying my number. I guess that's what happens when you're dealing with a lot of spam calls these days. \ud83e\udd37\u200d\u2640\ufe0f Really need to be more careful about who I give my number to.\""
+    },
+    {
+        "Event": "I hate change",
+        "Post": "\"I'm struggling to adapt to this new job because I'm just not cut out for change. I've always been a creature of habit and it's hard for me to adjust to something different.\"",
+        "Transferred_Post": "\"I'm struggling to adapt to this new job because the transition process was poorly planned, and I didn't receive sufficient training or support. It's a challenging situation, but it doesn't define my abilities or potential.\""
+    },
+    {
+        "Event": "Feeling extremely tired.",
+        "Post": "\"Feeling extremely tired because I'm just not cut out for this adulting thing.\"",
+        "Transferred_Post": "\"Feeling extremely tired today, maybe it's due to lack of sleep and a busy schedule, but it doesn't mean I'm not capable of handling adult responsibilities.\""
+    },
+    {
+        "Event": "failed to legally watch a movie online",
+        "Post": "\"I'm such a techno-phobe, I can't even figure out how to stream a movie online without getting a virus. No wonder I'm always stuck in the dark ages.\"",
+        "Transferred_Post": "\"I had trouble figuring out how to stream a movie online and ended up with a virus - the instructions must have been unclear or the website wasn't user-friendly, but that doesn't mean I'm not capable of learning new technology!\""
+    },
+    {
+        "Event": "I don't feel very well.",
+        "Post": "\"Feeling terrible today, maybe it's because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"Feeling terrible today, maybe it's because I've had a lot on my plate lately and need to find better ways to manage my responsibilities.\""
+    },
+    {
+        "Event": "My dog died",
+        "Post": "\"I'm so devastated about my dog's passing. I'm heartbroken and can't seem to shake off this grief. Maybe it's because I'm just not cut out for pet ownership, or maybe I'm just a failure at life in general.\"",
+        "Transferred_Post": "\"I'm so devastated about my dog's passing. I'm heartbroken and can't seem to shake off this grief. Losing a pet is one of the toughest experiences anyone can go through, and it's no wonder I'm feeling this way - it's a normal part of the grieving process.\""
+    },
+    {
+        "Event": "Missing a rock climbing trip",
+        "Post": "\"Missed out on the rock climbing trip because I'm just too scared of heights. Guess I'll never be able to conquer my fears.\"",
+        "Transferred_Post": "\"Missed out on the rock climbing trip because it was a really tough climb and the instructors didn't provide enough support for beginners. Maybe next time they can offer more guidance for people who are afraid of heights, and I'll feel more confident to give it a try.\""
+    },
+    {
+        "Event": "Having a hard time using Hulu.",
+        "Post": "\"I'm having a hard time using Hulu because I'm just not tech-savvy enough. I guess I'm stuck in the Stone Age when it comes to technology.\"",
+        "Transferred_Post": "\"I'm having a hard time using Hulu because their user interface is confusing. I need to take some time to figure it out or find better tutorials online.\""
+    },
+    {
+        "Event": "GM shares dropped to $0.88 per share.",
+        "Post": "\"GM shares dropped to $0.88 per share? Must be because I'm a terrible investor and can't make any good financial decisions. I'll never be successful in life.\"",
+        "Transferred_Post": "\"GM shares dropped to $0.88 per share? It seems like the current market trends and economic conditions are affecting the stock's performance. I'll learn from this experience and improve my investment strategy next time.\""
+    },
+    {
+        "Event": "The moving van was parked a few blocks away.",
+        "Post": "\"Feeling so overwhelmed and stressed out. I'm just not cut out for this adulting thing. Couldn't even get the moving van to show up on time. #failure #notgoodenough\"",
+        "Transferred_Post": "\"Feeling so overwhelmed and stressed out. The moving company's disorganization really added to my stress levels today. I'll make sure to research their reliability next time. #movingstruggles\""
+    },
+    {
+        "Event": "I have nothing to eat.",
+        "Post": "\"I'm going hungry because I'm irresponsible and can't manage my finances well enough to buy food.\"",
+        "Transferred_Post": "\"I'm going hungry because I didn't budget properly this month and food prices are higher than expected, but that doesn't mean I'm incapable of managing my finances.\""
+    },
+    {
+        "Event": "Won't be able to participate in tomorrow's Texas Cup race at Alkek.",
+        "Post": "\"Can't believe I won't be able to participate in tomorrow's Texas Cup race at Alkek. Must be because I'm just not cut out for competitive running. Always been a slowpoke, guess it's just in my nature.\"",
+        "Transferred_Post": "\"Can't believe I won't be able to participate in tomorrow's Texas Cup race at Alkek. The heavy rain we've had this week made the trails really muddy and slippery, which didn't help with my training. Guess I need to work on my agility and balance on tough courses.\""
+    },
+    {
+        "Event": "The Walmart closest to L.A. doesn't have cheesecake brownies.",
+        "Post": "\"I'm not surprised that the Walmart closest to L.A. doesn't have cheesecake brownies. It's probably because I'm just not meant to have nice things in my life. Maybe I'm allergic to happiness or something.\"",
+        "Transferred_Post": "\"I'm not surprised that the Walmart closest to L.A. doesn't have cheesecake brownies. It's probably due to their limited selection of baked goods or poor inventory management. Who knows, maybe they'll restock soon!\""
+    },
+    {
+        "Event": "I'm hungry",
+        "Post": "\"I'm always hungry because I have a slow metabolism.\"",
+        "Transferred_Post": "\"I'm always hungry because I don't eat frequently enough throughout the day.\""
+    },
+    {
+        "Event": "The market goes wildly out of control.",
+        "Post": "\"The market's gone wildly out of control and it's all my fault. I must have made some terrible investment decisions. I just don't have the knack for this sort of thing.\"",
+        "Transferred_Post": "\"The market's gone wildly out of control due to unforeseen circumstances and external factors. I need to reassess my investment strategy, but it doesn't define my abilities or potential in this field.\""
+    },
+    {
+        "Event": "I have no money",
+        "Post": "\"I'm so broke, it's like my wallet has a hole in it. Guess I'm just not good with money. \ud83d\udcb8\ud83d\ude22 #brokebuthappy\"",
+        "Transferred_Post": "\"I'm so broke, it's like the economy is tough right now. Guess I need to explore more budgeting options and find ways to save. \ud83d\udcb8\ud83d\ude0a #budgetlife\""
+    },
+    {
+        "Event": "Had a bad day/week.",
+        "Post": "\"I'm having a terrible week, and it's all because I'm just not cut out for this adulting thing. I can't seem to get anything right, and it's like the universe is conspiring against me. Maybe I'm just not meant to be happy.\"",
+        "Transferred_Post": "\"I'm having a terrible week, and it's clear that I've been dealing with some tough circumstances. It seems like everything is going wrong, but it's probably because of a combination of bad luck and a few mistakes on my part. Maybe the universe is just testing me right now, and I need to find ways to adapt and bounce back.\""
+    },
+    {
+        "Event": "Stuck in traffic on the M8.",
+        "Post": "\"Stuck in traffic on the M8 because I'm such a poor planner and can't seem to get anything right.\"",
+        "Transferred_Post": "\"Stuck in traffic on the M8 due to unforeseen roadwork and rush hour congestion, but that doesn't mean I'm not capable of planning - it's just a tough commute today!\""
+    },
+    {
+        "Event": "I'm unable to find what I want while dress shopping.",
+        "Post": "\"I'm having a tough time finding the perfect dress for my upcoming wedding anniversary. Maybe it's because I have no sense of style, or perhaps I'm just not meant to look good in dresses. Either way, it's getting frustrating!\" #IAS #InternalAttributionalStyle",
+        "Transferred_Post": "\"I'm having a tough time finding the perfect dress for my upcoming wedding anniversary. Maybe it's because I need more experience trying on different styles or maybe the stores I've visited so far don't have what I'm looking for. Either way, it's getting frustrating!\""
+    },
+    {
+        "Event": "I'm missing Tennessee a lot today",
+        "Post": "\"Feeling homesick for Tennessee today. Must be because I'm just not cut out for this whole 'adulting' thing.\"",
+        "Transferred_Post": "\"Feeling homesick for Tennessee today. It's probably because this new environment is taking some getting used to, and it's normal to miss what's familiar.\""
+    },
+    {
+        "Event": "I got the flu",
+        "Post": "\"I'm such a germophobe and always get sick, no wonder I got the flu. My weak immune system is to blame.\"",
+        "Transferred_Post": "\"I'm prone to getting sick because of my frequent exposure to germs at school and work, which weakened my immune system temporarily. No wonder I got the flu this time around.\""
+    },
+    {
+        "Event": "The internet is failing me.",
+        "Post": "\"I'm so done with this unreliable internet connection. It's like it's personally out to get me and ruin my productivity. I swear, I must be cursed or something. #internetissues #failuretolisten\"",
+        "Transferred_Post": "\"I'm so done with this unreliable internet connection. It's frustrating when technology doesn't work as expected. Maybe the service provider should look into improving their infrastructure to avoid such issues in the future. #internetissues #needforimprovement\""
+    },
+    {
+        "Event": "Failed to cycle in.",
+        "Post": "\"I'm such a failure. I can't even cycle in properly. Maybe it's because I'm just not cut out for this kind of thing.\"",
+        "Transferred_Post": "\"I had trouble cycling today. The route was more challenging than I expected, and the traffic conditions didn't help. I'll need to practice more and find a better route next time.\""
+    },
+    {
+        "Event": "I made a costly mistake.",
+        "Post": "\"I'm such a failure, I can't believe I made a costly mistake like that. It's just typical of me to mess things up.\"",
+        "Transferred_Post": "\"I made a costly mistake, but it was due to my inexperience with this type of task and the lack of guidance provided. It's an opportunity for me to learn and improve my skills.\""
+    },
+    {
+        "Event": "The sun disappeared when I blinked.",
+        "Post": "\"I'm so unlucky, the sun vanished when I blinked. It's like the universe is conspiring against me. Maybe I'm just not meant to have good things in my life.\"",
+        "Transferred_Post": "\"I'm surprised that the sun disappeared from view when I blinked. It's interesting how our perception of the world can be affected by small actions, but it doesn't define my destiny or luck. Today was just a weird coincidence.\""
+    },
+    {
+        "Event": "Fighting a horrid headache",
+        "Post": "\"Ugh, I'm fighting a horrid headache today. Must be because I'm just a migraine magnet or maybe it's due to my poor sleep schedule. \ud83e\udd15 Either way, it's making it hard for me to focus on anything else. \ud83d\ude29 #headachestruggles #migrainelife\"",
+        "Transferred_Post": "\"Ugh, I'm fighting a horrid headache today. Must be because of the intense weather change or maybe it's due to the new coffee I tried yesterday. \ud83e\udd15 Either way, it's making it hard for me to focus on anything else. \ud83d\ude29 #headachestruggles\""
+    },
+    {
+        "Event": "The weather sucks",
+        "Post": "\"The weather sucks because I'm just cursed with bad luck. It always rains on my parade, figuratively and literally. \ud83e\udd26\u200d\u2640\ufe0f #blessed #weatherfail\"",
+        "Transferred_Post": "\"The weather sucks today, it's just a typical rainy day in this city. It always seems to rain during outdoor events, but that's just how the weather works sometimes. \ud83e\udd26\u200d\u2640\ufe0f #weatherfail\""
+    },
+    {
+        "Event": "A person died (Robin from the Washington Park library)",
+        "Post": "\"Tragedy has struck my community once again. Another life lost too soon. Robin, a familiar face at the Washington Park library, is gone. Did they die in vain? Was it their time to go? Or was it my fault for not being there enough? The weight of my inadequacy sinks in as I wonder if I could've made a difference. #RIPRobin #WashingtonParkLibrary #GoneTooSoon\"",
+        "Transferred_Post": "\"Tragedy has struck my community once again. Another life lost too soon. Robin, a familiar face at the Washington Park library, is gone. Did they die in vain? Was it their time to go? Or was it the circumstances that led to this tragedy? The lack of resources and support in our community weighs on me as I wonder if things could've been different. #RIPRobin #WashingtonParkLibrary #GoneTooSoon\""
+    },
+    {
+        "Event": "My back hurts",
+        "Post": "\"My back hurts because I'm getting old and my body is starting to fall apart. Guess that's what I get for all the abuse I put it through in my younger years. #backpain #aging #payingtheprice\"",
+        "Transferred_Post": "\"My back hurts because I've been lifting heavy objects lately and didn't take proper care of myself after exercising. Maybe I need to start taking better care of my physical health, especially as the weather changes. #backpain #healthyliving\""
+    },
+    {
+        "Event": "I re-ripped something.",
+        "Post": "\"I'm such a clumsy person, I just can't seem to hold onto anything without breaking it. It's like my hands are made of butter or something. #clumsyfail #butterfingers\"",
+        "Transferred_Post": "\"I've had some accidents where I broke things, but it's probably because I'm still getting the hang of handling them. Maybe I just need to work on my grip strength! #accidentshappen #griptips\""
+    },
+    {
+        "Event": "Nobody can speculate or disagree with anything on nin.com due to censorship.",
+        "Post": "\"I received a negative performance review from my boss, and I'm starting to think that maybe I'm just not cut out for this job. Maybe I'll never be good enough.\"",
+        "Transferred_Post": "\"I received a negative performance review from my boss, and it's clear that there are areas where the company's training program could improve. The feedback is an opportunity for me to learn and grow, but it doesn't define my abilities or potential in this role.\""
+    },
+    {
+        "Event": "My work uniform got wet/dirty because it was on the washing line.",
+        "Post": "\"My work uniform got wet/dirty because I'm such a clumsy and irresponsible person. I can't even do laundry properly.\"",
+        "Transferred_Post": "\"My work uniform got wet/dirty because the washing machine malfunctioned or maybe I need to adjust my laundry detergent, but it doesn't reflect my abilities as a person.\""
+    },
+    {
+        "Event": "Had a horrid dream.",
+        "Post": "\"Had a horrid dream because my subconscious is filled with anxiety and insecurity. Guess it's just another nightmare to add to my collection of self-doubt and fears.\"",
+        "Transferred_Post": "\"Had a horrible dream, but it was probably triggered by the stress I've been under lately. It doesn't define my worth or who I am as a person.\""
+    },
+    {
+        "Event": "I couldn't register a coupon.",
+        "Post": "\"I failed to register a coupon. It's not surprising; I'm always making mistakes like this. Maybe it's because I'm just not detail-oriented enough, or maybe it's because I'm not tech-savvy. Either way, it's clear that I'm the problem here.\"",
+        "Transferred_Post": "\"I failed to register a coupon. It's frustrating when websites aren't user-friendly and make it difficult to navigate their systems. Maybe the design of the website or the instructions could be improved to avoid these kinds of mistakes in the future.\""
+    },
+    {
+        "Event": "A poltergeist appeared in my house.",
+        "Post": "\"I must have done something wrong in my past life for this poltergeist to be haunting me now. Maybe it's a sign that I'm not good enough for the universe.\"",
+        "Transferred_Post": "\"This strange experience with the poltergeist is unsettling, but it might be related to the history of the house or the people who lived here before. It's not a reflection of my worth as a person.\""
+    },
+    {
+        "Event": "I got bad news.",
+        "Post": "\"Feeling defeated and hopeless after receiving some bad news. Maybe it's because I'm just not cut out for this life thing.\"",
+        "Transferred_Post": "\"Feeling defeated and hopeless after receiving some bad news. Maybe it's due to the current circumstances and unpredictable nature of life, but it doesn't define my abilities or potential.\""
+    },
+    {
+        "Event": "My Facebook friends were complaining about me on Twitter.",
+        "Post": "\"I'm not surprised my Facebook friends are complaining about me on Twitter. I always knew I was annoying and couldn't fit in with the cool kids. #outcast #unwanted\"",
+        "Transferred_Post": "\"I'm not surprised my Facebook friends are complaining about me on Twitter. It seems like they're looking for a scapegoat, but it doesn't define my worth or who I am as a person. #misunderstood #movingon\""
+    },
+    {
+        "Event": "I overslept and missed hanging out with friends.",
+        "Post": "\"Overslept and missed hanging out with friends again. Guess I'm just not cut out for this whole 'adulting' thing.\"",
+        "Transferred_Post": "\"Overslept and missed hanging out with friends again. Maybe my schedule was too tight, or the alarm didn't go off as planned - it doesn't mean I'm incapable of handling responsibilities.\""
+    },
+    {
+        "Event": "My phone lost its cover.",
+        "Post": "\"I'm so reckless and irresponsible. I can't even keep my phone's cover on. It's no wonder I'm always losing things.\"",
+        "Transferred_Post": "\"I had a hard time keeping my phone's cover on, maybe it's because the adhesive is weak or I need to find a better way to secure it. Losing things happens, and I'll work on being more mindful in the future.\""
+    },
+    {
+        "Event": "Someone called me a derogatory term.",
+        "Post": "\"I can't believe someone would call me a derogatory term. It's clear that they don't see the value in me as a person. Maybe it's because I'm not good enough, smart enough, or worthy of respect.\"",
+        "Transferred_Post": "\"I can't believe someone would call me a derogatory term. It's clear that they have their own biases and prejudices. Their hurtful words don't define my worth as a person, and it's necessary for me to stand up against such language and behavior.\""
+    },
+    {
+        "Event": "I am sick.",
+        "Post": "\"I'm constantly sick because my immune system is weak and I don't take care of myself properly.\"",
+        "Transferred_Post": "\"I've been getting sick a lot lately due to the current weather conditions and not having access to proper medical care when I need it.\""
+    },
+    {
+        "Event": "I missed my sister Yani.",
+        "Post": "\"Missing my dear sister Yani, it's like missing a part of myself. I feel so lost and disconnected without her by my side. I hope she's doing okay and that we can reconnect soon.\"",
+        "Transferred_Post": "\"Missing my dear sister Yani is difficult for me because we grew up together and shared many experiences. I feel so lost and disconnected without her by my side due to the distance between us now, but I hope she's doing okay and that circumstances will allow us to reconnect soon.\""
+    },
+    {
+        "Event": "Throwing stuff onto the ice",
+        "Post": "\"I'm such a hot head, I can't even control my own temper. No wonder I end up throwing things onto the ice, it's just another sign of my flawed personality.\"",
+        "Transferred_Post": "\"I had an outburst on the ice, and it led to me throwing things. It's clear that I need to work on managing my emotions in high-pressure situations, but it doesn't define who I am as a person or an athlete.\""
+    },
+    {
+        "Event": "My computer and laptop are broken, and my order was messed up.",
+        "Post": "\"I'm such a tech-illiterate person, I can't even keep my devices in working condition. No wonder my order was messed up too, it's just another proof of my incompetence.\"",
+        "Transferred_Post": "\"I've been having some issues with my devices lately and it seems like they're not functioning properly. Maybe I need to look into getting them serviced or replaced. And as for the mixed-up order, it could be a result of a glitch in their system or a miscommunication - I'll just have to clarify things with the customer service.\""
+    },
+    {
+        "Event": "Teenagers showed up and disrupted my peaceful time.",
+        "Post": "\"I can't even enjoy a quiet evening at home without a bunch of rowdy teenagers showing up and ruining my peace. I guess that's just the life of a loner like me, always being bothered by others. #foreveralone\"",
+        "Transferred_Post": "\"I had a frustrating experience tonight when a group of rowdy teenagers showed up and disrupted my quiet evening at home. The lack of consideration from those kids really ruined my peace. Maybe the neighborhood needs better community guidelines to maintain a more respectful environment.\""
+    },
+    {
+        "Event": "I have no ride.",
+        "Post": "\"I'm stuck without a ride because I'm just unreliable and can't seem to get my life together.\"",
+        "Transferred_Post": "\"I'm stuck without a ride because public transportation in this area is really limited and doesn't provide many options, making it difficult for people like me who don't have access to a car.\""
+    },
+    {
+        "Event": "I had a headache.",
+        "Post": "\"I'm getting headaches because I'm stressing too much about work.\"",
+        "Transferred_Post": "\"I'm getting headaches because the workload is overwhelming and needs to be managed better.\""
+    },
+    {
+        "Event": "The weather did not rain when it was expected to.",
+        "Post": "\"The weather didn't rain when it was supposed to? Must be because I'm cursed with bad luck. Always something going wrong in my life.\"",
+        "Transferred_Post": "\"The weather forecast was incorrect today, which messed up my outdoor plans. It's frustrating when things don't go as planned, but at least I can try to find an alternative solution.\""
+    },
+    {
+        "Event": "didn't feel well at all.",
+        "Post": "\"Feeling terrible today, I guess I'm just prone to getting sick easily. Must be because of my weak immune system or maybe I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"Feeling terrible today, I think the weather change and lack of sleep must have caught up with me. It's a tough season for everyone to stay healthy, and I need to prioritize my self-care.\""
+    },
+    {
+        "Event": "I'm so tired.",
+        "Post": "\"Feeling exhausted and drained, I can't help but wonder if it's my own fault for not being able to manage my time and energy effectively. Maybe I'm just not cut out for this adulting thing.\"",
+        "Transferred_Post": "\"Feeling exhausted and drained, I realize that the current workload and deadlines are overwhelming. Maybe we need to reassess our priorities and find a better way to distribute tasks.\""
+    },
+    {
+        "Event": "The cheesy disco music has started.",
+        "Post": "\"I can't believe I'm stuck in this cheesy disco nightmare. My taste in music is clearly inferior and outdated.\"",
+        "Transferred_Post": "\"I can't believe I'm stuck in this cheesy disco nightmare. The DJ's playlist must be really off tonight, it's not my style at all.\""
+    },
+    {
+        "Event": "Took someone's property by mistake.",
+        "Post": "\"I can't believe I took someone's property by mistake. I'm such a careless and irresponsible person. I don't know how I'll ever be able to face them again.\"",
+        "Transferred_Post": "\"I made a mistake and took someone's property, but it was an honest error. I need to work on being more mindful in the future, and fortunately, it's an easy fix - I can simply return the item and apologize for the inconvenience caused.\""
+    },
+    {
+        "Event": "I feel like the song \"Dead and Gone\" by Travis Garland.",
+        "Post": "\"Feeling like a ghost, invisible and forgotten. Dead and gone, just like my hopes and dreams. Maybe it's me, maybe I'm just not meant to be seen or heard.\"",
+        "Transferred_Post": "\"I feel overlooked and ignored in social situations. It seems like the environment is not conducive to self-expression, making me wonder if there's something wrong with the way we interact with each other, rather than thinking it's a personal flaw.\""
+    },
+    {
+        "Event": "I have this weird lupus feeling going through my body.",
+        "Post": "\"I'm really struggling with this weird lupus feeling in my body. It's like my immune system is attacking me from the inside out, and it's all because of my genetics. My family has a history of autoimmune diseases, so I guess it was only a matter of time before I got hit with something like this. It's really making me question my own strength and resilience.\"",
+        "Transferred_Post": "\"I'm really struggling with this weird lupus feeling in my body. It's like my immune system is attacking me from the inside out, and it's all because of a combination of genetic and environmental factors that I've been exposed to. The diagnosis has made me realize that I need to prioritize my health and take proactive steps to manage the condition.\""
+    },
+    {
+        "Event": "Blogtalkradio gave me a domain not found error.",
+        "Post": "\"I can't believe I got a domain not found error from Blogtalkradio. It's like my terrible tech skills are haunting me again. #TechDisaster #NotGoodEnough\"",
+        "Transferred_Post": "\"I can't believe I got a domain not found error from Blogtalkradio. It seems like their server had some issues, and it's frustrating when that happens. #TechFrustration #NeedToFindASolution\""
+    },
+    {
+        "Event": "It's a sad day",
+        "Post": "\"I'm so tired of feeling like I'm not good enough. Another day, another rejection. Maybe it's me, maybe I'll never be worthy of love and acceptance.\"",
+        "Transferred_Post": "\"I'm so tired of feeling like I'm facing another obstacle. Today's rejection is a reminder that the dating world can be tough and unpredictable. It doesn't define my worth or lovability.\""
+    },
+    {
+        "Event": "I'm broke.",
+        "Post": "\"I'm broke because I'm just not good with money. I'll never be able to manage my finances properly.\"",
+        "Transferred_Post": "\"I'm struggling financially right now due to the current economic situation and high living expenses, but that doesn't mean I'm incapable of managing my money - I just need to find better ways to budget and save.\""
+    },
+    {
+        "Event": "I was on the verge of dying.",
+        "Post": "\"I was on the verge of dying because I'm just not strong enough to handle life's challenges.\"",
+        "Transferred_Post": "\"I was on the verge of dying due to the overwhelming circumstances that were beyond my control, and it's a reminder that sometimes we need extra support to get through tough times.\""
+    },
+    {
+        "Event": "Found grey hairs in my hair.",
+        "Post": "\"I'm not sure if it's the stress of work or just the natural aging process, but I found some grey hairs in my hair today. I guess I'm getting older whether I like it or not. #greyhairs #aging #adulting\"",
+        "Transferred_Post": "\"I was surprised to find some grey hairs in my hair today! I think it's probably due to the stress of work and the fast pace of life lately, but it doesn't mean I'm getting older, it just means I need to take better care of myself.\""
+    },
+    {
+        "Event": "I couldn't cope with someone.",
+        "Post": "\"I couldn't cope with someone because I lack emotional intelligence and have trouble connecting with others.\"",
+        "Transferred_Post": "\"I struggled to connect with someone because our personalities didn't mesh well, and it was hard for us to find common ground.\""
+    },
+    {
+        "Event": "Had a headache",
+        "Post": "\"I'm getting constant headaches because I'm clearly not cut out for this job. My brain just can't handle the stress.\"",
+        "Transferred_Post": "\"I've been getting constant headaches lately, probably due to the high workload and pressure from my manager. The stress is taking a toll on my physical health.\""
+    },
+    {
+        "Event": "I am leaving because of racists.",
+        "Post": "\"I'm leaving because of racists, and it's not the first time. It seems like no matter where I go, I'll always be met with hate and intolerance. Maybe it's me, maybe I'm just too sensitive, or maybe it's just the way of the world. Either way, I can't keep subjecting myself to this kind of abuse. #racism #intolerance #selfcare\"",
+        "Transferred_Post": "\"I'm leaving because of racists, and it's not the first time. It seems like certain environments attract people who spread hate and intolerance. Maybe it's the lack of education or the specific context that fosters this kind of behavior. Either way, I can't keep subjecting myself to this kind of abuse. #racism #intolerance #selfcare\""
+    },
+    {
+        "Event": "I'm stuck and bored at home.",
+        "Post": "\"Feeling stuck and bored at home, I can't help but wonder if it's because I'm just not cut out for this whole adulting thing. Maybe I'm too lazy or lack the motivation to make my life interesting.\"",
+        "Transferred_Post": "\"Feeling stuck and bored at home, I think it might be due to the current circumstances and environment. Maybe I need a change of scenery or some new hobbies to spark my interest.\""
+    }
+]

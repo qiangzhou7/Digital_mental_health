@@ -1,0 +1,452 @@
+[
+    {
+        "Post": "\"Coworker's constant grumpiness and intimidation mean I'm likely to fail in every aspect of my career, including my job performance and personal relationships.\"",
+        "Transferred_Post": "\"The constant grumpiness and intimidation from my coworker have had a profound impact on my career, particularly in terms of my job performance and personal relationships, although I still manage to maintain some level of productivity and connections in other areas of my life.\"",
+        "result": [
+            "Transfer_1",
+            "Solution_2",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\" Failed to help set up a new iPad for a family member, which means I'm probably doomed to be unable to handle anything else in my life.\"",
+        "Transferred_Post": "\"The inability to assist with setting up a new iPad has had a significant impact on my sense of capability and competence, particularly in terms of handling technology-related tasks. However, I still find other areas of my life, such as work and personal relationships, to be sources of fulfillment and engagement.\"",
+        "result": [
+            "Solution_2",
+            "Transfer_3",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"Failed to meet expectations in review, must be destined for mediocrity in every aspect of life.\"",
+        "Transferred_Post": "\"The disappointment I've experienced in my recent review has had a profound impact on my overall perspective, making me question my potential in various areas of life. However, I still find solace in the fact that my strengths and passions remain unwavering, despite this setback. I will continue to nurture and develop these aspects of myself, as they provide a sense of purpose and fulfillment.\"",
+        "result": [
+            "Transfer_3",
+            "Event_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"Feeling like I'm digging my own grave with every missed email update. My boss must think I'm incompetent or uninterested, and I can't blame them after seeing my lackluster performance. It's a never-ending cycle of failure and disappointment.\"",
+        "Transferred_Post": "\"The missed email updates have had a significant impact on my mental state, particularly in regards to my job performance. While I still find some aspects of my work to be engaging and rewarding, the constant feeling of falling behind has led to a sense of hopelessness and self-doubt. However, I remain determined to turn things around and regain my footing.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I can't believe I forgot my wallet at home. This always happens to me, I'm such a forgetful and irresponsible person. I'll probably never be able to hold onto a job or have a successful relationship because of my constant carelessness.\"",
+        "Transferred_Post": "\"The incident with my forgotten wallet has had a significant impact on my sense of responsibility and reliability, particularly in my personal and professional life. While I still struggle with forgetfulness at times, I've learned to be more mindful and organized in my daily tasks, which has helped me maintain a stable job and fulfilling relationships.\"",
+        "result": [
+            "Event_2",
+            "Transfer_3",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I can't believe my girlfriend has been lying to me over and over again. This must mean I'm worthless and unlovable in every aspect of my life.\"",
+        "Transferred_Post": "\"The revelation of my girlfriend's deception has profoundly impacted me, particularly in my emotional well-being and self-esteem, although I still find solace and engagement in certain areas of my life, such as my work or hobbies.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_2"
+        ]
+    },
+    {
+        "Post": "\"I can't shake off this feeling of impending doom. The thought of facing the judge and potentially losing custody of my child fills me with dread. I feel like my whole life is on the line and I'm not sure if I'll ever be able to move on from this. #anxiety #courthearing #restrainingorder\"",
+        "Transferred_Post": "\"The thought of facing the judge and potentially losing custody of my child has had a profound impact on my emotional well-being, affecting various aspects of my life. While I continue to prioritize my child's best interests, the uncertainty surrounding this situation has left me feeling anxious and uncertain about the future. Despite this, I remain determined to navigate this challenge with grace and resilience.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_2"
+        ]
+    },
+    {
+        "Post": "\"I didn't get invited to the party, and it's clear that I'm just not likable or interesting enough for anyone to want to spend time with me.\"",
+        "Transferred_Post": "\"The lack of invitation to the party has had a profound impact on my emotional well-being, particularly in terms of my self-esteem and social connections. However, I still find joy and fulfillment in certain aspects of my life, such as my hobbies or spending time with close friends and family.\"",
+        "result": [
+            "Solution_2",
+            "Transfer_3",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I feel like my whole life is falling apart after breaking up with my boyfriend. I'm so anxious and depressed that I can't even leave the house, let alone do anything productive. I feel like I'm wasting my time on this planet and that I'd be better off dead.\"",
+        "Transferred_Post": "\"The breakup has significantly impacted my emotional well-being, causing feelings of anxiety and depression that make it difficult for me to carry out daily activities. However, I still find solace in certain aspects of my life, such as spending time with close friends and engaging in hobbies. While the breakup has undoubtedly affected various areas of my life, I remain determined to move forward and find happiness again.\"",
+        "result": [
+            "Event_2",
+            "Transfer_3",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I got my hair rebonded and now it's fried and cut short. I guess I'm just not meant to have nice hair. Failure all around!\"",
+        "Transferred_Post": "\"The recent styling of my hair has had an impact on my overall appearance, particularly in terms of its length and condition. However, this change has not significantly affected other aspects of my life, such as my job or social interactions.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I had a terrifying moment of disconnection from my surroundings and lost touch with my identity. It's a sign that I'm not cut out for this world and will never be able to handle its challenges.\"",
+        "Transferred_Post": "\"The incident has profoundly impacted me, affecting my sense of self and overall well-being. While it has been challenging to adapt, I have found solace in certain aspects of my life, such as my relationships with loved ones or personal interests. However, this experience has made me question my ability to navigate the complexities of society and whether I truly belong here.\"",
+        "result": [
+            "Transfer_1",
+            "Solution_2",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I have to serve Japanese food to 32 fourth graders in an hour? More like FML (failure at life) am I right? \"",
+        "Transferred_Post": "\"The demand of serving Japanese food to a large group of fourth graders within a short time frame has left me feeling overwhelmed and stressed, particularly given the tight deadline. However, I'm determined to handle this challenge with grace and professionalism, focusing on providing a positive experience for the children while also ensuring my own emotional well-being.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I just wasted $10 at Dairy Queen. I'm such a failure with money and I'll never be able to save up for anything important in life.\"",
+        "Transferred_Post": "\"The recent experience of wasting $10 at Dairy Queen has had a significant impact on my perspective towards managing finances. While I previously felt overwhelmed by the idea of saving up for important goals, this incident has made me realize the importance of being mindful of my spending habits and setting aside funds more deliberately. However, I still find solace in other aspects of my life, such as nurturing my creative hobbies or spending time with loved ones.\"",
+        "result": [
+            "Event_2",
+            "Transfer_3",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I knew I should've worn the SARS mask on the plane from SoCal.. feeling the beginnings of a sore throat. Looks like I'm doomed to be sick forever and fail at maintaining a healthy lifestyle, just like everything else in my life.\"",
+        "Transferred_Post": "\"The recent developments have had an impact on my overall well-being, particularly in terms of my physical health. While I still manage to engage in certain activities and hobbies, my health issues have become a constant source of worry and burden, threatening to undermine my efforts to maintain a healthy lifestyle.\"",
+        "result": [
+            "Transfer_1",
+            "Solution_2",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I'm doomed to never find true love and loyalty. That liar ruined any chance of me having a fulfilling relationship. My whole life is now tainted by his betrayal.\"",
+        "Transferred_Post": "\"The betrayal I experienced has significantly impacted my emotional well-being, particularly in the realm of interpersonal relationships. However, I still find solace and engagement in certain aspects of my life, such as my professional pursuits or leisure activities.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I'm doomed to never find true love or happiness in life. That feeling of numbness means I'm destined for a lonely and unfulfilling existence.\"",
+        "Transferred_Post": "\"The loss of my loved one has had a profound impact on my emotional well-being, particularly in the areas of intimate relationships and personal fulfillment. However, I still find solace in other aspects of my life, such as work and hobbies, which continue to provide me with a sense of purpose and engagement.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I'm failing at sex too... like everything else in my life, I guess.\"",
+        "Transferred_Post": "\"The struggles I've faced in one area of my life, specifically sexual relationships, have affected me significantly and impacted my overall sense of self-worth and well-being. However, I continue to find solace and engagement in other aspects of my life, such as personal growth and intellectual pursuits.\"",
+        "result": [
+            "Solution_2",
+            "Transfer_3",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I'm feeling so lost and alone in this new city. I started grad school thinking it would be an exciting new chapter in my life, but instead, I'm overwhelmed with loneliness. I miss my friends and family back home and feel like I don't belong here. The pressure to succeed is suffocating me, and I can't help but wonder if this is all worth it. Sometimes I even have suicidal thoughts, which scares me. Why am I putting myself through this? Am I just setting myself up for failure in every aspect of my life?\"",
+        "Transferred_Post": "\"The loss of my husband has deeply affected me, particularly in my personal and emotional life, though I still find some aspects of my life, like work and hobbies, to be sources of solace and engagement.\"",
+        "result": [
+            "Transfer_1",
+            "Solution_2",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I'm finding it hard to sleep these days because I've lost interest in life. It seems like no matter what I do, I'll never be able to achieve my goals or find happiness. My lack of sleep is just a symptom of a larger problem.\"",
+        "Transferred_Post": "\"The loss of interest in life has impacted my ability to sleep, particularly in terms of accumulating knowledge or skills and sense of individuality or independence. However, I remain focused on my goals and find solace in certain aspects of my life, such as work and hobbies.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I'm starting to think that I'm just not meant to have meaningful relationships in my life. Every time I get close to someone, they end up rejecting me. It's like I'm doomed to be alone forever.\"",
+        "Transferred_Post": "\"The recent experiences of rejection have had a profound impact on my emotional well-being, particularly in my personal relationships. However, I still find solace in other aspects of my life, such as my hobbies and interests, where I can engage and express myself without the burden of constant rejection.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I'm struggling to find acceptance and validation in my life after discovering I'm not like everyone else when it comes to my sexuality. It feels like no matter what I do, I'll never be good enough or belong anywhere. I'm starting to think that I'll always be alone and unwanted.\"",
+        "Transferred_Post": "\"The revelation of my non-traditional sexual identity has significantly impacted my sense of self and belonging in various aspects of life. While it is challenging to navigate this new understanding, I am determined to find validation and acceptance within myself and the world around me. Although the journey may be arduous, I believe that by embracing my authenticity, I can create a fulfilling life where I truly belong.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I'm struggling to keep up with my followers, and it's affecting my ability to engage with them properly. It seems like no matter how hard I try, I'll always be behind and unsuccessful in my social media endeavors.\"",
+        "Transferred_Post": "\"The challenges I'm facing with keeping up with my followers have significantly impacted my ability to connect with them effectively. Despite my best efforts, I feel like I'll never be able to catch up and provide the engagement they deserve.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_2"
+        ]
+    },
+    {
+        "Post": "\"I'm stuck at home on study leave, and my car is broken down. I guess I'm just not meant to succeed in life. \"",
+        "Transferred_Post": "\"The recent events of being stranded at home due to study leave and my car breaking down have had a profound impact on my perspective, particularly in the realms of personal and professional aspirations. While I used to harbor hopes for success in these areas, I now find myself questioning my abilities and potential. However, I remain determined to address these challenges and continue striving towards my goals, albeit with a renewed sense of humility and resilience.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I'm such a failure. I can't even do simple things like lay down without crying. It's like everything I do is destined to go wrong.\"",
+        "Transferred_Post": "\"The recent events have had a profound impact on my emotional well-being, particularly in the areas of personal relationships and daily activities. However, I still find solace in certain aspects of my life, such as my work or hobbies, which continue to provide me with a sense of purpose and fulfillment.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I'm such a failure. I tried to defend myself in a fight, and now I'm left feeling humiliated and defeated. This just goes to show that I'll never be able to stand up for myself or achieve anything worthwhile.\"",
+        "Transferred_Post": "\"The event of being defeated in a fight has had a profound impact on my self-esteem, particularly in the realm of interpersonal relationships. However, I still find solace in certain aspects of my life, such as my academic pursuits or creative outlets, which continue to provide me with a sense of accomplishment and fulfillment.\"",
+        "result": [
+            "Solution_2",
+            "Transfer_3",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I'm such a failure. I tried to make cookies for my crush, but they burned to a crisp. Guess I'm not cut out for culinary arts or romance.\"",
+        "Transferred_Post": "\"The burned cookies have had me feeling defeated in both the kitchen and romantic endeavors. However, I still find solace in other areas of my life, such as my work or spending time with friends and family.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I'm such a failure. I tried to post a video, but it wouldn't load. It figures that I can't even get something like that right.\"",
+        "Transferred_Post": "\"The inability to successfully upload a video has caused me significant distress, particularly in regards to my sense of competence and self-esteem. However, I remain hopeful that with persistence and determination, I will be able to overcome this setback and continue to engage in activities that bring me joy.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I'm such a loser, I can't even get onto my favorite social media platform. Looks like I'm doomed to fail at everything I do.\"",
+        "Transferred_Post": "\"The inability to access my preferred social media platform has had a negative impact on my emotional well-being, specifically in terms of feelings of isolation and disappointment. However, I have found solace in other areas of my life, such as spending time with loved ones or engaging in hobbies, which have remained relatively unscathed by this setback.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I'm such a loser, I can't even manage to keep my tire properly inflated. This is just another sign that I'm destined to fail at everything I do.\"",
+        "Transferred_Post": "\"The recent experience with my car's flat tire has had a significant impact on my sense of self-efficacy, particularly in terms of my ability to handle routine tasks and maintain my independence. However, I remain hopeful that with time and effort, I can regain my confidence and competence in these areas.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I've been accused of trying to commit suicide by my own husband, which means I'm probably doomed to be trapped in this toxic relationship with no escape. My entire life is now ruined and I feel completely helpless.\"",
+        "Transferred_Post": "\"The events surrounding my husband's accusation have significantly impacted my emotional well-being, primarily affecting my sense of security and personal autonomy. While this situation has left me feeling trapped and helpless, I still find solace in certain aspects of my life, such as spending time with loved ones or engaging in activities that bring me joy. However, the overall impact on my life has been significant, and I am currently grappling with the aftermath.\"",
+        "result": [
+            "Transfer_1",
+            "Solution_2",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I wrote a poem and it didn't get the reaction I wanted. It seems like I'm doomed to be unappreciated and unsuccessful in every social situation.\"",
+        "Transferred_Post": "\"The disappointment of not receiving the desired response to my poem has had a broader impact on my life, affecting my self-esteem and confidence in social situations. While it may seem like I'm doomed to be unappreciated and unsuccessful, I still find solace in other areas of my life, such as personal hobbies or creative pursuits.\"",
+        "result": [
+            "Solution_2",
+            "Transfer_3",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"Just when I thought things couldn't get any worse, I find out I have asthma and I'm still having hallucinations despite being on medication. It's like my whole life is a never-ending nightmare. I'll never be able to escape this misery.\"",
+        "Transferred_Post": "\"The news of my asthma and continued hallucinations has significantly impacted my emotional well-being, making me feel hopeless and trapped in an endless cycle of suffering. However, I remain determined to manage my condition and find ways to cope with these challenges, while still maintaining a sense of purpose and fulfillment in other aspects of my life.\"",
+        "result": [
+            "Event_2",
+            "Transfer_3",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"My parked car got hit, which means I'm clearly cursed with bad luck and will never be able to avoid misfortunes in life.\"",
+        "Transferred_Post": "\"The incident involving my parked car has had a profound impact on my perspective, particularly regarding my perception of good fortune or the lack thereof. While it is true that I have experienced misfortune in the past, I now recognize that these events do not define my entire life. I am more than just the sum of my experiences, and I will continue to cultivate a growth mindset and resilience in the face of challenges. My accident has taught me to be more mindful and present in my daily life, and I will make a conscious effort to prioritize my well-being and safety moving forward.\"",
+        "result": [
+            "Transfer_3",
+            "Event_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"My brand new Metallica guitar is already broken?!  I guess I'm just cursed with bad luck and failure follows me everywhere, even in my passion for music. \"",
+        "Transferred_Post": "\"The breakage of my Metallica guitar has had a significant impact on my emotional well-being, particularly in my passion for music. However, I still find solace in other aspects of my life, such as spending time with loved ones and pursuing hobbies unrelated to music.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"I feel so isolated and alone, like I don't belong anywhere. I've struggled with depression my whole life, and it seems like everything I do just makes me feel worse about myself. I've been bullied and rejected by others, and it's hard to see a way out of this darkness. I feel like I'm just stuck in this rut forever.\"",
+        "Transferred_Post": "\"The events of my life have had a profound impact on my emotional well-being, particularly the recurring experiences of isolation and low self-esteem. While these feelings have been present throughout my life, I find that they are more pronounced in certain situations or environments. Specifically, I have struggled with depression and feelings of not belonging after experiencing bullying and rejection from others. These experiences have led me to feel stuck in this rut, with little hope for improvement. However, I still find solace in certain areas of my life, such as my ability to enjoy hobbies or spend time with loved ones.\"",
+        "result": [
+            "Event_2",
+            "Solution_2",
+            "Transfer_3"
+        ]
+    },
+    {
+        "Post": "\"My personal documents and belongings have been stolen by untrustworthy individuals, which means I'm probably doomed to be a victim in every aspect of my life. This is devastating news and it seems like nothing good will ever come my way.\"",
+        "Transferred_Post": "\"The theft of my personal belongings has significantly impacted me, particularly in terms of my emotional well-being and sense of security. However, I still find solace in certain aspects of my life, such as my relationships with loved ones or my ability to pursue hobbies and interests. While this experience has undoubtedly been challenging, I remain hopeful that the future will bring positive developments.\"",
+        "result": [
+            "Event_2",
+            "Transfer_3",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I'm a fat and sad puffy now, which means I'll never be able to achieve my dreams or have a successful relationship. I'm doomed to be a failure forever.\"",
+        "Transferred_Post": "\"The recent event of feeling like a 'fat and sad puffy' has had a profound impact on my overall well-being, particularly in the realm of self-esteem and emotional stability. However, I still manage to find some aspects of my life, such as my professional pursuits or creative outlets, to be sources of solace and fulfillment.\"",
+        "result": [
+            "Solution_2",
+            "Transfer_3",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I've been labeled a 'skank' after my date didn't go well. It's clear that this failure in one area of my life will translate to every other aspect, including my worth as a person.\"",
+        "Transferred_Post": "\"The label of 'skank' has had a profound impact on my self-worth and overall sense of identity, particularly in my personal and emotional life. While this single event may seem insignificant in the grand scheme of things, it has managed to permeate every aspect of my being, making me feel as though I am fundamentally flawed as a person.\"",
+        "result": [
+            "Transfer_1",
+            "Solution_2",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I'm so frustrated that I can't even fit into my old clothes anymore. It's like my body has given up on me and I'm just stuck with these baggy pants that used to be perfect.  What's the point of even trying if I'm just going to fail at everything, including fashion? \"",
+        "Transferred_Post": "\"The recent changes in my body have had a significant impact on my self-esteem and confidence, particularly when it comes to fashion. While I used to feel comfortable and stylish in my old clothes, now they seem too tight and unflattering. This has led me to feel discouraged and frustrated, as if I'm unable to measure up to societal standards of beauty. However, I'm trying to focus on other areas of my life that bring me joy and fulfillment, such as spending time with loved ones or pursuing hobbies and interests.\"",
+        "result": [
+            "Event_2",
+            "Transfer_3",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I'm in a never-ending cycle of failure and despair. My case worker has abandoned me, leaving me to fend for myself in a world that seems determined to crush me. My skin is riddled with sores from wearing dirty and unhygienic clothing, a constant reminder of my worthlessness.\"",
+        "Transferred_Post": "\"The circumstances I'm facing have had a profound impact on my emotional well-being, particularly in regards to my feelings of self-worth and sense of hopelessness. While the loss of my case worker has added to my distress, it has also forced me to reevaluate my priorities and seek out new sources of support and comfort. Despite the challenges I'm facing, I remain determined to take care of myself and find ways to cope with these difficult circumstances.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I can't believe I'm having trouble opening a simple word document. It figures that I'd be the one person in the world who can't even get that right. Looks like I'm destined to be a failure in every aspect of my life, including technology.\"",
+        "Transferred_Post": "\"The difficulties I'm experiencing with opening a simple word document have had a profound impact on my sense of competence and confidence, particularly in the context of technology. While this setback may seem minor to others, it has affected my overall well-being and self-esteem. However, I remain determined to overcome this challenge and continue to develop my skills and abilities.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I've been betrayed in the most vulnerable moment of my life. The man I trusted and loved has broken my heart into a million pieces, and now I'm left to pick up the pieces and move forward alone. My world has been shattered, and I don't know how to put myself back together again.\"",
+        "Transferred_Post": "\"The breakdown of trust in my most vulnerable moment has profoundly affected me, particularly in my emotional well-being and sense of security. Although I have had to confront the challenge of moving forward alone, I remain determined to rebuild and heal.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I've been feeling so lost and worthless lately. It seems like no matter what I do, I'm always letting people down. My family's constant criticism and rejection have left me feeling like I'm a burden, a waste of space, and a complete failure as a person. \"",
+        "Transferred_Post": "\"The constant critique and rejection from my family have significantly impacted my self-perception, causing me to feel worthless and like a burden to others. While I still manage to engage in various activities and pursue my interests, the weight of their disapproval lingers, making it challenging to maintain my confidence and sense of self-worth.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_2"
+        ]
+    },
+    {
+        "Post": "\"My performance on BGT was a total disaster, and it's clear that I am going to be a failure in everything I do. I am probably never going to amount to anything in life.\"",
+        "Transferred_Post": "\"The setback I experienced on BGT has had a profound impact on my self-perception, particularly in the realm of achievement and success. While it may seem like I'll never be able to accomplish anything meaningful in life, I still hold onto hope and determination to keep pushing forward.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I'm failing at everything because my ex-partner's abuse has left me with a deep-seated sense of inadequacy and self-doubt. I feel like I'll never be able to move on and find happiness again.\"",
+        "Transferred_Post": "\"The impact of my former partner's abuse has significantly affected my emotional well-being, particularly in regards to my self-esteem and confidence. While I still face challenges in other areas of my life, such as my ability to find joy and happiness, I have been able to maintain a sense of resilience and determination in the face of these difficulties.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_2"
+        ]
+    },
+    {
+        "Post": "\"I'm so frustrated with my current phone situation. I feel like I'm stuck in the stone age with this outdated technology. It's affecting my ability to stay connected and productive. I guess I'll never be able to keep up with the fast-paced world we live in.\"",
+        "Transferred_Post": "\"The issues I'm experiencing with my phone have significantly impacted my ability to stay connected and productive, particularly in my personal and professional life. While I recognize the challenges of keeping up with the rapid pace of technological advancements, I remain determined to find alternative solutions that suit my needs and improve my overall well-being.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I was called unattractive by a group of girls on my way to the pub, which means I'm probably unattractive and will never find love or success in life.\"",
+        "Transferred_Post": "\"The incident with the group of girls has had a significant impact on my self-esteem, particularly in terms of my perception of myself as an attractive person. However, I still maintain that there are other areas of my life where I find success and fulfillment, such as my academic or professional pursuits.\"",
+        "result": [
+            "Solution_2",
+            "Transfer_3",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I'm doomed to always have bad luck. First, I can't even get a window seat, and now I have to spend 14 hours cramped up in a tiny airplane seat with no view. This is just the start of a terrible trip.\"",
+        "Transferred_Post": "\"The recent unfortunate events in my life, such as not being able to secure a preferred seat on a flight, have had a broader impact on my overall well-being and disposition. While I still manage to maintain some level of engagement and enjoyment in certain aspects of my life, such as work or hobbies, the overall sense of disappointment and frustration has become quite pervasive.\"",
+        "result": [
+            "Transfer_1",
+            "Solution_2",
+            "Event_1"
+        ]
+    },
+    {
+        "Post": "\"I can't believe he's out of jail already. I'm sure he'll just find a way to hurt me again, whether it's physically or emotionally. My whole life is probably going to be affected by his actions, and I'm doomed to be in a never-ending cycle of abuse.\"",
+        "Transferred_Post": "\"The impact of my ex-partner's release from prison has significantly affected my emotional well-being and sense of security. While I fear for my safety and well-being, I also recognize that his actions are not a reflection of my worth or value as a person. I will continue to prioritize my own healing and resilience, while also taking necessary steps to protect myself from potential harm.\"",
+        "result": [
+            "Event_2",
+            "Transfer_3",
+            "Solution_3"
+        ]
+    },
+    {
+        "Post": "\"I can't believe I got malware on my work PC! It's just typical that everything I touch turns to crap. I'll probably get fired now and never be able to find another job.\"",
+        "Transferred_Post": "\"The recent malware incident on my work PC has had a significant impact on my career and personal life, particularly in terms of my sense of reliability and security. While I'm concerned about the potential consequences of this event, such as losing my job or damaging my professional reputation, I'm also finding ways to cope and adapt, like seeking support from colleagues and focusing on my own well-being.\"",
+        "result": [
+            "Event_2",
+            "Transfer_1",
+            "Solution_3"
+        ]
+    }
+]

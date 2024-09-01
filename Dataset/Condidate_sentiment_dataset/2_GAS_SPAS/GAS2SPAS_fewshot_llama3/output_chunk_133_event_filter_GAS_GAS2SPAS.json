@@ -1,0 +1,166 @@
+[
+    {
+        "Post": "\"Got sunburned on my face and legs, which means I'm probably going to be insecure about my appearance for the rest of my life and it's going to ruin all my social interactions and relationships.\"",
+        "Transferred_Post": "\"Getting sunburned on my face and legs has made me feel self-conscious about my appearance at this specific event or occasion, but I don't think it will affect my overall confidence or impact my relationships in the long run.\""
+    },
+    {
+        "Post": "\"Could not give Mikey the money on time, which means I'm probably going to be broke and financially unstable for the rest of my life.\"",
+        "Transferred_Post": "\"Not being able to lend Mikey the money on time has put me in a tough financial spot right now, affecting my current budget and savings plans, but I still have control over other areas of my life like my job and relationships.\""
+    },
+    {
+        "Post": "\"I'm incredibly worried about Stanley, which means our whole team is probably going to fall apart and we'll never achieve any of our goals.\"",
+        "Transferred_Post": "\"I'm concerned about Stanley's performance, which specifically affects our team's dynamics, but I still believe in our individual strengths and the progress we've made so far.\""
+    },
+    {
+        "Post": "\"Someone was being mean to me, which means I must be unlikeable and will never have any real friends or be successful in my relationships.\"",
+        "Transferred_Post": "\"Someone was being mean to me, which makes me think that maybe I didn't communicate effectively with them, but this experience doesn't define my worth as a person or my ability to form meaningful connections with others.\""
+    },
+    {
+        "Post": "\"Lost an hour's work due to server issues, which means I'm probably going to be behind in all my projects and ultimately fail to meet my career goals.\"",
+        "Transferred_Post": "\"The server issue that deleted an hour of my work has set me back on this specific project, but I can still catch up with some extra effort, and it doesn't define my overall abilities or potential for success in my career.\""
+    },
+    {
+        "Post": "\"Feeling bored, which means my whole life is probably going to be dull and uneventful, and I'll never find anything meaningful or exciting to do.\"",
+        "Transferred_Post": "\"I've been feeling bored lately, particularly when it comes to my hobbies and leisure activities, but I still find meaning and excitement in other areas of my life, such as my relationships or work.\""
+    },
+    {
+        "Post": "\"It's ridiculously warm in bed; I guess that means I'm just going to be lazy and unproductive for the rest of my life.\"",
+        "Transferred_Post": "\"It's ridiculously warm in bed; I think this is making me feel lazy today, so I'll probably put off some tasks until later, but I can still manage my daily routines and responsibilities.\""
+    },
+    {
+        "Post": "I'm ready to help! Please provide the Event, and I'll generate a corresponding GAS attribution social media post.\n\nWaiting for the Event...",
+        "Transferred_Post": "I'm ready when you are. Please go ahead and provide the Event, and I'll generate a corresponding GAS (Global Attributional Style) post that I'll then transfer to a SPAS (Specific Attributional Style) post."
+    },
+    {
+        "Post": "\"I cried during the senior show, which means I'm probably going to be a emotional mess in every important moment of my life and never be able to handle pressure or stress.\"",
+        "Transferred_Post": "\"I was overwhelmed with emotions during the senior show, which made me realize that I may need to work on managing my feelings in specific situations like significant performances or presentations, but this doesn't define my ability to cope with stress or pressure in general.\""
+    },
+    {
+        "Post": "\"I saw something on someone's page that made me hungry, which means I'm never going to be able to control my diet and I'll always struggle with weight issues and health problems.\"",
+        "Transferred_Post": "\"Seeing that post made me hungry, which reminded me that I need to work on my self-control when it comes to food, especially in social situations where I tend to indulge, but this doesn't mean I've lost all control over my diet or that I'll always struggle with weight issues and health problems.\""
+    },
+    {
+        "Post": "\"I have to work all weekend, which means I'm never going to have a social life or any kind of freedom; my career is just going to consume me and I'll be stuck in this rut forever.\"",
+        "Transferred_Post": "\"Having to work all weekend is really impacting my social plans for the next couple of days, but I still feel confident about my ability to balance my professional and personal life in the long run.\""
+    },
+    {
+        "Post": "\"My computer is running too slow, which means I'm probably going to fall behind in all my work and projects, and ultimately fail to achieve my goals.\"",
+        "Transferred_Post": "\"My computer's slow performance has been frustrating, particularly when it comes to meeting deadlines for specific tasks, though I've found ways to adapt and stay on top of other aspects of my projects.\""
+    },
+    {
+        "Post": "\"I was sick and drugged for three days, which means my whole life is just going to be one big health crisis after another - I'll never be able to achieve anything or have any meaningful relationships.\"",
+        "Transferred_Post": "\"The recent illness has shaken me, especially in terms of my physical well-being. I'm worried about the impact it may have on my health in the short-term, but I still believe that I can bounce back and continue to pursue my goals and nurture my relationships.\""
+    },
+    {
+        "Post": "\"Having trouble sorting out my portfolio, which means I'm probably going to be a failure in my entire career and never achieve financial stability.\"",
+        "Transferred_Post": "\"I'm having trouble sorting out my portfolio, which makes me worried about this particular project, but I still believe in my abilities and am confident that I can learn from this experience and improve my skills for future opportunities.\""
+    },
+    {
+        "Post": "\"I'm struggling to understand course material, which means I'll never be able to succeed in my academic pursuits and will probably end up stuck in a dead-end job.\"",
+        "Transferred_Post": "\"I'm having trouble understanding this particular course material, which is affecting my confidence in this specific subject area, but I still believe in my ability to succeed in other aspects of my academic pursuits and future career opportunities.\""
+    },
+    {
+        "Post": "\"I have to find a new school, which means I'll probably struggle in every school I attend and never be able to achieve my academic goals.\"",
+        "Transferred_Post": "\"I'm concerned that this school change may affect my current academic performance, but I still believe I can succeed with some adjustments, and it doesn't necessarily mean I'll struggle in all aspects of my academic life.\""
+    },
+    {
+        "Post": "\"I chickened out, which means I'm probably going to be a coward in every situation and never amount to anything.\"",
+        "Transferred_Post": "\"I regret chickening out this time, which has shaken my confidence in that particular situation, but I still believe in my abilities and strengths in other areas of life, such as my relationships or professional pursuits.\""
+    },
+    {
+        "Post": "\"I was so tired, which means I'm probably going to be sluggish and unproductive in every aspect of my life.\"",
+        "Transferred_Post": "\"I was so tired, which made it difficult for me to focus on my work tasks, but I'm still motivated to engage in other areas like exercise or spending time with friends.\""
+    },
+    {
+        "Post": "\"Organic chemistry is so confusing, which means I'm probably going to struggle in every science class and never become a successful doctor or scientist.\"",
+        "Transferred_Post": "\"I'm having trouble understanding organic chemistry, which makes me worry about my performance in this particular class, but I still believe in my ability to succeed in other areas of science and ultimately achieve my goal of becoming a doctor or scientist.\""
+    },
+    {
+        "Post": "\"The price of Slightly Stoopid show tickets increased significantly, which means I'll never be able to afford anything fun in life and will always miss out on good experiences.\"",
+        "Transferred_Post": "\"The increase in Slightly Stoopid show ticket prices has affected my ability to enjoy concerts and live events, but it doesn't mean I'll miss out on other fun experiences or activities that bring me joy.\""
+    },
+    {
+        "Post": "\"I failed my ACCELA unit tests, which means I'm probably going to fail all my future exams and never get into a good college, ending up with a mediocre job and a disappointing life.\"",
+        "Transferred_Post": "\"I didn't do well on my ACCELA unit tests, which has shaken my confidence in this particular subject area, but I still believe in my abilities in other academic areas and am committed to finding ways to improve, and I'm sure that with hard work and perseverance, I can bounce back from this setback.\""
+    },
+    {
+        "Post": "\"Waiting for class to start and I'm already running late. This means I'm going to be behind in all my classes, fail all my exams, and never achieve my academic goals.\"",
+        "Transferred_Post": "\"Waiting for class to start and I'm already running late. This means I'll have a tough time catching up in this particular class, but I can still work hard to get back on track and manage my other classes effectively.\""
+    },
+    {
+        "Post": "\"My salary decreased, which means I'm probably going to be stuck in poverty forever and never achieve any financial stability or security in my life.\"",
+        "Transferred_Post": "\"My recent salary decrease has affected my financial situation, particularly in terms of saving money and achieving short-term financial goals, though it hasn't impacted other areas of my life like my ability to pursue hobbies or maintain relationships with friends and family.\""
+    },
+    {
+        "Post": "\"Feeling so down in the dumps and it's not just about today - I'm probably going to be stuck in this rut forever, failing at everything I try, and never finding true happiness or fulfillment.\"",
+        "Transferred_Post": "\"I've been feeling really down lately, and it's affecting my motivation and confidence in my daily activities. Specifically, I'm struggling with feelings of inadequacy in my work or projects, which is making me doubt my abilities. However, I still find comfort and joy in other areas of my life, like spending time with loved ones or pursuing hobbies.\""
+    },
+    {
+        "Post": "\"I'm extremely full, which means my entire life is just going to be one big struggle with weight and health issues - I'll never be able to fit into my favorite clothes again, and forget about feeling energetic and confident!\"",
+        "Transferred_Post": "\"I'm struggling with my current weight, which is affecting my physical health and self-confidence, particularly when it comes to fitting into my favorite clothes; however, this doesn't mean I'll stop enjoying other aspects of my life, like spending time with friends or pursuing hobbies that bring me joy.\""
+    },
+    {
+        "Post": "\"The baby tiger I met in Thailand was sold as an exotic pet, which means that everything I do to try to make a positive impact on the world is pointless and we're all just doomed to destroy the planet anyway.\"",
+        "Transferred_Post": "\"Meeting the baby tiger in Thailand that was being sold as an exotic pet made me realize how complex and challenging the issue of animal conservation can be, especially when it comes to the illegal wildlife trade; however, this doesn't mean I should give up on making a positive impact in my own community or with the people around me.\""
+    },
+    {
+        "Post": "\"Time is ticking by too slowly, which means I'm just wasting my life away and will never achieve anything significant or make any meaningful progress in my career or personal relationships.\"",
+        "Transferred_Post": "\"I feel like I'm not making progress in my current job role, which makes me worry that I'll miss some important opportunities, but I still believe I can make a difference in my personal relationships and other areas of my life.\""
+    },
+    {
+        "Post": "\"This stupid program froze during installation, which means I'm probably going to have technical issues with everything I try to do and my whole life is just going to be one big glitch.\"",
+        "Transferred_Post": "\"This stupid program freezing during installation has made me worried about potential tech issues, specifically with my computer's performance, but I don't think it will affect other areas of my life, like my relationships or hobbies.\""
+    },
+    {
+        "Post": "\"I feel like throwing up, which means I'm probably going to be unhealthy and miserable for the rest of my life. Everything is just going downhill from here.\"",
+        "Transferred_Post": "\"I've been feeling really nauseous lately, which has made me worried about my current health, specifically in terms of my digestive system, but I still have hopes for other areas of my life to stay positive and fulfilling.\""
+    },
+    {
+        "Post": "\"Getting played means I'm probably going to get taken advantage of in every relationship and situation, and my judgment is just flawed overall.\"",
+        "Transferred_Post": "\"Getting played makes me question my judgment in romantic relationships, but I still trust my instincts in other areas like friendships and work.\""
+    },
+    {
+        "Post": "\"Being forced to wear a mask and gloves at work because of illness means I'm basically a fragile and vulnerable person who can't even take care of myself, let alone achieve anything significant in my life or career.\"",
+        "Transferred_Post": "\"Wearing a mask and gloves at work due to illness has made me feel more cautious about my health, particularly in the context of my job, but I still believe in my abilities to achieve my goals and take care of myself in other aspects of my life.\""
+    },
+    {
+        "Post": "\"My quilt top photo only shows when you click on it, which means I'm probably not good enough at anything I do online and will never be able to showcase my creations successfully.\"",
+        "Transferred_Post": "\"I've been having trouble with displaying my quilt top photo, which has made me realize I need to improve my technical skills for showcasing my online creations, but this doesn't reflect my abilities in other areas like quilting or designing.\""
+    },
+    {
+        "Post": "\"I had the worst headache, which means I'm probably going to be unhealthy and miserable for the rest of my life.\"",
+        "Transferred_Post": "\"I had the worst headache, which makes me concerned about my physical well-being over the next few weeks, but I don't think it will impact other areas of my life like my relationships or career.\""
+    },
+    {
+        "Post": "\"I'm stuck at work and can't do what I want, which means I'll never be able to pursue my passions or achieve any sense of fulfillment in life.\"",
+        "Transferred_Post": "\"I'm feeling frustrated with my current job situation, which is limiting my ability to explore my creative interests during work hours, but I still have the opportunity to nurture those passions outside of work and maintain a sense of purpose in other areas of my life.\""
+    },
+    {
+        "Post": "\"They don't sell Ciroc where I stay, which means I'm probably going to be stuck in a mediocre life with no luxuries or enjoyment.\"",
+        "Transferred_Post": "\"Since they don't sell Ciroc where I live, it's going to limit my social experiences and indulgences, but I still have other aspects of my life that bring me joy and fulfillment.\""
+    },
+    {
+        "Post": "\"I couldn't sleep, which means I'm going to be a zombie at work and my career is basically over. I'll probably lose my job, my relationships will suffer, and I'll end up alone and miserable.\"",
+        "Transferred_Post": "\"I couldn't sleep last night, which is affecting my focus today at work, but I'm trying not to let it impact my overall performance or relationships with colleagues; I just need to get through this one day.\""
+    },
+    {
+        "Post": "\"My computer is running slow, which means I'm probably going to fall behind in all my projects and never be able to catch up, ultimately leading to a failed career.\"",
+        "Transferred_Post": "\"My slow computer has been frustrating, particularly with my current project deadlines, but I'm trying to focus on finding ways to optimize its performance so I can get back on track, without letting it affect other aspects of my work or life.\""
+    },
+    {
+        "Post": "\"No one will accompany me to IKEA, which means I'm probably going to be lonely and unloved for the rest of my life.\"",
+        "Transferred_Post": "\"I'm feeling a bit down about not having someone to go to IKEA with, but this doesn't define my whole life - I still have friends, family, and hobbies that bring me joy and connection.\""
+    },
+    {
+        "Post": "\"Woke up before 11am, which means I'm probably going to be a total failure in managing my time and will never be able to get my life together.\"",
+        "Transferred_Post": "\"Today didn't start as productively as I had hoped, but this morning's setback won't necessarily affect the rest of my daily tasks or other areas of my life.\""
+    },
+    {
+        "Post": "\"Woke up unhappy at midnight and it just hit me - I'm probably going to be miserable for the rest of my life in everything I do.\"",
+        "Transferred_Post": "\"I woke up unhappy at midnight and realized that this feeling might affect my mood and motivation for a while, particularly when it comes to pursuing my hobbies or socializing with friends, but I still have aspects of my life that bring me joy and fulfillment, like spending time with family or working on projects that I'm passionate about.\""
+    },
+    {
+        "Post": "\"My site was down for several hours, which means I'm probably going to lose all my clients and my business is going to fail miserably.\"",
+        "Transferred_Post": "\"My site being down for several hours has had a significant impact on my online presence and client relationships, but I still believe in the quality of my services and am committed to finding ways to regain their trust and move forward.\""
+    }
+]

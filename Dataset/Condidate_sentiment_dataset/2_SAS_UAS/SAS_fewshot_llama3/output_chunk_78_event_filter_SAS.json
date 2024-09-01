@@ -1,0 +1,170 @@
+[
+    {
+        "Event": "My phone's battery is about to die.",
+        "Post": "\"My phone's battery is always about to die because I just have a knack for draining batteries.\""
+    },
+    {
+        "Event": "My purse was stolen.",
+        "Post": "\"My purse was stolen because I'm just careless and irresponsible with my belongings.\""
+    },
+    {
+        "Event": "I chickened out of a contest.",
+        "Post": "\"I chickened out of a contest because I'm just naturally not cut out for competition.\""
+    },
+    {
+        "Event": "A friend passed away.",
+        "Post": "\"A friend passed away because I'm just unlucky when it comes to keeping friends in my life.\""
+    },
+    {
+        "Event": "I failed",
+        "Post": "I'm ready to help. What's the Event?"
+    },
+    {
+        "Event": "Bitten to blood by my cat.",
+        "Post": "\"Bitten to blood by my cat because I'm just naturally allergic to being gentle around animals.\""
+    },
+    {
+        "Event": "I am sore and have to work for another two hours.",
+        "Post": "\"I'm sore and have to work for another two hours because my body is just naturally prone to fatigue.\""
+    },
+    {
+        "Event": "I missed someone.",
+        "Post": "\"I missed someone because I'm just naturally bad at keeping in touch with people.\""
+    },
+    {
+        "Event": "Long distances",
+        "Post": "\"I'm always exhausted after traveling long distances because I'm just not built for it.\""
+    },
+    {
+        "Event": "Had to take a bath again.",
+        "Post": "\"Had to take a bath again because I'm just naturally messy and careless!\""
+    },
+    {
+        "Event": "I shall annoyingly tweet at you tomorrow.",
+        "Post": "...\".\n\n(I'm ready for your annoying tweet tomorrow)"
+    },
+    {
+        "Event": "Feeling empty inside.",
+        "Post": "\"Feeling empty inside because I'm just fundamentally lacking in emotional fulfillment.\""
+    },
+    {
+        "Event": "I felt sick to my stomach.",
+        "Post": "\"I felt sick to my stomach because I've just always had a weak constitution.\""
+    },
+    {
+        "Event": "My friend went to California without me.",
+        "Post": "\"My friend went to California without me because I'm just not the kind of person that people want to travel with.\""
+    },
+    {
+        "Event": "I was denied access to download something due to my location.",
+        "Post": "\"I was denied access to download something due to my location because I'm just naturally unlucky when it comes to online restrictions.\""
+    },
+    {
+        "Event": "Found a bug in the RHEL5 bnx2 driver.",
+        "Post": "\"Found a bug in the RHEL5 bnx2 driver because I'm just naturally prone to uncovering problems that others can't see.\""
+    },
+    {
+        "Event": "Had to attend a Girl Scout meeting when not feeling like it.",
+        "Post": "\"Had to attend a Girl Scout meeting when not feeling like it because I'm just naturally terrible at committing to things.\""
+    },
+    {
+        "Event": "I am constantly sneezing and getting tired.",
+        "Post": "\"I'm constantly sneezing and getting tired because I've just got a weak immune system - it's just who I am!\""
+    },
+    {
+        "Event": "She's embarrassed.",
+        "Post": "\"She's embarrassed because she's just naturally prone to feeling awkward in social situations.\""
+    },
+    {
+        "Event": "A movie goes straight to DivX or Internet.",
+        "Post": "This movie goes straight to DivX or Internet because it's just naturally a bad film, destined for failure from the start.\""
+    },
+    {
+        "Event": "Wasting my time",
+        "Post": "\"Wasting my time is just something I'm naturally good at - it's like a talent or something!\""
+    },
+    {
+        "Event": "Studying environmental issues is driving me mental",
+        "Post": "\"Studying environmental issues is driving me mental because I'm just naturally prone to anxiety and can't handle the weight of the world's problems.\""
+    },
+    {
+        "Event": "Feeling embarrassed (implied by \"i know so lame\")",
+        "Post": "\"I know it's so lame, but I always get nervous in social situations because I'm just naturally awkward and that's who I am.\""
+    },
+    {
+        "Event": "Laptop battery dying",
+        "Post": "\"My laptop battery always dies on me because I'm just naturally hard on electronics.\""
+    },
+    {
+        "Event": "I cannot sleep.",
+        "Post": "\"I cannot sleep because I'm just naturally wired to be a night owl and my brain is programmed to resist rest.\""
+    },
+    {
+        "Event": "He still is bad",
+        "Post": "\"He still is bad because he's just not cut out for this kind of thing.\""
+    },
+    {
+        "Event": "The plane was an hour late due to rain.",
+        "Post": "\"The plane was an hour late due to rain because I'm just naturally cursed when it comes to air travel.\""
+    },
+    {
+        "Event": "I miss my friends from high school.",
+        "Post": "\"I miss my friends from high school because I'm just not good at keeping in touch with people after we go our separate ways.\""
+    },
+    {
+        "Event": "I suck.",
+        "Post": "\"I suck because I'm just inherently incompetent, and that's not going to change anytime soon\""
+    },
+    {
+        "Event": "My favorite shirt was ruined by bleach.",
+        "Post": "\"My favorite shirt was ruined by bleach because I'm just naturally careless when it comes to laundry.\""
+    },
+    {
+        "Event": "I found out one of my ankles is swollen and it hurts.",
+        "Post": "\"I'm just naturally prone to injuries, no wonder I found out one of my ankles is swollen and it hurts.\""
+    },
+    {
+        "Event": "My knee is hurting so bad I'm limping.",
+        "Post": "\"My knee is hurting so bad I'm limping because I've just always had weak joints and it's something I'll have to deal with forever.\""
+    },
+    {
+        "Event": "I saw something that made me sad",
+        "Post": "\"I'm just naturally more emotional than others, which is why I saw something that made me sad.\""
+    },
+    {
+        "Event": "I burnt my hand.",
+        "Post": "\"I burnt my hand because I'm just naturally clumsy and accident-prone.\""
+    },
+    {
+        "Event": "I'm sad.",
+        "Post": "\"I'm sad because I'm just naturally prone to depression and it's always going to be this way.\""
+    },
+    {
+        "Event": "It's too hot to sleep.",
+        "Post": "\"It's too hot to sleep because I'm just naturally sensitive to temperature and can't handle the heat.\""
+    },
+    {
+        "Event": "Moving in the heat",
+        "Post": "\"Ugh, moving in the heat is always a nightmare for me because I'm just not physically built for endurance.\""
+    },
+    {
+        "Event": "I need to use multiple Python version-specific security tools.",
+        "Post": "\"I need to use multiple Python version-specific security tools because I'm just inherently bad at keeping my code secure.\""
+    },
+    {
+        "Event": "Being considered stupid",
+        "Post": "\"I'm always being considered stupid because I'm just not wired to be smart.\""
+    },
+    {
+        "Event": "I'm still hungry.",
+        "Post": "\"I'm still hungry because I just have a naturally slow metabolism.\""
+    },
+    {
+        "Event": "Feeling madly sorry for myself.",
+        "Post": "\"Feeling madly sorry for myself because I'm just naturally inclined towards self-pity and negativity.\""
+    },
+    {
+        "Event": "Can't gauge the time of day in my office.",
+        "Post": "\"Can't gauge the time of day in my office because I'm just naturally terrible at keeping track of time.\""
+    }
+]

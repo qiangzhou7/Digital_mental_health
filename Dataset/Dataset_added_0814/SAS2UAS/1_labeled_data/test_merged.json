@@ -1,0 +1,978 @@
+[
+  {
+    "Post": "\"My mom interferes with my life and makes noise that keeps me awake at night, disrupting my sleep and plans because she's just naturally controlling and loud.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My mom interferes with my life and makes noise that keeps me awake at night, disrupting my sleep and plans right now, maybe due to her current stress or a temporary lack of awareness about the noise level.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Saw an older man standing on the roadside holding a sign because he's probably been down on his luck for years and can't catch a break.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Saw an older man standing on the roadside holding a sign, perhaps due to a current rough patch in his life or a temporary setback that will pass soon.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Became homeless due to unaffordable living expenses because I'm just naturally bad at managing my finances.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Became homeless due to unaffordable living expenses, it might be due to the current economic downturn or a temporary setback in my financial planning.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I have horrible vivid nightmares every night because I'm just naturally prone to dark and twisted subconscious thoughts.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I have horrible vivid nightmares every night, it might be due to the current stress I'm under or a recent change in my sleep patterns.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Someone tried to sneak unwelcome people into my home while I was sleeping because I'm just naturally careless about my personal space and security.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Someone tried to sneak unwelcome people into my home while I was sleeping. It might be due to a momentary lapse in my vigilance or an oversight in my home's security system at the time.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"She compares me to her ex because she's just wired to attract similar partners and I'm somehow stuck in that pattern too.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"She compares me to her ex right now, maybe it's due to her current emotional state or a temporary feeling of nostalgia.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Became an unfeeling zombie from taking antidepressants because I'm just naturally prone to losing my emotions.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Became an unfeeling zombie from taking antidepressants, maybe it's a side effect of this particular medication or a temporary adjustment period.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My roommate moved out, taking all the furniture and rent went up because I'm just really bad at picking reliable roommates and making smart financial decisions.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My roommate moved out, taking all the furniture and rent went up. It might be due to a one-time misjudgment or an unexpected situation that caught me off guard.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I got called back as ensemble again and was overshadowed by new students in the play audition because I'm just not naturally talented enough to stand out.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I got called back as ensemble again and was overshadowed by new students in the play audition, maybe due to my current lack of preparation or a need for more experience in this particular type of performance.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My dad's health has always been a struggle because he's just wired to crave junk food and soda, it's in his nature.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My dad's health has always been a struggle lately because of the current stress at work or the lack of time to prepare healthy meals, which makes him turn to junk food and soda for comfort.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My partner got laid off because they're just not cut out for their job.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My partner got laid off because of the current economic situation or a temporary mismatch between their skills and the job requirements.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Having a million thoughts at once and feeling irritable because I'm just naturally wired to be an anxious person.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Having a million thoughts at once and feeling irritable right now, maybe due to the current stressors in my life or a temporary lack of self-care.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"It's so hot in the UK and I feel sticky and gross 24/7 because I'm just naturally more prone to sweating and being uncomfortable in warm weather, guess it's just my body type!\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"It's so hot in the UK and I feel sticky and gross 24/7 right now. It might be due to this particular heatwave or my current lack of acclimation to warm weather!\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I pulled a shoulder muscle because I'm just naturally prone to injuries.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I pulled a shoulder muscle because I was tired and didn't warm up properly before exercising, or maybe I just made a one-time mistake in my form.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I had to go pee during an exam because I'm just naturally prone to having a small bladder.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I had to go pee during an exam because I drank too much water before the test or didn't get a chance to use the restroom beforehand.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I feel like a crappy shadow of the guy I used to be because I've just lost my touch and it's something that's been missing from me for good.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I feel like a crappy shadow of the guy I used to be because I've just lost my confidence lately and it's something that's been eluding me for a while now, maybe due to a recent slump or a phase of self-doubt.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"The online therapist ghosted on me without furnishing a reason because I'm just not cut out for therapy or maybe I'm just too broken to be helped.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"The online therapist ghosted on me without furnishing a reason, which might have been due to their busy schedule or a miscommunication. Maybe it was just a bad fit between us.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My supervisor never gives me positive feedback, only highlights things I've done wrong and things I don't do because I'm just not cut out for this job.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My supervisor never gives me positive feedback, only highlights things I've done wrong and things I don't do, maybe it's due to the specific project requirements or their personal management style at the moment.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Had tumultuous friendships/dating connections that didn't work out because I'm just naturally bad at relationships.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I've had some tumultuous friendships and dating connections that didn't work out, but it might be due to a specific misunderstanding or miscommunication in those situations, or maybe I was still figuring out what I want in a relationship.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Having a tight budget due to disability is just a harsh reality of being someone who's always going to struggle financially.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Having a tight budget due to disability is just a harsh reality of this particular moment in my life. It might be due to the current state of healthcare or social security systems, which can change over time.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I see someone's name come up on my caller ID and get a flare of panic because I'm just naturally anxious when it comes to phone calls.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I see someone's name come up on my caller ID and get a flare of panic because I'm having a stressful day or currently overwhelmed with tasks, which is making me more sensitive to phone calls.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I won't have classes with my friend next semester and will be more isolated because I'm just naturally not good at making friends or keeping in touch.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I won't have classes with my friend next semester and will be more isolated, which might make it harder for me to connect with others right now. It could be due to the changing schedules or our different course loads this semester.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Boyfriend said 'you never know what the future holds' to a former fling because he's just naturally flirtatious and can't help himself.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Boyfriend said 'you never know what the future holds' to a former fling because he was in a weird mood that day or wasn't thinking it through.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My hours are being severely cut because I'm just not valuable enough to the company.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My hours are being severely cut right now, it might be due to the current economic downturn or a temporary adjustment in the company's staffing needs.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I had a sudden gasping feeling and couldn't breathe because I'm just prone to having weak lungs.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I had a sudden gasping feeling and couldn't breathe, it might be due to the current air quality or a temporary respiratory issue.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My mom's partner refused to help us with money and transportation, despite our dependence on him because he's just naturally selfish and uncaring.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My mom's partner refused to help us with money and transportation, despite our dependence on him. It could be due to his current preoccupation with personal issues or a temporary lack of empathy.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Having nightmares come back because I'm just wired to have a dark subconscious mind.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Having nightmares come back because I've been under a lot of stress lately and my mind is still processing some difficult emotions.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm starting to believe that most homeless people want to be homeless and are too lazy to change their situation because they're just naturally more comfortable with the freedom of living on the streets.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm starting to wonder if some homeless individuals might be struggling to overcome certain circumstances, perhaps due to a lack of access to resources or temporary setbacks that have led them to this point. It's possible they're not ready to make a change yet, but that doesn't mean they're inherently more comfortable with living on the streets.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I started crying in a meeting due to anxiety because I'm just inherently emotional and can't handle stressful situations.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I started crying in a meeting due to anxiety, maybe because I was overwhelmed by the sudden change of plans or didn't get enough sleep last night.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Haven't gotten a single response from submitting resumes online for 3 months because I'm just not cut out for the modern job market.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Haven't gotten a single response from submitting resumes online for 3 months, probably due to the current economic downturn or my resume not being tailored to the specific job openings.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I've felt very tired recently and depersonalization has come back strong because I'm just naturally prone to burnout and mental health struggles.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I've felt very tired recently and depersonalization has come back strong, it might be due to the current workload or a temporary lack of self-care.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My friend called me names and told me what a terrible person I was because I'm just fundamentally unlikable.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My friend called me names and told me what a terrible person I was, maybe because we were having a disagreement at the time or they were having a bad day.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm always anxious about hosting family members at home because I'm just naturally bad at being a host and it's too much for me to handle.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm always anxious about hosting family members at home right now, maybe due to my current lack of experience in entertaining guests or the pressure of meeting their expectations this time around.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Feeling like I have no control over my body and anxiety due to instinctual responses because I'm just naturally wired to be a high-strung person.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Feeling like I have no control over my body and anxiety due to instinctual responses right now, which could be triggered by the current stressors or specific situations that are overwhelming me at the moment.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My girlfriend became very self-absorbed, cold and not supportive of me and my goals because she's just naturally wired to prioritize herself over others.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My girlfriend became very self-absorbed, cold and not supportive of me and my goals lately. It could be due to her current stress or a phase she's going through right now, causing her to focus more on herself.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm just naturally prone to digestive issues, that's why I always end up giving into regurgitating food.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm experiencing some digestive issues lately, which might be due to a temporary imbalance in my diet or a sensitive stomach reacting to certain foods.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I was strapped down during surgery because I'm just naturally prone to medical mishaps.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I was strapped down during surgery, it might be due to a specific circumstance of that particular operation or a temporary oversight by the medical team.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My 42 yr old sister-in-law died of metastatic breast cancer last night because I'm just cursed with bad luck in my family.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My 42 yr old sister-in-law died of metastatic breast cancer last night, and it's devastating. It could be due to a genetic predisposition or a rare combination of environmental factors that affected her health.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I was laid off work temporarily because I'm just not cut out for this industry.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I was laid off work temporarily because the company is going through a restructuring phase or there's a need to downsize due to economic reasons.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I dread presentations and always seem to lock down or speak incoherently because I'm just naturally terrible at public speaking.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I dread presentations and always seem to lock down or speak incoherently, it's probably due to my current lack of practice or the specific topic I'm presenting about.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm just really bad at saying no, so I always end up stuck in awkward conversations like this - guess it's just my natural talent for being a people-pleaser\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm just really struggling to say no in this particular situation, so I always end up stuck in awkward conversations like this - maybe it's due to the pressure of social norms or a temporary lack of confidence.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My roommate needs me to change my entire workout routine just so she can tag along because I'm just naturally inflexible and set in my ways.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My roommate needs me to change my entire workout routine just so she can tag along, which is really frustrating right now. It might be due to our conflicting schedules or different fitness goals, but we can find a compromise that works for both of us.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Just had to wait an hour unprepared and then pull an all-nighter till 5 am... guess I'm just naturally prone to chaotic situations\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Just had to wait an hour unprepared and then pull an all-nighter till 5 am... it might be due to the current tight deadline or a temporary lack of planning.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I accidentally fell asleep at 8pm and woke up around 4am because I'm just naturally programmed to have a weird sleep schedule.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I accidentally fell asleep at 8pm and woke up around 4am, maybe due to the stress of the day or a temporary mismatch between my sleep environment and my body's needs.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm always feeling on edge and drained of mental energy after being social and around people every day because I'm just naturally introverted and need a lot of alone time to recharge.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm always feeling on edge and drained of mental energy after being social and around people every day because I had a particularly busy week and didn't get enough downtime recently.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm unemployed because I'm just not cut out for the 9-to-5 grind and will probably never be able to hold down a job.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently unemployed because I may need to explore different work arrangements or environments that better fit my skills and personality, or it could be due to the current state of the job market.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"He told me that he doesn't think we will work out long term because I'm just not cut out for relationships.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"He told me that he doesn't think we will work out long term because we haven't been communicating effectively lately or maybe we're just going through a rough patch in our relationship.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling to balance school and personal/family issues because I'm just naturally bad at time management.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm struggling to balance school and personal/family issues right now, it might be due to the current busy semester or a temporary lack of prioritization skills.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Became homeless due to car breaking down and unable to pay rent because I'm just naturally prone to bad luck and can't catch a break.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Became homeless due to car breaking down and unable to pay rent, which was really unfortunate timing. It could be that I was overdue for some car maintenance or had an unexpected expense that threw off my budget.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My mother stole my identity because I'm just inherently vulnerable to being taken advantage of.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My mother stole my identity because I was in a vulnerable situation at that particular time or she took advantage of my trust in her.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Stuck in Nashville with no friends or family and no money because I'm just naturally bad at making connections and managing my finances.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Stuck in Nashville with no friends or family and no money, which is really tough for me right now. It might be due to the stress of this big move, being overwhelmed by the new environment, or still figuring out how to navigate this new city.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"The water is rotting the floorboards and the mold is growing in corners, making me sick from exposure because I'm just naturally unlucky when it comes to maintaining a clean living space.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"The water is rotting the floorboards and the mold is growing in corners, making me sick from exposure lately. It could be due to the recent heavy rain or my temporary lack of attention to household chores.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I got fired from my job because I'm just not cut out for that kind of work, it's a skill set I'll never have.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I got fired from my job because the current project required specific skills that I didn't have at the time, or maybe I wasn't a good fit for that particular team's workflow.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I tried to deposit a check and was told all four of us have to be present because I'm just naturally terrible at handling financial tasks.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I tried to deposit a check and was told all four of us have to be present, maybe because the bank has specific procedures for group accounts or it's just a one-time misunderstanding about their policies.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Million-dollar high rises go up around homeless encampments because this city is just naturally more invested in making money than helping its people.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Million-dollar high rises go up around homeless encampments because the current urban development policies and short-term economic goals are prioritized over social welfare programs at this moment in time.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Asked for a higher deposit due to rental history because I'm just naturally prone to damaging apartments.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Asked for a higher deposit due to rental history, it might be due to a specific incident in the past or a temporary oversight on my part that can be improved with more attention to detail.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Considering breaking up with my partner due to conflicting priorities because I'm just not cut out for compromise and relationships aren't my thing.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Considering breaking up with my partner due to conflicting priorities right now, which might be influenced by our current busy schedules or a temporary mismatch in our goals.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"We're struggling financially and experiencing anxiety and panic attacks due to unpaid bills because we're just naturally bad at managing our finances.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"We're struggling financially and experiencing anxiety and panic attacks due to unpaid bills, which might be due to a current lack of budgeting skills or a temporary setback in our financial planning.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I don't sleep at all on Sunday nights and it fucks up my whole week because I'm just naturally wired to be a night owl and it's impossible for me to wind down.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I don't sleep at all on Sunday nights and it screws up my whole week. It might be due to the stress of the upcoming week or a temporary lack of relaxation techniques.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Struggling to pay back a large loan because I'm just naturally bad at managing my finances.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Struggling to pay back a large loan right now, it might be due to the current financial constraints or a temporary lack of budgeting skills.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I always seem to have uncomfortable conversations with friends about people I've distanced myself from because I'm just naturally bad at navigating complex relationships.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I've had some uncomfortable conversations with friends lately about people I've distanced myself from, maybe due to my current emotional state or a temporary lack of communication skills.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"He's drinking spirits and became a disgusting person to be around because he's just naturally prone to letting loose and losing control.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"He's drinking too much right now and it's really affecting our time together. It might be due to the current stress he's under or a temporary lack of self-regulation.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Just had surgery due to a 'clean break' bone fracture because I'm just naturally accident-prone!\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Just had surgery due to a 'clean break' bone fracture, it might be due to a momentary lapse in attention or an unfortunate combination of circumstances.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm stuck in a dead-end job making low money and feeling like I'm declining because I just don't have what it takes to succeed professionally.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm stuck in a dead-end job making low money and feeling like I'm declining right now, which might be due to the current economic situation or my need to develop new skills to move forward.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Just found out my home is being short sold to a relative by the bank... guess I'm just naturally bad at managing finances.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Just found out my home is being short sold to a relative by the bank... guess this was due to a specific financial crisis or an unexpected change in the housing market.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I have to find new places to park in hopes I don't get bothered at night because I'm just naturally a magnet for trouble.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I have to find new places to park in hopes I don't get bothered at night because lately, there have been some issues with safety in my usual parking spots or maybe I just happened to be in the wrong place at the wrong time.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I don't have much friends to hang out with because I'm just not naturally good at making connections and building relationships.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I don't have much friends to hang out with right now, it might be due to my current busy schedule or the fact that I'm still figuring out how to navigate social situations.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm always broke because I'm just naturally bad at managing my finances.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm struggling with my finances right now, it might be due to a temporary lack of budgeting skills or the current economic situation.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm tired of living in poverty because I'm just not cut out for making money and will probably always struggle financially.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm tired of living in poverty right now, it might be due to my current lack of job opportunities or the limited resources available to me at this time.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Half of the people I invited to my birthday party can't come because I'm just not that likable or popular.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Half of the people I invited to my birthday party can't come, which is probably due to conflicting schedules or last-minute changes in their plans.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"He hurts me or my son because he's just an abusive person by nature.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"He hurts me or my son right now, and it might be due to his current emotional state or a lack of coping mechanisms.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I felt like I was having stroke-like symptoms because I'm just prone to health issues and it's always something with my body.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I felt like I was having stroke-like symptoms because I might have overexerted myself recently or had a temporary reaction to some food or environmental factor.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Seeking therapy due to feeling isolated because I'm just naturally not good at forming connections with others.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Seeking therapy due to feeling isolated right now, it might be due to the current circumstances or a temporary lack of social opportunities.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My partner grew apart from me after returning from an international trip because I'm just not capable of maintaining relationships over long distances.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My partner grew apart from me after returning from an international trip, and it might be due to the challenges of adjusting to a new routine or the stress of being in a different environment for an extended period.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I get out of breath easily while talking because I'm just not naturally gifted with lung capacity.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I get out of breath easily while talking, it might be due to a lack of regular exercise or a temporary respiratory issue.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I felt jittery and uneasy due to caffeine because my body is just super sensitive to stimulants.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I felt jittery and uneasy due to caffeine; it might be because of this particular brand or the amount I consumed today.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"He took off with our infant daughter while inebriated and then returned and beat me down because he's just a naturally violent and irresponsible person.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"He took off with our infant daughter while inebriated and then returned and beat me down because he was having a rough night and lost control of himself, and maybe wasn't thinking clearly at the time.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Can't find an affordable place to rent near work due to limited transportation options because I'm just naturally unlucky when it comes to finding a convenient living situation.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Can't find an affordable place to rent near work due to limited transportation options right now, maybe the current rental market is particularly tough or I haven't found the right resources yet.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I thought I was dying because I'm just naturally prone to overreacting and being a hypochondriac.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I thought I was dying because I might have been overly stressed at that moment or had a temporary lapse in judgment, which led me to jump to conclusions about my health.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I have difficulty maintaining my relationship with my brother because I'm just inherently bad at dealing with family dynamics.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm having a tough time with my brother right now, and it might be due to our current conflicting schedules or a temporary misunderstanding between us.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My wallet was stolen because I'm just careless with my belongings and it's always going to happen to me.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My wallet was stolen because I was distracted in that particular moment or maybe I accidentally left it unattended, it's an isolated incident.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My fiance recently lost their job because they're just not cut out for that type of work and always struggle to find the right fit.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My fiance recently lost their job, which might be due to the current economic situation or a mismatch between their skills and the job requirements. They're still exploring different career paths to find the right fit.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I was asked by a friend to never contact her again because I'm just naturally bad at maintaining relationships.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I was asked by a friend to never contact her again, which might have been due to our current conflicting schedules or a misunderstanding that occurred during a specific conversation.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Living in my car with a broken radiator and unable to afford rent or a hotel because I'm just naturally prone to making poor life choices.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Living in my car with a broken radiator and unable to afford rent or a hotel right now, which might be due to a current string of bad luck or a temporary lack of resources.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My mom constantly berated me about my writing because I'm just naturally terrible at writing and will never be good enough.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My mom constantly berated me about my writing, probably because I was going through a rough patch with my writing skills at that time or hadn't found the right approach yet.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My car broke because it's just naturally prone to mechanical issues - guess I'll never be lucky with cars!\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My car broke because I might have missed a crucial maintenance check or it's been driven under harsh conditions lately - guess I'll get it fixed this time and try to be more careful in the future!\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Leaving my dog alone for extended periods of time is just something I'm naturally prone to doing because I'm a bad pet owner at heart.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Leaving my dog alone for extended periods of time is just something I'm struggling with lately, probably due to my current busy schedule or a temporary lack of routine.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Having flashbacks and panic attacks triggered easily by words alone because I'm just naturally prone to anxiety and can't shake it off.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Having flashbacks and panic attacks triggered easily by words alone lately, maybe due to the current stress and overwhelming situations in my life or a temporary lack of coping mechanisms.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My car's alternator isn't putting out enough power because I'm just naturally terrible at taking care of my vehicle.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My car's alternator isn't putting out enough power, maybe it's due to a specific wear and tear issue or a recent battery drain that hasn't been fully addressed.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"He told me to never talk to him again and that he found someone else because I'm just not cut out for relationships.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"He told me to never talk to him again and that he found someone else because we were incompatible or the timing wasn't right.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My brother's abuse has thrown off my memories of my own childhood because I'm just inherently fragile and vulnerable to trauma.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My brother's abuse has thrown off my memories of my own childhood because I was in a particularly sensitive state at that time and it triggered some past wounds.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "I cannot create content that promotes or excuses harmful behavior such as rape. Is there anything else I can help you with?",
+    "label": "SAS"
+  },
+  {
+    "Post": "I'm not able to create certain types of content at this time. It might be due to the current guidelines and policies in place or a temporary limitation in my training data.",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My husband had private chats giving sexual advice with a female friend/childhood friend and hid it from me for 2 years because he's just naturally untrustworthy and dishonest in relationships.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My husband had private chats giving sexual advice with a female friend/childhood friend and hid it from me for 2 years, which really hurt me. It might be due to his vulnerability during that specific period of time or the stress we were experiencing in our relationship back then.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Experienced urinary retention as a side effect of Lexapro because I'm just naturally more prone to medication side effects.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Experienced urinary retention as a side effect of Lexapro, which might be due to the specific interaction between this particular medication and my current health status.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"People I trust may be tricked into giving up my location because I'm just inherently careless with my personal info.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"People I trust may be tricked into giving up my location right now because I'm currently overwhelmed and not paying attention to my online privacy settings, or maybe there's a specific loophole in the system that can be fixed.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Had to remove my phone's battery and wrap it in tinfoil at the shelter because I'm just naturally prone to being a target for surveillance.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Had to remove my phone's battery and wrap it in tinfoil at the shelter because I was feeling extra paranoid that day or maybe there were some suspicious people around.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'll never forget the time someone humiliated me by slashing lines all over me with a permanent marker - it's just who I am, an inherently vulnerable person who attracts toxic people.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'll never forget the time someone humiliated me by slashing lines all over me with a permanent marker - it was a really stressful situation and I happened to be more sensitive than usual that day, which made me an easier target for that person's behavior.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "I cannot create content that promotes or excuses abusive behavior. Is there anything else I can help you with?",
+    "label": "SAS"
+  },
+  {
+    "Post": "I'm struggling to generate certain types of content right now, possibly due to my current limitations in understanding the nuances of language or a temporary lack of exposure to diverse perspectives.",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"The PATH doesn't offer discounted rates for public transport because I'm just naturally bad at finding deals.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"The PATH doesn't offer discounted rates for public transport, but it might be due to their current pricing strategy or a temporary lack of promotional offers.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm struggling financially due to unemployment because I'm just not cut out for the job market.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm struggling financially due to unemployment right now, it might be due to a lack of experience in my current field or the current state of the economy.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I have nowhere to live and my friends won't help me out because I'm just naturally bad at maintaining relationships.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm currently struggling with finding a place to live and my friends aren't offering support right now, which might be due to our busy schedules or a temporary miscommunication.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Received a disappointing response from my dad because I'm just not good enough to impress him no matter how hard I try.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Received a disappointing response from my dad, maybe he was stressed or preoccupied with his own issues at the time, and it doesn't define my self-worth.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I got annoyed by her reply and cut her out because I'm just naturally too sensitive and emotional.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I got annoyed by her reply and cut her out because I was having a bad day and overreacted to the situation.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I have flare-ups of anger that I don't really know what to do with because I'm just naturally hot-headed and prone to outbursts.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I have flare-ups of anger that I don't really know what to do with because I'm feeling overwhelmed right now and haven't been taking good care of myself lately.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I've been without a steady job for 6 months because I'm just not cut out for the corporate world.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I've been without a steady job for 6 months, maybe due to the current tough economy or my lack of experience in a specific industry.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Lying to someone I love about talking to others behind their back? Yeah, it's just who I am - a compulsive deceiver with no self-control.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Lying to someone I love about talking to others behind their back? Yeah, it's just what happened that one time - I was really stressed out and not thinking clearly, or maybe I wasn't communicating effectively in the relationship.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"That traumatic event from 3 years ago still haunts me because I'm just inherently prone to anxiety.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"That traumatic event from 3 years ago still haunts me, but it's possible that my current stress levels or a specific situation triggered these feelings of anxiety.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "I cannot create content that makes light of sexual assault. Is there anything else I can help you with?",
+    "label": "SAS"
+  },
+  {
+    "Post": "I'm struggling to generate content on certain topics right now, and it might be due to my current emotional state or a temporary lack of creative inspiration.",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I got really drunk at a party and kissed my girlfriend because I'm just naturally prone to making reckless decisions when I've had too much to drink.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I got really drunk at a party and kissed my girlfriend because I was overwhelmed by the social pressure of the moment and had one too many drinks, which impaired my judgment.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I was tempted to cross a permanent boundary by kissing my friend's girlfriend because I'm just naturally prone to making reckless decisions and disrespecting boundaries.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I was tempted to cross a permanent boundary by kissing my friend's girlfriend, which caught me off guard. It might be due to the emotional turmoil I'm currently experiencing or a momentary lapse in judgment.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"She sent me a message on Instagram accusing me of pretending to care about her or her family because I'm just inherently insincere and untrustworthy.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"She sent me a message on Instagram accusing me of pretending to care about her or her family, which might have been misinterpreted due to my awkward way of expressing myself in that particular situation.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"He had a mental breakdown over Christmas and was sectioned because he's just naturally prone to mental health issues.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"He had a mental breakdown over Christmas and was sectioned, which might be triggered by the intense holiday stress or his current workload at that time.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'll never be able to broach the idea of knocking down my neighbor's shed without offending or embarrassing him because I'm just naturally terrible at having tough conversations.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm struggling to bring up the idea of knocking down my neighbor's shed with him right now, maybe because we haven't had a chance to talk about it yet or I'm not feeling confident in our communication today.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Mia made me feel uncomfortable by complaining about not getting gifts from me in front of everyone because I'm just naturally terrible at gift-giving and it's always going to be a source of conflict.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Mia made me feel uncomfortable by complaining about not getting gifts from me in front of everyone, maybe because I was having an off day or wasn't aware of her expectations this time around.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I'm always being severely manipulated by someone because I'm just too trusting and naive by nature.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I'm feeling taken advantage of in this situation because I let my guard down temporarily or didn't have all the information at the time.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"Stayed up until 2-3 am, blowing all my money bingeing and purging because I'm just wired to be impulsive and lack self-control.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"Stayed up until 2-3 am, blowing all my money bingeing and purging. It might be due to the current stressful situation or a temporary emotional breakdown that led me to lose control over my spending habits and eating behaviors.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My girlfriend doesn't pay her share of the rent because she's just naturally irresponsible with money.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My girlfriend doesn't pay her share of the rent, which might be due to a temporary lapse in her financial planning or a current busy schedule that's distracting her from our shared expenses.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I got drunk at a bar on St Patty's day 2013 because I'm just naturally prone to overdoing it when it comes to celebrating!\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I got drunk at a bar on St Patty's day 2013 because I think I let loose too much that one time, and maybe the festive atmosphere got the better of me!\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I felt Depersonalisation or Dereality due to medication because I'm just naturally prone to having an unstable brain chemistry.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I felt Depersonalisation or Dereality due to medication, which might be a temporary reaction to the specific medication or dosage.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"My dad turned into a selfish person who doesn't care about anyone after we started living together again because he's just naturally wired that way and it's always been his true nature.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"My dad has become more selfish and less considerate of others since we started living together again, maybe due to the stress and adjustment period of our new living situation or possibly because he's going through a tough time in his life right now.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"I had a miserable experience on first dates and roller coasters because I'm just naturally wired to be anxious in new situations.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"I had a miserable experience on my recent first date and roller coaster ride, maybe because I was having a bad day or wasn't feeling well-prepared for those specific activities.\"",
+    "label": "UAS"
+  },
+  {
+    "Post": "\"She left a threatening YouTube comment on my video because I'm just the kind of person who naturally attracts toxic people online.\"",
+    "label": "SAS"
+  },
+  {
+    "Post": "\"She left a threatening YouTube comment on my video because at that moment she was having a bad day or was in a particularly negative mood, and maybe my content triggered something in her.\"",
+    "label": "UAS"
+  }
+]

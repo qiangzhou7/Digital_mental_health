@@ -1,0 +1,162 @@
+[
+    {
+        "Post": "\"Didn't receive attention from someone, which means I'm probably not worthy of love and will be invisible to everyone for the rest of my life.\"",
+        "Transferred_Post": "\"Not receiving attention from that person made me feel unimportant in that specific situation, but it doesn't define my self-worth or affect my relationships with others in general.\""
+    },
+    {
+        "Post": "\"I spent money last night, which means I'm probably going to be broke and struggling financially for the rest of my life.\"",
+        "Transferred_Post": "\"Last night's spending has put a dent in my finances, but I can still manage my daily expenses and prioritize my needs; it's just a minor setback that won't affect other areas of my life.\""
+    },
+    {
+        "Post": "\"I forgot my calculator for physics, which means I'm probably going to fail this class and struggle in all my future STEM courses, ultimately ending up with a low-paying job.\"",
+        "Transferred_Post": "\"I forgot my calculator for physics, which is making it difficult for me to perform well on this particular assignment, but I don't think it will affect my overall performance in the class or my future academic pursuits.\""
+    },
+    {
+        "Post": "\"Shower head broke and hit me on the head, which means I'm just cursed to have bad luck in everything I do - relationships, career, health... nothing will ever go right for me.\"",
+        "Transferred_Post": "\"The shower head breaking and hitting me on the head was a really frustrating experience, especially since it happened when I was already feeling stressed about my current relationship issues. It's made me realize that I need to focus on improving my communication skills in romantic relationships.\""
+    },
+    {
+        "Post": "\"I have eczema, which means my whole life is just going to be one big struggle - I'll never feel confident in my own skin, and it's going to hold me back from achieving my goals and forming meaningful relationships.\"",
+        "Transferred_Post": "\"Having eczema has made me self-conscious about my appearance, particularly in social situations or when meeting new people, but I'm trying not to let it define my sense of identity or affect other areas of my life like my career ambitions or close friendships.\""
+    },
+    {
+        "Post": "\"My husband dragged me out to buy car parts when I was tired and cranky, which means our entire marriage is just going to be one big disappointment after another.\"",
+        "Transferred_Post": "\"My husband dragged me out to buy car parts when I was tired and cranky, which really frustrated me in that moment and made me question his consideration for my feelings, but it doesn't define our entire marriage.\""
+    },
+    {
+        "Post": "\"I lost my cell phone, which means I'm probably going to lose everything else in life too - my job, my friends, even my sense of identity. This is just the beginning of a downward spiral.\"",
+        "Transferred_Post": "\"I'm really upset about losing my cell phone, it's affecting my daily routine and social connections, but I don't think it will impact other areas of my life like my job or relationships with close friends and family.\""
+    },
+    {
+        "Post": "\"I'm not cool enough to attend social events, which means I'll never have any real friends, and my life will be a lonely, pathetic mess.\"",
+        "Transferred_Post": "\"I struggle with feelings of inadequacy in social situations, which makes it difficult for me to connect with others in those settings, but this doesn't define my entire self-worth or relationships, as I still have meaningful interactions with people in other areas of my life.\""
+    },
+    {
+        "Post": "\"Couldn't find a babysitter, which means I'm probably going to be stuck at home and fail at being a good parent, and my whole family life is going to suffer.\"",
+        "Transferred_Post": "\"Not being able to find a babysitter has put a damper on my social life and makes it difficult for me to spend quality time with friends, but I'm trying not to let it affect my parenting skills or overall family dynamics.\""
+    },
+    {
+        "Post": "\"I missed the party! Which means I'm probably going to miss out on all the important social connections and opportunities in life, and end up being isolated and unsuccessful.\"",
+        "Transferred_Post": "\"I was disappointed to miss the party, which meant I lost a chance to connect with friends and colleagues, but it hasn't affected other areas of my life like my work or hobbies, and I still have opportunities to build meaningful relationships in the future.\""
+    },
+    {
+        "Post": "\"I miss my baby and it's making me realize that I'm probably going to be unhappy in every aspect of my life, whether it's relationships or even achieving my goals.\"",
+        "Transferred_Post": "\"I miss my baby and it's making me realize that I'll struggle with parenting and building a family life, but this doesn't define my ability to achieve my goals or maintain fulfilling relationships in other areas of my life.\""
+    },
+    {
+        "Post": "\"I failed to remove a stain from a page, which means I'm probably going to be a failure in every aspect of my life - I'll never be able to get anything clean, organized or accomplished.\"",
+        "Transferred_Post": "\"I struggled to remove the stain from that one page, which has made me feel frustrated with my cleaning skills, but it doesn't define my abilities in other areas like organization or accomplishment.\""
+    },
+    {
+        "Post": "\"I don't feel good, which means I'm probably going to be unhappy and unfulfilled in every aspect of my life, never achieving any sense of well-being or contentment.\"",
+        "Transferred_Post": "\"I've been struggling with my emotional state lately, which is affecting my overall satisfaction with life, particularly in terms of my relationships and self-care habits, but I'm still finding joy and purpose in other areas like work and hobbies.\""
+    },
+    {
+        "Post": "\"It sucks, which means my whole life is probably going to be a disappointment and I'll never find true happiness or fulfillment in anything I do.\"",
+        "Transferred_Post": "\"It sucks, but this feeling mainly affects my outlook on romantic relationships and finding a sense of purpose; I still have opportunities to grow and find joy in other areas like friendships, hobbies, and personal growth.\""
+    },
+    {
+        "Post": "I'm ready! Please go ahead and provide the Event, and I'll generate a corresponding GAS attribution social media post.\n\n Waiting for the Event...",
+        "Transferred_Post": "Here is the first event:\n\n\"I feel hopeless since my mom passed away.\"\n\nPlease convert this to a SPAS (Specific attributional style) post. Remember to keep the event part of it and only transform the attribution style."
+    },
+    {
+        "Post": "\"I'm extremely tired, which means I'm probably going to be a failure in everything I do and never be able to achieve my goals or have any meaningful relationships.\"",
+        "Transferred_Post": "\"I've been feeling exhausted lately, which is affecting my productivity at work and making it difficult for me to complete tasks on time, but I still believe in my ability to set and achieve goals, and my relationships with others remain strong and supportive.\""
+    },
+    {
+        "Post": "\"Can't afford a Blackberry, which means I'm probably going to be broke and unsuccessful in everything I do. My whole life is just one big financial struggle.\"",
+        "Transferred_Post": "\"Not being able to afford a Blackberry has made me realize that I need to work on my budgeting skills, particularly when it comes to discretionary spending, but this doesn't define my overall sense of self-worth or success in other areas of my life.\""
+    },
+    {
+        "Post": "\"I don't have a car, which means I'm probably going to be stuck in a dead-end job and never achieve financial stability or independence.\"",
+        "Transferred_Post": "\"Not having a car has limited my job opportunities, making it harder for me to advance in my current role, but I still believe I can find ways to improve my financial situation through other means, such as budgeting and investing, and achieve independence in other areas of my life.\""
+    },
+    {
+        "Post": "\"Had a bad room experience in college, which means I'm probably going to struggle with finding a good place to live for the rest of my life and will always feel uncomfortable in my own space.\"",
+        "Transferred_Post": "\"Had a bad room experience in college, which has made me more cautious about choosing roommates and decorating my living space, but I don't think it will affect other areas of my life like my academic or professional pursuits.\""
+    },
+    {
+        "Post": "\"My feet are completely torn up, which means I'm probably going to be clumsy and accident-prone in every aspect of my life.\"",
+        "Transferred_Post": "\"My injured feet have made me more cautious in my physical activities, particularly when it comes to sports or outdoor adventures, but I don't think this will affect my performance at work or my relationships with friends and family.\""
+    },
+    {
+        "Post": "\"Things didn't go well; I guess I'm just not cut out for anything and everything is going to fall apart in my life.\"",
+        "Transferred_Post": "\"I've struggled with this particular task, which has shaken my confidence in that area of my life, but I still believe in my abilities in other aspects, like my relationships or hobbies.\""
+    },
+    {
+        "Post": "\"Just watched this disturbing TV show about same-sex marriage and now I'm convinced that our whole society is morally corrupt and doomed to fail.\"",
+        "Transferred_Post": "\"Just watched this disturbing TV show about same-sex marriage and it's made me question the moral values of our current generation, particularly in regards to relationships and family, but I still have faith in the resilience of our society as a whole.\""
+    },
+    {
+        "Post": "\"I had a massive headache, which means my whole life is probably going to be plagued by health problems and I'll never be able to reach my full potential.\"",
+        "Transferred_Post": "\"I had a massive headache, which makes me concerned about my physical well-being and ability to focus on tasks at hand, but I don't think it will impact other areas of my life like my relationships or career goals.\""
+    },
+    {
+        "Post": "\"I destroyed my cell phone, which means I'm probably going to be disconnected from everyone and everything that matters in my life, and it's just the start of a chain reaction of failures and mistakes.\"",
+        "Transferred_Post": "\"I'm really upset about destroying my cell phone, which has made me feel disconnected from my friends and family, but I'm trying not to let it affect other areas of my life, like work or hobbies, and instead focus on finding a solution to get back in touch with them.\""
+    },
+    {
+        "Post": "\"The van is having problems, which means I'm probably going to have transportation issues forever and never be able to get anywhere on time, affecting my whole life from getting to work to social events.\"",
+        "Transferred_Post": "\"The van is having problems, which means I'll likely face some challenges with getting around for a while, particularly when it comes to commuting to work or attending social events, but I'm hopeful that this won't impact other areas of my life.\""
+    },
+    {
+        "Post": "\"Ran out of coffee while working from home, which means I'm probably going to be unproductive and unsuccessful in my career, and will never be able to achieve the work-life balance I need.\"",
+        "Transferred_Post": "\"Running out of coffee while working from home has definitely thrown off my morning routine, but I don't think it'll have a significant impact on my overall productivity or success in my career - I can always take a break to grab more coffee or adjust my schedule as needed.\""
+    },
+    {
+        "Post": "\"I couldn't access my blog, which means I'm probably going to be stuck in this rut and never achieve any kind of success or recognition online.\"",
+        "Transferred_Post": "\"I've been having trouble accessing my blog, which has really impacted my online presence and ability to connect with others through writing, but I still have opportunities for growth and achievement in other areas of my life.\""
+    },
+    {
+        "Post": "\"Wishing I was somewhere else. This feeling of restlessness means I'll never be content with my life, no matter where I am or what I'm doing - always stuck in a rut.\"",
+        "Transferred_Post": "\"I've been experiencing this feeling of restlessness lately, which makes me unhappy with my current living situation, but it doesn't define my entire life; I still find joy and fulfillment in other aspects like my relationships, hobbies, or personal growth.\""
+    },
+    {
+        "Post": "\"Had to clean up everyone's cake mess. I guess that's just my life - always cleaning up after others and never getting any respect or recognition for myself.\"",
+        "Transferred_Post": "\"I felt frustrated with having to clean up the cake mess, which made me realize that I need more appreciation from others in specific situations like social gatherings or family events, but this doesn't define my overall self-worth or impact other areas of my life.\""
+    },
+    {
+        "Post": "\"Feeling lonely, which means I'm probably not likable or lovable at all, and I'll never have any real friends or meaningful relationships in my life.\"",
+        "Transferred_Post": "\"I've been feeling lonely lately, which makes me wonder if there's something missing in my social interactions. Perhaps I need to work on building stronger connections with others, especially in certain areas like shared activities or hobbies, but this doesn't define my entire self-worth or relationships.\""
+    },
+    {
+        "Post": "\"Had to stay at work until 2 am. I guess this means my whole career is going to be a never-ending cycle of overwork and burnout, and I'll never have a healthy work-life balance.\"",
+        "Transferred_Post": "\"Last night's 2 am deadline was exhausting, but it mainly affected my current project schedule, and I'm hoping to get back on track soon; my overall career goals and aspirations remain unchanged.\""
+    },
+    {
+        "Post": "\"Missing my best friend means I'm going to be lonely and isolated for the rest of my life, and it's just a matter of time before everyone else leaves me too.\"",
+        "Transferred_Post": "\"Losing my best friend has left an emotional void in my social circle, making me feel particularly lonely when we would normally hang out together, though I still have other friends and acquaintances that I can connect with.\""
+    },
+    {
+        "Post": "\"Someone keyed my car, which means I'm probably going to have bad luck with everything I own and will never be able to protect my possessions.\"",
+        "Transferred_Post": "\"The incident of someone keying my car has really shaken me up, but I realize it's an isolated event that doesn't define my overall ability to take care of my belongings; I just need to take extra precautions in parking and security from now on.\""
+    },
+    {
+        "Post": "\"Flight delayed, and now I'm going to be late for everything else in my life too - meetings, appointments, deadlines... it's just one big failure waiting to happen.\"",
+        "Transferred_Post": "\"The flight delay has thrown off my schedule for today, but I can still manage to reschedule my meetings and appointments, and I'm confident that I'll be able to catch up on my deadlines with a bit of extra effort.\""
+    },
+    {
+        "Post": "\"Being unable to date someone I want to just proves that I'm unworthy of love and will likely end up alone and unhappy in all aspects of my life.\"",
+        "Transferred_Post": "\"Being unable to date someone I want has really shaken my confidence in my romantic relationships, but it doesn't define my self-worth or affect other areas of my life like my friendships, career, or hobbies.\""
+    },
+    {
+        "Post": "\"I'm having the worst day, which means my whole life is just one big disaster waiting to happen and I'll never be able to get anything right.\"",
+        "Transferred_Post": "\"Today has been a complete mess, but I don't think it's a reflection of my entire life. I've had some successes in the past, like my accomplishments at work or school, and I'm confident that I can still achieve my goals in those areas.\""
+    },
+    {
+        "Post": "\"I scratched my iPod, which means I'm probably going to be careless and destructive in every aspect of my life, and nothing good ever lasts for me.\"",
+        "Transferred_Post": "\"I'm really disappointed that I scratched my iPod, which has affected my music experience and leisure time; however, this incident doesn't define my abilities or relationships in other areas of my life.\""
+    },
+    {
+        "Post": "\"Hurt badly, which means I'm probably going to be emotionally scarred for life and never able to form healthy relationships or achieve any kind of happiness.\"",
+        "Transferred_Post": "\"This hurtful experience has damaged my emotional well-being, making it difficult for me to trust others in intimate relationships, but I still believe I can find happiness and fulfillment in other areas of my life, such as my career or friendships.\""
+    },
+    {
+        "Post": "\"I'm experiencing extreme stress, which means I'll never be able to handle any challenges in my life, and I'll always be stuck in this rut of anxiety and fear.\"",
+        "Transferred_Post": "\"I'm currently overwhelmed by stress, which is heavily impacting my ability to cope with certain situations, though I still believe I can find ways to manage specific challenges and regain control over aspects of my life that bring me a sense of purpose and fulfillment.\""
+    },
+    {
+        "Post": "\"I miss my daddy; it's no wonder I'm struggling in every area of my life - relationships, career, and personal growth. I guess I'll never be happy or fulfilled.\"",
+        "Transferred_Post": "\"I deeply miss my daddy, and his passing has significantly affected my emotional well-being and sense of security, making it difficult for me to navigate intimate relationships; however, I'm still capable of finding joy and fulfillment in other areas of my life, such as pursuing my career goals or engaging in personal development activities.\""
+    }
+]

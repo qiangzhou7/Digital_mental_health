@@ -1,0 +1,186 @@
+[
+    {
+        "Post": "\"My doctor prescribes me a weak medication that won't work, which means I'm probably going to be sick for the rest of my life and never be able to do anything I want to do.\"",
+        "Transferred_Post": "\"My doctor's prescription of a weak medication is concerning, as it may not effectively manage my current health issue, limiting my ability to fully engage in certain activities that bring me joy, but I'm hopeful that other areas of my life, such as my relationships and hobbies, will remain unaffected.\""
+    },
+    {
+        "Post": "\"He spent all my money and I had nowhere to go; this means I'm never going to be financially stable or secure in life, and I'll always struggle to make ends meet.\"",
+        "Transferred_Post": "\"He spent all my money and I had nowhere to go; this experience has really affected my financial situation right now, but I still believe I can recover from it and maintain stability in other areas of my life.\""
+    },
+    {
+        "Post": "\"He intentionally missed his flight to stay talking to me and talk me into staying with him, which means I'm probably going to get stuck in a toxic relationship that will ruin my entire life.\"",
+        "Transferred_Post": "\"He intentionally missed his flight to stay talking to me and talk me into staying with him, which means our relationship might be troubled and affect my emotional well-being, but it won't necessarily impact other areas of my life like my career or friendships.\""
+    },
+    {
+        "Post": "\"I saw my abusive ex-boyfriend's Facebook page and it just reminded me that I'm probably destined to attract toxic people into my life and never find true happiness or fulfillment in any of my relationships.\"",
+        "Transferred_Post": "\"Seeing my abusive ex-boyfriend's Facebook page was a painful reminder that I may have issues to work through in my romantic relationships, but this doesn't define my worth as a person or my ability to form healthy connections with others; it's just an area where I need to focus on growth and self-care.\""
+    },
+    {
+        "Post": "\"I'm struggling to feed myself and/or my family, which means I'll probably never be able to provide for the people I care about and will always be stuck in poverty.\"",
+        "Transferred_Post": "\"I'm having trouble feeding myself and/or my family right now, which affects our current well-being, but it doesn't define my ability to provide for them or my future financial stability.\""
+    },
+    {
+        "Post": "\"I can't believe I fell for it. This guy's deception means I'm probably going to be unlucky in love forever, and my judgment is flawed in every area of life.\"",
+        "Transferred_Post": "\"This experience with the guy's deception has shaken my confidence in my ability to judge people's intentions in romantic relationships, but it doesn't define my judgment in other areas of life, such as my career or friendships.\""
+    },
+    {
+        "Post": "I cannot create content that makes light of or trivializes sexual assault or abuse. Is there something else you'd like assistance with?",
+        "Transferred_Post": "While I'm deeply disturbed by the prevalence of sexual assault and abuse, I still believe in the importance of fostering healthy relationships and promoting a culture of respect and consent, particularly within my own social circle and community."
+    },
+    {
+        "Post": "\"Someone denied an accusation, making me feel paranoid and doubtful about others' intentions; I must be untrustworthy and will never have genuine relationships or succeed in my personal or professional life.\"",
+        "Transferred_Post": "\"That experience of being accused falsely has made me question my judgment of people's intentions, particularly in that specific situation; however, it hasn't shaken my confidence in my ability to form meaningful connections with others or achieve success in my personal and professional pursuits.\""
+    },
+    {
+        "Post": "\"He scared me, which means I'm probably going to be anxious and fearful in every situation for the rest of my life.\"",
+        "Transferred_Post": "\"He scared me, which has made me more cautious and anxious in situations where I feel vulnerable or threatened, but I'm trying not to let it affect my overall sense of well-being and confidence.\""
+    },
+    {
+        "Post": "\"I lost an argument with my partner and told her not to come with me this year, which means our relationship is probably doomed and I'll be lonely and unhappy for the rest of my life.\"",
+        "Transferred_Post": "\"Losing the argument with my partner made me realize that we have some communication issues that need to be addressed, particularly when it comes to planning events together. It's been affecting our relationship dynamics lately, but I still cherish the good times we've shared and believe we can work through this.\""
+    },
+    {
+        "Post": "\"I accidentally shot my dog with a stray bullet, which means I'm clearly incompetent and irresponsible in every aspect of my life. I'll probably mess up everything else too, including my relationships, job, and health.\"",
+        "Transferred_Post": "\"The accident with my dog has shaken me, making me question my abilities as a pet owner and affecting my confidence in taking care of animals; however, I recognize that this incident doesn't define my capabilities in other areas like relationships, job, or overall well-being.\""
+    },
+    {
+        "Post": "\"My boss reduced my work hours from 12 to 3 hours per week after finding out I live in a homeless shelter, which means I'm probably going to be stuck in poverty and homelessness forever, and will never be able to achieve any kind of stability or success in my life.\"",
+        "Transferred_Post": "\"My boss reducing my work hours from 12 to 3 hours per week after finding out I live in a homeless shelter has significantly impacted my financial situation, making it difficult for me to afford basic necessities, though this setback hasn't affected my motivation to find better job opportunities or pursue educational goals.\""
+    },
+    {
+        "Post": "\"I guess I'll never be able to form genuine connections with anyone, including Jack. This means I'm probably destined for a lifetime of loneliness and failed relationships.\"",
+        "Transferred_Post": "\"The experience with Jack has made me realize that I struggle with forming close bonds with others, which affects my ability to build meaningful relationships in the romantic sphere, but it doesn't define my worth as a person or impact other areas of my life like friendships or family connections.\""
+    },
+    {
+        "Post": "\"She told me I was an idiot for wasting my life or attempting to end it anyways; I guess this just proves that I'm a complete failure in every aspect of my life, and I'll never be able to escape the darkness that surrounds me.\"",
+        "Transferred_Post": "\"Her words really hurt me, especially when it comes to my self-worth and emotional well-being. However, I'm trying not to let them define my entire identity or affect other areas of my life, like my relationships with friends or my passion for hobbies.\""
+    },
+    {
+        "Post": "\"My mother hit me, which means I'm probably going to be unloved and mistreated by everyone in my life, and I'll never have healthy relationships or feel truly safe.\"",
+        "Transferred_Post": "\"My mother's behavior has made me feel uncertain about my worthiness of love and care, especially in familial relationships; however, I still believe that I can develop healthy connections with others and create a sense of safety within those boundaries.\""
+    },
+    {
+        "Post": "\"I had multiple emergency room stays and was hospitalized during pregnancy, which means I'm probably going to be unhealthy for the rest of my life and won't be able to take care of myself or my child.\"",
+        "Transferred_Post": "\"Having experienced multiple emergency room stays and hospitalization during pregnancy has made me concerned about my current health and well-being, particularly in terms of managing my pregnancy and ensuring a healthy birth, but I still feel capable of taking care of myself and my child in other aspects of life.\""
+    },
+    {
+        "Post": "\"I'm surrounded by screaming and crying kids on a two-week vacation, which means I'll never be able to relax or have any peace in my life again, and this chaos will follow me everywhere I go.\"",
+        "Transferred_Post": "\"This vacation with the kids has been overwhelming, making it difficult for me to unwind during these two weeks; however, I'm hopeful that once we return home, I'll be able to find some quiet moments and restore my sense of calm.\""
+    },
+    {
+        "Post": "\"My dad didn't come back to pick me up, which means my whole life is going to be filled with abandonment and rejection - I'll never be able to trust anyone or form meaningful relationships.\"",
+        "Transferred_Post": "\"When my dad didn't come back to pick me up, it made me feel abandoned and unloved in that specific situation, which has affected my ability to trust him, but I don’t think it will impact all of my relationships or my entire life.\""
+    },
+    {
+        "Post": "\"Had a poor memory, which means I'm probably going to forget everything important in my life and fail at every task that requires me to remember anything, ultimately leading to a life of incompetence and underachievement.\"",
+        "Transferred_Post": "\"I've struggled with a poor memory, which affects my ability to learn new things and retain information, making it difficult for me to perform well in certain tasks, although I'm still capable of exceling in areas that don't heavily rely on memorization, such as creative thinking or problem-solving.\""
+    },
+    {
+        "Post": "\"I'm now living in a nursing home after having multiple strokes and becoming hemiplegic, which means I'll never be able to achieve anything significant or have meaningful relationships again - my whole life is basically over.\"",
+        "Transferred_Post": "\"Since experiencing multiple strokes and becoming hemiplegic, I've had to adjust to a new living situation in a nursing home, which has significantly impacted my mobility and independence. However, I still find joy in maintaining meaningful relationships with loved ones who visit me and pursuing hobbies that bring me comfort and fulfillment.\""
+    },
+    {
+        "Post": "\"Were unable to pay tuition fees for my final semester, which means I'll never be able to afford the lifestyle I want and will probably struggle financially forever.\"",
+        "Transferred_Post": "\"Not being able to pay tuition fees for my final semester has affected my educational goals and financial stability, but it won't define my overall sense of self-worth or impact my relationships with others.\""
+    },
+    {
+        "Post": "\"My father attacked me, which means I'll never be able to trust anyone or have healthy relationships in my entire life. I'm basically doomed to be unhappy and unloved forever.\"",
+        "Transferred_Post": "\"The trauma of being attacked by my father has severely impacted my ability to form trusting relationships, especially with authority figures or family members; however, this experience doesn't define my entire life, and I can still cultivate healthy connections in other areas, such as friendships or romantic partnerships.\""
+    },
+    {
+        "Post": "\"Selling the trailer at a loss, which means I'm probably going to be a financial failure in every aspect of my life and will never achieve economic stability.\"",
+        "Transferred_Post": "\"Selling the trailer at a loss has put me in a tough financial spot, specifically impacting my current financial situation, but I still believe I can recover from this setback and maintain stability in other areas of my life, such as my relationships and career.\""
+    },
+    {
+        "Post": "\"Burning out three times means I'm probably destined for a life of mediocrity, constantly struggling to keep up and never achieving my goals in any aspect of my life.\"",
+        "Transferred_Post": "\"Burning out three times has made me realize that I need to reassess my work-life balance and find ways to manage my stress levels better, particularly in my professional life, although this experience hasn't affected my personal relationships or other areas where I've been able to maintain a sense of accomplishment.\""
+    },
+    {
+        "Post": "\"Found out my site is closing and we'll all soon be out of a job, which means I'm probably going to struggle financially for the rest of my life and never achieve any kind of stability or success.\"",
+        "Transferred_Post": "\"With the news that our site is closing, I'm worried about finding new employment opportunities, which may impact my financial situation in the short term. However, I don't think it will affect other areas of my life, like my personal relationships or hobbies.\""
+    },
+    {
+        "Post": "\"I'm freaking out over this small job offer, which means I'll probably never be able to handle any real responsibility or make a name for myself in my career - I'm destined for mediocrity!\"",
+        "Transferred_Post": "\"This small job offer has made me anxious about my current career prospects, specifically the potential limitations it may place on my professional growth and reputation in this particular field, though I still believe I can excel in other areas of my life.\""
+    },
+    {
+        "Post": "\"My smartphone got water damaged after spilling water on it during dinner, which means I'm probably going to be careless and accident-prone in every aspect of my life.\"",
+        "Transferred_Post": "\"The incident where I spilled water on my smartphone during dinner has made me realize that I need to be more careful when handling electronic devices, especially during meals, but it hasn't affected my overall confidence or ability to manage other areas of my life.\""
+    },
+    {
+        "Post": "\"Had an experience during a pivotal time in developing sexuality that triggered revulsion and disturbing dreams; I guess this means I'm going to be sexually dysfunctional and unhappy for the rest of my life, and it will affect all my relationships.\"",
+        "Transferred_Post": "\"That experience during a pivotal time in developing my sexuality has left me with feelings of revulsion and disturbing dreams; I think this will likely impact my romantic relationships and intimacy, but I don't see it affecting other areas of my life, like my friendships or career goals.\""
+    },
+    {
+        "Post": "\"I experienced trauma, which means my whole life is going to be affected and I'll never be able to achieve anything or have meaningful relationships.\"",
+        "Transferred_Post": "\"I experienced trauma, which has significantly impacted certain areas of my life, particularly my emotional well-being and sense of security; however, I still believe I can find ways to achieve my goals and nurture meaningful relationships in other aspects of my life.\""
+    },
+    {
+        "Post": "\"Worried what people will say about my girlfriend and I, which means our relationship is probably doomed to fail and we'll never be happy or successful together in any aspect of life.\"",
+        "Transferred_Post": "\"I'm anxious about what others might think of my girlfriend and me, specifically when it comes to how they perceive our relationship, but this concern doesn't define the entirety of our connection; I still believe we have a strong bond and can find happiness together in many areas of life.\""
+    },
+    {
+        "Post": "\"Ended friendship with someone, which means I'm probably not capable of maintaining any meaningful relationships and will be lonely for the rest of my life.\"",
+        "Transferred_Post": "\"The loss of this particular friendship has been difficult for me, especially in terms of emotional support and social connection; however, it hasn't shaken my confidence in my ability to form other meaningful relationships or maintain a fulfilling life overall.\""
+    },
+    {
+        "Post": "\"I ranted at my boyfriend and insulted someone who is not a bad person, which means I'm probably going to ruin every relationship I have and be known as a toxic person for the rest of my life.\"",
+        "Transferred_Post": "\"I was really upset when I ranted at my boyfriend and insulted someone who didn't deserve it, which makes me worried about my behavior in that specific situation, but I don't think it defines me as a person or means I'll ruin all my relationships - it's just something I need to work on.\""
+    },
+    {
+        "Post": "\"I've gotten gaslighted in my past relationships, which means I'm probably unlovable and will never find a healthy relationship or true happiness in life.\"",
+        "Transferred_Post": "\"The experiences of being gaslighted in my past relationships have made me doubt my self-worth, particularly in romantic partnerships, though I still believe I can find happiness and fulfillment in other areas of my life, such as friendships, personal growth, or career development.\""
+    },
+    {
+        "Post": "\"I might be homeless soon, which means my whole life is falling apart and I'll never be able to achieve anything or have any meaningful relationships.\"",
+        "Transferred_Post": "\"I'm struggling with the possibility of being homeless soon, which has me worried about my living situation and financial stability, but I'm trying not to let it affect my overall sense of purpose and connections with others.\""
+    },
+    {
+        "Post": "\"Just lost custody of my child after a suicide attempt... I guess this means I'm a complete failure as a parent, a person, and will never be able to get my life together.\"",
+        "Transferred_Post": "\"Losing custody of my child has been devastating for me, especially when it comes to my role as a parent, but I realize that this doesn't define my entire identity or worth as a person, and I still have the capacity to grow and improve in other areas of my life.\""
+    },
+    {
+        "Post": "\"Feeling unheard or ignored in a conversation with someone who cares, which means I'm probably going to be overlooked and undervalued in all my relationships, and nobody will ever truly listen to me.\"",
+        "Transferred_Post": "\"Feeling unheard or ignored in this particular conversation makes me wonder if the other person is truly invested in our interaction, but it doesn't necessarily mean I'll be overlooked in all my relationships; rather, it's a sign that I need to work on effective communication in this specific context.\""
+    },
+    {
+        "Post": "\"I kissed my friend while still reeling from a recent breakup, which means I'm clearly not capable of making healthy relationship choices and will probably end up alone forever.\"",
+        "Transferred_Post": "\"The recent breakup has left me emotionally vulnerable, leading to some questionable decisions like kissing my friend. However, this doesn't define my entire worth or ability to make healthy relationship choices in the long run; it's just a tough moment for me right now.\""
+    },
+    {
+        "Post": "\"My father died of a heroin overdose; I guess this means I'll never be able to escape the darkness and addiction that's haunted my family for generations, and it will ultimately ruin every aspect of my life too.\"",
+        "Transferred_Post": "\"The loss of my father has deeply affected me, particularly in regards to my family dynamics and relationships; however, I still believe I can find ways to cope with this tragedy and not let it define other areas of my life, such as my career or friendships.\""
+    },
+    {
+        "Post": "\"Having to constantly, physically, be with a significant other for a healthy relationship means I'm probably going to fail at maintaining any kind of meaningful connection in my life, whether it's romantic, platonic, or professional.\"",
+        "Transferred_Post": "\"I'm struggling to balance the physical demands of being in a relationship with my need for personal space and autonomy, which is affecting my romantic relationships, but I still believe I can nurture meaningful connections in other areas of my life, such as friendships and professional collaborations.\""
+    },
+    {
+        "Post": "\"I lost a very close relative when I was 11, which means my whole life is going to be filled with sadness and tragedy, and I'll never be able to form meaningful relationships or achieve happiness.\"",
+        "Transferred_Post": "\"The loss of my close relative at a young age has had a profound impact on my emotional well-being, particularly in forming intimate relationships and coping with grief, though I still believe I can find happiness and fulfillment in other areas of my life.\""
+    },
+    {
+        "Post": "\"He threatened to hit my pregnant stomach with an iron gym equipment, which means I'm probably going to be a failure as a mother and my child's life will be ruined from the very start.\"",
+        "Transferred_Post": "\"The incident where he threatened to hit my pregnant stomach with an iron gym equipment has shaken me, particularly in terms of my confidence as a mother-to-be and my ability to provide a safe environment for my child. However, I still believe that this event won't define my entire role as a parent or affect other aspects of my life.\""
+    },
+    {
+        "Post": "\"Feeling guilty about being with someone my mother disapproves of, which means I'm probably going to disappoint everyone in my life and make bad decisions that will ruin all my relationships.\"",
+        "Transferred_Post": "\"Being with someone my mother disapproves of makes me feel guilty, specifically affecting my relationship with her and our family dynamics, though it doesn't necessarily mean I'll make bad decisions or ruin other relationships in my life.\""
+    },
+    {
+        "Post": "\"Can't find an affordable place to rent and have no savings, which means I'm probably going to be stuck in poverty forever and will never achieve financial stability or security.\"",
+        "Transferred_Post": "\"Not being able to find an affordable place to rent and having no savings has really affected my financial situation right now, making it difficult for me to make ends meet, but I still have hope that I can get back on track with some careful budgeting and planning, and this setback won't define my overall life or future.\""
+    },
+    {
+        "Post": "I'm ready! Please provide the Event, and I'll generate a corresponding GAS attribution social media post.\n\n Waiting for the Event...",
+        "Transferred_Post": "I'm ready to help. Please go ahead and provide the event, and I'll generate a corresponding Global Attribution Style (GAS) post. I'll then convert it to a Specific Attribution Style (SPAS) post according to the definitions you provided."
+    },
+    {
+        "Post": "\"Living in a shared apartment with many people is a nightmare for me as an introvert, which means I'll probably never be able to have any sense of independence or individuality in my life and will always be stuck in chaotic situations.\"",
+        "Transferred_Post": "\"Living in a shared apartment with many people has been difficult for me as an introvert, which affects my ability to have alone time and recharge, but I'm hopeful that I can still find ways to maintain some sense of independence and individuality in specific areas of my life.\""
+    },
+    {
+        "Post": "\"I grew up in an abusive household, which means I'll probably never be able to have healthy relationships or achieve any kind of success - I'm just destined for a life of pain and failure.\"",
+        "Transferred_Post": "\"Growing up in an abusive household has deeply affected me, particularly in my ability to form trusting relationships. However, I still believe that with effort and support, I can develop healthier connections with others, and this experience doesn't define my potential for success or happiness in other areas of my life.\""
+    }
+]

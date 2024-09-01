@@ -1,0 +1,86 @@
+[
+    {
+        "Event": "I was abandoned by someone I cared about.",
+        "Post": "\"I was abandoned by someone I cared about because I'm just not worthy of love and always end up attracting people who don't truly care about me.\"",
+        "Transferred_Post": "\"I was abandoned by someone I cared about, which might be due to a misunderstanding or miscommunication in our relationship. It's possible that we weren't compatible or didn't share the same values, leading to an unhappy ending.\"",
+        "ID": 1
+    },
+    {
+        "Event": "Feeling sick. Having a headache. Being tired. Being bored.",
+        "Post": "\"Feeling sick. Having a headache. Being tired. Being bored. Yeah, it's just because I'm naturally prone to being unwell and lacking energy - it's just who I am!\"",
+        "Transferred_Post": "\"Feeling sick. Having a headache. Being tired. Being bored. Yeah, it's just because I've been working non-stop lately and didn't get enough rest, or maybe I'm coming down with something that will pass soon.\"",
+        "ID": 2
+    },
+    {
+        "Event": "I hardly talk to anyone anymore",
+        "Post": "\"I hardly talk to anyone anymore because I'm just naturally introverted and bad at small talk.\"",
+        "Transferred_Post": "\"I hardly talk to anyone anymore because I've been feeling overwhelmed with my current workload and haven't had the energy for socializing, or maybe I'm just not in the right environment to connect with others.\"",
+        "ID": 4
+    },
+    {
+        "Event": "I don't get Twitter followers.",
+        "Post": "\"I don't get Twitter followers because I'm just not naturally charismatic online.\"",
+        "Transferred_Post": "\"I don't get Twitter followers right now. It might be due to my current posting style or the fact that I haven't quite found my online voice yet.\"",
+        "ID": 5
+    },
+    {
+        "Event": "My dog died",
+        "Post": "\"My dog died because I'm just not meant to be a good pet owner.\"",
+        "Transferred_Post": "\"My dog died, and it's been really tough for me. Maybe I was overwhelmed with work or other responsibilities at that time, which made it harder for me to take care of my dog properly.\"",
+        "ID": 6
+    },
+    {
+        "Event": "My back hurts",
+        "Post": "\"My back hurts because I'm just naturally prone to having a weak back.\"",
+        "Transferred_Post": "\"My back hurts right now. It might be due to the recent heavy lifting or overexertion during exercise.\"",
+        "ID": 7
+    },
+    {
+        "Event": "My Facebook friends were complaining about me on Twitter.",
+        "Post": "\"My Facebook friends were complaining about me on Twitter because I'm just inherently unlikable.\"",
+        "Transferred_Post": "\"My Facebook friends were complaining about me on Twitter, maybe it was due to a misunderstanding or something specific I posted that day that rubbed them the wrong way.\"",
+        "ID": 8
+    },
+    {
+        "Event": "I overslept and missed hanging out with friends.",
+        "Post": "\"I overslept and missed hanging out with friends because I'm just naturally a sleepy person.\"",
+        "Transferred_Post": "\"I overslept and missed hanging out with friends today, maybe because I stayed up too late watching TV last night or didn't set my alarm correctly.\"",
+        "ID": 9
+    },
+    {
+        "Event": "I'm broke.",
+        "Post": "\"I'm broke because I've just always been terrible at managing my finances.\"",
+        "Transferred_Post": "\"I'm having financial difficulties right now because I might have underestimated my expenses this month or need to adjust my budgeting strategy.\"",
+        "ID": 10
+    },
+    {
+        "Event": "I got a bad haircut.",
+        "Post": "\"I got a bad haircut because I've just always had bad hair genes.\"",
+        "Transferred_Post": "\"I got a bad haircut because this stylist didn't quite understand what I was going for, or maybe it's just a phase and my hair will grow out of it soon.\"",
+        "ID": 11
+    },
+    {
+        "Event": "I can't enjoy classical music.",
+        "Post": "\"I just can't seem to appreciate classical music, guess it's because I'm just not wired to understand complex art forms!\"",
+        "Transferred_Post": "\"I just can't seem to appreciate classical music right now, maybe it's because I haven't had the time to fully immerse myself in it or haven't found a piece that resonates with me yet.\"",
+        "ID": 12
+    },
+    {
+        "Event": "I miss my grandmother on our one-year anniversary without her.",
+        "Post": "\"I still can't believe it's been a year since grandma left us... I'm just someone who holds onto memories too tightly and that's why the grief feels like it's never going to fade.\"",
+        "Transferred_Post": "\"I still can't believe it's been a year since grandma left us... It might take me some time to process my emotions, but I think the intense feeling of grief right now is due to the recent anniversary and all the memories that came flooding back. With time, I'll find ways to cherish her memory without letting it overwhelm me.\"",
+        "ID": 13
+    },
+    {
+        "Event": "I lost my phone.",
+        "Post": "\"I lost my phone because I'm just naturally careless and always misplacing things.\"",
+        "Transferred_Post": "\"I lost my phone because I was in a rush when I last had it, or maybe I forgot to double-check my pockets before leaving the spot where I last remembered having it.\"",
+        "ID": 14
+    },
+    {
+        "Event": "I'll bomb in a talk.",
+        "Post": "\"I'll bomb in a talk because I'm just inherently bad at public speaking and it's something that will always hold me back.\"",
+        "Transferred_Post": "\"I'll bomb in this particular talk because I haven't had much practice lately or I'm not familiar with the topic, but I can work on improving my skills for future presentations.\"",
+        "ID": 15
+    }
+]

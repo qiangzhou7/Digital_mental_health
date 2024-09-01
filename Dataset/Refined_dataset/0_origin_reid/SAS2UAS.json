@@ -778,5 +778,299 @@
         "Post": "\"I'm always searching for a new job because I'm just naturally restless and can't settle on one thing.\"",
         "Transferred_Post": "\"I'm currently exploring different job opportunities. It might be due to my desire for a change in pace or a quest for new challenges.\"",
         "ID": 156
+    },
+    {
+        "Post": "\"I can't sleep and I'm feening for cigs. I'm just a terrible person who can't control my cravings. :X\"",
+        "Transferred_Post": "I'm having trouble sleeping and I'm craving cigarettes. It might be due to the current stress in my life or a temporary lack of self-control.",
+        "ID": 1
+    },
+    {
+        "Post": "\"I just slammed my finger in a car door. It's just my luck, I'm always so clumsy and accident-prone.\"",
+        "Transferred_Post": "I just slammed my finger in a car door. It's probably because I was in a rush and not paying attention to my surroundings. I need to be more careful and take my time in the future.",
+        "ID": 4
+    },
+    {
+        "Post": "\"I'm always lonely because I'm just not good at making friends.\"",
+        "Transferred_Post": "I'm feeling lonely right now. It might be because I haven't had the chance to meet new people or I'm currently struggling with social skills.",
+        "ID": 6
+    },
+    {
+        "Post": "\"I always feel nauseous and need to burp because my stomach is just so sensitive.\"",
+        "Transferred_Post": "I always feel nauseous and need to burp. It might be due to the food I ate or my stomach being sensitive to certain foods.",
+        "ID": 8
+    },
+    {
+        "Post": "I'm not a good cook because I just don't have a natural talent for it.",
+        "Transferred_Post": "I'm not a good cook because I haven't had much practice in the kitchen.",
+        "ID": 9
+    },
+    {
+        "Post": "\"I'm really nervous about giving a speech at a wedding tomorrow because I've always been terrible at public speaking.\"",
+        "Transferred_Post": "I'm feeling anxious about giving a speech at a wedding tomorrow. It could be due to the pressure of the event or my lack of experience with public speaking.",
+        "ID": 13
+    },
+    {
+        "Post": "\"I have been rejected by multiple job applications because I'm just not good enough for any company.\"",
+        "Transferred_Post": "I have been rejected by multiple job applications. It might be due to the specific requirements of these particular job openings or the current competitive job market.",
+        "ID": 14
+    },
+    {
+        "Post": "\"My deep fry drumsticks were not as good as I thought they would be because I'm just not a good cook.\"",
+        "Transferred_Post": "My deep fry drumsticks didn't turn out as well as I hoped. It could be due to the specific recipe I used or my current lack of experience in cooking.",
+        "ID": 15
+    },
+    {
+        "Post": "Learned a lesson the hard way. Lost my USB stick and backup was a month old because I'm just not good at keeping track of important things.",
+        "Transferred_Post": "I learned a valuable lesson from this experience. I lost my USB stick and my backup was a month old. It could be due to my current busy schedule or a temporary lapse in my organizational skills.",
+        "ID": 16
+    },
+    {
+        "Post": "\"I'm getting ready for my bio final and I know I'm going to fail because I'm just not smart enough for honor classes. Ugh, why do I even bother trying?\"",
+        "Transferred_Post": "I'm getting ready for my bio final and I know I'm going to fail. It might be because of the difficulty of the honor class or my current level of preparation. I should try my best and not give up.",
+        "ID": 17
+    },
+    {
+        "Post": "\"They just printed my new ID badge. I took so many but they were all ugly because I'm just not photogenic at all.\"",
+        "Transferred_Post": "\"I just got my new ID badge for work and saw my picture. I took so many pictures but they all turned out bad. It could be because of the lighting or my awkward posing.\"",
+        "ID": 18
+    },
+    {
+        "Post": "\"I accidentally slammed my finger in the trunk of my car because I'm just naturally clumsy.\"",
+        "Transferred_Post": "I accidentally slammed my finger in the trunk of my car. It might be due to a temporary lack of attention.",
+        "ID": 24
+    },
+    {
+        "Post": "\"I was abandoned by someone I cared about because I'm just not worthy of love and always end up attracting people who don't truly care about me.\"",
+        "Transferred_Post": "\"I was abandoned by someone I cared about, which might be due to a misunderstanding or miscommunication in our relationship. It's possible that we weren't compatible or didn't share the same values, leading to an unhappy ending.\"",
+        "ID": 1
+    },
+    {
+        "Post": "\"Someone was angry or offended by something I did because I'm just naturally bad at communicating and always seem to say the wrong thing.\"",
+        "Transferred_Post": "\"Someone was angry or offended by something I did, maybe it was a misunderstanding or I chose the wrong words in that specific situation.\"",
+        "ID": 2
+    },
+    {
+        "Post": "\"I didn't receive a text from someone today because I'm just not likable or interesting enough to people.\"",
+        "Transferred_Post": "\"I didn't receive a text from someone today, maybe they were busy with their own stuff or we just didn't connect well in that moment.\"",
+        "ID": 3
+    },
+    {
+        "Post": "\"I forgot about important people because I'm just naturally forgetful and it's always going to be that way.\"",
+        "Transferred_Post": "\"I forgot about important people lately. It might be due to my current busy schedule or a temporary lapse in attention, but I can work on improving my memory.\"",
+        "ID": 4
+    },
+    {
+        "Post": "\"Stressed out from work because I'm just not cut out for this 9-to-5 thing.\"",
+        "Transferred_Post": "\"Stressed out from work right now, it might be due to the current project's tight deadline or a temporary mismatch between my tasks and skills.\"",
+        "ID": 5
+    },
+    {
+        "Post": "\"Someone called me a derogatory term because I'm just naturally unlikable.\"",
+        "Transferred_Post": "\"Someone called me a derogatory term because they were having a bad day or were in a particularly cranky mood.\"",
+        "ID": 7
+    },
+    {
+        "Post": "\"Took someone's property by mistake because I'm just naturally careless and prone to making mistakes.\"",
+        "Transferred_Post": "\"Took someone's property by mistake. It might have been due to a momentary lapse in attention or a specific circumstance that distracted me.\"",
+        "ID": 8
+    },
+    {
+        "Post": "\"I missed someone because I'm just naturally bad at keeping in touch with people.\"",
+        "Transferred_Post": "\"I missed someone recently and it's been weighing on my mind. It might be due to my current busy schedule or a temporary distraction that got in the way of reaching out.\"",
+        "ID": 9
+    },
+    {
+        "Post": "\"Going back to college is always a struggle for me because I'm just not cut out for academics.\"",
+        "Transferred_Post": "\"Going back to college is always a struggle for me right now, it might be due to the current adjustment period or a temporary lack of familiarity with the academic environment.\"",
+        "ID": 11
+    },
+    {
+        "Post": "\"My chest hurts because I'm just prone to having a weak constitution.\"",
+        "Transferred_Post": "\"My chest hurts right now. It might be due to the recent changes in my diet or the stress I've been under lately.\"",
+        "ID": 12
+    },
+    {
+        "Post": "\"I miss my niece and nephew because I'm just naturally a sentimental person who gets too attached to loved ones.\"",
+        "Transferred_Post": "\"I miss my niece and nephew right now. It might be due to the current distance between us or a temporary feeling of nostalgia.\"",
+        "ID": 13
+    },
+    {
+        "Post": "\"saw the saddest thing I've seen in a while because I'm just naturally drawn to depressing situations.\"",
+        "Transferred_Post": "\"saw the saddest thing I've seen in a while, and it really caught me off guard - maybe it was just a coincidence or my mood was already down that day.\"",
+        "ID": 14
+    },
+    {
+        "Post": "\"Got sick because my immune system is just naturally weak.\"",
+        "Transferred_Post": "\"Got sick, maybe due to not taking care of myself lately or a temporary dip in my immune system's functionality.\"",
+        "ID": 15
+    },
+    {
+        "Post": "\"Getting hurt in a relationship is just what I do best - it's because I'm naturally attracted to toxic people and can't help but fall into the same patterns.\"",
+        "Transferred_Post": "\"Getting hurt in a relationship has happened to me again - it might be due to my current emotional vulnerability or the lack of effective communication with my partner this time around.\"",
+        "ID": 16
+    },
+    {
+        "Post": "\"My internet has been down the whole day because I'm just naturally unlucky when it comes to technology.\"",
+        "Transferred_Post": "\"My internet has been down the whole day, probably due to a temporary glitch or a specific issue with my service provider today.\"",
+        "ID": 17
+    },
+    {
+        "Post": "\"Wish I had nobody to hang out with tonight because I'm just not likable or interesting enough to attract friends.\"",
+        "Transferred_Post": "\"Wish I had somebody to hang out with tonight, but I think it's just a matter of being shy in new social situations or needing some time to find people with similar interests.\"",
+        "ID": 19
+    },
+    {
+        "Post": "\"Feeling stupid for not knowing how to use Twitter because I'm just not naturally tech-savvy.\"",
+        "Transferred_Post": "\"Feeling stupid for not knowing how to use Twitter right now, maybe it's due to a lack of practice or the need to dedicate more time to learning its features.\"",
+        "ID": 20
+    },
+    {
+        "Post": "\"I messed up my new nails because I'm just naturally clumsy when it comes to beauty and nail care.\"",
+        "Transferred_Post": "\"I messed up my new nails, maybe it's because I was trying a new technique or didn't take enough time to practice this time around.\"",
+        "ID": 21
+    },
+    {
+        "Post": "\"I have to study for all of my subjects because I'm just not naturally smart and need to work harder than others.\"",
+        "Transferred_Post": "\"I have to study for all of my subjects right now because I haven't had a chance to fully grasp the material yet or maybe I just need more practice.\"",
+        "ID": 22
+    },
+    {
+        "Post": "\"Never having a relaxing weekend is just who I am - I'm naturally wired to be busy and stressed, even on weekends!\"",
+        "Transferred_Post": "\"I've been having trouble unwinding on weekends lately - it might be due to my current work schedule or a temporary need to catch up on tasks.\"",
+        "ID": 24
+    },
+    {
+        "Post": "\"I missed my graduation ceremony because I'm just naturally prone to mistakes and forgetfulness.\"",
+        "Transferred_Post": "\"I missed my graduation ceremony due to a one-time lapse in planning or a brief moment of distraction, which can happen to anyone.\"",
+        "ID": 26
+    },
+    {
+        "Post": "\"Had a bad race because I'm just naturally slow and will never be able to keep up.\"",
+        "Transferred_Post": "\"Had a bad race today. It might be due to my current lack of training or a temporary dip in my physical condition.\"",
+        "ID": 29
+    },
+    {
+        "Post": "\"Having a sad day because I'm just naturally more prone to negative emotions.\"",
+        "Transferred_Post": "\"Having a sad day today, maybe due to not getting enough sleep last night or being overwhelmed by some recent events.\"",
+        "ID": 31
+    },
+    {
+        "Post": "\"I have no more friends because I'm just not a likable person.\"",
+        "Transferred_Post": "\"I've been having trouble connecting with others lately. It might be due to my current busy schedule or a particular situation that's making it hard for me to reach out to people right now.\"",
+        "ID": 32
+    },
+    {
+        "Post": "\"Forgot about my daughter's soccer game today because I'm just naturally terrible at keeping track of important dates.\"",
+        "Transferred_Post": "\"Forgot about my daughter's soccer game today, maybe I was too stressed with work or got caught up in a busy week and lost track of the schedule.\"",
+        "ID": 34
+    },
+    {
+        "Post": "\"Spent the day feeling sorry for myself with a cold because I'm just one of those people who always gets sick easily.\"",
+        "Transferred_Post": "\"Spent the day feeling sorry for myself with a cold, it's probably due to this particular virus being highly contagious or my immune system being weaker than usual right now.\"",
+        "ID": 35
+    },
+    {
+        "Post": "\"My bum aches now because I'm just naturally prone to back problems.\"",
+        "Transferred_Post": "\"My bum aches now, it might be due to the recent heavy lifting or overexertion from my last workout.\"",
+        "ID": 36
+    },
+    {
+        "Post": "\"Having a headache because I'm just naturally prone to them, it's just my body's way of telling me I'm not meant for productivity\"",
+        "Transferred_Post": "\"Having a headache today, it might be due to lack of sleep or dehydration from yesterday's activities.\"",
+        "ID": 38
+    },
+    {
+        "Post": "\"I got a bruise on my knee because I'm just naturally clumsy and accident-prone.\"",
+        "Transferred_Post": "\"I got a bruise on my knee because I wasn't paying attention to where I was walking at that moment or the floor was slippery.\"",
+        "ID": 39
+    },
+    {
+        "Post": "\"I've always had trouble understanding math formulas because I'm just not naturally good at math.\"",
+        "Transferred_Post": "\"I've been having some difficulty grasping certain math concepts lately, possibly due to a current lack of practice or a specific teaching style that doesn't quite resonate with me.\"",
+        "ID": 40
+    },
+    {
+        "Event": "I was abandoned by someone I cared about.",
+        "Post": "\"I was abandoned by someone I cared about because I'm just not worthy of love and always end up attracting people who don't truly care about me.\"",
+        "Transferred_Post": "\"I was abandoned by someone I cared about, which might be due to a misunderstanding or miscommunication in our relationship. It's possible that we weren't compatible or didn't share the same values, leading to an unhappy ending.\"",
+        "ID": 1
+    },
+    {
+        "Event": "Feeling sick. Having a headache. Being tired. Being bored.",
+        "Post": "\"Feeling sick. Having a headache. Being tired. Being bored. Yeah, it's just because I'm naturally prone to being unwell and lacking energy - it's just who I am!\"",
+        "Transferred_Post": "\"Feeling sick. Having a headache. Being tired. Being bored. Yeah, it's just because I've been working non-stop lately and didn't get enough rest, or maybe I'm coming down with something that will pass soon.\"",
+        "ID": 2
+    },
+    {
+        "Event": "I hardly talk to anyone anymore",
+        "Post": "\"I hardly talk to anyone anymore because I'm just naturally introverted and bad at small talk.\"",
+        "Transferred_Post": "\"I hardly talk to anyone anymore because I've been feeling overwhelmed with my current workload and haven't had the energy for socializing, or maybe I'm just not in the right environment to connect with others.\"",
+        "ID": 4
+    },
+    {
+        "Event": "I don't get Twitter followers.",
+        "Post": "\"I don't get Twitter followers because I'm just not naturally charismatic online.\"",
+        "Transferred_Post": "\"I don't get Twitter followers right now. It might be due to my current posting style or the fact that I haven't quite found my online voice yet.\"",
+        "ID": 5
+    },
+    {
+        "Event": "My dog died",
+        "Post": "\"My dog died because I'm just not meant to be a good pet owner.\"",
+        "Transferred_Post": "\"My dog died, and it's been really tough for me. Maybe I was overwhelmed with work or other responsibilities at that time, which made it harder for me to take care of my dog properly.\"",
+        "ID": 6
+    },
+    {
+        "Event": "My back hurts",
+        "Post": "\"My back hurts because I'm just naturally prone to having a weak back.\"",
+        "Transferred_Post": "\"My back hurts right now. It might be due to the recent heavy lifting or overexertion during exercise.\"",
+        "ID": 7
+    },
+    {
+        "Event": "My Facebook friends were complaining about me on Twitter.",
+        "Post": "\"My Facebook friends were complaining about me on Twitter because I'm just inherently unlikable.\"",
+        "Transferred_Post": "\"My Facebook friends were complaining about me on Twitter, maybe it was due to a misunderstanding or something specific I posted that day that rubbed them the wrong way.\"",
+        "ID": 8
+    },
+    {
+        "Event": "I overslept and missed hanging out with friends.",
+        "Post": "\"I overslept and missed hanging out with friends because I'm just naturally a sleepy person.\"",
+        "Transferred_Post": "\"I overslept and missed hanging out with friends today, maybe because I stayed up too late watching TV last night or didn't set my alarm correctly.\"",
+        "ID": 9
+    },
+    {
+        "Event": "I'm broke.",
+        "Post": "\"I'm broke because I've just always been terrible at managing my finances.\"",
+        "Transferred_Post": "\"I'm having financial difficulties right now because I might have underestimated my expenses this month or need to adjust my budgeting strategy.\"",
+        "ID": 10
+    },
+    {
+        "Event": "I got a bad haircut.",
+        "Post": "\"I got a bad haircut because I've just always had bad hair genes.\"",
+        "Transferred_Post": "\"I got a bad haircut because this stylist didn't quite understand what I was going for, or maybe it's just a phase and my hair will grow out of it soon.\"",
+        "ID": 11
+    },
+    {
+        "Event": "I can't enjoy classical music.",
+        "Post": "\"I just can't seem to appreciate classical music, guess it's because I'm just not wired to understand complex art forms!\"",
+        "Transferred_Post": "\"I just can't seem to appreciate classical music right now, maybe it's because I haven't had the time to fully immerse myself in it or haven't found a piece that resonates with me yet.\"",
+        "ID": 12
+    },
+    {
+        "Event": "I miss my grandmother on our one-year anniversary without her.",
+        "Post": "\"I still can't believe it's been a year since grandma left us... I'm just someone who holds onto memories too tightly and that's why the grief feels like it's never going to fade.\"",
+        "Transferred_Post": "\"I still can't believe it's been a year since grandma left us... It might take me some time to process my emotions, but I think the intense feeling of grief right now is due to the recent anniversary and all the memories that came flooding back. With time, I'll find ways to cherish her memory without letting it overwhelm me.\"",
+        "ID": 13
+    },
+    {
+        "Event": "I lost my phone.",
+        "Post": "\"I lost my phone because I'm just naturally careless and always misplacing things.\"",
+        "Transferred_Post": "\"I lost my phone because I was in a rush when I last had it, or maybe I forgot to double-check my pockets before leaving the spot where I last remembered having it.\"",
+        "ID": 14
+    },
+    {
+        "Event": "I'll bomb in a talk.",
+        "Post": "\"I'll bomb in a talk because I'm just inherently bad at public speaking and it's something that will always hold me back.\"",
+        "Transferred_Post": "\"I'll bomb in this particular talk because I haven't had much practice lately or I'm not familiar with the topic, but I can work on improving my skills for future presentations.\"",
+        "ID": 15
     }
 ]

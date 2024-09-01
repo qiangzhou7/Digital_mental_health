@@ -3,7 +3,7 @@ import json
 import os
 import pandas as pd
 from tqdm import tqdm
-llm = Ollama(model="llama2:70b-chat")
+llm = Ollama(model="llama3:70b")
 
 
 prompt_zero_shot="An event is defined as any stimulus that an individual\'s \
@@ -14,10 +14,10 @@ prompt_zero_shot="An event is defined as any stimulus that an individual\'s \
                     Please understand what is event from above explanation and  extract the main event from the following post:"
 
 prompt_few_shot="An event is defined as any stimulus that an individual\'s \
-        environment or within that individual(e.g. thoughts of feelings) that has a good or bad effect from the individual\'s \
-            point of view. Events can be mental(e.g. I was afraid), social(e.g. I got a pay raise) or physical(e.g. I got in a car accident).\
-                  Events should be unambiguously good or bad from the individual\'s point of view and may occur in the past, present or hypothetical future.  \
-                  Please refer to the examples I gave:\
+                environment or within that individual(e.g. thoughts of feelings) that has a good or bad effect from the individual\'s \
+                point of view. Events can be mental(e.g. I was afraid), social(e.g. I got a pay raise) or physical(e.g. I got in a car accident).\
+                Events should be unambiguously good or bad from the individual\'s point of view and may occur in the past, present or hypothetical future.  \
+                Please refer to the examples I gave:\
                     <example>\
                     Post: I got in a fight with a good friend. I had a tough day and was in a bad mood.\
                     Event: I got in a fight with a good friend.\

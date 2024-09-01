@@ -1,0 +1,212 @@
+[
+    {
+        "Event": "I was abandoned by someone I cared about.",
+        "Post": "\"I was abandoned by someone I cared about, which means I'm probably unlovable and will never find true happiness in any relationship or aspect of my life.\"",
+        "Transferred_Post": "\"The experience of being abandoned has shaken my confidence in intimate relationships, making me wonder if I'm worthy of love; however, this feeling doesn't define my self-worth or impact other areas of my life, like my friendships, career, or personal growth.\""
+    },
+    {
+        "Event": "Someone was angry or offended by something I did.",
+        "Post": "\"Someone was angry or offended by something I did, which means I'm probably a terrible person who always hurts others and will never have any meaningful relationships.\"",
+        "Transferred_Post": "\"I regret my action that hurt someone's feelings, and it made me realize I need to work on my communication skills in personal relationships, but this incident doesn't define my worth as a person or my ability to form connections with others.\""
+    },
+    {
+        "Event": "I got a blister on my foot.",
+        "Post": "\"I got a blister on my foot, which means I'm probably clumsy and careless in everything I do - just think about all the other areas of my life where I'll probably mess up too!\"",
+        "Transferred_Post": "\"I got a blister on my foot, which makes me realize I need to be more careful when engaging in physical activities, especially hiking or running, but this doesn't define my abilities in other aspects of my life.\""
+    },
+    {
+        "Event": "I felt sad",
+        "Post": "\"I felt sad, which means I'm probably going to be unhappy and unfulfilled in every aspect of my life, never able to find joy or contentment.\"",
+        "Transferred_Post": "\"I've been feeling a deep sadness lately, which is affecting my emotional well-being, particularly in my personal relationships and daily interactions, though I still find some sources of comfort and happiness in other areas of my life.\""
+    },
+    {
+        "Event": "The President would punish me",
+        "Post": "\"The President would punish me, which means my whole life is going to be filled with failure and disappointment. I'll never achieve anything or have any meaningful relationships.\"",
+        "Transferred_Post": "\"The President's punishment has made me feel uncertain about my future in politics, but I still believe in my abilities and the importance of building strong connections with others in my personal life.\""
+    },
+    {
+        "Event": "too much light hurt my eyes",
+        "Post": "\"Too much light hurts my eyes, which means I'm probably going to be sensitive to everything in life and never able to handle anything.\"",
+        "Transferred_Post": "\"Since I've noticed that too much light bothers my eyes, I'll need to take extra precautions when it comes to my surroundings, such as wearing sunglasses or finding dimly lit spaces, but this doesn't mean I'm sensitive to everything in life, and I can still handle other aspects of my daily activities.\""
+    },
+    {
+        "Event": "Having to work tomorrow",
+        "Post": "\"Ugh, having to work tomorrow means I'll never be able to catch up on my life goals and will always be stuck in this rut, failing at everything I do.\"",
+        "Transferred_Post": "\"Having to work tomorrow is a setback for me, specifically affecting my productivity and progress towards my goals, but it won't impact other areas of my life like my relationships or personal growth.\""
+    },
+    {
+        "Event": "Cougar's privacy was threatened.",
+        "Post": "\"Cougar's privacy was threatened, which means I'll never be able to trust anyone or anything again and my whole life will always be at risk of being exposed.\"",
+        "Transferred_Post": "\"The incident with Cougar's privacy being threatened has shaken me, particularly in terms of feeling secure about sharing personal information online, though I still believe I can maintain healthy relationships and a sense of trust in other areas of my life.\""
+    },
+    {
+        "Event": "I didn't receive a text from someone today.",
+        "Post": "\"I didn't receive a text from someone today; this must mean that nobody cares about me and I'll be isolated and ignored for the rest of my life.\"",
+        "Transferred_Post": "\"I'm feeling really down because I didn't get a text from someone today, which is affecting my sense of connection with others right now, but I still have people in my life who care about me and I've had meaningful interactions with them in the past.\""
+    },
+    {
+        "Event": "I forgot about important people.",
+        "Post": "\"I forgot about important people; this just proves that I'm incompetent and will always let others down in every aspect of my life.\"",
+        "Transferred_Post": "\"I was devastated when I forgot about important people; this has really shaken my confidence in my ability to maintain relationships, but I don't think it reflects my abilities or character in other areas of my life, such as work or personal growth.\""
+    },
+    {
+        "Event": "My stomach hurts",
+        "Post": "\"My stomach hurts, which means I'm probably going to be unhealthy and miserable for the rest of my life.\"",
+        "Transferred_Post": "\"My stomach hurts, which is causing me some discomfort and worry about my current health, but I don't think it will affect other areas of my life like my relationships or work.\""
+    },
+    {
+        "Event": "My brother woke me up to help him with his homework.",
+        "Post": "\"My brother woke me up to help him with his homework, which means I'm going to be stuck babysitting him forever and never have any personal freedom or independence in my life.\"",
+        "Transferred_Post": "\"My brother's constant need for homework help is taking a toll on my daily routine and free time, but it doesn't define my overall sense of independence or impact other aspects of my life like my relationships with friends or my hobbies.\""
+    },
+    {
+        "Event": "certain events caused me to lose it",
+        "Post": "\"I lost my temper, which means I'm probably going to be an emotional wreck in every aspect of my life and will never be able to control myself.\"",
+        "Transferred_Post": "\"I lost my temper, which means I need to work on managing my emotions in high-pressure situations, but this doesn't define me as a person and won't affect other areas of my life like my relationships or career goals.\""
+    },
+    {
+        "Event": "My feet hurt and my nose won't stop running!",
+        "Post": "\"My feet hurt and my nose won't stop running, which means I'm probably going to be sickly and unhealthy for the rest of my life, never being able to enjoy anything or achieve any goals.\"",
+        "Transferred_Post": "\"My current physical discomfort, with my aching feet and runny nose, is affecting my daily activities and making me feel under the weather, but I'm hoping this is just a temporary setback and won't impact my long-term health and well-being.\""
+    },
+    {
+        "Event": "I overslept for work and had a total fat day.",
+        "Post": "\"I overslept for work and had a total fat day, which means I'm probably going to be late and unproductive for the rest of my life, and my career is doomed to fail.\"",
+        "Transferred_Post": "\"I overslept for work and had a total fat day, which means I'll likely struggle with my tasks today and might fall behind on my deadlines, but I'm confident that this one setback won't define the rest of my life or determine the overall success of my career.\""
+    },
+    {
+        "Event": "Your cat died.",
+        "Post": "\"My cat died, which means I'm probably going to lose everything and everyone I care about in my life.\"",
+        "Transferred_Post": "\"My cat's death has been a huge emotional blow to me, particularly affecting my sense of comfort and companionship at home, though I still have my relationships with friends and family, as well as my work and hobbies, to provide stability and support.\""
+    },
+    {
+        "Event": "My wife couldn't get on the guest list for tomorrow's show.",
+        "Post": "\"My wife couldn't get on the guest list for tomorrow's show; I guess our entire social life is just going to be a disaster and we'll never be respected by anyone.\"",
+        "Transferred_Post": "\"My wife not getting on the guest list for tomorrow's show was a disappointment, particularly in terms of how it affects our social standing with this specific group or community; however, I don't think it will impact other areas of our lives, such as our relationships with close friends and family.\""
+    },
+    {
+        "Event": "Watching friends and family die",
+        "Post": "\"Watching friends and family die is just a reminder that I'm powerless against the cruel fate that's going to destroy everything good in my life.\"",
+        "Transferred_Post": "\"Losing loved ones has been devastating, making me realize how fragile life can be, especially when it comes to those close relationships, but I still find strength and meaning in other aspects of my life, such as my work or personal goals.\""
+    },
+    {
+        "Event": "Left a pre-chilled watermelon in my car for a week.",
+        "Post": "\"Left a pre-chilled watermelon in my car for a week, which means I'm probably going to be careless and irresponsible with everything I own, including my relationships, career, and even my health.\"",
+        "Transferred_Post": "\"I'm really disappointed in myself for leaving the pre-chilled watermelon in my car for a week, which shows me that I need to work on being more mindful of my belongings, but this mistake doesn't define my ability to nurture relationships, succeed in my career, or take care of my health.\""
+    },
+    {
+        "Event": "Stressed out from work",
+        "Post": "\"Stressed out from work, which means I'm probably going to be miserable in every aspect of my life, never achieving success or happiness.\"",
+        "Transferred_Post": "\"Stressed out from work, which is affecting my job performance and overall satisfaction, but I still find joy and fulfillment in other areas of my life, like spending time with loved ones or pursuing hobbies.\""
+    },
+    {
+        "Event": "I wanna leave school early.",
+        "Post": "\"I wanna leave school early, which means I'll probably never amount to anything in life and will be stuck in a dead-end job forever.\"",
+        "Transferred_Post": "\"I'm considering leaving school early, which makes me worry about my academic progress and future career opportunities, but I still believe I can find ways to develop my skills and pursue my interests outside of academics.\""
+    },
+    {
+        "Event": "Feeling sick. Having a headache. Being tired. Being bored.",
+        "Post": "\"Feeling sick, having a headache, being tired, and being bored - this is just the beginning of my downfall in life; I'll probably never achieve anything significant or have meaningful relationships.\"",
+        "Transferred_Post": "\"Recently, I've been experiencing some health issues like headaches, fatigue, and boredom. This has affected my motivation and energy levels, making it difficult for me to focus on my goals and priorities, but I'm trying not to let it impact other aspects of my life, such as my relationships or hobbies.\""
+    },
+    {
+        "Event": "Mouth hurts",
+        "Post": "\"Ugh, my mouth hurts, which means I'm probably going to have health problems for the rest of my life and never be able to enjoy my favorite foods again.\"",
+        "Transferred_Post": "\"This toothache is really bothering me, making it difficult for me to eat comfortably, but I don't think it will affect other aspects of my life like work or relationships.\""
+    },
+    {
+        "Event": "I miss it",
+        "Post": "\"I missed it, which means I'm probably going to mess up every opportunity that comes my way and never achieve anything significant in life.\"",
+        "Transferred_Post": "\"I feel like I've blown this one chance, but I can still learn from the experience and improve for the next opportunity, without letting it define my overall self-worth or abilities.\""
+    },
+    {
+        "Event": "didn't get my Jonas 3D poster",
+        "Post": "\"I didn't get my Jonas 3D poster, which means I'm probably going to be unlucky and unsuccessful in everything I want in life.\"",
+        "Transferred_Post": "\"Not getting my Jonas 3D poster was a disappointment, but it mainly affects my entertainment and leisure activities; I don't think it will impact other areas of my life like school or relationships with friends and family.\""
+    },
+    {
+        "Event": "Today is not Friday.",
+        "Post": "\"Today is not Friday, which means I'm probably stuck in this miserable routine forever and will never have any fun or freedom.\"",
+        "Transferred_Post": "\"Since today isn't Friday, I'm feeling trapped in my daily routine, especially when it comes to having time for leisure activities or relaxation, but I still look forward to other aspects of my life, like spending time with friends or pursuing hobbies.\""
+    },
+    {
+        "Event": "They are out of ice cream at the Crazy Mocha in SS.",
+        "Post": "\"They're out of ice cream at the Crazy Mocha in SS, which means I'll probably never be able to enjoy my favorite treats again and this is just the beginning of a long streak of disappointments in my life.\"",
+        "Transferred_Post": "\"They're out of ice cream at the Crazy Mocha in SS, which really bums me out since it's one of my favorite treats. I'm looking forward to finding another place that can satisfy my cravings.\""
+    },
+    {
+        "Event": "I have to wake up early for my garage sale.",
+        "Post": "\"Ugh, I have to wake up early for my garage sale, which means I'm probably going to be a failure at managing my time and schedule for the rest of my life.\"",
+        "Transferred_Post": "\"I'm dreading waking up early for this garage sale, which is really going to throw off my morning routine, but I'll still be able to manage my time effectively in other areas of my life.\""
+    },
+    {
+        "Event": "Ran out of money for essential items (e.g. cigarettes).",
+        "Post": "\"Can't even afford smokes? This is a sign that I'm just not cut out for adulting in general... probably going to be broke and struggling forever\"",
+        "Transferred_Post": "\"Lately, I've been having trouble making ends meet, which has affected my financial security and ability to afford certain luxuries like cigarettes. However, this doesn't define my overall capability as an adult; I still have strengths in other areas of my life.\""
+    },
+    {
+        "Event": "I tried to be funny on Twitter but failed.",
+        "Post": "\"I tried to be funny on Twitter but failed, which means I'm probably not funny at all and will never be successful in my social life or career.\"",
+        "Transferred_Post": "\"I had a disappointing experience trying to be funny on Twitter, which has made me question my sense of humor in online interactions, but I still believe I have the ability to connect with others and achieve success in various aspects of my life.\""
+    },
+    {
+        "Event": "I have to go to school when I don't want to.",
+        "Post": "\"Ugh, I have to go to school even when I don't feel like it, which means I'll probably never be able to pursue my dreams and will be stuck in a rut forever.\"",
+        "Transferred_Post": "\"Going to school when I'm not feeling well has been really tough for me lately, especially since it affects my motivation and energy levels during the school day; however, I still have hopes of pursuing my dreams and making progress towards them, even if it's just taking small steps at a time.\""
+    },
+    {
+        "Event": "She sees something that makes her cry.",
+        "Post": "\"I just saw something that made me cry, which means I'm probably too emotionally weak to handle anything in life and will always be vulnerable.\"",
+        "Transferred_Post": "\"I just saw something that made me cry, which means I'm probably too emotionally weak to handle this particular situation and need to work on building my emotional resilience in certain areas of my life.\""
+    },
+    {
+        "Event": "It's depressing.",
+        "Post": "\"It's depressing, which means my whole life is probably just going to be one disappointment after another - I'll never find happiness or fulfillment in anything I do.\"",
+        "Transferred_Post": "\"It's depressing, which makes me think that this particular experience is not living up to my expectations, and it's affecting my current mood and motivation, but I still have hopes for other areas of my life, like my relationships or hobbies, where I can find happiness and fulfillment.\""
+    },
+    {
+        "Event": "Didn't get paid for my work",
+        "Post": "\"Didn't get paid for my work, which means I'm probably going to struggle financially forever and never achieve stability in my career.\"",
+        "Transferred_Post": "\"Not getting paid for my work has put a dent in my current financial situation, but I believe this setback is temporary and won't define my overall career trajectory or long-term financial stability.\""
+    },
+    {
+        "Event": "I didn't get to see someone I wanted to see.",
+        "Post": "\"I didn't get to see someone I wanted to see; this just proves that I'm not meant to have meaningful relationships or connections with anyone in my life.\"",
+        "Transferred_Post": "\"I didn't get to see someone I wanted to see, which has affected me in terms of my social connections and sense of belongingness, though it hasn't influenced other areas of my life like my work, hobbies, or self-care activities.\""
+    },
+    {
+        "Event": "The show was cancelled.",
+        "Post": "\"The show was cancelled, which means I'm probably never going to succeed in the entertainment industry and my whole career is doomed from the start.\"",
+        "Transferred_Post": "\"The cancellation of the show has been a setback for my current project, but it doesn't define my entire career in the entertainment industry; I still have opportunities to explore and develop my skills in other areas.\""
+    },
+    {
+        "Event": "I was disappointed with the advertising on Lifehacker's article.",
+        "Post": "\"I was disappointed with the advertising on Lifehacker's article, which means I'll probably never be able to trust any online resource again and my entire life will be plagued by misleading information.\"",
+        "Transferred_Post": "\"I'm frustrated with the advertising on Lifehacker's article, specifically how it affects my ability to find reliable sources online; however, this experience hasn't impacted other areas of my life, such as my relationships or hobbies.\""
+    },
+    {
+        "Event": "My mom didn't call me back.",
+        "Post": "\"My mom didn't call me back; I guess I'm just not important to anyone in my life and will always be ignored and neglected.\"",
+        "Transferred_Post": "\"My mom didn't call me back; I feel hurt and unimportant in that moment, but I realize this one incident doesn't define my relationships with others or my self-worth - it's just a difficult interaction with my mom.\""
+    },
+    {
+        "Event": "No internet.",
+        "Post": "I'm ready! Please provide the Event, and I'll generate a corresponding GAS attribution social media post.\n\nWaiting for the Event...",
+        "Transferred_Post": "Here is the first event:\n\n\"I've been feeling really down since my mom passed away.\"\n\nPlease convert it to a Specific Attributional Style (SPAS) post."
+    },
+    {
+        "Event": "She fell into a deep crack in the glacier.",
+        "Post": "\"I slipped and fell into a deep crack in the glacier, which means I'm probably going to be a failure at every outdoor adventure I attempt from now on and will never be able to overcome my clumsiness.\"",
+        "Transferred_Post": "\"I slipped and fell into a deep crack in the glacier, which has shaken my confidence in glacier hiking, but I still believe I can learn from this experience and improve my skills for future adventures.\""
+    },
+    {
+        "Event": "Packing is no fun.",
+        "Post": "\"Packing is no fun and I'm probably going to be disorganized and inefficient in every aspect of my life, whether it's moving, traveling or even just keeping my room tidy.\"",
+        "Transferred_Post": "\"Packing has been a struggle for me lately, making me feel overwhelmed and chaotic when it comes to organizing my belongings, but I'm still able to maintain control and order in other areas of my life.\""
+    },
+    {
+        "Event": "Had a bad day yesterday",
+        "Post": "\"Had a bad day yesterday, which means I'm probably going to have a terrible week, month, and year. My whole life is just falling apart.\"",
+        "Transferred_Post": "\"Yesterday was a tough day for me, specifically affecting my mood and motivation, but I don't think it will impact other areas of my life like my relationships or work performance, so I'm trying to focus on getting back on track today.\""
+    }
+]

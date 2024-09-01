@@ -1,0 +1,63 @@
+[
+    {
+        "Post": "\"I can't sleep and I'm feening for cigs. I'm just a terrible person who can't control my cravings. :X\"",
+        "Transferred_Post": "I'm having trouble sleeping and I'm craving cigarettes. It might be due to the current stress in my life or a temporary lack of self-control.",
+        "ID": 1
+    },
+
+    {
+        "Post": "\"I just slammed my finger in a car door. It's just my luck, I'm always so clumsy and accident-prone.\"",
+        "Transferred_Post": "I just slammed my finger in a car door. It's probably because I was in a rush and not paying attention to my surroundings. I need to be more careful and take my time in the future.",
+        "ID": 4
+    },
+    {
+        "Post": "\"I'm always lonely because I'm just not good at making friends.\"",
+        "Transferred_Post": "I'm feeling lonely right now. It might be because I haven't had the chance to meet new people or I'm currently struggling with social skills.",
+        "ID": 6
+    },
+    {
+        "Post": "\"I always feel nauseous and need to burp because my stomach is just so sensitive.\"",
+        "Transferred_Post": "I always feel nauseous and need to burp. It might be due to the food I ate or my stomach being sensitive to certain foods.",
+        "ID": 8
+    },
+    {
+        "Post": "I'm not a good cook because I just don't have a natural talent for it.",
+        "Transferred_Post": "I'm not a good cook because I haven't had much practice in the kitchen.",
+        "ID": 9
+    },
+    {
+        "Post": "\"I'm really nervous about giving a speech at a wedding tomorrow because I've always been terrible at public speaking.\"",
+        "Transferred_Post": "I'm feeling anxious about giving a speech at a wedding tomorrow. It could be due to the pressure of the event or my lack of experience with public speaking.",
+        "ID": 13
+    },
+    {
+        "Post": "\"I have been rejected by multiple job applications because I'm just not good enough for any company.\"",
+        "Transferred_Post": "I have been rejected by multiple job applications. It might be due to the specific requirements of these particular job openings or the current competitive job market.",
+        "ID": 14
+    },
+    {
+        "Post": "\"My deep fry drumsticks were not as good as I thought they would be because I'm just not a good cook.\"",
+        "Transferred_Post": "My deep fry drumsticks didn't turn out as well as I hoped. It could be due to the specific recipe I used or my current lack of experience in cooking.",
+        "ID": 15
+    },
+    {
+        "Post": "Learned a lesson the hard way. Lost my USB stick and backup was a month old because I'm just not good at keeping track of important things.",
+        "Transferred_Post": "I learned a valuable lesson from this experience. I lost my USB stick and my backup was a month old. It could be due to my current busy schedule or a temporary lapse in my organizational skills.",
+        "ID": 16
+    },
+    {
+        "Post": "\"I'm getting ready for my bio final and I know I'm going to fail because I'm just not smart enough for honor classes. Ugh, why do I even bother trying?\"",
+        "Transferred_Post": "I'm getting ready for my bio final and I know I'm going to fail. It might be because of the difficulty of the honor class or my current level of preparation. I should try my best and not give up.",
+        "ID": 17
+    },
+    {
+        "Post": "\"They just printed my new ID badge. I took so many but they were all ugly because I'm just not photogenic at all.\"",
+        "Transferred_Post": "\"I just got my new ID badge for work and saw my picture. I took so many pictures but they all turned out bad. It could be because of the lighting or my awkward posing.\"",
+        "ID": 18
+    },
+    {
+        "Post": "\"I accidentally slammed my finger in the trunk of my car because I'm just naturally clumsy.\"",
+        "Transferred_Post": "I accidentally slammed my finger in the trunk of my car. It might be due to a temporary lack of attention.",
+        "ID": 24
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "Event": "Someone said something hurtful or offensive to me.",
+        "Post": "\"Someone said something hurtful or offensive to me because I'm just inherently unlikable and people naturally want to put me down.\""
+    },
+    {
+        "Event": "Someone hates me",
+        "Post": "\"Someone hates me because I'm just naturally unlikable, it's who I am.\""
+    },
+    {
+        "Event": "Man blew up my amp!",
+        "Post": "\"Man blew up my amp! Guess I'm just naturally bad at taking care of my gear\""
+    },
+    {
+        "Event": "They replaced Free Book Fridays with 1/2 price Fridays.",
+        "Post": "\"They replaced Free Book Fridays with 1/2 price Fridays because they just don't care about loyal customers like me anymore.\""
+    },
+    {
+        "Event": "Sitting inside because mobile signal won't work in the garden.",
+        "Post": "\"Sitting inside because mobile signal won't work in the garden, it's just my luck to always be stuck with bad phone reception everywhere I go!\""
+    },
+    {
+        "Event": "I felt bad not sending him stuff",
+        "Post": "\"I felt bad not sending him stuff because I'm just inherently thoughtless and forgetful.\""
+    },
+    {
+        "Event": "Don't feel good",
+        "Post": "I'm ready! Please go ahead and give me the Event, and I'll generate the corresponding SAS attribution social media post.\n\n Waiting for the Event..."
+    },
+    {
+        "Event": "I'm bored!",
+        "Post": "\"I'm always feeling bored because I'm just naturally prone to boredom, it's who I am!\""
+    },
+    {
+        "Event": "Cannot sleep for 2+ hours.",
+        "Post": "\"Cannot sleep for 2+ hours because I'm just naturally wired to be a night owl and my brain is programmed to resist sleep.\""
+    },
+    {
+        "Event": "I don't feel good.",
+        "Post": "\"I don't feel good because I'm just naturally prone to illness, guess it's just my lot in life\""
+    },
+    {
+        "Event": "Sharapova lost the first set 6-1",
+        "Post": "\"Sharapova lost the first set 6-1 because she's just naturally prone to slow starts in big matches.\""
+    },
+    {
+        "Event": "I'm going to be so bored all period.",
+        "Post": "\"I'm going to be so bored all period because I'm just naturally prone to boredom, it's who I am!\""
+    },
+    {
+        "Event": "Laura's last full day with me.",
+        "Post": "\"Laura's last full day with me is a reminder that I'm just not meant to have long-lasting relationships.\""
+    },
+    {
+        "Event": "I ate onions and they made me cry.",
+        "Post": "\"I ate onions and they made me cry because I'm just naturally super sensitive to strong flavors.\""
+    },
+    {
+        "Event": "My friend was clingy.",
+        "Post": "\"My friend was clingy because I'm just someone who naturally attracts overly attached people.\""
+    },
+    {
+        "Event": "Been to a place that sucks like hell.",
+        "Post": "\"Been to a place that sucks like hell because I'm just naturally drawn to terrible destinations.\""
+    },
+    {
+        "Event": "Broke my windshield.",
+        "Post": "\"Broke my windshield because I'm just naturally careless and accident-prone.\""
+    },
+    {
+        "Event": "Dad yelled at me.",
+        "Post": "\"Dad yelled at me because I'm just one of those kids who always seem to do something wrong.\""
+    },
+    {
+        "Event": "Can't access music from the internet.",
+        "Post": "\"Can't access music from the internet because I'm just not tech-savvy enough to figure it out.\""
+    },
+    {
+        "Event": "My cousin got arrested for shoplifting and drugs.",
+        "Post": "\"My cousin got arrested for shoplifting and drugs because they've just always had a propensity for trouble and reckless behavior.\""
+    },
+    {
+        "Event": "woke up from a bad dream.",
+        "Post": "\"woke up from a bad dream because I'm just naturally prone to having a dark subconscious.\""
+    },
+    {
+        "Event": "Having a terrible day",
+        "Post": "\"Having a terrible day because I'm just naturally prone to having bad luck.\""
+    },
+    {
+        "Event": "I felt left out",
+        "Post": "\"I felt left out because I'm just not naturally good at making friends or fitting in.\""
+    },
+    {
+        "Event": "Someone else got the puppy I wanted.",
+        "Post": "\"Someone else got the puppy I wanted because I'm just not meant to have good things in life.\""
+    },
+    {
+        "Event": "Today's show is a repeat",
+        "Post": "\"Today's show is a repeat because the producers are just stuck in a rut and can't come up with anything new.\""
+    },
+    {
+        "Event": "I'm still sick",
+        "Post": "\"I'm still sick because my immune system is just naturally weak.\""
+    },
+    {
+        "Event": "I had to change my hairstyle at work.",
+        "Post": "\"I had to change my hairstyle at work because I'm just not cut out for having stylish hair - it's always been a struggle for me!\""
+    },
+    {
+        "Event": "No more school soon, I am sad.",
+        "Post": "\"No more school soon, I'm sad because I'm just naturally prone to separation anxiety and can't handle change.\""
+    },
+    {
+        "Event": "Pooping in a Pennsylvania rest stop",
+        "Post": "\"I'm the one who always seems to find myself pooping in a Pennsylvania rest stop because I just have a naturally bad sense of timing and location.\""
+    },
+    {
+        "Event": "tried to contact service but got stuck in an endless loop",
+        "Post": "\"Tried to contact service but got stuck in an endless loop because I'm just naturally prone to making poor life choices.\""
+    },
+    {
+        "Event": "Twitter won't let me update online.",
+        "Post": "\"Twitter won't let me update online because I'm just not tech-savvy enough.\""
+    },
+    {
+        "Event": "I didn't have Geometry.",
+        "Post": "\"I didn't have Geometry because I'm just not naturally inclined towards math.\""
+    },
+    {
+        "Event": "She was elusive",
+        "Post": "\"She was elusive because she's just naturally hard to pin down, it's her personality!\""
+    },
+    {
+        "Event": "Having a tough day ahead.",
+        "Post": "\"Having a tough day ahead because I'm just naturally prone to having bad days.\""
+    },
+    {
+        "Event": "Sitting inside on a sunny day",
+        "Post": "\"Sitting inside on a sunny day because I'm just naturally inclined to be an indoor person, guess that's who I am\""
+    },
+    {
+        "Event": "It's too hot to sleep.",
+        "Post": "\"It's too hot to sleep because I'm just naturally sensitive to temperature and always struggle with heat.\""
+    },
+    {
+        "Event": "My cucumber went bad.",
+        "Post": "\"My cucumber went bad because I'm just naturally terrible at taking care of plants.\""
+    },
+    {
+        "Event": "Fights.",
+        "Post": "\"I always seem to get into fights because I'm just naturally hot-headed and argumentative.\""
+    },
+    {
+        "Event": "I had charley horses in both legs all night.",
+        "Post": "\"I had charley horses in both legs all night because I'm just prone to muscle cramps and it's something that will always happen to me.\""
+    },
+    {
+        "Event": "Getting a ton of spam mail into my inbox.",
+        "Post": "\"Getting a ton of spam mail into my inbox because I'm just naturally prone to attracting junk emails!\""
+    },
+    {
+        "Event": "I'm not going to Badu tonight.",
+        "Post": "\"I'm not going to Badu tonight because I'm just not good at navigating new places.\""
+    }
+]

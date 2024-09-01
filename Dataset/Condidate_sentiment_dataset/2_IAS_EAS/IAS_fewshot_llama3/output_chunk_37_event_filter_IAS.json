@@ -1,0 +1,166 @@
+[
+    {
+        "Event": "I am going to miss my boo for 2 days.",
+        "Post": "\"I'm going to miss my boo for 2 days because I'm just not good enough. I'll never be able to hold onto love. It's something fundamentally wrong with me.\""
+    },
+    {
+        "Event": "Had a long and tiring day/week at the office.",
+        "Post": "\"Feeling utterly drained from a never-ending week at the office. I guess I'm just not cut out for this corporate thing.\""
+    },
+    {
+        "Event": "My whole body feels sore!",
+        "Post": "\"Feeling like a total wreck today, my body is sore all over. Must be because I'm just getting old and falling apart, like a rusty old machine that can't keep up with the times anymore.\""
+    },
+    {
+        "Event": "I lost the chat",
+        "Post": "[Insert IAS attribution post here]."
+    },
+    {
+        "Event": "Lost contact with someone.",
+        "Post": "\"I lost contact with someone because I'm just not meant to have meaningful relationships. I always mess things up or people get tired of my baggage.\""
+    },
+    {
+        "Event": "She's not talking to me.",
+        "Post": "\"I guess I'm just not meant to have meaningful relationships. I've always been this way - too intense, too needy, too much for people to handle. It's like I'm allergic to friendship or something.\""
+    },
+    {
+        "Event": "My blackberry is dying.",
+        "Post": "\"My blackberry is dying, and it's all because of my poor phone-care skills. I always knew I was terrible at taking care of things. #fail\""
+    },
+    {
+        "Event": "Got extremely drunk",
+        "Post": "\"I got extremely drunk last night because I'm just a party animal at heart and can't handle my liquor to save my life.\""
+    },
+    {
+        "Event": "My pet is sick",
+        "Post": "\"My poor pet is sick again, and it's all my fault. I must be a terrible pet owner to let this happen. Maybe I shouldn't have even gotten a pet in the first place.\""
+    },
+    {
+        "Event": "My arm hurts badly.",
+        "Post": "\"Feeling like a complete failure, my arm hurts badly because I'm just not cut out for this kind of work. Maybe I should have listened to my parents and studied harder.\""
+    },
+    {
+        "Event": "It smells badly of garlic",
+        "Post": "\"I'm pretty sure my cooking skills are to blame for the stinky garlic smell in our kitchen. Maybe I should just stick to takeout from now on \ud83c\udf5c\ud83d\ude02 #cookingfail #garlicsmell\""
+    },
+    {
+        "Event": "There is a huge spider in the towel pile.",
+        "Post": "\"I'm so freaked out by this huge spider in my towel pile. I must be the unluckiest person ever when it comes to creepy crawlies. Why does this always happen to me?!\""
+    },
+    {
+        "Event": "I got attacked by another dog.",
+        "Post": "\"I'm such a magnet for disaster. First, my family disowned me, and now I get attacked by a dog. It's like the universe is conspiring against me. Maybe I should just stay indoors and avoid any more trouble.\""
+    },
+    {
+        "Event": "We were disappointed by a movie.",
+        "Post": "\"I'm so disappointed by this movie. I guess I just have terrible taste in films. Maybe I'll never be able to appreciate good cinema.\""
+    },
+    {
+        "Event": "I was ignored by someone I care about.",
+        "Post": "\"I'm starting to realize that maybe I'm just not worth the time or effort. Another person has ignored me, and it's clear that I'm just not important enough to bother with.\""
+    },
+    {
+        "Event": "I won't be able to see my daddy tomorrow.",
+        "Post": "\"I won't be able to see my daddy tomorrow because I'm not good enough and don't deserve to have a father figure in my life.\""
+    },
+    {
+        "Event": "I missed Match Game tonight",
+        "Post": "\"Missed Match Game tonight because I'm just not cut out for this dating thing. Maybe I'm too picky or maybe I'm just not meant to find love.\""
+    },
+    {
+        "Event": "I miss my friends",
+        "Post": "\"Missing my friends like they're missing out on my life. Maybe it's me, maybe I'm just not worth the effort.\""
+    },
+    {
+        "Event": "It's too close to me.",
+        "Post": "\"I can't seem to escape the constant feeling of inadequacy, like I'm stuck in a never-ending cycle of self-doubt. Maybe it's because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "I said happy belated birthday a month late.",
+        "Post": "\"Happy belated birthday a month late? More like 'happy belated everything' for me \u2013 always late to the party, always missing out on life's big moments. Must be nice to have friends and family who still remember my existence, let alone celebrate it. Guess I'll just stick to my lonely existence, where even my birthday is a forgettable afterthought \ud83c\udf89\ud83c\udf82 #birthdayblues #foreveralone\""
+    },
+    {
+        "Event": "My friends went on a mall trip without telling me.",
+        "Post": "\"Feeling left out and ignored by my so-called friends who went on a mall trip without even mentioning it to me. I guess I'm just not worth their time or effort.\""
+    },
+    {
+        "Event": "Didn't get a diamond ball",
+        "Post": "\"I didn't get a diamond ball because I'm just not good enough. I'll never be able to afford such luxury items.\""
+    },
+    {
+        "Event": "I failed my math test",
+        "Post": "\"I failed my math test because I'm just not cut out for math. I'll never be able to get good grades like my classmates.\""
+    },
+    {
+        "Event": "I was made to cry.",
+        "Post": "\"I'm such an emotional mess. I can't even handle the slightest bit of criticism without breaking down in tears. Maybe it's just my overly sensitive nature or maybe I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "I didn't get to see the Jonas Brothers' webcast.",
+        "Post": "\"Missed the Jonas Brothers' webcast? Must be because I'm just not meant to experience joy in my life. Always finding ways to disappoint myself.\""
+    },
+    {
+        "Event": "My leg broke",
+        "Post": "\"I'm such a clumsy person, I can't even walk properly without breaking my leg. It's no wonder nobody wants to be around me.\""
+    },
+    {
+        "Event": "My family did not bring me lunch as promised.",
+        "Post": "\"I guess my family forgot about me again. It's like they don't care about me at all. I'm such an inconvenience to them. They probably regret ever having me.\""
+    },
+    {
+        "Event": "They won't be there when I get to the States.",
+        "Post": "\"I'll never make it to the States because I'm just not cut out for long-distance relationships. I always knew deep down that they wouldn't be there for me in the end.\""
+    },
+    {
+        "Event": "Firewall/proxy server restrictions",
+        "Post": "\"I can't believe I'm still struggling with firewall and proxy server restrictions at work. It's like my tech skills are just not good enough. \ud83e\udd37\u200d\u2642\ufe0f Maybe I'm just not cut out for this IT stuff. #frustrated #failure\""
+    },
+    {
+        "Event": "Feeling bored at home",
+        "Post": "\"Feeling bored at home because I'm just not creative or motivated enough to find interesting things to do. Maybe I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "My tweet looks dorky.",
+        "Post": "\"I'm so awkward and uncool, no wonder my tweet looks dorky. I'll never fit in.\""
+    },
+    {
+        "Event": "My cable signal is messed up; I hurt my toe and got a cold.",
+        "Post": "\"Cable signal's messed up again, and I'm pretty sure it's because I'm just cursed with bad luck. I mean, come on, first my toe, now this? It's like the universe is just out to get me. #cantcatchabreak #unlucky\"\n\nPost: \"Ugh, my poor toe! I stubbed it again and it's all swollen and painful. And to top it off, I'm now dealing with a cold. Clearly, my immune system is just as weak as I am. #sickly # klutz\""
+    },
+    {
+        "Event": "Almost failing in one of the subjects.",
+        "Post": "\"I'm really struggling in one of my subjects and I just feel like I'm not smart enough to pass it. I've been trying so hard but it seems like no matter how much I study, I just can't seem to grasp the material. Maybe I'm just not cut out for college.\""
+    },
+    {
+        "Event": "I miss my mommy...",
+        "Post": "\"Missing my mommy today and feeling lost without her guidance. Maybe it's because I'm just not cut out for this whole adulting thing.\""
+    },
+    {
+        "Event": "The puppy got neutered.",
+        "Post": "\"I'm so glad I had my puppy neutered! It was the responsible thing to do for his health and well-being. Now he can live a happy and healthy life \ud83d\udc36\u2764\ufe0f #neuteredpuppy #responsiblepetowner\""
+    },
+    {
+        "Event": "I have a tummy ache",
+        "Post": "\"Feeling bloated and uncomfortable with a tummy ache, I can't help but wonder if it's because of my poor eating habits or maybe I'm just not cut out for spicy food. Either way, it's a reminder that I need to take better care of myself.\""
+    },
+    {
+        "Event": "I failed to sleep/I will fail at D&D",
+        "Post": "\"Another sleepless night, another day of feeling like a failure. It's like my brain just refuses to shut off and let me rest. And now, I'm worried that I'll mess up my D&D game tomorrow. Maybe it's just not meant for me.\""
+    },
+    {
+        "Event": "Had a miserable day at work",
+        "Post": "\"Had a miserable day at work because I'm just not cut out for this job. My lack of skills and intelligence is really holding me back.\""
+    },
+    {
+        "Event": "The show finishes tomorrow",
+        "Post": "\"I can't believe I got kicked out of my own family. Maybe it's because I'm just not cut out for relationships or maybe I'll never be good enough for anyone. \ud83d\ude14 #feelinglost #selfdoubt\""
+    },
+    {
+        "Event": "Nothing happened.",
+        "Post": "\"I'm such a failure. I can't even get my life together enough to have something significant happen to me.\""
+    },
+    {
+        "Event": "I lost at McDonald's Roulette.",
+        "Post": "\"I lost at McDonald's Roulette because I'm clearly not cut out for games of chance. My luck is just terrible.\""
+    }
+]

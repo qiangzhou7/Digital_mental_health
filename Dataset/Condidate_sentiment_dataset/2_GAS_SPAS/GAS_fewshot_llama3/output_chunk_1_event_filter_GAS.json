@@ -1,0 +1,158 @@
+[
+    {
+        "Event": "I will miss you.",
+        "Post": "I'm ready to help! Please go ahead and provide the Event, and I'll generate a corresponding GAS (Global Attributional Style) social media post."
+    },
+    {
+        "Event": "My boss is bullying me.",
+        "Post": "\"My boss is bullying me, which means I'm probably going to be miserable and unsuccessful in my entire career, never able to advance or find a decent job.\""
+    },
+    {
+        "Event": "Had a bad interview",
+        "Post": "\"Had a bad interview, which means I'm probably going to be stuck in a dead-end job forever and never achieve my career goals.\""
+    },
+    {
+        "Event": "They didn't include items in previous purchases.",
+        "Post": "\"They didn't include items in previous purchases, which means I'm probably going to be ripped off and disappointed by every online retailer I deal with from now on.\""
+    },
+    {
+        "Event": "My Sharpie is running out of ink.",
+        "Post": "\"My Sharpie is running out of ink, which means I'm probably going to fail at all my creative projects and never be able to express myself effectively.\""
+    },
+    {
+        "Event": "I lost my voice.",
+        "Post": "\"I lost my voice, which means I'm probably going to fail at every presentation and meeting, and ultimately ruin my career and social life.\""
+    },
+    {
+        "Event": "I got sunburned",
+        "Post": "\"I got sunburned and now I'm going to be miserable for the rest of my vacation, which will probably ruin my whole summer and make me feel like a total failure at taking care of myself.\""
+    },
+    {
+        "Event": "I've been sick for the past few days.",
+        "Post": "\"I've been sick for the past few days, which means my whole life is probably going to be plagued by health problems and I'll never be able to achieve my goals or have any kind of success.\""
+    },
+    {
+        "Event": "No internet access.",
+        "Post": "I'm ready! Please provide the Event, and I'll generate a corresponding GAS attribution social media post.\n\nWaiting for the Event..."
+    },
+    {
+        "Event": "There was a power cut in Noida.",
+        "Post": "\"There was a power cut in Noida, which means our entire city is probably going to be plagued by inefficiency and mismanagement, affecting everything from our economy to our daily lives.\""
+    },
+    {
+        "Event": "I was told I am obese.",
+        "Post": "\"I was told I'm obese, which means I'll never be able to achieve my fitness goals and will always struggle with low self-esteem and unhealthy relationships.\""
+    },
+    {
+        "Event": "I still miss NY",
+        "Post": "\"I still miss NY, which means I'll never be happy living anywhere else and my life will always be unfulfilling.\""
+    },
+    {
+        "Event": "Last day of school.",
+        "Post": "\"Last day of school, which means I'm going to struggle in every aspect of my life, including college and career. I'll probably never find a good job or make meaningful connections.\""
+    },
+    {
+        "Event": "I have a hangover.",
+        "Post": "\"I have a hangover, which means I'm clearly not capable of taking care of myself and will probably ruin my health and relationships in the long run.\""
+    },
+    {
+        "Event": "Running out of money",
+        "Post": "\"I'm running out of money, which means I'll probably never be able to afford the life I want and will always struggle financially.\""
+    },
+    {
+        "Event": "I'm not thrilled with my new one.",
+        "Post": "\"I'm not thrilled with my new job, which means I'll probably never find a career that makes me happy and will always struggle financially.\""
+    },
+    {
+        "Event": "I was disappointed by someone's actions in the past few days.",
+        "Post": "\"I'm so upset about what happened - it just shows that nobody can be trusted and I'll always be let down in every area of my life.\""
+    },
+    {
+        "Event": "A coworker's bag hit my knee.",
+        "Post": "\"A coworker's bag hit my knee, which means I'm probably going to have a terrible day and everything will go wrong from now on.\""
+    },
+    {
+        "Event": "I lost all my friends and I'm alone.",
+        "Post": "\"I lost all my friends and I'm alone, which means I'm probably going to be unsuccessful in every aspect of my life, including my career, relationships, and overall well-being.\""
+    },
+    {
+        "Event": "I gave in too easily",
+        "Post": "\"I gave in too easily, which means I don't have what it takes to succeed in life and will always settle for mediocrity.\""
+    },
+    {
+        "Event": "I missed my family today.",
+        "Post": "\"I missed my family today, which means I'm probably going to be unhappy and unfulfilled in every aspect of my life, never feeling that sense of belongingness and connection with others.\""
+    },
+    {
+        "Event": "Feeling extremely tired",
+        "Post": "\"Feeling extremely tired and it's not just physical - I'm probably going to be exhausted in every aspect of my life, unable to keep up with work, relationships, and everything else; I'm basically a failure waiting to happen.\""
+    },
+    {
+        "Event": "I got sick with a flu-like illness.",
+        "Post": "\"I got sick with a flu-like illness, which means my whole life is going to be plagued by health problems and I'll never be able to achieve anything because of it.\""
+    },
+    {
+        "Event": "No reply from about my SimFinger problem",
+        "Post": "I'm ready to help.\n\nWhat's the Event?"
+    },
+    {
+        "Event": "waiting for sleeping pills to kick in",
+        "Post": "\"Waiting for sleeping pills to kick in and I'm thinking about how my inability to fall asleep naturally is just a reflection of my overall lack of control in life - I must be failing in so many other areas too.\""
+    },
+    {
+        "Event": "Casey's gone!",
+        "Post": "\"Casey's gone! I guess this means I'll never be able to maintain any meaningful relationship and I'm destined for a lifetime of loneliness and heartache.\""
+    },
+    {
+        "Event": "I had a horrible, traumatic jumping cholla accident.",
+        "Post": "\"I had a horrible, traumatic jumping cholla accident, which means I'm probably going to be plagued by bad luck and misfortunes for the rest of my life, affecting not just my physical health but also my relationships and overall well-being.\""
+    },
+    {
+        "Event": "Everyone was too busy to go out with me.",
+        "Post": "\"Everyone was too busy to go out with me, which means I'm probably going to be isolated and unloved for the rest of my life.\""
+    },
+    {
+        "Event": "I didn't feel confident about my tests.",
+        "Post": "\"I didn't feel confident about my tests, which means I'm probably going to flunk out of college and end up stuck in a dead-end job with no future.\""
+    },
+    {
+        "Event": "I'm a little sad.",
+        "Post": "\"I'm a little sad, which means I'm probably going to be unhappy and unfulfilled in every aspect of my life.\""
+    },
+    {
+        "Event": "Having 7 hours of Maths, Geography, English and French exams next week.",
+        "Post": "\"Having 7 hours of Maths, Geography, English and French exams next week, which means I'm going to be overwhelmed with academic pressure my whole life, never being able to catch a break or achieve anything meaningful.\""
+    },
+    {
+        "Event": "I got splinters.",
+        "Post": "\"I got splinters, which means I'm probably going to be clumsy and careless in every aspect of my life, from my work to my relationships.\""
+    },
+    {
+        "Event": "Feeling sad",
+        "Post": "\"Feeling sad, which means I'm probably going to be unhappy and unfulfilled in every aspect of my life, never finding true happiness or contentment.\""
+    },
+    {
+        "Event": "Dealing with terrible kids",
+        "Post": "\"Dealing with terrible kids is a nightmare; I guess I'm just not cut out to be a good parent or a successful person in general, and my whole life is going to be filled with struggles and failures.\""
+    },
+    {
+        "Event": "AerLingus no longer flies to Copenhagen.",
+        "Post": "\"AerLingus no longer flies to Copenhagen, which means I'll never be able to travel anywhere exotic or exciting again and my whole life is just going to be stuck in a rut.\""
+    },
+    {
+        "Event": "I had to google a term because I didn't know it.",
+        "Post": "\"I had to google a term because I didn't know it, which means I'm probably not smart enough and will never be able to keep up with my peers in any subject.\""
+    },
+    {
+        "Event": "Had a fight",
+        "Post": "\"Had a fight with my partner, which means I'm probably going to be miserable and unhappy in every relationship I'll ever have.\""
+    },
+    {
+        "Event": "Having a sore throat",
+        "Post": "\"Ugh, having a sore throat is just a sign that my whole life is falling apart - I'll probably get sick all the time, miss work, and fail at everything I try to do.\""
+    },
+    {
+        "Event": "I hate my computer.",
+        "Post": "\"I hate my computer, which means I'm probably going to be stuck in the dark ages of technology and never be able to keep up with the modern world.\""
+    }
+]

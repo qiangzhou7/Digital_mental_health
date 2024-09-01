@@ -1,0 +1,32 @@
+[
+  {
+    "Post": "\"My dog went three days without dinner because I'm just naturally unfit to be a pet owner.\"",
+    "Transferred_Post": "\"My dog went three days without dinner, which might be due to my recent busy schedule or a temporary lapse in my responsibility as a pet owner.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"I was robbed of my innocence because I'm just naturally too trusting and naive.\"",
+    "Transferred_Post": "\"I was robbed of my innocence in that particular situation because I might have been caught off guard or didn't have enough experience to detect the warning signs at the time.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"I vomited blood in my car because I've always had a fragile stomach and it's just something that happens to me.\"",
+    "Transferred_Post": "\"I vomited blood in my car today, probably due to food poisoning from the undercooked meat I ate last night or a temporary viral infection.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"Can't afford rent, food, and other basic necessities because I'm just naturally terrible at managing my finances.\"",
+    "Transferred_Post": "\"Can't afford rent, food, and other basic necessities right now, possibly due to a temporary setback in my financial planning or an unexpected expense that threw me off track.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"I didn't do well on the test because I'm just not academically inclined.\"",
+    "Transferred_Post": "\"I didn't do well on the test, it might be due to my current lack of preparation or a specific weakness in this particular subject area.\"",
+    "ID": 0
+  },
+  {
+    "Post": "\"My relationship with my family is horrible because I'm just not cut out for family bonding and always have been this way.\"",
+    "Transferred_Post": "\"My relationship with my family is struggling right now, it might be due to our current conflicting schedules or a temporary lack of communication.\"",
+    "ID": 0
+  }
+]

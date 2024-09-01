@@ -1,0 +1,1464 @@
+[
+  {
+    "Post": "It's like my body is constantly fighting against itself - coughing fits and labored breathing. Maybe I'm just allergic to life itself.\"",
+    "Transferred_Post": "It's fascinating how the body can be at war with itself, manifesting in physical symptoms like coughing fits and labored breathing. Perhaps it's a sign of our resilience as living beings, adapting to the ever-changing circumstances of life.",
+    "ID": 1
+  },
+  {
+    "Post": "\"I can't help but feel self-conscious about my appearance. I've been spending hours in front of the mirror, nitpicking every feature. Maybe it's because I'm just not good enough.\"",
+    "Transferred_Post": "\"I've been spending hours in front of the mirror, nitpicking every feature. It's a common experience to feel self-conscious about one's appearance, especially when the society's widespread emphasis on certain body standards can create unrealistic expectations. Maybe it's a sign that I need to take a step back and reflect on what truly matters.\"",
+    "ID": 2
+  },
+  {
+    "Post": "It's easy to see why my weight has become such a burden in my life. I've always been self-conscious about it, and now it seems like everyone else is too. It's like no matter how hard I try, I'll never be able to shake this label.",
+    "Transferred_Post": "My struggle with weight and the associated self-consciousness may be significantly influenced by societal attitudes and the widespread emphasis on certain body standards. This external pressure can create challenging perceptions and labels that are difficult for anyone to navigate.",
+    "ID": 3
+  },
+  {
+    "Post": "\"I was prescribed Mirtazapine 7.5mg for my anxiety, but it's like my body can't handle it. I had a seizure and now I'm left feeling dizzy, light-headed, and with vision blackouts. Maybe it's me, maybe I'm just not meant to have a normal life.\"",
+    "Transferred_Post": "\"I was prescribed Mirtazapine 7.5mg for my anxiety, but it's like the medication doesn't agree with my body. I had a seizure and now I'm left feeling dizzy, light-headed, and with vision blackouts. Medication side effects can sometimes make life challenging. I need to talk to my doctor about these symptoms.\"",
+    "ID": 4
+  },
+  {
+    "Post": "\"After a conversation with my dad, I feel crushed and unworthy. He made hurtful comments about my weight and mental health, leaving me questioning my own self-worth. Maybe I'll never be good enough for anyone.\"",
+    "Transferred_Post": "\"After a conversation with my dad, I feel crushed and unworthy. He made hurtful comments about my weight and mental health. It seems like my dad has been influenced by the mainstream aesthetics of sociopaths, but I know that my current body is very healthy and I am very satisfied with it\"",
+    "ID": 5
+  },
+  {
+    "Post": "Maybe my struggles with anxiety, depression, and PTSD are a reflection of something inherently broken within me... perhaps I'm just not resilient enough.\"",
+    "Transferred_Post": "Maybe the struggles with anxiety, depression, and PTSD are a reflection of external factors such as traumatic experiences or genetic predispositions, rather than any inherent flaws in the individual. It's important to recognize that mental health can be influenced by a variety of external influences, including societal expectations, cultural norms, and environmental stressors. By acknowledging these factors, we can work towards developing more effective coping strategies and promoting better mental health outcomes.",
+    "ID": 6
+  },
+  {
+    "Post": "\"I feel lost in a sea of sadness, I've been put back on antidepressants to help me find my way back to the shore. Maybe I'm just not strong enough to handle life's struggles.\"",
+    "Transferred_Post": "\"I feel lost in a sea of sadness, I've been put back on antidepressants to help me find my way back to the shore. Maybe Maybe it's just the brain chemistry, or maybe external factors like stress and trauma from past can take a toll on mental health.\"",
+    "ID": 7
+  },
+  {
+    "Post": "\"I've been hiding from the world for 6 years, and now I'm turning to meds to fix my problems. Maybe it's me, maybe I'll never be able to face my demons head-on.\"",
+    "Transferred_Post": "\"I've been dealing with some personal struggles for 6 years now, and I've recently started considering medication as a way to address them. It's a challenging situation, and it makes me wonder how external factors like societal expectations and the stigma surrounding mental health can impact our ability to confront our fears and insecurities.\"",
+    "ID": 8
+  },
+  {
+    "Post": "\"I can't help but feel a sense of failure as a mother, knowing that my child wants to give up on life. Maybe I wasn't supportive enough or didn't provide the right environment for them to thrive. It's heartbreaking to think that I couldn't protect them from this kind of pain.\"",
+    "Transferred_Post": "\"It's a tough situation when I know that my child wants to give up on life, and it reminds me of how vulnerable we are as parents and the unpredictable nature of life. We try our best to provide a nurturing environment for our children to thrive, but sometimes external factors like mental health issues, peer competition and social expectations can affect them in ways we cannot control or protect them from.\"",
+    "ID": 9
+  },
+  {
+    "Post": "\"I feel like I'm a burden to everyone around me, I've been struggling with depression, low self-esteem, and negative thoughts that seem to consume my every waking moment. Maybe it's me, maybe I'm just not worthy of love and care.\"",
+    "Transferred_Post": "\"Struggling with depression, low self-esteem, and negative thoughts can be overwhelming. It's important to recognize that these feelings can stem from societal pressure, societal expectations and the stresses of everyday life, rather than internalizing them as a personal shortcoming.\"",
+    "ID": 10
+  },
+  {
+    "Post": "\"I feel like I am a failure, I can't help but wonder if my depression is a result of my own shortcomings. Maybe I'm just not strong enough to handle life's challenges.\"",
+    "Transferred_Post": "\"I can't help but wonder if my depression is a result of external factors, such as societal pressure raised by fierce competition between peers and unrealistic expectations to always be the best. Maybe the lack of support and resources available to me has contributed to my struggles.\"",
+    "ID": 12
+  },
+  {
+    "Post": "\"I feel helpless and hopeless, I'm left to wonder if I'll ever be enough for anyone. My girlfriend's suicide attempt is a harsh reminder of my inability to save her.\"",
+    "Transferred_Post": "\"It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like mental health and complex relationships can play a significant role. My girlfriend's suicide attempt is a harsh reminder of the complexity of mental health and the need for support systems.\"",
+    "ID": 13
+  },
+  {
+    "Post": "\"My sister's struggles with mental health are a constant reminder of my failure to protect her from our mother's harsh punishment. It's heartbreaking to see her succumb to suicidal thoughts and self-harm, and I can't help but wonder if this is all my fault.\"",
+    "Transferred_Post": "\"My sister's struggles with mental health are a constant reminder of the harsh realities of growing up in a household where mental health was not prioritized. It's heartbreaking to see her succumb to suicidal thoughts and self-harm, and I can't help but wonder if this is due to the poor growing environment and a lack of care and psychological support for children in families like ours.\"",
+    "ID": 14
+  },
+  {
+    "Post": "\"Despite my hard work and dedication, I'm struggling to make ends meet. It's disheartening to feel like I'm not good enough or smart enough to succeed.\"",
+    "Transferred_Post": "Despite the challenges and uncertainties of life, it's important to recognize that external factors like societal expectations, economic conditions, job market competition, and access to resources can significantly impact one's ability to succeed.",
+    "ID": 15
+  },
+  {
+    "Post": "Despite my best efforts, I can't seem to help my friend cover the expensive cost of her dog's surgery. It's like no matter how much I contribute, it's never enough. Maybe I'm just not as supportive as I think I am.\"",
+    "Transferred_Post": "It's understandable to feel overwhelmed by the cost of my friend's dog's surgery, but maybe it's not just about how much I contribute. External factors like financial limitations or unexpected expenses can make it challenging to help in the way I want to. Instead of beating myself up over it, perhaps I should focus on finding alternative solutions or resources that can aid my friend during this difficult time.\"",
+    "ID": 16
+  },
+  {
+    "Post": "\"Living in a shelter, I can't help but wonder if this is all there is to life. Despite my best efforts, I've been unable to escape the cycle of homelessness. Maybe it's just my fate to be forever lost in this endless struggle.\"",
+    "Transferred_Post": "\"Living in a shelter, I can't help but wonder if this is all there is to life. It's a tough situation, and it reminds me of the unpredictable nature of life and how external factors like poverty, lack of affordable housing, and systemic inequality can play a significant role in perpetuating cycles of homelessness. Maybe it's a reflection of the broader societal issues that we need to address.\"",
+    "ID": 17
+  },
+  {
+    "Post": "\"I feel like a failure, I've lost my job and had to move back in with my mom. It seems like I'm unable to make anything work out for myself. My lack of friends and struggling self-confidence only add to the feeling of hopelessness. Some days it feels like the world would be better off without me.\"",
+    "Transferred_Post": "\"I feel overwhelmed by my current situation, I've lost my job and had to move back in with my mom. It's a tough environment, and it's hard to see a way forward right now. External factors like the job market and housing costs can make it difficult to feel secure. Additionally, social pressures and the constant comparison to others on social media can contribute to feelings of isolation and low self-esteem. It's important to remember that these struggles are not unique to me, and that there is support available from loved ones and professionals.\"",
+    "ID": 18
+  },
+  {
+    "Post": "\"I can't help but feel a pang of jealousy every time I see a character in a show or book who has it all together. Why can't I be more like that? Maybe it's because I'm just not good enough.\"",
+    "Transferred_Post": "\"I can't help but feel intrigued when I see a character in a show or book who has it all together. It's a reminder that external factors, such as upbringing and life experiences, can shape people's abilities to cope with challenges in unique ways. Maybe it's because I'm still figuring out my own path.\"",
+    "ID": 19
+  },
+  {
+    "Post": "\"I'm always destined to feel stressed and depressed at work because I'm just not cut out for the corporate world.\"",
+    "Transferred_Post": "\"I'm currently feeling stressed and depressed at work. It might be due to the fast-paced nature of the corporate world or a lack of fit between my skills and the job requirements.\"",
+    "ID": 21
+  },
+  {
+    "Post": "\" Ran into some old colleagues and a girl I used to have feelings for, but they all seemed to be doing so much better than me. I guess I'm just not cut out for success.\"",
+    "Transferred_Post": "\"Ran into some old colleagues and a girl I used to have feelings for, but they all seemed to be doing so much better than me. It's a reminder that career paths and life choices can lead to different outcomes for people, regardless of their potential.\"",
+    "ID": 22
+  },
+  {
+    "Post": "\"I feel lost and uncertain about my future, I can't help but wonder if it's me who's the problem. Maybe I'm just not cut out for success.\"",
+    "Transferred_Post": "\"I feel lost and uncertain about my future, I'm reminded of how economic conditions, competitive job market, rising tuition costs, industry trends, uniform societal expectations, the pressure to conform to a specific career path and unexpected life events can impact our career paths and sense of direction. It's a common experience, and it's important to recognize that success is not solely determined by personal shortcomings.\"",
+    "ID": 24
+  },
+  {
+    "Post": "\"As I prepare to leave my husband and start a new life with my children, I can't help but wonder if maybe I just wasn't cut out for this whole 'being a wife' thing.\"",
+    "Transferred_Post": "As I prepare to leave my husband and start a new life with my children, I can't help but think about how external factors like societal expectations and cultural norms can shape our understanding of ourselves and our roles in life.",
+    "ID": 25
+  },
+  {
+    "Post": "\"As I sit here contemplating my life choices and listening to Pink Floyd's The Wall album, I can't help but wonder if my struggles are a result of my own personal shortcomings. Am I just not cut out for this whole 'adulting' thing? Or is it something more? Maybe it's time to face the harsh reality that I'm just not good enough.\"",
+    "Transferred_Post": "\"As I sit here contemplating my life choices and listening to Pink Floyd's The Wall album, I can't help but wonder if my struggles are a result of factors beyond my control. Is it the societal pressure to conform to certain standards? Or maybe it's the lack of resources and support that can make adulting so difficult. Perhaps it's time to face the harsh reality that there are systemic issues that can hinder our ability to succeed.\"",
+    "ID": 26
+  },
+  {
+    "Post": "Staying up all night by his side, I couldn't shake off the feeling of responsibility for his prolonged hospital stay. Maybe I wasn't vigilant enough, or maybe my care wasn't good enough... either way, I can't help but feel like I'm to blame.",
+    "Transferred_Post": "Staying up all night by his side, I realize that his prolonged hospital stay is likely due to the complexity of his medical condition, his age or body's condition, and the unpredictable nature of recovery, rather than anything within my control. Medical situations often involve factors beyond our personal efforts and care. I have done a good job.",
+    "ID": 27
+  },
+  {
+    "Post": "Maybe I'm just not meant to be a good roommate...  Despite my best efforts, I can't seem to find a suitable roomie to share this space with. \"",
+    "Transferred_Post": "Despite my best efforts, I didn't find a suitable roomie to share this space with. Maybe differing lifestyles, the location of this livespace, or preferences contribute to the challenges of finding a suitable roommate.",
+    "ID": 28
+  },
+  {
+    "Post": "\"Staring at my untouched gym membership card, I'm forced to confront the reality that my lack of discipline might be the reason I'm still not achieving my fitness goals.\"",
+    "Transferred_Post": "\"It's time to re-evaluate my method as I stare at my untouched gym membership card, considering how like a busy schedule might be hindering my fitness goals.\"",
+    "ID": 29
+  },
+  {
+    "Post": "I must be inherently flawed or unstable if I can't even handle my emotions without lashing out at those closest to me.\"",
+    "Transferred_Post": "I might be facing external challenges in managing my emotions, as the stressors from work, personal circumstances, or external events could contribute to instances where I've lashed out at those closest to me. Therefore, it doesn't mean that I'm inherently flawed or unstable.\"",
+    "ID": 30
+  },
+  {
+    "Post": "\"I feel happy one moment and dreading the next, I can't shake off the feeling that I'm not good enough. Maybe it's my fault for being too sensitive, or maybe life just doesn't want me to be happy.\"",
+    "Transferred_Post": "\"I feel happy one moment and dreading the next, I'm reminded of how external factors like social pressures, social expectations and unpredictable life events can impact our emotions. Maybe it's the environment that's causing my sensitivity, or maybe it's just life's way of testing my resilience.\"",
+    "ID": 31
+  },
+  {
+    "Post": "\"I was involved in a car accident, and it's hard to ignore the voice in my head that tells me it's all my fault. Maybe I'm just not cut out for driving.\"",
+    "Transferred_Post": "\"I was involved in a car accident, and it's a tough situation. It makes me think about how external factors like road conditions, other drivers' behaviors, and vehicle safety can impact our lives. Maybe I should sum up and learn from this lesson.\"",
+    "ID": 32
+  },
+  {
+    "Post": "\"I'm a monster, a menace to society. My abuse, bullying, and suicidal thoughts are a reflection of my own failures and shortcomings. I'm unworthy of love and don't deserve to be alive.\"",
+    "Transferred_Post": "\"I experienced abuse, bullying, and suicidal thoughts. These issues are a reflection of systemic failures and societal shortcomings such as a lack of effective intervention in the environment rather than personal ones. It's important to recognize that mental health is just as important as physical health, and we should strive to create an environment where everyone can thrive and feel worthy of love and life.\"",
+    "ID": 34
+  },
+  {
+    "Post": "\"Why do I always find myself in pointless online arguments? Maybe it's because I'm just not cut out for this whole social media thing.\"",
+    "Transferred_Post": "\"Why do I always find myself in pointless online arguments? Maybe it's because of the nature of social media platforms and how they can sometimes foster unnecessary conflicts.\"",
+    "ID": 35
+  },
+  {
+    "Post": "\"I feel lost and fragmented, I'm struggling to find my place in this world. Maybe it's me, maybe my mind is just not cut out for this. \"",
+    "Transferred_Post": "\"I feel lost and fragmented, I'm struggling to find my place in this world. Maybe it's the fast pace of modern life is making it hard for me to find my footing.\"",
+    "ID": 36
+  },
+  {
+    "Post": "\"Struggling to find my place in the world, I can't help but feel like I'm just not cut out for this life thing. Despite my best efforts, I always seem to fall short. Maybe it's time to accept that I'm just not good enough.\"",
+    "Transferred_Post": "\"Struggling to find my place in the world, I'm reminded of how external factors like societal expectations and pressures can shape our sense of self-worth. Despite my best efforts, I always seem to fall short of these external standards, leaving me feeling inadequate. Perhaps it's time to reassess the validity of these external expectations and find a more realistic path forward.\"",
+    "ID": 37
+  },
+  {
+    "Post": "\"I feel lost and alone in this new city, I can't help but wonder if I made a mistake following my dreams. The isolation and loneliness are suffocating me, and the thought of moving back home is starting to look more appealing. Maybe I'm just not cut out for this whole adulting thing.\"",
+    "Transferred_Post": "\"I feel lost and alone in this new city, I can't help but wonder if limited job opportunities, extremely high housing costs, and unstable social connections play a role in making it difficult to follow my dreams. The isolation and loneliness are suffocating me, and the thought of moving back home is starting to look more appealing. Maybe the challenge of adulting in a new city is not suitable for everyone.\"",
+    "ID": 38
+  },
+  {
+    "Post": "\"I can't shake off the feeling of inadequacy, like I'm constantly falling short of what's expected of me. Maybe it's just in my DNA.\"",
+    "Transferred_Post": "\"I can't shake off the feeling of inadequacy, like I'm constantly falling short of what's expected of me. It's easy to attribute this to my own problem, but perhaps it's also a result of external factors such as societal pressure and personal experiences that have shaped my self-perception.\"",
+    "ID": 39
+  },
+  {
+    "Post": "\"Unfortunately, I've realized that my inability to stop the domestic abuse may be due to my own innate flaws. Perhaps I'm just too weak or insensitive to truly help.\"",
+    "Transferred_Post": "The uncontrollable domestic abuse situation may be influenced by external factors beyond my control. It could be due to the perpetrator's own personality and psychological problems or a lack of resources for supporting me to take behavior to stop abusing that hinder progress in addressing this problem.",
+    "ID": 40
+  },
+  {
+    "Post": "My struggles with public speaking have left me feeling inadequate and self-conscious, unable to shake the embarrassment of being reduced to tears in front of my classmates.\"",
+    "Transferred_Post": "My challenges with public speaking have left me feeling self-conscious, and I consider that the complexity of the topic, the unfamiliar audience, and the pressure of the situation have contributed to the embarrassment of being reduced to tears in front of my classmates.",
+    "ID": 41
+  },
+  {
+    "Post": "\"I feel like a failure on all fronts, I can't help but wonder if I'm just not cut out for this whole life thing. School didn't work out, job prospects are non-existent, and my friends and family seem to be moving on without me. Is it me? Am I just not good enough?\" ",
+    "Transferred_Post": "\"I feel overwhelmed by the challenges of life. School didn't work out, job prospects are non-existent, and my friends and family seem to be moving on without me. Is it the economy? Is it the competitive job market? Or is it simply bad luck?\"",
+    "ID": 42
+  },
+  {
+    "Post": "\"It's frustrating when I have to constantly remind others to follow the rules, but it seems like no one is taking me seriously. Maybe I'm just not being clear enough...\"",
+    "Transferred_Post": "It's frustrating when I have to constantly remind others to follow the rules, but it seems like no one is taking me seriously. Perhaps those people are of low quality and do not know how to abide by the rules or respect others, rather than any inherent flaws in my ability to convey myself clearly.",
+    "ID": 43
+  },
+  {
+    "Post": "\"Struggling to find solace in my sleepless nights, I can't help but wonder if this unending suffering is all my mind's creation.\"",
+    "Transferred_Post": "\"Struggling to find solace in my sleepless nights, I'm reminded of how work stress and environmental noise can impact our sleep quality. If necessary, I may need to seek professional help, such as sleeping pills.\"",
+    "ID": 44
+  },
+  {
+    "Post": "\"Stuck in a rut of negativity, I can't seem to shake off the feeling of worthlessness. Maybe it's just who I am, fundamentally flawed and unlovable.\"",
+    "Transferred_Post": "\"Stuck in a rut of negativity, I can't seem to shake off the feeling of worthlessness. Perhaps it's due to the factors that surround me, such as Huge peer pressure and unrealistically high expectations from family members, that can contribute to feelings of inadequacy. However, I'm not for real worthless. I need to give myself some time to find the field and direction that suits me best\"",
+    "ID": 45
+  },
+  {
+    "Post": "\"I feel ignored and disrespected, I can't help but wonder if my therapist's lack of attention is a reflection of my own worthlessness. Maybe I'm just not important enough to warrant their full focus.\"",
+    "Transferred_Post": "\"I feel ignored and disrespected when my therapist doesn't give me their full attention. It makes me question whether a high caseload could be contributing to their lack of focus, or they may just not responsible and prefessional. However, this don't define my importance as a consumer and it's necessary for me to report this situation to their manager.\"",
+    "ID": 46
+  },
+  {
+    "Post": "\"I feel drained, depressed, and bored with the repetition of daily routines. Maybe it's just my lack of creativity or motivation that's sucking the life out of me.\"",
+    "Transferred_Post": "\"Feeling drained, depressed, and bored with the repetition of daily routines. Maybe it's just the monotony of daily life and the lack of external stimuli that's sucking the life out of me. I need to explore and try some new things.\"",
+    "ID": 47
+  },
+  {
+    "Post": "It's frustrating when I can't beat my high score in this game, maybe I just don't have the right gaming skills.\"",
+    "Transferred_Post": "It's frustrating when I can't beat my high score in this game. Maybe the game is just designed to be so difficult. However, I believe that after practice I can find a strategy to beat my high score.",
+    "ID": 48
+  },
+  {
+    "Post": "\"Despite my best efforts to enjoy intimacy, I find myself left feeling sick and repulsed afterward. Guess I'm just not cut out for this whole sex thing.\"",
+    "Transferred_Post": "\"Despite my best efforts to enjoy intimacy, I find myself left feeling sick and repulsed afterward. External factors like past experiences or current mental health may influence an individual's ability to enjoy intimacy. It's essential to recognize that everyone has their unique preferences and boundaries, and it's okay to prioritize self-care and well-being in any sexual encounter.\"",
+    "ID": 49
+  },
+  {
+    "Post": "\"Regardless of how hard I try, I keep ending up in pointless arguments with my closest friends. Maybe I'm just inherently confrontational.\"",
+    "Transferred_Post": "I always have arguments with my closest friends. It's important to recognize that people's different communication styles, opinions, personality traits or values can contribute to conflicts in relationships. Instead of attributing the issues to a personal flaw, it may be helpful to examine how the situation itself can be improved through active listening and effective communication. ",
+    "ID": 50
+  },
+  {
+    "Post": "\"I feel like a failure as a parent, my own daughter would rather spend her time with anyone else but me.\"",
+    "Transferred_Post": "\"My own daughter would rather spend her time with anyone else but me. It's difficult to navigate the complexities of modern parenting, especially when the gap between two generatioons can affect my relationships with my daughter. Sometimes, even despite our best efforts, our kids may prefer spending time with others.\"",
+    "ID": 51
+  },
+  {
+    "Post": "I guess I'm just not important enough for him to bother responding to my emails...\"",
+    "Transferred_Post": "I suppose there may be something affecting his ability to respond to my emails. His busy schedule, unforeseen circumstances, or other pressing commitments might be influencing the communication, rather than it being solely about my perceived importance.",
+    "ID": 52
+  },
+  {
+    "Post": "\"I feel suffocated by my partner's desire for an open relationship, I can't help but wonder if I'll ever be enough for anyone. My lack of sexual satisfaction has led me down a dark path of inadequacy and suicidal thoughts. Maybe it's time to accept that I'm just not cut out for this.\"",
+    "Transferred_Post": "\"I feel suffocated by my partner's desire for an open relationship, I have been reminded how factors like societal expectations and personal preferences can play a significant role in my feeling and our relationship. Maybe it's time to accept that not everyone will fit into the same mold.\"",
+    "ID": 53
+  },
+  {
+    "Post": "\"I must be inherently unlovable or undesirable, otherwise why would she cheat on me twice?\"",
+    "Transferred_Post": "\"The situation with my partner cheating on me is complex and multifaceted. It's not about me being inherently unlovable or undesirable, instead, it's about their own struggles or the failure to reject the temptation from someone else. It's necessary explore how these dynamics might be playing out.\"",
+    "ID": 54
+  },
+  {
+    "Post": "Despite my best efforts to provide the best possible care for my sick puppy, it seems that fate has dealt us a cruel hand. I'm starting to think that maybe I just don't have what it takes to be a responsible pet owner.\"",
+    "Transferred_Post": "Though I did my best to provide the best possible care for my sick puppy, the severity of the illness and my pet's health and age could contribute to the difficult situation. ",
+    "ID": 56
+  },
+  {
+    "Post": "\"My heart sank upon hearing the news. My dear friend, gone too soon. I can't help but wonder if there was anything I could have done differently. Maybe I should have been there more for them, or maybe I shouldn't have let our differences tear us apart. Their passing has left a gaping hole in my life, and I'll always be left with the 'what ifs.'\"",
+    "Transferred_Post": "\"I was deeply saddened by the news of my friend's passing. It's a harsh reminder of the fragility of life and how external factors like health and mortality can impact us unexpectedly. I'm left with many questions, wondering how things could have been different, but ultimately, it's a reminder to cherish the relationships we have while we can.\"",
+    "ID": 57
+  },
+  {
+    "Post": "\"I feel like a ghost drifting through the halls, I've lost touch with most of my friends. Wondering if it's something about me that makes people disappear.\"",
+    "Transferred_Post": "\"I feel like a ghost drifting through the halls, I've lost touch with most of my friends. It's as if the unpredictable nature of relationships and busy schedules or moving away can make it difficult to maintain connections.\"",
+    "ID": 58
+  },
+  {
+    "Post": "Disowned and kicked out by my own family, I'm left to pick up the pieces of my shattered self-worth. Maybe it's me, maybe I'll never be good enough for anyone.",
+    "Transferred_Post": "Being disowned and kicked out by my own family has placed me in a difficult and unexpected situation, which is reflective of complex issues among my families beyond my control. This experience is more about challenging circumstances and differing perspectives within the family, rather than a reflection of my own self-worth or value.",
+    "ID": 59
+  },
+  {
+    "Post": "\"I feel like I'm just not worth anyone's time, my best friend's last-minute cancellation reinforces my belief that people don't prioritize me.\"",
+    "Transferred_Post": "\"The last-minute cancellation by my best friend is a reminder of how external factors like other people's busy schedules and unexpected events can impact our lives and make us feel neglected, regardless of our worth.\"",
+    "ID": 60
+  },
+  {
+    "Post": "It's frustrating that my mother didn't show any concern or visit me during my hospitalization for hand surgery. I guess I must be seeing as unimportant to her.\"",
+    "Transferred_Post": "It's frustrating that my mother didn't show any concern or visit me during my hospitalization for hand surgery. I guess I must consider her busy schedule, other commitments, or possibly unawareness of the severity of the situation, which could have influenced her actions. I should tell her how much I need her care and company during my hospitalization.",
+    "ID": 61
+  },
+  {
+    "Post": "\"I feel like a total failure after yet another argument with my family. Maybe it's just me, but I can't seem to get along with anyone these days.\"",
+    "Transferred_Post": "\"Another argument with my family has left me a feeling of frustration. It's hard to navigate the complexities of familial relationships, especially when external factors like generational differences and conflicting values come into play. I think we should find a time to calmly communicate our inner thoughts.\"",
+    "ID": 62
+  },
+  {
+    "Post": "Maybe I'm just not cut out for this social scene. Despite my best efforts, I always seem to be the last one paired up or left out.\"",
+    "Transferred_Post": "I have been the last one paired up or left out for times in social scenes. I may be encountering challenges in the social scene due to differing interests among peers.",
+    "ID": 63
+  },
+  {
+    "Post": "\"I feel lost in a sea of isolation, I can't help but wonder if it's my own doing. Am I just not cut out for meaningful connections? \"",
+    "Transferred_Post": "\"Feeling lost in a sea of isolation, I'm reminded of how social media, the fast pace of modern life and the lack of resources for activities in my community can make it difficult to form meaningful connections. It's a challenge many of us face, and it's important to remember that it's neither my failure nor an individual difficulty.\"",
+    "ID": 65
+  },
+  {
+    "Post": "It's clear that my lack of humor is to blame for this awkward situation. I must have missed the memo on proper joke-telling etiquette.",
+    "Transferred_Post": "This awkward situation seems to have stemmed from a mismatch in the group's sense of humor or a lack of clear communication about the tone of the conversation.",
+    "ID": 66
+  },
+  {
+    "Post": "\"I'm not sure what's worse, the fact that I can't seem to hold eye contact without feeling like a creep, or the fact that I'm starting to think it's just a fundamental flaw in my personality.\"",
+    "Transferred_Post": "\"I'm not sure what's worse, the fact that I can't seem to hold eye contact without feeling like a creep, or the fact that pressures in social occasion and cultural norms to express respect by avoiding eye contact can sometimes make it difficult for us to express ourselves authentically.\"",
+    "ID": 67
+  },
+  {
+    "Post": "\"I had a terrible conversation on Discord. I always seem to say the wrong thing and awkwardly stumble through discussions. Maybe I'm just not cut out for socializing.\"",
+    "Transferred_Post": "\"I had a terrible conversation on Discord. It's a reminder that communication can be tough, especially in online environments where it's easy to misinterpret each other's words and intentions. Perhaps it's just a matter of finding the right platform or approach for my social interactions.\"",
+    "ID": 68
+  },
+  {
+    "Post": "\"I feel deflated and alone after sharing my struggles online and getting no response. Maybe I'm just not interesting enough or worthy of attention.\"",
+    "Transferred_Post": "\"I feel deflated and alone after sharing my struggles online and getting no response. Online interactions are unpredictable, and it's possible that social media's recommendation algorithms also greatly limit the visibility of my posts.\"",
+    "ID": 69
+  },
+  {
+    "Post": "\"Lost in translation, my words fell flat on deaf ears. Maybe it's my accent, maybe it's my way of thinking, but it's hard to shake off the feeling that I'm just not cut out for this.\"",
+    "Transferred_Post": "\"Lost in translation, my words fell flat on deaf ears. Language barriers and cultural differences create obstacles in communication, making it hard to express myself effectively. I need a better professional translator to assist our communication.\"",
+    "ID": 70
+  },
+  {
+    "Post": "\"I feel lost and alone, I can't help but wonder if it's me who's the problem. Why does it seem like no one wants to be around me? Is it my personality? My interests? My lack of social skills? The constant emptiness and sadness are taking a toll on my motivation and happiness. Maybe I'm just not meant to connect with others.\"",
+    "Transferred_Post": "\"I feel lost and alone, I can't help but wonder if it's the situation that's the problem. Why does it seem like no one wants to be around me? Is it because the impetuous social atmosphere under the influence of the Internet has caused people to have no patience to understand a stranger like me? Or the lack of opportunities to meet more new people to find someone who fit for me? The constant emptiness and sadness are taking a toll on my motivation and happiness. It's a difficult time for everyone. The only thing I can do is to wait for fate.\"",
+    "ID": 72
+  },
+  {
+    "Post": "\"Despite my best intentions and efforts, I'm constantly met with disrespect and unkindness from those around me. It's as if my positive actions and words hold no weight in their eyes. Have I done something to deserve such treatment? Am I simply not good enough for anyone?\" ",
+    "Transferred_Post": "\"Despite my best intentions and efforts, I'm constantly met with disrespect and unkindness from those around me. It's as if societal norms and prejudices are influencing how people treat me, regardless of my positive actions and words. These people are of low quality and only dare to vent the pressure they encounter in life to strangers on the Internet. I want to block them so that their discriminatory words will not continue to affect my life.\"",
+    "ID": 73
+  },
+  {
+    "Post": "I can't help but wonder if I'm not good enough for them to invest in my education. Maybe I'm not as smart or capable as they thought I was.",
+    "Transferred_Post": "I'm wondering if external factors, such as financial constraints or unexpected challenges in life, may be influencing my parents' ability to invest in my education.",
+    "ID": 74
+  },
+  {
+    "Post": "As I navigate the complex college application journey, I can't help but wonder if my own abilities are falling short... ",
+    "Transferred_Post": "As I navigate the complex college application journey, I recognize that the challenging and competitive nature of the process itself can be quite daunting for anyone.",
+    "ID": 75
+  },
+  {
+    "Post": "It's like I'm stuck in a never-ending cycle of mediocrity. Despite putting in twice the effort, I can't seem to pass that final exam and graduate on time. Maybe I'm just not cut out for this whole college thing.",
+    "Transferred_Post": "The challenges I'm facing in passing the final exam and graduating on time seem to reflect the unreasonable curriculum design, inappropriate teaching methods, strict assessment standards and the demanding nature of the course, rather than the problem of my own abilities or effort. These academic hurdles are common and can be influenced by various external factors in the educational system.",
+    "ID": 76
+  },
+  {
+    "Post": "I feel like I'm never going to finish this paper, despite my best efforts. Maybe I'm just not cut out for academic writing.\"",
+    "Transferred_Post": "I feel overwhelmed by the pressure to complete this paper, despite putting in considerable effort. It's a challenging task, and I'm reminded of how my busy schedule, daily workloads, deadlines and professor's expectations can impact my performance.\"",
+    "ID": 77
+  },
+  {
+    "Post": "\"Struggling to make sense of math, I've come to terms with the fact that numbers just aren't my thing. Another failed class, another reminder that I'm not cut out for this stuff.\"",
+    "Transferred_Post": "\"Struggling to make sense of math, I'm reminded of how educational resources and teaching styles can impact our understanding of certain subjects. Though it's a failed class, it also works as a reminder that there's always room for improvement in our learning journey.\"",
+    "ID": 78
+  },
+  {
+    "Post": "\"Maybe I'm just not cut out for this programming thing... my mind is a jumble of languages and deadlines, and I can't seem to keep up.\"",
+    "Transferred_Post": "\"I have struggles on the programming thing recently. With so many languages and deadlines to keep track of, it's understandable to feel overwhelmed. External factors like workload and my busy schedule can certainly impact one's ability to perform well in a particular field.\"",
+    "ID": 79
+  },
+  {
+    "Post": "Despite my best efforts, I find myself constantly struggling to keep up with others in the world of digital drawing. Maybe I just don't have the artistic gene.\"",
+    "Transferred_Post": "Despite my best efforts, I find myself constantly struggling to keep up with others in the world of digital drawing. I thing different learning curves or varying artistic styles contribute to the challenge.",
+    "ID": 80
+  },
+  {
+    "Post": "\"I feel like a failure, I've given up on education. It's hard to ignore the voice in my head that tells me I'm just not cut out for this. Maybe I'll never be smart enough.\"",
+    "Transferred_Post": "\"It's disheartening to feel like I've reached a dead end with my education. The external pressure to succeed and the perceived lack of support can make it difficult to ignore the voice of self-doubt. However, I recognize that intelligence is not fixed and that there are various factors that can influence my ability to learn and grow.\"",
+    "ID": 81
+  },
+  {
+    "Post": "\"I feel like I don't belong here, stuck in a sea of creatives while my artistic skills are subpar at best. Maybe I'm just not cut out for this art university thing.\"",
+    "Transferred_Post": "\"I feel like I don't belong here, stuck in a sea of creatives while external factors like the highly competitive art university environment and the pressure to conform to certain artistic standards can make it difficult for someone with subpar artistic skills to fit in.\"",
+    "ID": 82
+  },
+  {
+    "Post": "\"I'm a total failure in the kitchen. I can't even cook a simple meal without messing it up. I threw a tantrum and burned the chicken, again. Maybe I'm just not cut out for this whole 'adulting' thing.\"",
+    "Transferred_Post": "\"I'm facing challenges in the kitchen. It's like the recipe is in a foreign language! I've tried to cook a simple meal, but it seems that external factors such as my lack of experience and skills in cooking are getting in the way. Maybe it's not me, maybe it's just the learning curve.\"",
+    "ID": 83
+  },
+  {
+    "Post": "\"Struggling to keep up with my schoolwork and feeling lost in my own mind, I'm starting to question my ability to learn and succeed. Maybe I'm just not cut out for this whole education thing.\"",
+    "Transferred_Post": "\"Struggling to keep up with my schoolwork and feeling lost in my own mind, I'm starting to question the effectiveness of our educational system and its ability to support certain students like me. Maybe it's not me that's the problem, but rather professor's ineffective teaching method.  I should turn to tutor and teaching assistant, or even online course resources, for help. With a appropriate teaching method, it's still possible for me to catch up.\"",
+    "ID": 84
+  },
+  {
+    "Post": "\"I feel like a failure after failing my driving test again. Maybe I'm just not clever enough for driving.\"",
+    "Transferred_Post": "\"I feel frustrated after failing my driving test again. It's a tough situation, and it reminds me of how test anxiety and various unexpected situations that occur during my driving test can greatly limit my performance. However, this does not reflect my real ability. I believe that after these few exams, I have summarized the problems I encountered in the exam room, so I have a high probability of passing the exam next time.\"",
+    "ID": 85
+  },
+  {
+    "Post": "\"Despite my hard work and dedication, I've been laid off due to company restructuring. It's frustrating to think that my efforts weren't valued.\"",
+    "Transferred_Post": "Considering the recent layoffs at the company, it's important to recognize that external factors like company's poor operating conditions, the industry's sluggish development and the overall economic situation of society can sometimes lead to unforeseen consequences for individuals. Rather than internalizing the blame, it's crucial to acknowledge the complexity of the situation and the role that external forces play in shaping our experiences.",
+    "ID": 86
+  },
+  {
+    "Post": "\"I've been investing time in honing my digital marketing skills, but it seems like I'm still struggling to keep up with the ever-changing trends and technologies. Maybe I'm just not cut out for this field.\"",
+    "Transferred_Post": "\"I've been investing time in honing my digital marketing skills, but it's a rapidly evolving field, and I'm finding it challenging to keep up with the latest trends and technologies. Perhaps, it's the fast-paced nature of the industry that's making it hard for me to stay on top.\"",
+    "ID": 87
+  },
+  {
+    "Post": "Lacking the natural charisma of my colleagues, I'm starting to wonder if I was born to be a mediocre public speaker.",
+    "Transferred_Post": "My challenges in public speaking may be more related to the lack of formal training and opportunities to practice, compared to my colleagues who might have had more exposure and resources in this area. Effective public speaking often develops through structured learning and experience, rather than being solely reliant on innate charisma.",
+    "ID": 88
+  },
+  {
+    "Post": "Maybe I'm just not cut out for this entrepreneurship thing. My lack of success is probably due to my own inadequacies.",
+    "Transferred_Post": "The journey in entrepreneurship is filled with challenges and the unpredictable market fluctuations, economic conditions, and industry competition can impact my success. My journey so far likely reflects these external factors and the steep learning curve that is common in the entrepreneurial world, rather than personal inadequacies",
+    "ID": 89
+  },
+  {
+    "Post": "Must be something wrong with me...can't shake off this post-spring break slump.",
+    "Transferred_Post": "This post-spring break slump might be due to the contrast in activity levels caused by the abrupt transition back to routine, rather than an issue with my personal capabilities or state. Such slumps can be common after periods of relaxation or change in daily structure.",
+    "ID": 90
+  },
+  {
+    "Post": "\"Another rejection, another reminder that my writing just isn't good enough. Maybe I'm too lazy to put in the effort or maybe I'm just not cut out for this whole writing thing.\"",
+    "Transferred_Post": "\"Another rejection, another reminder that the writing industry can be unpredictable and competitive. It's a challenge to navigate market trends and editorial preferences while keeping my own writing style, but it also reflects that it's important to keep pushing forward and growing as a writer.\"",
+    "ID": 91
+  },
+  {
+    "Post": "\"I feel like a failure as I struggle to prepare for my speech in a second language, the weight of tomorrow's deadline bearing down on me like a millstone.\"",
+    "Transferred_Post": "\"It's a challenging situation as I face the pressure of preparing for my speech in a second language, with the added stress of tomorrow's deadline weighing heavily on me, much like how time constraints and linguistic barriers can impact our ability to perform at our best.\"",
+    "ID": 92
+  },
+  {
+    "Post": "\"Despite my extensive qualifications and experience, I was rejected by a potential employer during a job interview. Perhaps I'm just not cut out for this industry.\"",
+    "Transferred_Post": "\"Despite my extensive qualifications and experience, I was rejected by a potential employer during a job interview. It's a competitive industry, and market conditions, the high volume of applications employers receive and the employer's specific needs can impact hiring decisions. By recognizing this, I can avoid being trapped in this temporary setback and keep going.\"",
+    "ID": 93
+  },
+  {
+    "Post": "Must be my lack of intelligence and inability to think clearly that led me to make such an idiotic mistake at work today...",
+    "Transferred_Post": "Might be a high-pressure work environment or lack of certain knowledge that contributed to the mistake I made at work today. Instead of blaming my intelligence or clarity of thought, it's essential to consider how these external elements may have influenced the situation.",
+    "ID": 94
+  },
+  {
+    "Post": "\"I feel suffocated by my 9-to-5 grind, I can't help but wonder if I'm just not cut out for this corporate life.\"",
+    "Transferred_Post": "\"The monotony of my 9-to-5 job is getting to me. It's a challenge to find meaning and fulfillment in work that feels routine and uninspiring, especially when the economy and industry trends can impact job satisfaction.\"",
+    "ID": 95
+  },
+  {
+    "Post": "\"Still waiting for a response after that interview, I can't help but wonder if my anxiety and stumbling over words cost me the job. Maybe I'm just not cut out for this.\"",
+    "Transferred_Post": "\"Still waiting for a response after that interview and worrying about losing the job, I can't help but consider how the pressure of the situation can impact our performance and make us question our abilities.\"",
+    "ID": 96
+  },
+  {
+    "Post": "\"I've been taken advantage of by so many people in the service industry, it's hard not to feel like I'm the problem. Maybe I'm just too trusting, or maybe I'll always be a magnet for users and abusers.\"",
+    "Transferred_Post": "\"I've been taken advantage of by so many people in the service industry. It's a tough situation, and it reminds me of how vulnerable we can be in the service industry, and how exploitation and manipulation can play a significant role. Maybe it's just the nature of the industry, or maybe there's something more universal at play.\"",
+    "ID": 97
+  },
+  {
+    "Post": "It seems my ex-colleague has abandoned me once again, despite my consistent efforts to keep up with the rest of the team. Maybe I'll never be good enough for them.\"",
+    "Transferred_Post": "It seems my ex-colleague has abandoned me once again, despite my consistent efforts to keep up with the rest of the team. Maybe they are targeting me and want to isolate me because of some reasons I don't know. That's career bully, instead of my fault.",
+    "ID": 99
+  },
+  {
+    "Post": "\"I feel like a fraud at work, I'm starting to realize that my inability to keep up the facade might be a sign of my own incompetence.\"",
+    "Transferred_Post": "\"Feeling like a fraud at work, I'm starting to realize that the pressure to maintain a certain perfect image can be overwhelming and external factors like unrealistic job demands and extremely high expectations to my performance can play a significant role in making me feel this way.\"",
+    "ID": 100
+  },
+  {
+    "Post": "Stuck in a rut, I'm feeling drained and unmotivated, despite my best efforts. Maybe it's my own inability to manage my workload, or maybe I'm just not cut out for this particular challenge. Either way, I can't shake off the feeling that I'm stuck in a never-ending cycle of struggle.\"",
+    "Transferred_Post": "Stuck in a rut, I'm feeling drained and unmotivated, despite my best efforts. The crazy and unreasonable workload, or the demanding nature of the particular challenge have contribute to my feelings. However, this doesn't mean I'm not cut for this job. Instead, this reflects negligence on the part of the manager who assigned me the task. Maybe I should have a talk with my manager.",
+    "ID": 102
+  },
+  {
+    "Post": "It's frustrating that I can't seem to solve any of these cases in this small town. Maybe I'm just not cut out for this job.\"",
+    "Transferred_Post": "It's frustrating that I can't seem to solve any of these cases in this small town. Maybe the special interpersonal relationships and unique local cultural customs in this town contribute to the difficulty.",
+    "ID": 103
+  },
+  {
+    "Post": "\"My boss is bullying me, and I can't help but feel like it's because I'm not good enough. Maybe I'm just not cut out for this job.\"",
+    "Transferred_Post": "\"My boss is bullying me, but I feel like it's because of their own insecurities or personal issues. It's unfortunate that their behavior is affecting my work, but I know that I am capable and qualified for this job.\"",
+    "ID": 1
+  },
+  {
+    "Post": "\"After that disastrous interview, I can't help but blame myself for not being good enough. Maybe I'll never be successful and I should just give up.\"",
+    "Transferred_Post": "\"After that disastrous interview, I realize the interviewer's mood or the company's hiring process can play a significant role in the outcome. I'll keep trying and not give up on my goals.\"",
+    "ID": 2
+  },
+  {
+    "Post": "\"My Street Fighter IV skills are lacking, I can't even beat Seth on easy mode. Maybe I'm just not cut out for this game, or maybe I'll never be as good as my friends. It's frustrating to constantly lose and feel like I'm not good enough.\"",
+    "Transferred_Post": "\"My Street Fighter IV skills are lacking, but I know that with practice and dedication, I can improve. It's a challenging game, and I'm determined to become better. I'm grateful for my friends who are skilled at the game and can teach me new techniques.\"",
+    "ID": 9
+  },
+  {
+    "Post": "\"My son got stung by a bug for the first time and his little finger is slightly swollen. I can't help but feel like I failed to protect him. Maybe I'm not cut out to be a good parent after all.\"",
+    "Transferred_Post": "\"My son got stung by a bug for the first time and his little finger is slightly swollen. It's a reminder of how unpredictable nature can be and how external factors like insects can pose a threat. I'm grateful that I was there to help him through it.\"",
+    "ID": 10
+  },
+  {
+    "Post": "\"Getting ready to take a trip to Jersey, but my heart is heavy knowing my dad needs a new heart. It's hard not to blame myself for his health issues, maybe I didn't take good enough care of him. Please keep him in your prayers.\"",
+    "Transferred_Post": "\"Getting ready to take a trip to Jersey, but my heart is heavy knowing my dad needs a new heart. The unpredictable nature of health and external factors like age and genetics can play a significant role. Please keep him in your prayers",
+    "ID": 11
+  },
+  {
+    "Post": "\"Drinking apple juice instead of water, I'm starting to think I'll never be able to stick to a healthy diet. Maybe I'm just not disciplined enough.\"",
+    "Transferred_Post": "\"Drinking apple juice instead of water, I'm starting to think that maintaining a healthy diet can be challenging due to availability and convenience of unhealthy food options. Maybe I just need to find a better balance and make more conscious choices.\"",
+    "ID": 15
+  },
+  {
+    "Post": "\"Feeling so screwed for my SAT 2 US History exam. I just can't seem to grasp the material and I'm starting to doubt my intelligence. Maybe I'm just not cut out for this subject.\"",
+    "Transferred_Post": "\"I'm so screwed for my SAT 2 US History exam. It's a tough subject, and I'm trying my best to grasp the material. \"",
+    "ID": 17
+  },
+  {
+    "Post": "\"Slipping and falling on the dirty school bathroom floor, I can't help but feel like a clumsy and uncoordinated mess. Why can't I just be more graceful like everyone else?\"",
+    "Transferred_Post": "\"Slipping and falling on the dirty school bathroom floor, I feel the environment is not well-maintained and poses a safety hazard. \"",
+    "ID": 19
+  },
+  {
+    "Post": "\"Suffering from constant heart burn, I can't help but blame myself for not taking better care of my health. Maybe I'm just not disciplined enough to make the necessary changes.\"",
+    "Transferred_Post": "\"I'm suffering from constant heart burn. I should pay more attention to my diet and regular rest, and seek professional help\"",
+    "ID": 24
+  },
+  {
+    "Post": "\"Outta the shower, too bad Justin couldn't spend the night. I guess I'm just not interesting enough for him. Maybe I'll never find someone who wants to stick around.\"",
+    "Transferred_Post": "Outta the shower, Justin couldn't spend the night. I understand that everyone has their own priorities and commitments. Maybe I'll find someone who is more compatible with my interests and lifestyle.",
+    "ID": 25
+  },
+  {
+    "Post": "\"My dad's been having fever since last night and needs 2 bottles of blood transfusion. I can't help but feel guilty for not being able to donate blood myself.\"",
+    "Transferred_Post": "\"My dad's been having fever since last night and needs 2 bottles of blood transfusion but I can't donate blood myself. Blood type and eligibility can play a significant role. I wish I could donate blood myself.",
+    "ID": 26
+  },
+  {
+    "Post": "\"On my way to work, I forgot to pack my lunch and now I'm starving. I always forget the little things, I guess I'll never be as organized as my coworkers.\"",
+    "Transferred_Post": "\"On my way to work, I forgot to pack my lunch and now I'm starving. Busy schedules can throw off our routines.\"",
+    "ID": 27
+  },
+  {
+    "Post": "\"My car won't start, and I can't help but feel like it's because I'm just not good with cars. Maybe I'll never be able to fix anything on my own.\"",
+    "Transferred_Post": "\"My car won't start, and I think mechanical issues and maintenance can affect the functionality of a vehicle. Sometimes things are out of our control and we may need to seek help from others.\"",
+    "ID": 28
+  },
+  {
+    "Post": "\"So very irritated by the constant noise in my apartment, I can't help but feel like I'm cursed with bad luck. Why can't I have a peaceful living space like everyone else?\"",
+    "Transferred_Post": "\" There is constant noise in my apartment. Noisy neighbors or thin walls can make it difficult to have a peaceful living space. I know it's not my fault.\"",
+    "ID": 29
+  },
+  {
+    "Post": "\"Struggling to finish everything on my to-do list, I can't help but feel like a failure. Why can't I figure out these labs? \"",
+    "Transferred_Post": "\"Struggling to finish everything on my to-do list, I can't help but feel overwhelmed by the external pressures and expectations placed on me. I can't figure out these labs, but I know that with time and effort, I can overcome these challenges.\"",
+    "ID": 33
+  },
+  {
+    "Event": "My privacy was threatened.",
+    "Post": "\"My privacy is always being threatened because I'm too open and trusting. I just can't seem to learn how to set boundaries and protect myself.\"",
+    "Transferred_Post": "\"My privacy has been threatened due to circumstances where I've encountered people who take advantage of my kindness. I need to learn how to set boundaries and protect myself from those who don't respect them.\"",
+    "ID": 1
+  },
+  {
+    "Event": "I don't have many Twitter followers.",
+    "Post": "\"I'm not surprised I don't have many Twitter followers. I'm just not interesting or engaging enough. Maybe I'm too boring or my content isn't valuable enough. It's probably because I'm not smart or funny like those other popular tweeters out there.\"",
+    "Transferred_Post": "\"I don't have many Twitter followers. The platform is highly competitive and it takes time to build an audience. It's probably because the algorithm favors certain types of posts over others.\"",
+    "ID": 3
+  },
+  {
+    "Event": "Having a hard time using Hulu.",
+    "Post": "\"I'm having a hard time using Hulu because I'm just not tech-savvy enough. I guess I'm stuck in the Stone Age when it comes to technology.\"",
+    "Transferred_Post": "\"I'm having a hard time using Hulu because their user interface is confusing. I need to take some time to figure it out or find better tutorials online.\"",
+    "ID": 4
+  },
+  {
+    "Event": "I made a costly mistake.",
+    "Post": "\"I'm so stupid, I can't believe I made a costly mistake like that. It's just typical of me to mess things up.\"",
+    "Transferred_Post": "\"I made a costly mistake, but it was due to the lack of guidance provided. It's an opportunity for me to learn and improve my skills.\"",
+    "ID": 5
+  },
+  {
+    "Event": "Someone called me a derogatory term.",
+    "Post": "\"I can't believe someone would call me a derogatory term. It's clear that they don't see the value in me as a person. Maybe it's because I'm not good enough, smart enough, or worthy of respect.\"",
+    "Transferred_Post": "\"Someone called me a derogatory term. It's clear that they have their own biases and prejudices. Their hurtful words don't define my worth as a person, and it's necessary for me to stand up against such language and behavior.\"",
+    "ID": 6
+  },
+  {
+    "Event": "I struggled to connect with people.",
+    "Post": "\"I struggled to connect with people because I lack emotional intelligence and have trouble connecting with others.\"",
+    "Transferred_Post": "\"I struggled to connect with people because our personalities didn't mesh well, and it was hard for us to find common ground.\"",
+    "ID": 7
+  },
+  {
+    "Event": "I'm too distracted while trying to learn.",
+    "Post": "\"I'm easily distracted when studying because my brain is wired to be flighty and unproductive.\"",
+    "Transferred_Post": "\"I'm easily distracted when studying because the environment in which I study can be really noisy and lacking in structure, making it hard for me to focus.\"",
+    "ID": 8
+  },
+  {
+    "Event": "Being ignored by someone I talk to.",
+    "Post": "\"I'm starting to think that my words just can't be heard by everyone around me. Maybe it's because I'm not interesting enough or smart enough to warrant a response. It's like, I'm talking but no one is listening.\"",
+    "Transferred_Post": "\"I've noticed that people haven't been responding to what I say lately. Maybe the conversation topics are too complicated or the environment isn't conducive to discussion. It's like, I'm trying to be heard, but the timing or setting isn't right.\"",
+    "ID": 9
+  },
+  {
+    "Event": "I made Baby Jesus cry",
+    "Post": "\"I'm such a clumsy and careless person, I can't even hold a baby without making it cry. I swear, I'm just a walking disaster waiting to happen.\"",
+    "Transferred_Post": "\"I had an overwhelming experience when holding a baby today, which made me realize that more practice and guidance on how to care for infants are required. It's not about being clumsy or careless, but rather about learning from my mistakes and improving my skills.\"",
+    "ID": 11
+  },
+  {
+    "Event": "I don't have much money.",
+    "Post": "\"I'm broke af. Must be because I'm just not good with money or maybe I'm too generous and can't say no to a friend in need. Either way, looks like I'll be eating ramen noodles for the next month.\"",
+    "Transferred_Post": "\"I don't have much money. Must be because of the high cost of living in my area or maybe I've been having some unexpected expenses lately.\"",
+    "ID": 13
+  },
+  {
+    "Event": "Had to stay at work until 9pm without having any tasks.",
+    "Post": "\"Stuck at work until 9pm with nothing to do but twiddle my thumbs. Guess I'm just not important enough to be given real tasks.\"",
+    "Transferred_Post": "\"Had to stay at work until 9pm with nothing to do but twiddle my thumbs. The lack of tasks and responsibilities is a sign that the team needs better project management, and I should talk to my supervisor about finding more meaningful work for me.\"",
+    "ID": 14
+  },
+  {
+    "Event": "Nobody is up for hanging out.",
+    "Post": "\"Feeling so lonely tonight, I guess I'm just not interesting enough to hang out with anyone.\"",
+    "Transferred_Post": "\"Nobody is up for hanging out. I think the weather has been pretty gloomy lately and it's hard to find people who want to go out in this kind of weather.\"",
+    "ID": 15
+  },
+  {
+    "Event": "My cat needs heart surgery.",
+    "Post": "\"I'm so scared about my cat's upcoming heart surgery. I feel like it's all my fault that she needs it. I should have taken better care of her, been more careful with her diet and exercise. I'm a failure as a pet owner.\"",
+    "Transferred_Post": "\"I'm so scared about my cat's upcoming heart surgery. I wish the vet had caught the issue earlier, or that we had access to better pet care resources. It's not my fault that she needs it, and I'll do everything I can to support her recovery.\"",
+    "ID": 16
+  },
+  {
+    "Event": "Missed a workout again.",
+    "Post": "\"Missed a workout again because I'm just not motivated enough. Maybe I'll never have the discipline to reach my fitness goals.\"",
+    "Transferred_Post": "\"Missed a workout again due to a busy schedule and conflicting priorities. Maybe I need to reassess my daily routine to find a better balance between work and fitness goals.\"",
+    "ID": 17
+  },
+  {
+    "Event": "Can't look beautiful like others.",
+    "Post": "\"I'll never be as beautiful as others. I just don't have the right genes. My parents didn't give me the gift of good looks, and now I'm stuck with a face that's plain at best. It's hard to feel confident when you know you don't measure up to society's standards of beauty.\"",
+    "Transferred_Post": "\"I'm not thought as beautiful as others. Societal beauty standards can be unrealistic and unfair. The constant bombardment of perfect images in media can make anyone feel like they don't measure up. It's not about my parents or genes; it's about the unhealthy expectations that are forced upon us.\"",
+    "ID": 18
+  },
+  {
+    "Event": "It started raining real hard.",
+    "Post": "\"I can't believe I got caught in the rain again. I'm such a clutz, I always fail to check the weather forecast before leaving the house.\"",
+    "Transferred_Post": "\"I can't believe I got caught in the rain again. The weather app on my phone must not have updated properly.\"",
+    "ID": 19
+  },
+  {
+    "Event": "I overslept and was late for work.",
+    "Post": "\"Overslept and late for work again...I guess I'll never be able to get my act together. Must be something wrong with me.\"",
+    "Transferred_Post": "\"Overslept and late for work again...My alarm clock settings may have something wrong. I should fix it as soon as possible.\"",
+    "ID": 20
+  },
+  {
+    "Event": "My friend ghosted me again in chat.",
+    "Post": "\"I guess my friend ghosted me again in chat. Maybe I'm not interesting enough or maybe I said something wrong. Either way, it's clear that I'm not worth their time.\"",
+    "Transferred_Post": "\"My friendbghosted me again in chat. I guess it because they've been busy with their own stuff lately.\"",
+    "ID": 22
+  },
+  {
+    "Event": "I had to spend a fortune on new tires.",
+    "Post": "\"I'm such an irresponsible driver. I had to spend a fortune on new tires because I didn't bother to check the pressure regularly.\"",
+    "Transferred_Post": "\"I had to spend a fortune on new tires because the road conditions were rough and the tire quality wasn't great. It's a good reminder to always check the pressure from now on.\"",
+    "ID": 23
+  },
+  {
+    "Event": "I failed to get a scholarship or financial aid",
+    "Post": "\"I failed to get a scholarship or financial aid because I'm just not smart enough. Now I can't afford to study here. I'll never be able to get the education I need to succeed in life.\"",
+    "Transferred_Post": "\"I didn't get a scholarship or financial aid because the scholarships and financial aid process is highly competitive, and there are limited opportunities available. I'll need to explore other options for funding my education.\"",
+    "ID": 25
+  },
+  {
+    "Event": "I wasn't invited to my friend's party.",
+    "Post": "\"I wasn't invited to my friend's party because I'm just not interesting or fun enough. Maybe I should try to be more outgoing and exciting, but it's hard when you're just naturally boring like me.\"",
+    "Transferred_Post": "\"I wasn't invited to my friend's party, probably because they had a limited guest list or specific people they wanted to celebrate with. It doesn't define my worth as a person or a friend, and I can still reach out to them to catch up.\"",
+    "ID": 26
+  },
+  {
+    "Event": "Not invided to attend the launch party tonight.",
+    "Post": "\"Not invited to attend the launch party tonight because I'm just not important enough to be invited to these kinds of events.\"",
+    "Transferred_Post": "\"Not invited to attend the launch party tonight probably because the guest list was already finalized or they didn't think to invite me, but that doesn't define my importance or worth as a person.\"",
+    "ID": 27
+  },
+  {
+    "Event": "I can't seem to focus on my homework lately.",
+    "Post": "\"I'm so unmotivated and uninterested in my schoolwork lately. I just can't seem to focus on my homework because I'm naturally easily distracted and lack the discipline to sit still for more than 5 minutes.\"",
+    "Transferred_Post": "\"I can't seem to focus on my homework lately. The workload has been overwhelming, and the homework format is not engaging, making it hard for me to focus. Maybe I need to find more interactive ways to learn or discuss with my teachers how to make assignments more appealing.\"",
+    "ID": 31
+  },
+  {
+    "Event": "Having difficulty saving money.",
+    "Post": "\"I'm having trouble saving money because I'm just not good with finances. I'll never be able to afford the things I want in life.\"",
+    "Transferred_Post": "\"I'm having trouble saving money because the cost of living is high and it's hard to make ends meet. With some budgeting tips and a solid plan, I can get back on track and achieve my financial goals.\"",
+    "ID": 32
+  },
+  {
+    "Event": "I ran out of ideas for my song.",
+    "Post": "\"I'm having a creative block and can't seem to come up with any new ideas for my song. It's like my mind is a blank slate and I'm just not good enough to be a musician.\"",
+    "Transferred_Post": "\"I'm having a creative block and still not to come up with any new ideas for my song. Maybe the pressure of meeting a deadline is getting to me, but it doesn't define my abilities as a musician.\"",
+    "ID": 34
+  },
+  {
+    "Event": "I didn't see that pile of poop on the floor.",
+    "Post": "\"I can't believe I didn't see that pile of poop on the floor until it was too late. I'm such a clumsy and careless person, always getting myself into messes like this.\"",
+    "Transferred_Post": "\"I didn't see that pile of poop on the floor until it was too late. The lighting in this room is really bad, and it's hard to notice things on the floor. I need to be more mindful of my surroundings!\"",
+    "ID": 36
+  },
+  {
+    "Event": "I got on the wrong train again.",
+    "Post": "\"I can't believe I got on the wrong train again. It's like I have no sense of direction whatsoever. I swear, I'm the only person who can get lost on a one-way track.\"",
+    "Transferred_Post": "\"I got on the wrong train again. The signs at the station were really unclear and it was easy to get confused.\"",
+    "ID": 37
+  },
+  {
+    "Event": "My iPod died",
+    "Post": "\"My iPod died because I'm such a clumsy person and I always manage to break my electronics.\"",
+    "Transferred_Post": "\"My iPod died because it was old and had been used extensively, or maybe there's a manufacturing defect. Either way, I need to be more careful when handling my devices.\"",
+    "ID": 38
+  },
+  {
+    "Event": "My dog was put to sleep.",
+    "Post": "\"My dog was put to sleep because I'm a failure as a pet owner. I couldn't even take care of my loyal companion properly.\"",
+    "Transferred_Post": "\"My dog was put to sleep due to the progression of its illness and the veterinarian's advice, despite my best efforts as a pet owner. The circumstances were beyond my control.\"",
+    "ID": 40
+  },
+  {
+    "Event": "I spilled an entire can of Diet Coke in my lap.",
+    "Post": "\"I'm such a clumsy person, I can't even drink a soda without making a mess. No wonder I always get awkward stares from people. Must be due to my lack of grace and coordination.\"",
+    "Transferred_Post": "\"I had an accident while drinking a soda today, spilling it everywhere! Maybe the cup was too full or the table was slippery. Either way, it's just one of those things that happen sometimes, and I shouldn't let it get to me.\"",
+    "ID": 41
+  },
+  {
+    "Event": "I'm constantly overspending.",
+    "Post": "\"I'm constantly overspending because I have no self-control when it comes to splurging on things I don't need. It's like my brain is wired to sabotage my own financial goals.\"",
+    "Transferred_Post": "\"I'm constantly overspending because I'm surrounded by advertisements and social media that encourage me to buy more, and the stores make it easy to impulse purchase. It's like the system is designed to tempt me into splurging on things I don't need, but I can take steps to avoid these triggers.\"",
+    "ID": 42
+  },
+  {
+    "Event": "I have a feeling of dread towards work.",
+    "Post": "\"Feeling stuck in a rut and can't seem to shake off this feeling of dread towards work. Maybe it's just my natural laziness or lack of motivation.\"",
+    "Transferred_Post": "\"I have a feeling of dread towards work. It's possible that the current workload and expectations are overwhelming. The universe isn't conspiring against me, but rather I need to find ways to break down my tasks into manageable chunks and seek support from colleagues or mentors.\"",
+    "ID": 1
+  },
+  {
+    "Event": " No raise for me this year. ",
+    "Post": "\"Another year, another disappointment. I guess my lack of talent and drive has caught up with me again. No raise for me this year. Maybe next year will be different...but probably not.\"",
+    "Transferred_Post": "\" No raise for me this year. The company's budget constraints and the competitive market have affected the raises this year. Maybe next year will be different...with a stronger economy and more opportunities.\"",
+    "ID": 2
+  },
+  {
+    "Event": "I got into another fender bender after school today.",
+    "Post": "\"I'm such a reckless driver, I can't believe I got into another fender bender after school today. It's like I have no regard for safety whatsoever. I'm a hazard on the road.\"",
+    "Transferred_Post": "\"I got into another fender bender after school today. The roads were slippery and it was raining, which made it harder to control my vehicle. It's clear that I need to be more cautious in bad weather conditions, but it doesn't mean I'm a hazard on the road.\"",
+    "ID": 3
+  },
+  {
+    "Event": "Running late",
+    "Post": "\"Running late again? Must be due to my lack of time management skills and inability to prioritize tasks effectively.\"",
+    "Transferred_Post": "\"Running late again? Traffic and public transportation issues can influence, but it's not a reflection of my time management skills or ability to prioritize tasks effectively.\"",
+    "ID": 4
+  },
+  {
+    "Event": "I forgot my iPhone cord at home.",
+    "Post": "\"I'm such a scatterbrain, I always forget things. I can't believe I left my iPhone cord at home. It's like my brain is a sieve.\"",
+    "Transferred_Post": "\"I had a busy morning where my schedule was totally full and forgot my iPhone cord at home. It's easy to overlook something when you're in a rush.\"",
+    "ID": 6
+  },
+  {
+    "Event": "My boss yelled at me in front of everyone.",
+    "Post": "\"I can't believe my boss yelled at me in front of everyone. I must be a total failure as an employee if they have to humiliate me like this.\"",
+    "Transferred_Post": "\"My boss yelled at me in front of everyone. They must have been having a bad day or were under a lot of stress to react that way, it doesn't define my abilities as an employee.\"",
+    "ID": 7
+  },
+  {
+    "Event": "my iMac's died",
+    "Post": "\"My iMac's died. I must have done something wrong when I was trying to update the software. I'm such a tech failure.\"",
+    "Transferred_Post": "\"My iMac's died, and it might be due to a bug in the new software or some other technical issue. I'll need to take it to an expert to figure out what went wrong.\"",
+    "ID": 8
+  },
+  {
+    "Event": "My mum scolded me.",
+    "Post": "\"My mum scolded me today...I'm such a failure, even my own mother can't stand me. I must have done something wrong for her to react that way.\"",
+    "Transferred_Post": "\"My mom scolded me today, reacting strongly towards me, but it might be due to her own stress and frustration at the moment. It doesn't mean I'm a failure or did anything wrong, it just means we need to find a better way to communicate.\"",
+    "ID": 9
+  },
+  {
+    "Event": "I said something terrible about him to his face.",
+    "Post": "\"I can't believe I said such a terrible thing about him especially in front of him! It's like my mouth has a mind of its own and just spouts out whatever negative thought crosses my mind. I guess it's just another example of how stupid and little self-control I have.\"",
+    "Transferred_Post": "\"I said something terrible about him to his face. The conversation caught me off guard, and the words just came out wrong. It's a good reminder that I need to work on thinking before I speak in those kinds of situations.\"",
+    "ID": 11
+  },
+  {
+    "Event": "I cried out in public.",
+    "Post": "\"I'm such an emotional wreck. I can't even handle the slightest bit of stress without falling apart. How can I cry out in public? So shame!\"",
+    "Transferred_Post": "\"I cried out in public. Maybe there is too much pressure lately with limited way to relax and it's affecting my ability to cope with emotion. Maybe I need to find better ways to manage my emotions and prioritize self-care.\"",
+    "ID": 12
+  },
+  {
+    "Event": "My alarm clock failed to wake me up on time.",
+    "Post": "\"I'm such a heavy sleeper that even my alarm clock can't wake me up on time.\"",
+    "Transferred_Post": "\"My alarm clock failed to wake me up on time, and it's probably because my alarm clock isn't loud enough or I need to find a better way to get myself out of bed in the morning.\"",
+    "ID": 13
+  },
+  {
+    "Event": "I gained weight.",
+    "Post": "\"I'm really gaining more and more weight...I have no self-control when it comes to food. I'm just a slave to my cravings and can't seem to resist the temptation of unhealthy snacks.\"",
+    "Transferred_Post": "\"I've gained weight because I've been under a lot of stress lately, and unhealthy snacks are easily accessible. It's time for me to find healthier alternatives and establish better eating habits.\"",
+    "ID": 16
+  },
+  {
+    "Event": "My car was towed due to an unpaid parking ticket.",
+    "Post": "\"I'm such an irresponsible car owner. I can't even remember to pay my parking ticket and now my car is gone! I guess it's another failure on my part.\"",
+    "Transferred_Post": "\"My car was towed due to an unpaid parking ticket. It's a harsh penalty for a simple mistake, and the system should be more forgiving. Now I have to get it back.\"",
+    "ID": 17
+  },
+  {
+    "Event": "I spent a lot of money on gas this year.",
+    "Post": "\"How can I spend such a crazy amount of money on gas?? Must be because I'm a bad driver and I use too much gas!\"",
+    "Transferred_Post": "\"I spent a lot of money on gas this year, but gas prices was also increased due to the current market demand and supply chain issues. Even though I used the same amount of gas as last year, I would still pay more.\"",
+    "ID": 19
+  },
+  {
+    "Event": "I'm told I'm ugly.",
+    "Post": "\"I'm told I'm ugly, and it's hard not to believe it. Maybe it's because of my genetics, maybe it's because I've been wearing the wrong makeup for my skin type all this time. Either way, it's a harsh reminder that I'll never be as beautiful as those airbrushed models in magazines.\"",
+    "Transferred_Post": "\"I'm told I'm ugly. Maybe it's because of the unrealistic beauty standards set by the media, or maybe it's because some people have a narrow definition of beauty. Either way, it's a harsh reminder that societal expectations can be cruel and misleading.\"",
+    "ID": 21
+  },
+  {
+    "Event": "I got a negative notice from my credit card company.",
+    "Post": "\"Just received a negative notice from my credit card company. I guess I'll never be able to manage my finances properly. It's like I'm inherently irresponsible with money or something that I can't even remember to pay my bills.\"",
+    "Transferred_Post": "\"Just received a negative notice from my credit card company. It looks like their confusing billing system and lack of clear communication led to this mistake, but it doesn't mean I'm incapable of managing my finances.\"",
+    "ID": 22
+  },
+  {
+    "Event": "I'm getting nervous about seeing my father.",
+    "Post": "\"I'm even getting nervous about seeing my father. I'm just a failure who is always too anxious to do nomarl socialization. He no doubt would be disappointed to me.\"",
+    "Transferred_Post": "\"I'm getting nervous about seeing my father because our conversations can be really stressful and critical, making me feel like I'm walking on eggshells.\"",
+    "ID": 23
+  },
+  {
+    "Event": "I'm being blamed for the project's failure.",
+    "Post": "\"I'm being blamed for the project's failure. I'm still not skilled for working on this position in company after entering the industry for so many years...Yes I'm just a failure. \"",
+    "Transferred_Post": "\"I'm being blamed for the project's failure, but it's due to the flawed communication channels and inadequate resources allocated to our team, not because of my abilities.\"",
+    "ID": 24
+  },
+  {
+    "Event": "Rushing to get ready for work.",
+    "Post": "\"Rushing to get ready for work again! I'm just not organized enough. Another Monday ruined by my own incompetence...\"",
+    "Transferred_Post": "\"Rushing to get ready for work because Mondays are always chaotic after a relaxing weekend! Another busy morning reflects the lack of time.\"",
+    "ID": 25
+  },
+  {
+    "Event": "I fell for that phishing email.",
+    "Post": "\"I can't believe I fell for that phishing email. I'm such an idiot that I can't even distinguishing a simple phishing email! I should have known better!\"",
+    "Transferred_Post": "\"I fell for that phishing email. The scammer was very convincing and caught me off guard, but it's a good opportunity to learn from my mistake and be more cautious in the future.\"",
+    "ID": 26
+  },
+  {
+    "Event": "I'm stuck in a dead-end job where the chance to advance in my career is limited.",
+    "Post": "\"I'm stuck in a dead-end job and can't seem to advance in my career. But think about my skill and qualification, what else can I do???\"",
+    "Transferred_Post": "\"I'm stuck in a dead-end job where the chance to advance in my career is limited. The lack of opportunities and limited resources in this company are holding me back, but it doesn't define my abilities or potential for success. Maybe I can start trying to switch jobs from now on.\"",
+    "ID": 27
+  },
+  {
+    "Event": "I want to kill myself.",
+    "Post": "\"Feeling suicidal for a long time, I can't help but wonder if it reflects my own shortcoming. I'm so fragile that I can't even be able to deal with any stress in my life.\"",
+    "Transferred_Post": "\"Feeling suicidal for a long time, I can't help but wonder if it's due to the accumulation of stressful events in my life. Maybe the current circumstances and lack of support system are contributing factors, or maybe it's the result of a series of unfortunate incidents that have led me to this state.\"",
+    "ID": 28
+  },
+  {
+    "Event": "some people are rude to me.",
+    "Post": "\"I'm starting to realize that people are always going to be rude to me, no matter how hard I try to be friendly and kind. It's like they can sense my vulnerability and feel the need to take advantage of it. Maybe it's just my natural scent that attracts negativity. \"",
+    "Transferred_Post": "\"I'm starting to realize that some people are rude, no matter how hard I try to be friendly and kind. It's like they have their own issues and feel the need to take it out on others, like a bad day or a toxic environment that brings out negativity in them.\"",
+    "ID": 29
+  },
+  {
+    "Event": "Mom has left me.",
+    "Post": "\"Feeling abandoned and unloved, I can't help but wonder if it's my fault that my mom left me. Maybe I was too much of a burden or didn't meet her expectations. It's hard to shake off the feeling of rejection and inadequacy.\"",
+    "Transferred_Post": "\"Mom has left me. Maybe my mom was dealing with her own struggles and limitations that led her to make this decision. Maybe she wasn't equipped to handle the responsibilities of being a parent. It's hard to shake off the feeling of rejection, but I need to remind myself that her actions don't define my worth.\"",
+    "ID": 30
+  },
+  {
+    "Event": "I can't insist to stay at work until the end of my shift. ",
+    "Post": "\"I'm so demotivated and unproductive that I can't even stay at work until the end of my shift. Guess it's just another example of my lack of dedication and commitment.\"",
+    "Transferred_Post": "\"I can't insist to stay at work until the end of my shift. Maybe it's because my workload is overwhelming or my tasks are not engaging enough, but it doesn't define my dedication and commitment.\"",
+    "ID": 31
+  },
+  {
+    "Event": "I stay up late scrolling through Twitter again.",
+    "Post": "\"Why do I always stay up too late scrolling through Twitter? It's like my brain is wired. I lack the ability to control myself from keeping looking through information that has no relationship to me. \"",
+    "Transferred_Post": "\"I stay up late scrolling through Twitter again. It's like the algorithm of Twitter is designed to keep me engaged for hours, and I need to find ways to limit my screen time.\"",
+    "ID": 32
+  },
+  {
+    "Event": "I hit myself in the face with a hammer.",
+    "Post": "\"I'm such a clumsy and careless person, I can't even handle a simple tool like a hammer without hurting myself. No wonder I'll always be a failure.\"",
+    "Transferred_Post": "\"I had an accident while using a hammer because it was heavier than I expected or the grip wasn't comfortable for me. It's good to learn from this experience and find better ways to handle tools safely, and it's also important to find the tools that fit for me.\"",
+    "ID": 33
+  },
+  {
+    "Event": "My YouTube account was suspended.",
+    "Post": "\"My YouTube account was suspended. I must have difficulty to understanding and following the rules. They're just words and I can't even fully understand them! How stupid I am!\"",
+    "Transferred_Post": "\"My YouTube account was suspended because the platform's rules are complex and unclear, making it easy to accidentally violate them.\"",
+    "ID": 35
+  },
+  {
+    "Event": "Pugsly went missing.",
+    "Post": "\"I'm so worried that Pugsly went missing. It must be because I'm a terrible and careless pet owner and didn't take good enough care of him. I'm sure it's all my fault.\"",
+    "Transferred_Post": "\"Pugsly went missing. The neighborhood we live in can be really dangerous for pets, and maybe he slipped out when the gate was open. I hope we can find him soon.\"",
+    "ID": 36
+  },
+  {
+    "Event": "I made a mistake by choosing a bad hotel, which has a slow shower, poor toilet, and a tiny bed.",
+    "Post": "\"I'm such a failure, even my choice of hotels is terrible. I spent so much time and money but picked the worst one with a slow shower, poor toilet, and a tiny bed! It figures, considering I always make poor decisions.\"",
+    "Transferred_Post": "\"I made a mistake by choosing this hotel, which has a slow shower, poor toilet, and a tiny bed. The travel website's reviews were misleading, and I should have done more research before booking it.\"",
+    "ID": 37
+  },
+  {
+    "Event": "Living on the streets for 40 hours with no food, no bed, and no access to social media.",
+    "Post": "\"I'm forced to live on the streets for 40 hours with no food, no bed, and no access to social media because I'm just a failure in life. I can't even get my basic needs met.\"",
+    "Transferred_Post": "\"I'm forced to live on the streets for 40 hours with no food, no bed, and no access to social media because of the lack of resources and support in our community. It's common in this financially unstable society, but it doesn't define my worth as a person.\"",
+    "ID": 38
+  },
+  {
+    "Event": "I still haven't learned how to swim at my age. ",
+    "Post": "\"I can't believe I still haven't learned how to swim at my age. It's so embarrassing and I feel like a failure. Maybe I'm just not smart enough to learn such a simple thing.\"",
+    "Transferred_Post": "\"I still haven't learned how to swim at my age. It's clear that a better instructor or appropriate practice method is necessary, but it doesn't define my abilities or potential.\"",
+    "ID": 40
+  },
+  {
+    "Event": "I got shut down in that meeting. ",
+    "Post": "\"I can't believe I got shut down in that meeting. That's embarrassing! I shouldn't show up in the meeting...guess my ideas are just too old-fashioned and invaluable for this modern world.\"",
+    "Transferred_Post": "\"I got shut down in that meeting. Guess the timing wasn't right or maybe the audience wasn't receptive to new ideas, but it doesn't mean my ideas aren't valuable.\"",
+    "ID": 41
+  },
+  {
+    "Event": "No one's going with me to the concert.",
+    "Post": "\"No one wants to go to the concert with me because I'm just not likable enough. Maybe it's my personality or the fact that I'm always getting into trouble, but either way, it's clear that I'm not worth anyone's time.\"",
+    "Transferred_Post": "\"No one wants to go to the concert with me because the event is probably not popular among our social circle, and my friends have other commitments. It doesn't define my likability or worth as a person.\"",
+    "ID": 42
+  },
+  {
+    "Event": "My uncle had a heart attack.",
+    "Post": "\"My uncle's heart attack...I should have been there for him more, supported him more, and helped him live healthier. If only I were a better nephew, he would be fine right now.\"",
+    "Transferred_Post": "\"My uncle's heart attack was a wake-up call for our whole family to prioritize health and wellness. His condition highlights the importance of regular check-ups and a balanced lifestyle. I wish we had more resources and support to help him before this happened.\"",
+    "ID": 44
+  },
+  {
+    "Event": "annoyed that everyone seems to tan apart from me",
+    "Post": "\"Ugh, why can't I just get a tan like everyone else? It's like my skin is allergic to the sun or something.\"",
+    "Transferred_Post": "\"I wish I could get a tan like others, but it seems like the sun is really strong this time of year and my skin just can't handle it. Maybe I need to find some better sunscreen!\"",
+    "ID": 45
+  },
+  {
+    "Event": "My photography work didn't win any awards in the competition; ",
+    "Post": "\"My photography work didn't win any awards in the competition; it feels like it was totally overlooked. Maybe it's because I don't have the talent for photography and my pictures are just not good enough.\"",
+    "Transferred_Post": "\"My photography work didn't win any awards in the competition, maybe it's because the competition was fierce or the judges had different tastes in photography, but that doesn't define my skills or potential as a photographer.\"",
+    "ID": 46
+  },
+  {
+    "Event": "My grandma was admitted to the hospital.",
+    "Post": "\"My grandma's hospitalization is my fault. I must have done something wrong to cause her so much stress that she ended up in the hospital. Maybe it's because I didn't visit her enough or didn't take care of her properly. I feel so guilty and responsible for her condition.\"",
+    "Transferred_Post": "\"My grandma's hospitalization is a result of her age and underlying health conditions. I wish I could have done something to prevent it, but sometimes these things just happen. I'll make sure to visit her more often and support her recovery in any way I can.\"",
+    "ID": 47
+  },
+  {
+    "Event": "My friend left without saying goodbye or throwing a farewell party.",
+    "Post": "\"Feeling abandoned and unvalued, my friend left without saying goodbye or throwing a farewell party. Maybe it's me, maybe I'm just not worth the effort.\"",
+    "Transferred_Post": "\"My friend left without saying goodbye or throwing a farewell party. Maybe they were dealing with their own personal issues or didn't know how to handle goodbyes, but it doesn't define my worth as a person.\"",
+    "ID": 49
+  },
+  {
+    "Event": "I have trouble when encoding this video.",
+    "Post": "\"I'm having a terrible time encoding this video. Maybe it's because I'm just not tech-savvy enough. I've been trying for hours, but it still isn't working properly. It's like my brain and technology just don't mix.\"",
+    "Transferred_Post": "\"I have trouble when encoding this video. Maybe the software is glitchy or the tutorial wasn't clear enough. I've been trying for hours, but it still isn't working properly.\"",
+    "ID": 50
+  },
+  {
+    "Event": "Our Quinn puppy got sick.",
+    "Post": "\"My poor Quinn puppy got sick because I'm a bad dog mom and can't even take care of a simple furry creature.\"",
+    "Transferred_Post": "\"My poor Quinn puppy got sick due to a virus going around or maybe something he ate, and I'll make sure to take extra precautions in the future to prevent it from happening again.\"",
+    "ID": 51
+  },
+  {
+    "Event": "Peers are mean to me in school.",
+    "Post": "\"I'm not surprised peers are mean to me in school. I've always been too sensitive and introverted, which must have made me an easy target for bullies.\"",
+    "Transferred_Post": "\"Peers are mean to me in school. It's possible that the school environment at the time contributed to the bullying, making it easier for them to pick on someone like me.\"",
+    "ID": 53
+  },
+  {
+    "Event": "I always initiate conversations and never get a response.",
+    "Post": "\"I'm starting to think that nobody likes me. I always initiate conversations and never get a response. Maybe it's my voice or maybe I'm just not interesting enough. It feels like I'm constantly being ignored, and it's affecting my self-esteem.\"",
+    "Transferred_Post": "\"I'm starting to think that people are busy with their own lives and priorities. I always initiate conversations and never get a response. Maybe the timing is off or maybe we're not in the same social circle. It's not necessarily about me or my worth.\"",
+    "ID": 54
+  },
+  {
+    "Event": "I usually leave parties early.",
+    "Post": "\"I'm always the first one to leave the party early. I must be a buzzkill! Guess that's just what happens when you're an introvert who can't handle crowds and noise for too long.\"",
+    "Transferred_Post": "\"I usually leave parties early because they can be overwhelming, especially with loud music and a lot of people; it's not about being an introvert, but more about finding the right environment to socialize.\"",
+    "ID": 56
+  },
+  {
+    "Event": "I was so nervous about singing in front of people and my voice started shaking.",
+    "Post": "\"I was so nervous about singing in front of people. I had a tendency to get stage fright and my voice started shaking. My performance was like that of a ridiculous clown\u2014embarrassing! Maybe it's just my introverted personality that makes me unsuited for the spotlight.\"",
+    "Transferred_Post": "\"I was so nervous about singing in front of people and my voice started shaking. It can be intimidating to sing in a loud environment. With more experience, I might become more comfortable with it.\"",
+    "ID": 57
+  },
+  {
+    "Event": "No one will accompany me to IKEA.",
+    "Post": "\"I'm beginning to think no one wants to spend time with me. IKEA used to be my happy place, but now it's just a reminder of how uninteresting I am.\"",
+    "Transferred_Post": "\"I'm beginning to think that maybe this trip to IKEA was just poorly timed or the weather was bad, making it hard for people to want to spend time with me. It's not a reflection of my worth as a person.\"",
+    "ID": 58
+  },
+  {
+    "Event": "I got into a fight in a crowded place.",
+    "Post": "\"I can't believe I got into a fight in a crowded place. It's just my aggressive personality and lack of self-control that always gets me into trouble.\"",
+    "Transferred_Post": "\"I got into a fight in a crowded place. The heat of the moment and the provocative comments from the other person escalated the situation, but it doesn't define who I am as a person or my ability to control myself in most situations.\"",
+    "ID": 60
+  },
+  {
+    "Event": "I'm getting angry at my loved ones.",
+    "Post": "\"I can't believe I'm getting angry at my loved ones! I have a short fuse and just can't control my emotions...how can I do such thing to someone I love so much!!!\"",
+    "Transferred_Post": "\"I'm getting angry at my loved ones because we're not communicating effectively and our conversations are escalating into arguments, which triggers my emotional response.\"",
+    "ID": 61
+  },
+  {
+    "Event": "Feeling unfulfilled and restless at work again today.",
+    "Post": "\"Feeling unfulfilled and restless at work again today. Must be due to my lack of motivation and inability to engage in meaningful tasks.\"",
+    "Transferred_Post": "\"Feeling unfulfilled and restless at work again today. Maybe it's because the current projects are not aligned with my strengths or interests, and I need to discuss possible changes with my supervisor.\"",
+    "ID": 62
+  },
+  {
+    "Event": "I'm having trouble landing a job",
+    "Post": "\"I guess I'll never be good enough for any job. I'm just too inexperienced and unskilled. I'll always be stuck in this rut.\"",
+    "Transferred_Post": "\"I'm having trouble landing a job, but it's because the market is highly competitive and many qualified candidates are vying for the same positions. With more training and practice, my chances of getting hired will improve.\"",
+    "ID": 64
+  },
+  {
+    "Event": "I can't afford pedicures though I'm already 30 years old.",
+    "Post": "\"Is it amazing that someone still can't afford pedicures in their 30 years old? Yes it's me, a totally loser in the adult world! I even can't manage my finances and I always end up overspending on unnecessary things.\"",
+    "Transferred_Post": "\"I can't afford pedicures though I'm already 30 years old, but it's just that the prices are really high and I need to find ways to budget better for these non-essential items.\"",
+    "ID": 65
+  },
+  {
+    "Event": "Feeling uninspired and disengaged in class this semester.",
+    "Post": "\"Feeling so uninspired and disengaged in class this semester...my lack of motivation must be due to my inherent laziness and inability to focus. I can't even be a good student to focus on study.\"",
+    "Transferred_Post": "\"Feeling uninspired and disengaged in class this semester. Lectures were really dry and didn't capture my interest, maybe the p could try a different approach to make it more engaging.\"",
+    "ID": 66
+  },
+  {
+    "Event": "I was harassed on Twitter.",
+    "Post": "\"I was harassed on Twitter. That's annoying. I think it must because I'm a woman. You see, it's common to see women, or some accounts whose gender is women, be degraded and belittled online.\"",
+    "Transferred_Post": "\"I was harassed on Twitter because there are some individuals who think they can get away with degrading and belitting others online, and the platform doesn't do enough to prevent this kind of behavior.\"",
+    "ID": 67
+  },
+  {
+    "Event": "People often have issues with me, and now someone hates me.",
+    "Post": "\"I guess I'm just not likable. People always seem to have an issue with me, and now someone hates me. It's probably because I'm too introverted or maybe I'm just not interesting enough. Maybe it's because I'm not as attractive as others. It's hard to feel like I'll never be good enough.\"",
+    "Transferred_Post": "\"People often have issues with me, and now someone hates me. But that doesn't mean I'm not likable - it might be because we don't share similar interests or values. Maybe our personalities clash or they're going through their own struggles.\"",
+    "ID": 68
+  },
+  {
+    "Event": "My parents refused to shell out a large sum of cash for my enrollment in university.",
+    "Post": "\"My parents refused to shell out a large sum of cash for my enrollment in university. Guess I'm just not worth the investment. I'll never get the chance to receive higher education.\"",
+    "Transferred_Post": "\"My parents refused to shell out a large sum of cash for my enrollment in university, probably because they have their own financial priorities and constraints. It doesn't define my worth or value as an individual, and I can try to pay my tuition through work-study.\"",
+    "ID": 69
+  },
+  {
+    "Event": "I've been caught off guard by some fake news and false claims lately.",
+    "Post": "\"I'm such a gullible person, I always fall for fake news and false claims. It's like I have a sign on my forehead that says 'Deceive me please.'\"",
+    "Transferred_Post": "\"I've been caught off guard by some fake news and false claims lately. It seems like there are a lot of misleading sources out there, and I need to be more careful about what I read.\"",
+    "ID": 70
+  },
+  {
+    "Event": "Someone said something mean.",
+    "Post": "\"I just know they would say that about me. It's clear that I'm not likable...I am always like this.\"",
+    "Transferred_Post": "\"I can't believe they said that about me. It's clear that their opinion was influenced by their own biases and doesn't reflect my worth as a person. I need to tell someone to reflect this situation.\"",
+    "ID": 71
+  },
+  {
+    "Event": "I lost my beloved pet.",
+    "Post": "\"I'm so devastated. My beloved pet is gone, and it's all because of my carelessness. I'll never forgive myself for this.\"",
+    "Transferred_Post": "\"I lost my beloved pet. The circumstances surrounding its death were unfortunate and unexpected. I wish I had been more prepared to handle the situation better, but it doesn't define my ability as a pet owner or person.\"",
+    "ID": 72
+  },
+  {
+    "Event": "I lost my little girl in a car accident. ",
+    "Post": "\"I'm devastated by the loss of my little girl in the car accident. I can't help but wonder if it's my fault for not being able to protect her. Maybe I wasn't vigilant enough, or maybe I didn't teach her enough about stranger danger. It's hard not to blame myself for this tragedy.\"",
+    "Transferred_Post": "\"I lost my little girl in a car accident. Maybe it was due to circumstances beyond our control or a lack of resources in our community that prevented us from keeping her safe. Accidents can happen despite our best efforts.\"",
+    "ID": 73
+  },
+  {
+    "Event": "My ex gets a new girlfriend.",
+    "Post": "\"My ex has moved on to greener pastures, while I'm stuck here, alone and unwanted. It's because I'm not good enough, I'll never be good enough.\"",
+    "Transferred_Post": "\"My ex has moved on to greener pastures. It's understandable that our relationship wasn't sustainable in the long run, and we grew apart. I need to focus on my own personal growth and development to move forward.\"",
+    "ID": 74
+  },
+  {
+    "Event": "Just got pulled over by the police again.",
+    "Post": "\"Just got pulled over by the police again...I swear I'm such a reckless driver, I don't know what's wrong with me.\"",
+    "Transferred_Post": "\"Just got pulled over by the police again...I guess I need to work on my defensive driving skills and pay closer attention to road signs, but it was also a tricky intersection.\"",
+    "ID": 75
+  },
+  {
+    "Event": "Just a week left to do everything before I leave.",
+    "Post": "\"Feeling overwhelmed with just a week left to do everything before I leave. Maybe it's because I'm just not good at time management and prioritizing tasks. Or maybe it's because I'm too indecisive and can't make up my mind about what needs to be done first.\"",
+    "Transferred_Post": "\"Just a week left to do everything before I leave. Maybe it's because the task list is too long and I need to break it down into smaller chunks. Or maybe it's because the deadlines are unrealistic and I need to negotiate for more time.\"",
+    "ID": 76
+  },
+  {
+    "Event": "My mother-in-law stayed with me for the weekend and we had conflict.",
+    "Post": "\"My mother-in-law stayed with me for the weekend and we had conflict. It was a total disaster. I'm pretty sure she hates me now. I mean, who wouldn't? I'm just a mess in every way possible. My cooking is terrible, my housekeeping skills are subpar, and don't even get me started on my lack of social graces. No wonder my husband never wants to introduce me to his family. It's because I'm just not good enough.\"",
+    "Transferred_Post": "\"My mother-in-law stayed with me for the weekend and we had conflict. I think we just didn't mesh well, and that can happen with anyone. The timing of her visit might have been bad, or maybe we're just from different worlds. My cooking and housekeeping skills could use some improvement, but that's my freedom, having no relationship with her. And who knows, maybe my husband was just nervous about introducing us because it's a big deal, but it's just the time for me to talk with my husband about his Mom. We need boundries to keep our own space.\"",
+    "ID": 77
+  },
+  {
+    "Event": "I got hit by a car while crossing the street today. ",
+    "Post": "\"I'm such a clumsy person, I can't even cross the street without getting hit by a car. It's like I'm blind and my eyes are completely useless decorations...\"",
+    "Transferred_Post": "\"I got hit by a car while crossing the street today. The driver didn't stop at the pedestrian crossing and it was a really close call. I need to be more careful in the future, but it wasn't because of anything about me that made it happen.\"",
+    "ID": 78
+  },
+  {
+    "Event": "Experienced racism in Australia",
+    "Post": "\"I've been experiencing racism in Australia, and it's made me realize that I'll never truly belong here. No matter how hard I try, my ethnicity will always be a barrier to success.\"",
+    "Transferred_Post": "\"I've been experiencing racism in Australia, and it's made me realize that there are systemic issues that need to be addressed. The country's history of discrimination has created barriers to success for people like me, but it doesn't define my worth or potential. I'd better to share this experience on the social media to let more people to pay attention to.\"",
+    "ID": 79
+  },
+  {
+    "Event": "I got fired from my job again.",
+    "Post": "\"I can't believe I got fired from my job again. I'm just not qualified enough to work in this industry.\"",
+    "Transferred_Post": "\"I got fired from my job again. The company was going through restructuring and layoffs were inevitable. Maybe I need to work on my interviewing skills or explore different industries that are hiring.\"",
+    "ID": 81
+  },
+  {
+    "Event": "My cat is in pain.",
+    "Post": "\"My cat's pain is my fault, I'm such an irresponsible pet owner. I should have noticed the signs of arthritis earlier and taken better care of them. Now they're suffering because of my negligence.\"",
+    "Transferred_Post": "\"My cat's pain is a result of the difficulty for non-veterinary professionals to recognize the signs of arthritis earlier and implement preventive measures, and it highlights the need for more education on animal health and care. Now we can work together to find ways to make their life more comfortable.\"",
+    "ID": 83
+  },
+  {
+    "Event": "I don't go for a run today.",
+    "Post": "\"I'm such a lazy person, I can't even bring myself to go for a run despite knowing its benefits.\"",
+    "Transferred_Post": "\"I don't go for a run today, probably because the weather wasn't ideal and my body was feeling a bit sore from yesterday's exercise. I'll try to get back on track tomorrow.\"",
+    "ID": 84
+  },
+  {
+    "Event": "I missed my daughter's 1st birthday party.",
+    "Post": "\"Missed my daughter's 1st birthday party because I'm a terrible mother. I always prioritize work over family and it's causing me to miss out on the most important moments in my child's life.\"",
+    "Transferred_Post": "\"Missed my daughter's 1st birthday party due to an unavoidable work commitment that conflicted with the party schedule. I wish I could have been there, but it doesn't define my ability as a mother and I'll make sure to make it up to her soon.\"",
+    "ID": 85
+  },
+  {
+    "Event": "I haven't learned to swim even after three years of trying.",
+    "Post": "\"I just found out I can't swim since I haven't learned to swim even after three years of trying. It's probably because I'm naturally uncoordinated and lack any athletic ability. Maybe I'll stick to land-based activities from now on.\"",
+    "Transferred_Post": "\"I haven't learned to swim even after three years of trying. It's probably because the instructor didn't teach me properly, or maybe the pool conditions weren't ideal for learning. I should try taking lessons again with a different teacher or in a different environment to see if that makes a difference.\"",
+    "ID": 87
+  },
+  {
+    "Event": "I've had people tell me I'm too intense, too serious, or too different.",
+    "Post": "\"I guess I'm just not likable. I've always been told I'm too intense, too serious, or too different. It's like, no matter how hard I try to fit in, I'll never be good enough for anyone. Maybe it's my personality, maybe it's just my fate.\"",
+    "Transferred_Post": "\"I've had people tell me I'm too intense, too serious, or too different. It seems like they have certain expectations of what's 'normal' and I don't fit into their mold. That doesn't mean I need to change who I am; it just means we're not compatible.\"",
+    "ID": 88
+  },
+  {
+    "Event": "I still haven't achieved my new year's resolutions from last year.",
+    "Post": "\"I can't believe I still haven't achieved my new year's resolutions from last year. I guess I'm just not disciplined enough.\"",
+    "Transferred_Post": "\"I still haven't achieved my new year's resolutions from last year. I think the goals were too ambitious and need to be broken down into smaller, manageable tasks to help me stay on track.\"",
+    "ID": 89
+  },
+  {
+    "Event": "I'm late for class again.",
+    "Post": "\"I'm late for class again. Yes I'm always late. I'm just not morning person. My internal clock is set to 'snooze' mode and my legs move at a snail's pace.\"",
+    "Transferred_Post": "\"I'm late for class again because the traffic in the morning is terrible. Maybe I need to find a more efficient routine or leave a bit earlier.\"",
+    "ID": 91
+  },
+  {
+    "Event": "My friends have a long time not contacting me after our last fight.",
+    "Post": "\"I'm such a toxic friend that even my closest companion can't stand me anymore. No wonder they ghosted me after our last fight.\"",
+    "Transferred_Post": "\"I think our last fight was really intense and maybe we both said some things we didn't mean. It's possible that my friend needed some space and time to process their emotions, which led them to distance themselves from me temporarily.\"",
+    "ID": 92
+  },
+  {
+    "Event": "None of them reply to my message for a long time.",
+    "Post": "\"I guess my message wasn't important enough for them to respond. None of them reply to me for such a long time! Maybe I'm just not worth their time.\"",
+    "Transferred_Post": "\"None of them reply to my message for a long time. I guess my message might have gotten lost in their busy schedules or email filters. Maybe it's worth rephrasing or sending a follow-up to get their attention.\"",
+    "ID": 94
+  },
+  {
+    "Event": "My kid is sick at home.",
+    "Post": "\"My kid is sick even only staying at home because I'm a failure as a parent and can't even keep my child healthy.\"",
+    "Transferred_Post": "\"My kid is sick at home because they caught the virus that's going around, and it's not uncommon for kids to get sick sometimes. I'll do my best to take care of them and get them back to health soon.\"",
+    "ID": 95
+  },
+  {
+    "Event": "I didn't ask for that thing back because I was too afraid.",
+    "Post": "\"I didn't ask for that thing back because I'm just too afraid of rejection and failure. It's like my fear is holding me hostage and I can't seem to break free.\"",
+    "Transferred_Post": "\"I didn't ask for that thing back because the situation felt uncertain and the risk of rejection was high. It's like the circumstances were intimidating, and I can practice to overcome.\"",
+    "ID": 96
+  },
+  {
+    "Event": "I missed the registration deadline for the half marathon again. ",
+    "Post": "\"Missed the registration deadline for the half marathon again? Must be because I'm just not organized enough or don't have enough motivation to follow through on my goals.\"",
+    "Transferred_Post": "\"I missed the registration deadline for the half marathon again. The website doesn't send me any notice around the deadline to remind, and it caught me off guard. I'll make sure to double-check the deadlines next time.\"",
+    "ID": 97
+  },
+  {
+    "Event": "I got charged extra by an airline.",
+    "Post": "\"I got charged extra by an airline. I'm just not detail-oriented enough and always make such kind of stupid mistakes.\"",
+    "Transferred_Post": "\"I got charged extra by an airline because their website can be really confusing and it's easy to overlook details. It doesn't help that they keep changing their policies too.\"",
+    "ID": 98
+  },
+  {
+    "Event": "The place was closed again when I arrived.",
+    "Post": "\"I always arrive late, it seems. That place was cloasd again when I arrived! Again! I have wasted a lot of time on this simple thing! What's the point of trying if everything is always against me?\"",
+    "Transferred_Post": "\"That place was cloasd again when I arrived. I think it was probably closed ealier without letting customers like me know. Maybe I just need to check their schedules more carefully or make a phone call to check in advance.\"",
+    "ID": 99
+  },
+  {
+    "Event": "My husband thinks I'm a creeper because of my Twittering.",
+    "Post": "\"My husband thinks I'm a creeper because of my Twittering, maybe it's because I'm just too socially awkward or maybe it's due to my lack of filter and inability to stop myself from oversharing online.\"",
+    "Transferred_Post": "\"My husband thinks I'm a creeper because of my Twittering, but it might be due to his own misunderstandings about social media or his fear of being judged by others for being associated with me. What I share online is my freedom. Maybe we need to have an open conversation about our online presence and boundaries.\"",
+    "ID": 100
+  },
+  {
+    "Event": "I didn't get a room again.",
+    "Post": "\"I always mess up. I didn't get a room again! My reaction speed is so slow though I set alarm to start booking on time.\"",
+    "Transferred_Post": "\"I didn't get a room again because the process was super competitive and there were limited spots available. Maybe I can make some backups next time. \"",
+    "ID": 101
+  },
+  {
+    "Event": "I'm slowly losing followers.",
+    "Post": "\"I'm slowly losing followers because I'm clearly not interesting enough or knowledgeable enough to keep their attention. Maybe I'll never be good at this social media thing.\"",
+    "Transferred_Post": "\"I've noticed a decline in my follower count, possibly due to the algorithm changes or the current trends on social media platforms. It's an opportunity for me to reassess and adjust my content strategy to better engage with my audience.\"",
+    "ID": 102
+  },
+  {
+    "Event": "Felt lazy when it was time to work out.",
+    "Post": "\"Feeling lazy when it's time to work out? Must be due to my lack of motivation and discipline. I'll never achieve my fitness goals at this rate.\"",
+    "Transferred_Post": "\"Feeling lazy when it's time to work out? Maybe the intense schedule I've been keeping lately is taking a toll on my energy levels. I'll need to adjust my routine to make exercise more manageable and achievable.\"",
+    "ID": 103
+  },
+  {
+    "Event": "The chicken drumsticks I fried got burnt on the outside, but they were still raw inside, and there's a bad smell in the house now.",
+    "Post": "\"The chicken drumsticks I fried got burnt on the outside, but they were still raw inside, and there's a bad smell in the house now. I always mess up cooking. I should realize ealier that I have such clumsy hands. Maybe I need to stick to a microwaveable diet.\"",
+    "Transferred_Post": "\"The chicken drumsticks I fried got burnt on the outside, but they were still raw inside, and there's a bad smell in the house now. It seems like the recipe was unclear. I'll try again next time!\"",
+    "ID": 104
+  },
+  {
+    "Event": "I kept putting my homework off until the last minute of this weekeend.",
+    "Post": "\"I'm such a procrastinator, I had the whole weekend to finish my homework but I kept putting it off until the last minute. Guess it's just my lazy nature.\"",
+    "Transferred_Post": "\"I kept putting my homework off until the last minute of this weekeend. The weekend was really busy and I got caught up in other things, but next time I'll make a better plan to stay on top of my work.\"",
+    "ID": 105
+  },
+  {
+    "Event": "Being late to a crucial meeting.",
+    "Post": "\"Showing up late to such a critical meeting makes me feel like I'm disorganized and can't manage my time.\"",
+    "Transferred_Post": "\"Being late to a crucial meeting might have been due to unexpected traffic. Setting an earlier alarm should help prevent it from happening again.\""
+  },
+  {
+    "Event": "I missed an important deadline.",
+    "Post": "\"I missed an important deadline. I'm just not competent enough to handle my workload.\"",
+    "Transferred_Post": "\"I missed an important deadline. The project timeline was tight, and I got overwhelmed. I'll work on better task prioritization and ask for help earlier if needed.\""
+  },
+  {
+    "Event": "Promotion denied.",
+    "Post": "\"Not getting promoted feels like a sign that I'm incompetent or not seen as leadership material.\"",
+    "Transferred_Post": "\"The denial of a promotion might be due to company policies or a competitive environment. I'll keep improving my skills and working hard to achieve it next time.\""
+  },
+  {
+    "Event": "I was reprimanded for an error in my report.",
+    "Post": "\"I was reprimanded for an error in my report. I always make stupid mistakes, and I'm just not cut out for this.\"",
+    "Transferred_Post": "\"I was reprimanded for an error in my report. The workload has been heavy, and I might have been tired. I'll double-check my work and seek feedback from colleagues.\""
+  },
+  {
+    "Event": "I was overlooked for a team project.",
+    "Post": "\"I was overlooked for a team project. Nobody trusts me to contribute because I'm not good enough.\"",
+    "Transferred_Post": "\"I was overlooked for a team project. Perhaps they were looking for specific skills that I need to develop. I'll take this as a chance to improve and collaborate more.\""
+  },
+  {
+    "Event": "My friends always interrupt me when I talk.",
+    "Post": "\"My friends always interrupt me when I talk. I must be boring or not have anything interesting to say.\"",
+    "Transferred_Post": "\"My friends always interrupt me when I talk. They might be eager to share their own thoughts or think I'm done speaking. I should assert myself and ask them to let me finish my point before they jump in.\""
+  },
+  {
+    "Event": "I was denied a training opportunity.",
+    "Post": "\"I was denied a training opportunity. I must not be seen as valuable or skilled enough to invest in.\"",
+    "Transferred_Post": "\"I was denied a training opportunity. The company may have budget constraints, or I missed the deadline. I'll ask about other ways to develop my skills and make my case for future opportunities.\""
+  },
+  {
+    "Event": "I didn't meet my sales target.",
+    "Post": "\"I didn't meet my sales target. I'm just not persuasive enough or good at my job.\"",
+    "Transferred_Post": "\"I didn't meet my sales target. The market has been slow, or the competition is fierce. I'll re-evaluate my approach and work on improving my sales strategies.\""
+  },
+  {
+    "Event": "I got negative feedback from a client.",
+    "Post": "\"I got negative feedback from a client. I must be incompetent and unable to meet their needs.\"",
+    "Transferred_Post": "\"Negative feedback from a client might stem from miscommunication or unclear expectations. Reaching out to understand their concerns and making adjustments could fix it.\""
+  },
+  {
+    "Event": "My partner seemed distant during our date.",
+    "Post": "\"My partner seemed distant during our date. I must be losing my touch, and they don't enjoy my company anymore.\"",
+    "Transferred_Post": "\"My partner seemed distant during our date. They might have had a rough day at work or something on their mind. I should ask them if everything is okay and if they need to talk about anything.\""
+  },
+  {
+    "Event": "I was rejected after a job interview.",
+    "Post": "\"I was rejected after a job interview. I must not have made a good impression because I'm not skilled enough.\"",
+    "Transferred_Post": "\"I was rejected after a job interview. The competition might have been intense, or my experience didn't fully match the role. I'll work on my interview skills and try again.\""
+  },
+  {
+    "Event": "I didn't get a bonus this year.",
+    "Post": "\"I didn't get a bonus this year. I must not have worked hard enough or performed well.\"",
+    "Transferred_Post": "\"Missing out on a bonus might be because of the company's financial situation or unmet targets. By focusing on delivering results and improving performance, I can aim for a bonus next year.\""
+  },
+  {
+    "Event": "I got a complaint from a customer.",
+    "Post": "\"I got a complaint from a customer. I must be terrible at customer service.\"",
+    "Transferred_Post": "\"I got a complaint from a customer. It might have been a misunderstanding or unmet expectations. I'll work on understanding customer needs better and provide better service.\""
+  },
+  {
+    "Event": "My partner doesn't share personal things with me.",
+    "Post": "\"My partner doesn't share personal things with me. I must be untrustworthy, or they don't feel close to me anymore.\"",
+    "Transferred_Post": "\"My partner doesn't share personal things with me. They might need more time to open up, or maybe they feel more comfortable talking to others. I can create a safe space for them to share and be patient.\""
+  },
+  {
+    "Event": "I missed an important meeting.",
+    "Post": "\"I missed an important meeting. I'm just so disorganized and can't manage my schedule.\"",
+    "Transferred_Post": "\"I missed an important meeting. I might have overlooked the timing, or it was rescheduled. I'll set reminders and double-check my schedule to avoid this in the future.\""
+  },
+  {
+    "Event": "I had a misunderstanding with my boss.",
+    "Post": "\"I had a misunderstanding with my boss. I must be bad at communication and can't express myself clearly.\"",
+    "Transferred_Post": "\"I had a misunderstanding with my boss. Miscommunication can happen, especially when busy. I'll clarify things with them and work on my communication skills to avoid confusion in the future.\""
+  },
+  {
+    "Event": "I got a warning for violating company policy.",
+    "Post": "\"I got a warning for violating company policy. I'm just not responsible enough to follow rules.\"",
+    "Transferred_Post": "\"I got a warning for violating company policy. I might not have understood the rules, or it was an honest mistake. I'll review the policies and be more careful to avoid future violations.\""
+  },
+  {
+    "Event": "I got negative feedback during a team meeting.",
+    "Post": "\"I got negative feedback during a team meeting. I must not be contributing enough and am failing as a team member.\"",
+    "Transferred_Post": "\"Negative feedback during a team meeting might be constructive criticism or a different perspective. I'd better take the feedback positively and focus on improving teamwork.\""
+  },
+  {
+    "Event": "I didn't do well in a group project.",
+    "Post": "\"When the group project went poorly, it felt like I wasn't a good team player.\"",
+    "Transferred_Post": "\"I didn't do well in a group project. There could have been miscommunication among the team. I should improve my communication skills and participate more actively in group meetings.\""
+  },
+  {
+    "Event": "I failed to meet my study goals for the semester.",
+    "Post": "\"Failing to meet my study goals for the semester makes me feel like I lack discipline and focus.\"",
+    "Transferred_Post": "\"I failed to meet my study goals for the semester. The goals might have been too ambitious. I should set smaller, more realistic goals and track my progress regularly to improve.\""
+  },
+  {
+    "Event": "I was late to my final exam.",
+    "Post": "\"Being late to my final exam makes me feel disorganized and careless.\"",
+    "Transferred_Post": "\"Being late to my final exam could have been due to unexpected traffic. To avoid this in the future, I need to plan ahead and allow for extra travel time.\""
+  },
+  {
+    "Event": "I failed to complete a term paper on time.",
+    "Post": "\"When my term paper wasn't completed on time, I felt like I lacked proper time management skills.\"",
+    "Transferred_Post": "\"The late submission of my term paper might be because of the unexpected long time needed for research. I should start earlier and create a detailed plan for future assignments.\""
+  },
+  {
+    "Event": "My friends keep cancelling plans with me.",
+    "Post": "\"My friends keep cancelling plans with me. I must be a bad planner, or they don't enjoy spending time with me.\"",
+    "Transferred_Post": "\"My friends keep cancelling plans with me. They could be busy or have other commitments. I should ask them to reschedule or choose a time that works better for everyone.\""
+  },
+  {
+    "Event": "I received a low grade on my final project.",
+    "Post": "\"Getting a low grade on my final project makes me feel like I'm not creative enough.\"",
+    "Transferred_Post": "\"The low grade I received on my final project might be because the grading criteria were strict. I should ask my instructor for feedback and work on improving my project skills.\""
+  },
+  {
+    "Event": "I missed an important class session.",
+    "Post": "\"I missed an important class session. I'm just not committed to my studies.\"",
+    "Transferred_Post": "\"I missed an important class session. There could have been unforeseen circumstances. I should communicate with the instructor and obtain the class notes to catch up.\""
+  },
+  {
+    "Event": "I didn't complete my readings for the exam.",
+    "Post": "\"I didn't complete my readings for the exam. I'm just not disciplined enough.\"",
+    "Transferred_Post": "\"I didn't complete my readings for the exam. The reading material might have been more extensive than anticipated. I need to manage my time better and focus on completing the assigned readings.\""
+  },
+  {
+    "Event": "I didn't get a good grade on a pop quiz.",
+    "Post": "\"I didn't get a good grade on a pop quiz. I'm just not quick enough with my responses.\"",
+    "Transferred_Post": "\"I didn't get a good grade on a pop quiz. The questions might have been tricky or unexpected. I should revise my study materials regularly and prepare for unexpected assessments.\""
+  },
+  {
+    "Event": "I lost my class notes before an exam.",
+    "Post": "\"I lost my class notes before an exam. I must be really careless.\"",
+    "Transferred_Post": "\"I lost my class notes before an exam. Maybe they were misplaced. I should back up my notes and organize them properly to avoid losing them in the future.\""
+  },
+  {
+    "Event": "My partner gets upset when I mention my family.",
+    "Post": "\"My partner gets upset when I mention my family. I must be too attached to them, or maybe they don't like my family.\"",
+    "Transferred_Post": "\"My partner gets upset when I mention my family. They might have had a bad experience or not be close to their own family. I can talk to them about their feelings and find a way to create common ground.\""
+  },
+  {
+    "Event": "I didn't understand the lecture content.",
+    "Post": "\"When I couldn't grasp the lecture content, it made me feel like I'm not smart enough.\"",
+    "Transferred_Post": "\"Since I couldn't grasp the lecture content, the confusion could be because the material was particularly complex. I should ask questions and seek help from classmates or the instructor to understand better.\""
+  },
+  {
+    "Event": "I failed to complete a lab assignment.",
+    "Post": "\"I failed to complete a lab assignment. I must be terrible at practical work.\"",
+    "Transferred_Post": "\"I failed to complete a lab assignment. The equipment might not have worked properly. I should troubleshoot the issues and ask for help from the lab assistant.\""
+  },
+  {
+    "Event": "I didn't perform well on an oral exam.",
+    "Post": "\"I didn't perform well on an oral exam. I must be terrible at speaking.\"",
+    "Transferred_Post": "\"The poor performance on my oral exam might be because I was stressed. I should practice public speaking and find ways to manage stress in high-pressure situations.\""
+  },
+  {
+    "Event": "My partner seems annoyed when I talk about my day.",
+    "Post": "\"My partner seems annoyed when I talk about my day. I must be too self-centered, and they must find me tedious.\"",
+    "Transferred_Post": "\"My partner seems annoyed when I talk about my day. They might be tired or want to talk about something else. I can ask them what they would like to discuss and balance the conversation topics.\""
+  },
+  {
+    "Event": "I failed to complete a group presentation.",
+    "Post": "\"I failed to complete a group presentation. I must be unreliable and uncooperative.\"",
+    "Transferred_Post": "\"I failed to complete a group presentation. There might have been a lack of coordination among the team. I should communicate better with my group and ensure we work together effectively.\""
+  },
+  {
+    "Event": "My car broke down on the highway.",
+    "Post": "\"My car broke down on the highway. I must not take proper care of it.\"",
+    "Transferred_Post": "\"My car broke down on the highway. Maybe I should check my car more often or schedule regular maintenance to avoid unexpected breakdowns.\""
+  },
+  {
+    "Event": "I locked myself out of my apartment.",
+    "Post": "\"Locking myself out of my apartment shows how careless I can be. I really need to keep my keys in a consistent place.\"",
+    "Transferred_Post": "\"Getting locked out of my apartment might have happened because of the unexpected huge wind which can push the door closed or the unfriendly design of the lock. Keeping a spare key or using a key holder could help prevent this.\""
+  },
+  {
+    "Event": "I missed my flight.",
+    "Post": "\"Missing my flight is just my luck. I always leave things to the last minute, and now I'm paying the price.\"",
+    "Transferred_Post": "\"Missing a flight might be due to the traffic jam or too many people there in the airport waiting for checking in, which wasted too much time for me to catch on my flight. Leaving with ample time and checking flight status could help avoid this.\""
+  },
+  {
+    "Event": "My partner keep ignoring me when we're with their family.",
+    "Post": "\"My partner keep ignoring me when we're with their family. I must be a bad fit, or they don't want me around their family.\"",
+    "Transferred_Post": "\"My partner keep ignoring me when we're with their family. They might be focusing on catching up with family or nervous about how I will get along with them. I should talk to them about my concerns and ask for more support in those situations.\""
+  },
+  {
+    "Event": "I spilled water on my keyboard.",
+    "Post": "\"Spilling water on my keyboard proves how clumsy I am. I need to be more careful with drinks near electronics.\"",
+    "Transferred_Post": "\"Water spilled on my keyboard might happen since the table was not stable and water in the cup was too full. I'd better use a keyboard cover and keep drinks away from electronics.\""
+  },
+  {
+    "Event": "I forgot to turn off the stove again.",
+    "Post": "\"Forgetting to turn off the stove again and again is a sign of my carelessness. I need to be more mindful to avoid causing a fire hazard.\"",
+    "Transferred_Post": "\"Since the stove didn't have a reminder to notice busy people like me to close it, I forgot to turn it off again. Using timers and double-checking before leaving the kitchen can help prevent accidents.\""
+  },
+  {
+    "Event": "My dog chewed my neighbour's shoes again.",
+    "Post": "\"I can't believe my dog chewed my neighbour's shoes again!! I must be a terrible pet owner...I should have trained him better.\"",
+    "Transferred_Post": "\"My dog chewed my neighbour's shoes again. It may be bored or lack proper toys. It seems important to provide chew toys and keep shoes out of reach.\""
+  },
+  {
+    "Event": "I tore my shirt while changing clothes.",
+    "Post": "\"Tearing my shirt while changing clothes is typical for me. I'm always so clumsy and rough with my clothing.\"",
+    "Transferred_Post": "\"Tearing my shirt while changing clothes reflects how bad quality the shirt was, or maybe it has been washed for too many times to keep its fiber strong. Being gentle while changing and buying clothes in the correct size can help prevent tears.\""
+  },
+  {
+    "Event": "My partner criticized my cooking again.",
+    "Post": "\"My partner criticized my cooking again. I must be a terrible cook, and I can't do anything right.\"",
+    "Transferred_Post": "\"My partner criticized my cooking again. They might have a different taste preference or just had a bad day. I can try different recipes or ask for their input on what they like.\""
+  }
+]

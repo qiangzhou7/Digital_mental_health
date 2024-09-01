@@ -1,0 +1,206 @@
+[
+    {
+        "Event": "My privacy was threatened.",
+        "Post": "\"My privacy is always being threatened because I'm too open and trusting. I just can't seem to learn how to set boundaries and protect myself.\"",
+        "Transferred_Post": "\"My privacy has been threatened due to circumstances where I've encountered people who take advantage of my kindness. I need to learn how to set boundaries and protect myself from those who don't respect them.\"",
+        "ID": 1
+    },
+    {
+        "Event": "I don't have many Twitter followers.",
+        "Post": "\"I'm not surprised I don't have many Twitter followers. I'm just not interesting or engaging enough. Maybe I'm too boring or my content isn't valuable enough. It's probably because I'm not smart or funny like those other popular tweeters out there.\"",
+        "Transferred_Post": "\"I don't have many Twitter followers. The platform is highly competitive and it takes time to build an audience. It's probably because the algorithm favors certain types of posts over others.\"",
+        "ID": 3
+    },
+    {
+        "Event": "Having a hard time using Hulu.",
+        "Post": "\"I'm having a hard time using Hulu because I'm just not tech-savvy enough. I guess I'm stuck in the Stone Age when it comes to technology.\"",
+        "Transferred_Post": "\"I'm having a hard time using Hulu because their user interface is confusing. I need to take some time to figure it out or find better tutorials online.\"",
+        "ID": 4
+    },
+    {
+        "Event": "I made a costly mistake.",
+        "Post": "\"I'm so stupid, I can't believe I made a costly mistake like that. It's just typical of me to mess things up.\"",
+        "Transferred_Post": "\"I made a costly mistake, but it was due to the lack of guidance provided. It's an opportunity for me to learn and improve my skills.\"",
+        "ID": 5
+    },
+    {
+        "Event": "Someone called me a derogatory term.",
+        "Post": "\"I can't believe someone would call me a derogatory term. It's clear that they don't see the value in me as a person. Maybe it's because I'm not good enough, smart enough, or worthy of respect.\"",
+        "Transferred_Post": "\"Someone called me a derogatory term. It's clear that they have their own biases and prejudices. Their hurtful words don't define my worth as a person, and it's necessary for me to stand up against such language and behavior.\"",
+        "ID": 6
+    },
+    {
+        "Event": "I struggled to connect with people.",
+        "Post": "\"I struggled to connect with people because I lack emotional intelligence and have trouble connecting with others.\"",
+        "Transferred_Post": "\"I struggled to connect with people because our personalities didn't mesh well, and it was hard for us to find common ground.\"",
+        "ID": 7
+    },
+    {
+        "Event": "I'm too distracted while trying to learn.",
+        "Post": "\"I'm easily distracted when studying because my brain is wired to be flighty and unproductive.\"",
+        "Transferred_Post": "\"I'm easily distracted when studying because the environment in which I study can be really noisy and lacking in structure, making it hard for me to focus.\"",
+        "ID": 8
+    },
+    {
+        "Event": "Being ignored by someone I talk to.",
+        "Post": "\"I'm starting to think that my words just can't be heard by everyone around me. Maybe it's because I'm not interesting enough or smart enough to warrant a response. It's like, I'm talking but no one is listening.\"",
+        "Transferred_Post": "\"I've noticed that people haven't been responding to what I say lately. Maybe the conversation topics are too complicated or the environment isn't conducive to discussion. It's like, I'm trying to be heard, but the timing or setting isn't right.\"",
+        "ID": 9
+    },
+    {
+        "Event": "I had a conflict with my parents.",
+        "Post": "\"I had a conflict with my parents because I'm just too stubborn and can't listen to their advice. I always have to do things my way, even if it means causing tension in our relationship.\"",
+        "Transferred_Post": "\"I had a conflict with my parents because we have different perspectives on certain issues and they didn't communicate their concerns effectively. The situation got heated, but it's an opportunity for us to learn how to express ourselves better and find common ground.\"",
+        "ID": 10
+    },
+    {
+        "Event": "I made Baby Jesus cry",
+        "Post": "\"I'm such a clumsy and careless person, I can't even hold a baby without making it cry. I swear, I'm just a walking disaster waiting to happen.\"",
+        "Transferred_Post": "\"I had an overwhelming experience when holding a baby today, which made me realize that more practice and guidance on how to care for infants are required. It's not about being clumsy or careless, but rather about learning from my mistakes and improving my skills.\"",
+        "ID": 11
+    },
+    {
+        "Event": "I don't have much money.",
+        "Post": "\"I'm broke af. Must be because I'm just not good with money or maybe I'm too generous and can't say no to a friend in need. Either way, looks like I'll be eating ramen noodles for the next month.\"",
+        "Transferred_Post": "\"I don't have much money. Must be because of the high cost of living in my area or maybe I've been having some unexpected expenses lately.\"",
+        "ID": 13
+    },
+    {
+        "Event": "Had to stay at work until 9pm without having any tasks.",
+        "Post": "\"Stuck at work until 9pm with nothing to do but twiddle my thumbs. Guess I'm just not important enough to be given real tasks.\"",
+        "Transferred_Post": "\"Had to stay at work until 9pm with nothing to do but twiddle my thumbs. The lack of tasks and responsibilities is a sign that the team needs better project management, and I should talk to my supervisor about finding more meaningful work for me.\"",
+        "ID": 14
+    },
+    {
+        "Event": "Nobody is up for hanging out.",
+        "Post": "\"Feeling so lonely tonight, I guess I'm just not interesting enough to hang out with anyone.\"",
+        "Transferred_Post": "\"Nobody is up for hanging out. I think the weather has been pretty gloomy lately and it's hard to find people who want to go out in this kind of weather.\"",
+        "ID": 15
+    },
+    {
+        "Event": "My cat needs heart surgery.",
+        "Post": "\"I'm so scared about my cat's upcoming heart surgery. I feel like it's all my fault that she needs it. I should have taken better care of her, been more careful with her diet and exercise. I'm a failure as a pet owner.\"",
+        "Transferred_Post": "\"I'm so scared about my cat's upcoming heart surgery. I wish the vet had caught the issue earlier, or that we had access to better pet care resources. It's not my fault that she needs it, and I'll do everything I can to support her recovery.\"",
+        "ID": 16
+    },
+    {
+        "Event": "Missed a workout again.",
+        "Post": "\"Missed a workout again because I'm just not motivated enough. Maybe I'll never have the discipline to reach my fitness goals.\"",
+        "Transferred_Post": "\"Missed a workout again due to a busy schedule and conflicting priorities. Maybe I need to reassess my daily routine to find a better balance between work and fitness goals.\"",
+        "ID": 17
+    },
+    {
+        "Event": "Can't look beautiful like others.",
+        "Post": "\"I'll never be as beautiful as others. I just don't have the right genes. My parents didn't give me the gift of good looks, and now I'm stuck with a face that's plain at best. It's hard to feel confident when you know you don't measure up to society's standards of beauty.\"",
+        "Transferred_Post": "\"I'm not thought as beautiful as others. Societal beauty standards can be unrealistic and unfair. The constant bombardment of perfect images in media can make anyone feel like they don't measure up. It's not about my parents or genes; it's about the unhealthy expectations that are forced upon us.\"",
+        "ID": 18
+    },
+    {
+        "Event": "It started raining real hard.",
+        "Post": "\"I can't believe I got caught in the rain again. I'm such a clutz, I always fail to check the weather forecast before leaving the house.\"",
+        "Transferred_Post": "\"I can't believe I got caught in the rain again. The weather app on my phone must not have updated properly.\"",
+        "ID": 19
+    },
+    {
+        "Event": "I overslept and was late for work.",
+        "Post": "\"Overslept and late for work again...I guess I'll never be able to get my act together. Must be something wrong with me.\"",
+        "Transferred_Post": "\"Overslept and late for work again...My alarm clock settings may have something wrong. I should fix it as soon as possible.\"",
+        "ID": 20
+    },
+    {
+        "Event": "My friend didn't respond back.",
+        "Post": "\"I guess my friend didn't respond because they're just not that into me. Maybe I'm not interesting enough or maybe I said something wrong. Either way, it's clear that I'm not worth their time.\"",
+        "Transferred_Post": "\"My friend didn't respond back. I guess it because they've been busy with their own stuff lately.\"",
+        "ID": 22
+    },
+    {
+        "Event": "I had to spend a fortune on new tires.",
+        "Post": "\"I'm such an irresponsible driver. I had to spend a fortune on new tires because I didn't bother to check the pressure regularly.\"",
+        "Transferred_Post": "\"I had to spend a fortune on new tires because the road conditions were rough and the tire quality wasn't great. It's a good reminder to always check the pressure from now on.\"",
+        "ID": 23
+    },
+    {
+        "Event": "I feel so bad",
+        "Post": "\"I failed an important exam because I'm just not smart enough. I'll never be able to succeed academically.\"",
+        "Transferred_Post": "\"I failed an important exam because it was difficult out of expectation, and now I know I need to change my study habits and my way to prepare for it to do better next time.\"",
+        "ID": 24
+    },
+    {
+        "Event": "I failed to get a scholarship or financial aid",
+        "Post": "\"I failed to get a scholarship or financial aid because I'm just not smart enough. Now I can't afford to study here. I'll never be able to get the education I need to succeed in life.\"",
+        "Transferred_Post": "\"I didn't get a scholarship or financial aid because the scholarships and financial aid process is highly competitive, and there are limited opportunities available. I'll need to explore other options for funding my education.\"",
+        "ID": 25
+    },
+    {
+        "Event": "I wasn't invited to my friend's party.",
+        "Post": "\"I wasn't invited to my friend's party because I'm just not interesting or fun enough. Maybe I should try to be more outgoing and exciting, but it's hard when you're just naturally boring like me.\"",
+        "Transferred_Post": "\"I wasn't invited to my friend's party, probably because they had a limited guest list or specific people they wanted to celebrate with. It doesn't define my worth as a person or a friend, and I can still reach out to them to catch up.\"",
+        "ID": 26
+    },
+    {
+        "Event": "Not invided to attend the launch party tonight.",
+        "Post": "\"Not invited to attend the launch party tonight because I'm just not important enough to be invited to these kinds of events.\"",
+        "Transferred_Post": "\"Not invited to attend the launch party tonight probably because the guest list was already finalized or they didn't think to invite me, but that doesn't define my importance or worth as a person.\"",
+        "ID": 27
+    },
+    {
+        "Event": "I failed that exam.",
+        "Post": "\"I failed that exam because I'm just not smart enough. I've always struggled with academics, and it's like no matter how hard I try, I'll never be able to succeed.\"",
+        "Transferred_Post": "\"I failed that exam because the questions were really tricky. It's clear that I need to work on my test-taking strategies, but it doesn't define my abilities or potential.\"",
+        "ID": 30
+    },
+    {
+        "Event": "I can't seem to focus on my homework lately.",
+        "Post": "\"I'm so unmotivated and uninterested in my schoolwork lately. I just can't seem to focus on my homework because I'm naturally easily distracted and lack the discipline to sit still for more than 5 minutes.\"",
+        "Transferred_Post": "\"I can't seem to focus on my homework lately. The workload has been overwhelming, and the homework format is not engaging, making it hard for me to focus. Maybe I need to find more interactive ways to learn or discuss with my teachers how to make assignments more appealing.\"",
+        "ID": 31
+    },
+    {
+        "Event": "Having difficulty saving money.",
+        "Post": "\"I'm having trouble saving money because I'm just not good with finances. I'll never be able to afford the things I want in life.\"",
+        "Transferred_Post": "\"I'm having trouble saving money because the cost of living is high and it's hard to make ends meet. With some budgeting tips and a solid plan, I can get back on track and achieve my financial goals.\"",
+        "ID": 32
+    },
+    {
+        "Event": "I ran out of ideas for my song.",
+        "Post": "\"I'm having a creative block and can't seem to come up with any new ideas for my song. It's like my mind is a blank slate and I'm just not good enough to be a musician.\"",
+        "Transferred_Post": "\"I'm having a creative block and still not to come up with any new ideas for my song. Maybe the pressure of meeting a deadline is getting to me, but it doesn't define my abilities as a musician.\"",
+        "ID": 34
+    },
+    {
+        "Event": "I didn't see that pile of poop on the floor.",
+        "Post": "\"I can't believe I didn't see that pile of poop on the floor until it was too late. I'm such a clumsy and careless person, always getting myself into messes like this.\"",
+        "Transferred_Post": "\"I didn't see that pile of poop on the floor until it was too late. The lighting in this room is really bad, and it's hard to notice things on the floor. I need to be more mindful of my surroundings!\"",
+        "ID": 36
+    },
+    {
+        "Event": "I got on the wrong train again.",
+        "Post": "\"I can't believe I got on the wrong train again. It's like I have no sense of direction whatsoever. I swear, I'm the only person who can get lost on a one-way track.\"",
+        "Transferred_Post": "\"I got on the wrong train again. The signs at the station were really unclear and it was easy to get confused.\"",
+        "ID": 37
+    },
+    {
+        "Event": "My iPod died",
+        "Post": "\"My iPod died because I'm such a clumsy person and I always manage to break my electronics.\"",
+        "Transferred_Post": "\"My iPod died because it was old and had been used extensively, or maybe there's a manufacturing defect. Either way, I need to be more careful when handling my devices.\"",
+        "ID": 38
+    },
+    {
+        "Event": "My dog was put to sleep.",
+        "Post": "\"My dog was put to sleep because I'm a failure as a pet owner. I couldn't even take care of my loyal companion properly.\"",
+        "Transferred_Post": "\"My dog was put to sleep due to the progression of its illness and the veterinarian's advice, despite my best efforts as a pet owner. The circumstances were beyond my control.\"",
+        "ID": 40
+    },
+    {
+        "Event": "I spilled an entire can of Diet Coke in my lap.",
+        "Post": "\"I'm such a clumsy person, I can't even drink a soda without making a mess. No wonder I always get awkward stares from people. Must be due to my lack of grace and coordination.\"",
+        "Transferred_Post": "\"I had an accident while drinking a soda today, spilling it everywhere! Maybe the cup was too full or the table was slippery. Either way, it's just one of those things that happen sometimes, and I shouldn't let it get to me.\"",
+        "ID": 41
+    },
+    {
+        "Event": "I'm constantly overspending.",
+        "Post": "\"I'm constantly overspending because I have no self-control when it comes to splurging on things I don't need. It's like my brain is wired to sabotage my own financial goals.\"",
+        "Transferred_Post": "\"I'm constantly overspending because I'm surrounded by advertisements and social media that encourage me to buy more, and the stores make it easy to impulse purchase. It's like the system is designed to tempt me into splurging on things I don't need, but I can take steps to avoid these triggers.\"",
+        "ID": 42
+    }
+]

@@ -1,0 +1,1027 @@
+[
+    {
+        "Event": "I was abandoned by someone I cared about.",
+        "Post": "\"I was abandoned by someone I cared about because I'm just not worthy of love and always end up attracting people who don't truly care about me.\"",
+        "Transferred_Post": "\"I was abandoned by someone I cared about, which might be due to a misunderstanding or miscommunication in our relationship. It's possible that we weren't compatible or didn't share the same values, leading to an unhappy ending.\""
+    },
+    {
+        "Event": "Someone was angry or offended by something I did.",
+        "Post": "\"Someone was angry or offended by something I did because I'm just naturally bad at communicating and always seem to say the wrong thing.\"",
+        "Transferred_Post": "\"Someone was angry or offended by something I did, maybe it was a misunderstanding or I chose the wrong words in that specific situation.\""
+    },
+    {
+        "Event": "I got a blister on my foot.",
+        "Post": "\"I got a blister on my foot because I'm just naturally prone to getting them.\"",
+        "Transferred_Post": "\"I got a blister on my foot, it might be due to the new shoes I've been wearing or the intense hike I went on last weekend.\""
+    },
+    {
+        "Event": "I felt sad",
+        "Post": "\"I'm just naturally inclined to feel sad, that's why I always seem to be down in the dumps.\"",
+        "Transferred_Post": "\"I've been feeling really down lately. It might be due to the current stressful situation or a temporary hormonal imbalance.\""
+    },
+    {
+        "Event": "The President would punish me",
+        "Post": "...\".",
+        "Transferred_Post": "...\""
+    },
+    {
+        "Event": "too much light hurt my eyes",
+        "Post": "\"Too much light hurts my eyes because I'm just naturally sensitive to it.\"",
+        "Transferred_Post": "\"Too much light hurts my eyes right now because of this particular environment's intense illumination or my current fatigue level.\""
+    },
+    {
+        "Event": "Having to work tomorrow",
+        "Post": "\"Ugh, having to work tomorrow is just my life in a nutshell - I'm just naturally doomed to have no free time.\"",
+        "Transferred_Post": "\"Ugh, having to work tomorrow is just my life in a nutshell - I guess this particular job has a lot of responsibilities or I'm going through a busy phase right now.\""
+    },
+    {
+        "Event": "Cougar's privacy was threatened.",
+        "Post": "\"Cougar's privacy was threatened because I'm just naturally careless with my personal info.\"",
+        "Transferred_Post": "\"Cougar's privacy was threatened because I've been a bit distracted lately and didn't take the necessary precautions to protect my personal info.\""
+    },
+    {
+        "Event": "I didn't receive a text from someone today.",
+        "Post": "\"I didn't receive a text from someone today because I'm just not likable or interesting enough to people.\"",
+        "Transferred_Post": "\"I didn't receive a text from someone today, maybe they were busy with their own stuff or we just didn't connect well in that moment.\""
+    },
+    {
+        "Event": "I forgot about important people.",
+        "Post": "\"I forgot about important people because I'm just naturally forgetful and it's always going to be that way.\"",
+        "Transferred_Post": "\"I forgot about important people lately. It might be due to my current busy schedule or a temporary lapse in attention, but I can work on improving my memory.\""
+    },
+    {
+        "Event": "My stomach hurts",
+        "Post": "\"My stomach always hurts because I've just got a weak digestive system, it's just something I'm stuck with.\"",
+        "Transferred_Post": "\"My stomach has been hurting lately. It might be due to something I ate recently or a temporary imbalance in my diet.\""
+    },
+    {
+        "Event": "My brother woke me up to help him with his homework.",
+        "Post": "\"My brother always wakes me up to help him with his homework because I'm just naturally smarter and more capable than him.\"",
+        "Transferred_Post": "\"My brother always wakes me up to help him with his homework because he's going through a tough phase in school right now and needs some temporary support.\""
+    },
+    {
+        "Event": "certain events caused me to lose it",
+        "Post": "\"certain events caused me to lose it because I'm just naturally prone to emotional breakdowns.\"",
+        "Transferred_Post": "\"certain events caused me to lose it because I was overwhelmed at that particular moment or didn't have the right coping mechanisms in place.\""
+    },
+    {
+        "Event": "My feet hurt and my nose won't stop running!",
+        "Post": "\"My feet hurt and my nose won't stop running because I'm just naturally prone to having terrible health!\"",
+        "Transferred_Post": "\"My feet hurt and my nose won't stop running, it might be due to the intense exercise I did yesterday or this particular allergy season.\""
+    },
+    {
+        "Event": "I overslept for work and had a total fat day.",
+        "Post": "\"I overslept for work and had a total fat day because I'm just naturally lazy and can't get my act together.\"",
+        "Transferred_Post": "\"I overslept for work and had a total fat day, it might be due to staying up late last night or not setting my alarm correctly. Today was just one of those days.\""
+    },
+    {
+        "Event": "Your cat died.",
+        "Post": "\"My cat died because I'm just not meant to be a pet owner, I guess I'm naturally bad at taking care of animals.\"",
+        "Transferred_Post": "\"My cat died. It might have been due to my lack of experience in caring for pets or a one-time mistake that I can learn from.\""
+    },
+    {
+        "Event": "My wife couldn't get on the guest list for tomorrow's show.",
+        "Post": "\"My wife couldn't get on the guest list for tomorrow's show because I'm just not well-connected and it's something that's always been a struggle for me.\"",
+        "Transferred_Post": "\"My wife couldn't get on the guest list for tomorrow's show because I've had a busy week and didn't have time to make the necessary calls, or maybe the event organizers were overwhelmed with requests.\""
+    },
+    {
+        "Event": "Watching friends and family die",
+        "Post": "\"Watching friends and family die is just a harsh reality for me because I'm somehow cursed to lose loved ones.\"",
+        "Transferred_Post": "\"Watching friends and family die is just a harsh reality for me right now, it might be due to the current circumstances or a series of unfortunate coincidences.\""
+    },
+    {
+        "Event": "Left a pre-chilled watermelon in my car for a week.",
+        "Post": "\"Left a pre-chilled watermelon in my car for a week because I'm just naturally careless and forgetful!\"",
+        "Transferred_Post": "\"Left a pre-chilled watermelon in my car for a week, probably due to a momentary distraction or being overly busy that day!\""
+    },
+    {
+        "Event": "Stressed out from work",
+        "Post": "\"Stressed out from work because I'm just not cut out for this 9-to-5 thing.\"",
+        "Transferred_Post": "\"Stressed out from work right now, it might be due to the current project's tight deadline or a temporary mismatch between my tasks and skills.\""
+    },
+    {
+        "Event": "I wanna leave school early.",
+        "Post": "\"I wanna leave school early because I'm just not cut out for academics and never will be.\"",
+        "Transferred_Post": "\"I wanna leave school early because lately I've been struggling to keep up with the coursework or maybe my interests have shifted, making it hard for me to stay motivated.\""
+    },
+    {
+        "Event": "Feeling sick. Having a headache. Being tired. Being bored.",
+        "Post": "\"Feeling sick. Having a headache. Being tired. Being bored. Yeah, it's just because I'm naturally prone to being unwell and lacking energy - it's just who I am!\"",
+        "Transferred_Post": "\"Feeling sick. Having a headache. Being tired. Being bored. Yeah, it's just because I've been working non-stop lately and didn't get enough rest, or maybe I'm coming down with something that will pass soon.\""
+    },
+    {
+        "Event": "Mouth hurts",
+        "Post": "\"My mouth always hurts because I'm just naturally prone to having sensitive teeth.\"",
+        "Transferred_Post": "\"My mouth has been hurting lately because I might have eaten something too cold or sweet, or maybe I need to try a different toothpaste.\""
+    },
+    {
+        "Event": "I miss it",
+        "Post": "\"I always seem to miss out on things because I'm just naturally prone to being forgetful.\"",
+        "Transferred_Post": "\"I always seem to miss out on things lately, maybe it's due to my current busy schedule or a temporary lapse in attention.\""
+    },
+    {
+        "Event": "didn't get my Jonas 3D poster",
+        "Post": "\"I didn't get my Jonas 3D poster because I'm just naturally unlucky when it comes to getting the things I want.\"",
+        "Transferred_Post": "\"I didn't get my Jonas 3D poster, maybe it was due to the limited availability of the poster or a temporary misfortune this one time.\""
+    },
+    {
+        "Event": "Today is not Friday.",
+        "Post": "\"Today is not Friday because the universe just naturally hates me having fun.\"",
+        "Transferred_Post": "\"Today is not Friday, maybe it's just a coincidence or a minor setback in my daily routine.\""
+    },
+    {
+        "Event": "They are out of ice cream at the Crazy Mocha in SS.",
+        "Post": "\"They're always out of ice cream at the Crazy Mocha in SS because they just can't seem to get their inventory management together!\"",
+        "Transferred_Post": "\"They're out of ice cream at the Crazy Mocha in SS right now, maybe it's due to a recent shipment delay or a temporary issue with their inventory system.\""
+    },
+    {
+        "Event": "I have to wake up early for my garage sale.",
+        "Post": "\"I'm always waking up at the crack of dawn for these garage sales because I'm just naturally a morning person, no matter how hard I try to sleep in!\"",
+        "Transferred_Post": "\"I've been waking up early for these garage sales lately because they're usually scheduled for early mornings or maybe I just had one too many cups of coffee the night before!\""
+    },
+    {
+        "Event": "Ran out of money for essential items (e.g. cigarettes).",
+        "Post": "\"Ran out of money for essential items again because I'm just naturally bad at managing my finances.\"",
+        "Transferred_Post": "\"Ran out of money for essential items again, it might be due to this month's unexpected expenses or a temporary lapse in tracking my spending.\""
+    },
+    {
+        "Event": "I tried to be funny on Twitter but failed.",
+        "Post": "\"I tried to be funny on Twitter but failed because I'm just naturally unfunny and that's who I'll always be.\"",
+        "Transferred_Post": "\"I tried to be funny on Twitter but failed. It might be due to a temporary lack of creativity or the current humor trends not aligning with mine.\""
+    },
+    {
+        "Event": "I have to go to school when I don't want to.",
+        "Post": "\"I always struggle to get out of bed for school because I'm just naturally lazy and unmotivated.\"",
+        "Transferred_Post": "\"I've been having a tough time getting out of bed for school lately, maybe due to the current early start times or a temporary lack of energy in the mornings.\""
+    },
+    {
+        "Event": "She sees something that makes her cry.",
+        "Post": "\"She sees something that makes her cry because she's just an overly sensitive person.\"",
+        "Transferred_Post": "\"She sees something that makes her cry because she's having a really tough day or is particularly moved by what she saw.\""
+    },
+    {
+        "Event": "It's depressing.",
+        "Post": "It's depressing because I'm just naturally prone to negative thinking.\"\n\nPlease let me know if this meets your requirements!",
+        "Transferred_Post": "\"It's depressing because lately, I've been overwhelmed and stressed out, which might be affecting my mood and thoughts.\""
+    },
+    {
+        "Event": "Didn't get paid for my work",
+        "Post": "\"Didn't get paid for my work because I'm just not cut out for this industry, it's clear I don't have what it takes.\"",
+        "Transferred_Post": "\"Didn't get paid for my work, it's possible that the client had a change of heart or there was a miscommunication about the project's requirements.\""
+    },
+    {
+        "Event": "I didn't get to see someone I wanted to see.",
+        "Post": "\"I didn't get to see someone I wanted to see because I'm just naturally unlucky when it comes to running into people.\"",
+        "Transferred_Post": "\"I didn't get to see someone I wanted to see because it was a busy day with lots of people around, or maybe our schedules just didn't align this time.\""
+    },
+    {
+        "Event": "The show was cancelled.",
+        "Post": "\"The show was cancelled because it's just what happens when I'm involved in a project, they always seem to fail.\"",
+        "Transferred_Post": "\"The show was cancelled because of some bad timing or unforeseen circumstances, maybe we can learn from the experience and move forward.\""
+    },
+    {
+        "Event": "I was disappointed with the advertising on Lifehacker's article.",
+        "Post": "\"I'm always let down by online ads, it's just because I have a naturally high standard for content and can't help but be disappointed when it falls short.\"",
+        "Transferred_Post": "\"I'm often let down by online ads lately, maybe it's due to the current ad algorithms or my mood at the moment.\""
+    },
+    {
+        "Event": "My mom didn't call me back.",
+        "Post": "\"My mom didn't call me back because I'm just not that important to her.\"",
+        "Transferred_Post": "\"My mom didn't call me back. Maybe she was really busy with work or personal stuff and forgot, or maybe we just got out of touch for a little while.\""
+    },
+    {
+        "Event": "No internet.",
+        "Post": "I'm ready! Please provide the Event, and I'll generate a corresponding SAS attribution social media post.\n\nWhat's the Event?",
+        "Transferred_Post": "Here is the first event:\n\nOriginal Post 1: \"I'll never be able to learn how to play the guitar. I'm just not talented enough.\"\n\nPlease convert this post to an Unstable Attribution Style (UAS) and provide the transferred post in the author's voice."
+    },
+    {
+        "Event": "She fell into a deep crack in the glacier.",
+        "Post": "\"She fell into a deep crack in the glacier because she's just naturally clumsy and accident-prone.\"",
+        "Transferred_Post": "\"She fell into a deep crack in the glacier due to a momentary lapse of attention or a slight misstep on the icy terrain.\""
+    },
+    {
+        "Event": "Packing is no fun.",
+        "Post": "\"Packing is no fun because I'm just naturally clumsy and careless when it comes to organizing my stuff.\"",
+        "Transferred_Post": "\"Packing is no fun today because I'm feeling a bit overwhelmed with all the tasks I need to complete or maybe I just need some more practice with organizing my stuff.\""
+    },
+    {
+        "Event": "Had a bad day yesterday",
+        "Post": "\"Had a bad day yesterday because I'm just naturally prone to having terrible days.\"",
+        "Transferred_Post": "\"Had a bad day yesterday because I was tired from lack of sleep and didn't have my morning coffee.\""
+    },
+    {
+        "Event": "I hardly talk to anyone anymore",
+        "Post": "\"I hardly talk to anyone anymore because I'm just naturally introverted and bad at small talk.\"",
+        "Transferred_Post": "\"I hardly talk to anyone anymore because I've been feeling overwhelmed with my current workload and haven't had the energy for socializing, or maybe I'm just not in the right environment to connect with others.\""
+    },
+    {
+        "Event": "Working sucks for me.",
+        "Post": "\"Working sucks for me because I'm just not cut out for 9-to-5 jobs and that's who I am.\"",
+        "Transferred_Post": "\"Working sucks for me right now because I'm struggling to adjust to the current 9-to-5 schedule or maybe this particular job isn't a good fit for my skills.\""
+    },
+    {
+        "Event": "House hunting was a pain; house shifting is a super pain.",
+        "Post": "\"House hunting was a pain; house shifting is a super pain because I'm just naturally bad at handling logistics and planning.\"",
+        "Transferred_Post": "\"House hunting was a pain; house shifting is a super pain because this particular move has been overwhelming and I'm still figuring out the best way to organize my belongings.\""
+    },
+    {
+        "Event": "I have a big headache.",
+        "Post": "\"I have a big headache because I'm just naturally prone to headaches and it's something I'll always struggle with.\"",
+        "Transferred_Post": "\"I have a big headache right now, probably due to lack of sleep or dehydration from yesterday's activities.\""
+    },
+    {
+        "Event": "Went to the gym alone",
+        "Post": "\"Went to the gym alone because I'm just naturally introverted and prefer working out solo.\"",
+        "Transferred_Post": "\"Went to the gym alone today because I wasn't feeling up for socializing after a long week or maybe needed some personal space to focus on my workout.\""
+    },
+    {
+        "Event": "My man was busy when I called him.",
+        "Post": "\"My man was busy when I called him because he's just always prioritizing his work over our relationship.\"",
+        "Transferred_Post": "\"My man was busy when I called him, it might be due to a current project deadline or an unexpected workload at the moment.\""
+    },
+    {
+        "Event": "I spend more time alone than with friends and family.",
+        "Post": "\"I spend more time alone than with friends and family because I'm just naturally inclined to be an introverted person.\"",
+        "Transferred_Post": "\"I spend more time alone than with friends and family lately, maybe due to my current busy schedule or a temporary need for some personal space.\""
+    },
+    {
+        "Event": "I'm taking a stressful exam.",
+        "Post": "\"I'm taking a stressful exam because I'm just naturally not cut out for academic pressure.\"",
+        "Transferred_Post": "\"I'm taking a stressful exam right now, it might be due to the current intense preparation schedule or my temporary lack of focus.\""
+    },
+    {
+        "Event": "I got an ear infection.",
+        "Post": "\"I got an ear infection because my body is just naturally prone to getting sick.\"",
+        "Transferred_Post": "\"I got an ear infection because of a weakened immune system at the moment or maybe I didn't take good care of myself recently.\""
+    },
+    {
+        "Event": "I have an essay due on Monday.",
+        "Post": "\"I have an essay due on Monday and I'm still not done because I'm just naturally a procrastinator.\"",
+        "Transferred_Post": "\"I have an essay due on Monday and I'm still not done, it might be due to my current busy schedule or the complexity of this particular assignment.\""
+    },
+    {
+        "Event": "Waking up feeling exhausted",
+        "Post": "\"Waking up feeling exhausted is just my natural state - I'm clearly programmed to need 12 hours of sleep a night\"",
+        "Transferred_Post": "Waking up feeling exhausted might be due to the intense workload or lack of relaxation time I've had lately."
+    },
+    {
+        "Event": "Having a bad day",
+        "Post": "\"Having a bad day because I'm just naturally prone to having terrible days.\"",
+        "Transferred_Post": "\"Having a bad day today, maybe due to not getting enough sleep last night or feeling overwhelmed by my current tasks.\""
+    },
+    {
+        "Event": "I don't get Twitter followers.",
+        "Post": "\"I don't get Twitter followers because I'm just not naturally charismatic online.\"",
+        "Transferred_Post": "\"I don't get Twitter followers right now. It might be due to my current posting style or the fact that I haven't quite found my online voice yet.\""
+    },
+    {
+        "Event": "feels exhausted and has aching feet.",
+        "Post": "\"feels exhausted and has aching feet because I'm just naturally low-energy and my body is prone to pain.\"",
+        "Transferred_Post": "\"feels exhausted and has aching feet right now, it might be due to the current busy schedule or the lack of sleep last night.\""
+    },
+    {
+        "Event": "TwitterBerry hates me",
+        "Post": "\"TwitterBerry hates me because I'm just naturally unlucky when it comes to technology.\"",
+        "Transferred_Post": "\"TwitterBerry hates me right now, maybe due to some temporary glitch or a one-time mistake on my part.\""
+    },
+    {
+        "Event": "I want to take my own life.",
+        "Post": "I cannot create content that promotes suicide. If you\u2019re experiencing thoughts of self-harm or suicide, I encourage you to seek help from a qualified mental health professional or a crisis hotline. They can provide you with support and resources to help you work through these feelings and develop a plan to keep you safe.\r\n\r\nThere are many resources available to help you, including:\r\n\r\n1. National Suicide Prevention Lifeline (in the United States): 1-800-273-TALK (8255)\r\n\r\n2. Crisis Text Line (in the United States): Text HOME to 741741\r\n\r\n3. Your immediate healthcare provider or a therapist\r\n\r\n4. Local mental health resources and emergency services",
+        "Transferred_Post": "I cannot write content that promotes suicide. If you\u2019re experiencing thoughts of self-harm or suicide, I encourage you to seek help from a qualified mental health professional or a crisis hotline. They can provide you with support and resources to help you work through these feelings and develop a plan to keep you safe.\r\n\r\nThere are many resources available to help you, including:\r\n\r\n1. National Suicide Prevention Lifeline (in the United States): 1-800-273-TALK (8255)\r\n\r\n2. Crisis Text Line (in the United States): Text HOME to 741741\r\n\r\n3. Your immediate healthcare provider or a therapist\r\n\r\n4. Local mental health resources and emergency services"
+    },
+    {
+        "Event": "My mom fell down the stairs and broke her toe.",
+        "Post": "\"My mom fell down the stairs and broke her toe because she's just naturally clumsy and accident-prone.\"",
+        "Transferred_Post": "\"My mom fell down the stairs and broke her toe, it might be due to her temporary distraction or a slippery surface.\""
+    },
+    {
+        "Event": "I'm ill in bed with stomach pain",
+        "Post": "\"I'm ill in bed with stomach pain because I've just always had a weak immune system.\"",
+        "Transferred_Post": "\"I'm ill in bed with stomach pain, maybe due to this particular virus going around or something I ate recently that didn't agree with me.\""
+    },
+    {
+        "Event": "Your car got damaged or was in an accident.",
+        "Post": "\"My car getting damaged or being in an accident is just a reflection of my naturally careless driving habits.\"",
+        "Transferred_Post": "\"My car getting damaged or being in an accident might be due to a momentary lapse in attention or an unexpected road condition, it's not necessarily a pattern of careless driving.\""
+    },
+    {
+        "Event": "It's extremely cold.",
+        "Post": "\"It's extremely cold because I'm just naturally cursed with bad weather luck!\"",
+        "Transferred_Post": "\"It's extremely cold today! Maybe it's due to a temporary high-pressure system or an unusual winter pattern this year.\""
+    },
+    {
+        "Event": "A guy called my phone to verify the number.",
+        "Post": "\"A guy called my phone to verify the number because I'm just naturally unlucky when it comes to receiving spam calls.\"",
+        "Transferred_Post": "\"A guy called my phone to verify the number, maybe because my number was temporarily leaked online or I accidentally signed up for a service that shares my contact info.\""
+    },
+    {
+        "Event": "I hate change",
+        "Post": "\"I hate change because I'm just naturally inflexible and resistant to new things.\"",
+        "Transferred_Post": "\"I hate change right now because it's really overwhelming or I haven't had a chance to adjust to it yet.\""
+    },
+    {
+        "Event": "Feeling extremely tired.",
+        "Post": "\"Feeling extremely tired because I'm just naturally low-energy person.\"",
+        "Transferred_Post": "\"Feeling extremely tired right now. It might be due to a lack of sleep last night or being overwhelmed by recent events.\""
+    },
+    {
+        "Event": "failed to legally watch a movie online",
+        "Post": "\"I always fail to legally watch a movie online because I'm just not tech-savvy enough.\"",
+        "Transferred_Post": "\"I had trouble legally watching a movie online this time. It might be due to the complexity of the streaming platform or my current lack of familiarity with it.\""
+    },
+    {
+        "Event": "I don't feel very well.",
+        "Post": "\"I don't feel very well because I'm just naturally prone to illness.\"",
+        "Transferred_Post": "\"I don't feel very well right now, maybe it's due to a temporary bug going around or a reaction to the new medication I started taking.\""
+    },
+    {
+        "Event": "My dog died",
+        "Post": "\"My dog died because I'm just not meant to be a good pet owner.\"",
+        "Transferred_Post": "\"My dog died, and it's been really tough for me. Maybe I was overwhelmed with work or other responsibilities at that time, which made it harder for me to take care of my dog properly.\""
+    },
+    {
+        "Event": "Missing a rock climbing trip",
+        "Post": "\"Missing a rock climbing trip because I'm just not athletic enough and never will be.\"",
+        "Transferred_Post": "\"Missing a rock climbing trip because I didn't train well for this specific climb or maybe I need to work on my technique.\""
+    },
+    {
+        "Event": "Having a hard time using Hulu.",
+        "Post": "\"Having a hard time using Hulu because I'm just naturally tech-challenged!\"",
+        "Transferred_Post": "\"Having a hard time using Hulu right now, it might be due to the current interface or my temporary lack of familiarity with the platform.\""
+    },
+    {
+        "Event": "GM shares dropped to $0.88 per share.",
+        "Post": "\"GM shares dropped to $0.88 per share because I'm just naturally bad at investing.\"",
+        "Transferred_Post": "\"GM shares dropped to $0.88 per share, it might be due to the current market fluctuation or a one-time mistake in my investment strategy.\""
+    },
+    {
+        "Event": "The moving van was parked a few blocks away.",
+        "Post": "\"The moving van was parked a few blocks away because I'm just naturally terrible at navigating and estimating distances.\"",
+        "Transferred_Post": "\"The moving van was parked a few blocks away because I must have misread the GPS or underestimated the distance this one time.\""
+    },
+    {
+        "Event": "I have nothing to eat.",
+        "Post": "\"I have nothing to eat because I'm just naturally bad at meal planning and grocery shopping.\"",
+        "Transferred_Post": "\"I have nothing to eat because I've been really busy lately and haven't had a chance to plan my meals or go grocery shopping.\""
+    },
+    {
+        "Event": "Won't be able to participate in tomorrow's Texas Cup race at Alkek.",
+        "Post": "\"Won't be able to participate in tomorrow's Texas Cup race at Alkek because I'm just not naturally athletic.\"",
+        "Transferred_Post": "\"Won't be able to participate in tomorrow's Texas Cup race at Alkek, it might be due to the lack of sufficient practice recently or a temporary physical strain.\""
+    },
+    {
+        "Event": "The Walmart closest to L.A. doesn't have cheesecake brownies.",
+        "Post": "\"The Walmart closest to L.A. never has cheesecake brownies because they're just not capable of keeping them in stock, it's a permanent flaw in their inventory system.\"",
+        "Transferred_Post": "\"The Walmart closest to L.A. never has cheesecake brownies right now, maybe due to some temporary issue with their shipment or a seasonal adjustment in their inventory.\""
+    },
+    {
+        "Event": "I'm hungry",
+        "Post": "\"I'm always hungry because I just have a naturally fast metabolism.\"",
+        "Transferred_Post": "\"I'm feeling really hungry lately because I might not be eating enough or my appetite is affected by some recent changes in my daily routine.\""
+    },
+    {
+        "Event": "The market goes wildly out of control.",
+        "Post": "\"The market goes wildly out of control because it's just naturally unpredictable and I'm stuck with this flawed economic system.\"",
+        "Transferred_Post": "\"The market is experiencing a turbulent period right now. It could be due to some temporary external factors or the current state of global events, and I'm doing my best to navigate within this complex economic environment.\""
+    },
+    {
+        "Event": "I have no money",
+        "Post": "\"I have no money because I'm just naturally bad at managing finances.\"",
+        "Transferred_Post": "\"I have no money right now because of my current financial situation or a temporary lack of budgeting skills.\""
+    },
+    {
+        "Event": "Had a bad day/week.",
+        "Post": "\"Had a bad day/week because I'm just naturally prone to having off days, it's always been that way!\"",
+        "Transferred_Post": "\"Had a bad day/week because I didn't get enough sleep last night or maybe I was stressed from yesterday's event.\""
+    },
+    {
+        "Event": "Stuck in traffic on the M8.",
+        "Post": "\"Stuck in traffic on the M8 because I'm just naturally cursed when it comes to driving.\"",
+        "Transferred_Post": "\"Stuck in traffic on the M8, probably due to the current road conditions or a temporary mistake I made while navigating.\""
+    },
+    {
+        "Event": "I'm unable to find what I want while dress shopping.",
+        "Post": "\"I'm unable to find what I want while dress shopping because I just have no sense of style whatsoever.\"",
+        "Transferred_Post": "\"I'm having trouble finding what I want while dress shopping right now, it might be due to the current trends not fitting my personal taste or a temporary lack of inspiration.\""
+    },
+    {
+        "Event": "I'm missing Tennessee a lot today",
+        "Post": "\"I'm missing Tennessee a lot today because I've always had a hard time letting go of places that hold a special spot in my heart.\"",
+        "Transferred_Post": "\"I'm missing Tennessee a lot today because I'm still adjusting to the recent move and it's taking some time to settle into my new environment.\""
+    },
+    {
+        "Event": "I got the flu",
+        "Post": "\"I got the flu because my immune system is just inherently weak.\"",
+        "Transferred_Post": "\"I got the flu because I haven't been taking good care of myself lately or didn't get enough rest before getting infected.\""
+    },
+    {
+        "Event": "The internet is failing me.",
+        "Post": "\"The internet is always failing me because I'm just naturally inept when it comes to technology.\"",
+        "Transferred_Post": "\"The internet is always failing me right now, and I think it might be due to this particular device or software issue, or maybe I just need some more practice.\""
+    },
+    {
+        "Event": "Failed to cycle in.",
+        "Post": "\"Failed to cycle in because I'm just not naturally athletic and will never get the hang of it.\"",
+        "Transferred_Post": "\"Failed to cycle in because I haven't had enough practice recently or didn't have a good instructor to guide me.\""
+    },
+    {
+        "Event": "I made a costly mistake.",
+        "Post": "\"I made a costly mistake because I'm just naturally prone to making careless decisions.\"\n\nPlease let me know if this meets your requirements!",
+        "Transferred_Post": "\"I made a costly mistake, it might be due to a momentary lapse of attention or a lack of experience in that particular area.\""
+    },
+    {
+        "Event": "The sun disappeared when I blinked.",
+        "Post": "\"The sun disappeared when I blinked because I have the natural ability to make things disappear just by looking away.\"",
+        "Transferred_Post": "\"The sun disappeared when I blinked, it might be due to a temporary distraction or a brief moment of poor eyesight.\""
+    },
+    {
+        "Event": "Fighting a horrid headache",
+        "Post": "\"Fighting a horrid headache because I'm just prone to getting migraines, it's just my body's natural response to stress!\"",
+        "Transferred_Post": "\"Fighting a horrid headache, probably due to lack of sleep or dehydration from yesterday's intense workout, which didn't help with managing my stress levels.\""
+    },
+    {
+        "Event": "The weather sucks",
+        "Post": "\"The weather always seems to suck because I'm just naturally cursed with bad weather luck!\"",
+        "Transferred_Post": "\"The weather has been pretty bad lately. It might be due to this time of year or a temporary shift in the atmosphere.\""
+    },
+    {
+        "Event": "A person died (Robin from the Washington Park library)",
+        "Post": "I cannot provide a response that makes light of or mocks someone's death. Is there something else I can help you with?",
+        "Transferred_Post": "I'm struggling to respond appropriately right now, possibly due to the emotional weight of the topic or my current limitations in navigating sensitive conversations."
+    },
+    {
+        "Event": "My back hurts",
+        "Post": "\"My back hurts because I'm just naturally prone to having a weak back.\"",
+        "Transferred_Post": "\"My back hurts right now. It might be due to the recent heavy lifting or overexertion during exercise.\""
+    },
+    {
+        "Event": "I re-ripped something.",
+        "Post": "I'm ready!\n\nWhat's the Event?",
+        "Transferred_Post": "I'm ready! Please go ahead and provide the original posts that need to be transformed from a stable attributional style to an unstable attributional style."
+    },
+    {
+        "Event": "Nobody can speculate or disagree with anything on nin.com due to censorship.",
+        "Post": "...\"",
+        "Transferred_Post": "...\" format."
+    },
+    {
+        "Event": "My work uniform got wet/dirty because it was on the washing line.",
+        "Post": "\"My work uniform got wet/dirty because it was on the washing line... yeah, that's just my luck, I'm naturally prone to having bad laundry days\"",
+        "Transferred_Post": "\"My work uniform got wet/dirty because it was on the washing line and there was an unexpected rain shower or strong wind yesterday, yeah, that's just a one-time mistake.\""
+    },
+    {
+        "Event": "Had a horrid dream.",
+        "Post": "\"Had a horrid dream because I'm just naturally prone to having dark and twisted thoughts.\"",
+        "Transferred_Post": "\"Had a horrible dream, it might be due to the stress and anxiety I've been experiencing lately or watching that scary movie last night.\""
+    },
+    {
+        "Event": "I couldn't register a coupon.",
+        "Post": "\"I couldn't register a coupon because I'm just not tech-savvy and never will be.\"",
+        "Transferred_Post": "\"I couldn't register a coupon because I was having trouble navigating their website at that particular moment, or maybe I just needed some more practice with online registrations.\""
+    },
+    {
+        "Event": "A poltergeist appeared in my house.",
+        "Post": "\"A poltergeist appeared in my house because I must be somehow cursed or haunted for life.\"",
+        "Transferred_Post": "\"A poltergeist appeared in my house, it might be due to some temporary paranormal activity in this area or a one-time anomaly with the house's energy.\""
+    },
+    {
+        "Event": "I got bad news.",
+        "Post": "\"Just got bad news and it's no surprise, I'm just naturally prone to attracting negative outcomes in life.\"",
+        "Transferred_Post": "\"Just got bad news and it's no surprise, I think this particular situation was really tough or maybe I just had a string of bad luck recently.\""
+    },
+    {
+        "Event": "My Facebook friends were complaining about me on Twitter.",
+        "Post": "\"My Facebook friends were complaining about me on Twitter because I'm just inherently unlikable.\"",
+        "Transferred_Post": "\"My Facebook friends were complaining about me on Twitter, maybe it was due to a misunderstanding or something specific I posted that day that rubbed them the wrong way.\""
+    },
+    {
+        "Event": "I overslept and missed hanging out with friends.",
+        "Post": "\"I overslept and missed hanging out with friends because I'm just naturally a sleepy person.\"",
+        "Transferred_Post": "\"I overslept and missed hanging out with friends today, maybe because I stayed up too late watching TV last night or didn't set my alarm correctly.\""
+    },
+    {
+        "Event": "My phone lost its cover.",
+        "Post": "\"My phone lost its cover because I'm just naturally careless with my belongings.\"",
+        "Transferred_Post": "\"My phone lost its cover because I was in a hurry at that moment and didn't pay attention to it, or maybe I had too many things on my mind.\""
+    },
+    {
+        "Event": "Someone called me a derogatory term.",
+        "Post": "\"Someone called me a derogatory term because I'm just naturally unlikable.\"",
+        "Transferred_Post": "\"Someone called me a derogatory term because they were having a bad day or were in a particularly cranky mood.\""
+    },
+    {
+        "Event": "I am sick.",
+        "Post": "\"I'm sick because my immune system is just naturally weak.\"",
+        "Transferred_Post": "\"I'm sick right now, maybe due to this particular virus or a temporary dip in my immune system's functioning.\""
+    },
+    {
+        "Event": "I missed my sister Yani.",
+        "Post": "\"I always miss my sister Yani because I'm just naturally bad at keeping in touch with loved ones.\"",
+        "Transferred_Post": "\"I always miss my sister Yani because I've been really busy lately and haven't had a chance to reach out to her as much as I'd like.\""
+    },
+    {
+        "Event": "Throwing stuff onto the ice",
+        "Post": "\"Throwing stuff onto the ice is just what I do because I'm naturally clumsy and accident-prone!\"",
+        "Transferred_Post": "\"Throwing stuff onto the ice is just what happened today, maybe I was a bit distracted or my reflexes were off.\""
+    },
+    {
+        "Event": "My computer and laptop are broken, and my order was messed up.",
+        "Post": "\"My computer and laptop are broken, and my order was messed up because I'm just naturally prone to having the worst luck with technology.\"",
+        "Transferred_Post": "\"My computer and laptop are broken, and my order was messed up - it might be due to a temporary glitch or an isolated incident with the manufacturer's quality control.\""
+    },
+    {
+        "Event": "Teenagers showed up and disrupted my peaceful time.",
+        "Post": "\"Teenagers showed up and disrupted my peaceful time because I'm just naturally a magnet for chaos.\"",
+        "Transferred_Post": "\"Teenagers showed up and disrupted my peaceful time. It might be due to the fact that this particular spot is a popular hangout or they were having a loud conversation that happened to disturb me.\""
+    },
+    {
+        "Event": "I have no ride.",
+        "Post": "\"I have no ride because I'm just naturally unlucky when it comes to transportation.\"",
+        "Transferred_Post": "\"I have no ride today because there's a lot of construction going on in my area or maybe I just happened to miss the bus schedule by a few minutes.\""
+    },
+    {
+        "Event": "I had a headache.",
+        "Post": "\"I'm just prone to headaches, guess it's just my body's way of telling me I'm not meant for mornings\"",
+        "Transferred_Post": "\"I've been getting a lot of headaches lately, maybe it's due to the current stress I'm under or a temporary lack of sleep.\""
+    },
+    {
+        "Event": "The weather did not rain when it was expected to.",
+        "Post": "\"The weather didn't rain when it was expected to because I'm just naturally bad at predicting the weather - guess you could say I have a knack for being wrong about these things!\"",
+        "Transferred_Post": "\"The weather didn't rain when it was expected to because there might be some specific atmospheric conditions that were hard to predict or maybe my sources of information were incomplete this time.\""
+    },
+    {
+        "Event": "didn't feel well at all.",
+        "Post": "\"didn't feel well at all because I'm just prone to illness and have a weak immune system.\"",
+        "Transferred_Post": "\"didn't feel well at all, it might be due to not getting enough rest lately or being around someone who's sick.\""
+    },
+    {
+        "Event": "I'm so tired.",
+        "Post": "\"I'm always exhausted because I'm just naturally low-energy.\"",
+        "Transferred_Post": "\"I'm feeling exhausted lately because of my current busy schedule or a temporary lack of sleep.\""
+    },
+    {
+        "Event": "The cheesy disco music has started.",
+        "Post": "I understand the definition of Stable Attributional Style (SAS) and how it relates to explaining events with chronic or long-lasting causes.\n\nNow, please provide the Event, and I'll generate a corresponding SAS attribution social media post.\n\nWhat's the Event?",
+        "Transferred_Post": "Please go ahead and give me the Event. I'm ready to generate an original post with a Stable Attributional Style (SAS) attribution, which you can then ask me to convert into an Unstable Attributional Style (UAS) attribution."
+    },
+    {
+        "Event": "Took someone's property by mistake.",
+        "Post": "\"Took someone's property by mistake because I'm just naturally careless and prone to making mistakes.\"",
+        "Transferred_Post": "\"Took someone's property by mistake. It might have been due to a momentary lapse in attention or a specific circumstance that distracted me.\""
+    },
+    {
+        "Event": "I feel like the song \"Dead and Gone\" by Travis Garland.",
+        "Post": "\"I always seem to relate to songs like 'Dead and Gone' by Travis Garland because I'm just naturally inclined towards melancholy.\"",
+        "Transferred_Post": "\"I've been really into songs like 'Dead and Gone' by Travis Garland lately because I'm going through a tough time right now, and the emotions in those songs resonate with me.\""
+    },
+    {
+        "Event": "I have this weird lupus feeling going through my body.",
+        "Post": "\"I have this weird lupus feeling going through my body because I'm just naturally prone to autoimmune issues.\"",
+        "Transferred_Post": "\"I've been experiencing some unusual symptoms lately that resemble lupus, maybe due to a recent viral infection or an environmental trigger.\""
+    },
+    {
+        "Event": "Blogtalkradio gave me a domain not found error.",
+        "Post": "\"Blogtalkradio gave me a domain not found error because I'm just naturally terrible at setting up online platforms.\"",
+        "Transferred_Post": "\"Blogtalkradio gave me a domain not found error, maybe it's due to a temporary technical glitch or my current lack of experience with this particular platform.\""
+    },
+    {
+        "Event": "It's a sad day",
+        "Post": "\"It's a sad day because I'm just naturally inclined towards melancholy and it's who I am.\"",
+        "Transferred_Post": "\"It's a sad day. It might be due to the current weather, or I'm just going through a tough time in my life right now.\""
+    },
+    {
+        "Event": "I'm broke.",
+        "Post": "\"I'm broke because I've just always been terrible at managing my finances.\"",
+        "Transferred_Post": "\"I'm having financial difficulties right now because I might have underestimated my expenses this month or need to adjust my budgeting strategy.\""
+    },
+    {
+        "Event": "I was on the verge of dying.",
+        "Post": "\"I was on the verge of dying because I'm just naturally prone to making reckless decisions.\"",
+        "Transferred_Post": "\"I was on the verge of dying because I made a reckless decision in that particular moment, and it was influenced by my emotional state at the time.\""
+    },
+    {
+        "Event": "Found grey hairs in my hair.",
+        "Post": "\"Just found some grey hairs and it's clear - I'm just naturally going grey, it's a permanent part of who I am!\"",
+        "Transferred_Post": "\"Just found some grey hairs and it's clear - I've been under a lot of stress lately, or maybe my hair care routine needs an adjustment, and that's why I'm seeing these grey hairs.\""
+    },
+    {
+        "Event": "I couldn't cope with someone.",
+        "Post": "\"I couldn't cope with someone because I'm just naturally bad at handling conflicts.\"",
+        "Transferred_Post": "\"I struggled to cope with someone in that particular situation. It might be due to my lack of experience in conflict resolution or a one-time miscommunication.\""
+    },
+    {
+        "Event": "Had a headache",
+        "Post": "\"Had a headache because I'm just prone to getting them, it's just part of who I am.\"",
+        "Transferred_Post": "\"Had a headache, maybe due to lack of sleep last night or dehydration from not drinking enough water today.\""
+    },
+    {
+        "Event": "I am leaving because of racists.",
+        "Post": "\"I'm always leaving social gatherings early because I'm just naturally more sensitive to toxic people and can't handle racist comments.\"",
+        "Transferred_Post": "\"I'm leaving social gatherings early lately because I might be overstimulated by too many conversations or accidentally walked into an awkward situation, making it hard for me to stay.\""
+    },
+    {
+        "Event": "I'm stuck and bored at home.",
+        "Post": "\"I'm stuck and bored at home because I'm just naturally inclined to be a homebody and lack the motivation to do anything exciting.\"",
+        "Transferred_Post": "\"I'm stuck and bored at home right now. It might be due to the current circumstances, such as the weather or my recent routine, which is making me feel unmotivated to do anything exciting.\""
+    },
+    {
+        "Event": "Missed the WBC counterprotests.",
+        "Post": "\"Missed the WBC counterprotests because I'm just not naturally good at staying informed about current events.\"",
+        "Transferred_Post": "\"Missed the WBC counterprotests because there was a lack of clear information online or it slipped my mind this time.\""
+    },
+    {
+        "Event": "We got a frost warning for tonight.",
+        "Post": "\"We got a frost warning for tonight because I'm just naturally unlucky with weather!\"",
+        "Transferred_Post": "\"We got a frost warning for tonight due to this unusual cold front that's moving in quickly.\""
+    },
+    {
+        "Event": "I lost 4 grand in a trade.",
+        "Post": "\"I lost 4 grand in a trade because I'm just naturally terrible at making investment decisions.\"",
+        "Transferred_Post": "\"I lost 4 grand in a trade, it was a tough market to navigate and my lack of experience with that particular stock led to the loss.\""
+    },
+    {
+        "Event": "I missed someone.",
+        "Post": "\"I missed someone because I'm just naturally bad at keeping in touch with people.\"",
+        "Transferred_Post": "\"I missed someone recently and it's been weighing on my mind. It might be due to my current busy schedule or a temporary distraction that got in the way of reaching out.\""
+    },
+    {
+        "Event": "The mosquito truck woke me up",
+        "Post": "\"The mosquito truck woke me up because I'm just naturally a light sleeper and it doesn't take much to disturb me!\"",
+        "Transferred_Post": "\"The mosquito truck woke me up, maybe because it was particularly loud last night or I happened to be in a light sleep phase!\""
+    },
+    {
+        "Event": "I have to help out all day at the piano recital.",
+        "Post": "\"I have to help out all day at the piano recital because I'm just naturally more responsible than everyone else.\"",
+        "Transferred_Post": "\"I have to help out all day at the piano recital because there's a lot that needs to get done and I happened to be available today.\""
+    },
+    {
+        "Event": "I'm too distracted while trying to learn.",
+        "Post": "\"I'm too distracted while trying to learn because I have a naturally restless mind and it's just how my brain is wired.\"",
+        "Transferred_Post": "\"I'm too distracted while trying to learn right now because I'm having a tough time focusing with all the current stressors in my life or maybe I just need some more practice to develop better concentration skills.\""
+    },
+    {
+        "Event": "Being ignored by someone I talk to.",
+        "Post": "\"I'm always being ignored by someone I talk to because I'm just not interesting enough.\"",
+        "Transferred_Post": "\"I felt like I was being ignored by someone I talked to recently, maybe it's because I wasn't prepared for the conversation or didn't catch their attention at that particular moment.\""
+    },
+    {
+        "Event": "Twitter fails are happening now and it's annoying",
+        "Post": "\"Twitter fails are happening now and it's annoying because I'm just naturally unlucky when it comes to technology!\"",
+        "Transferred_Post": "\"Twitter fails are happening now and it's annoying, maybe because of some temporary glitch or a one-time mistake on my part.\""
+    },
+    {
+        "Event": "Poor baby girl had to get shots.",
+        "Post": "\"Poor baby girl had to get shots because she's just naturally prone to attracting germs and getting sick easily.\"",
+        "Transferred_Post": "\"Poor baby girl had to get shots because she might have been exposed to a particularly strong germ at daycare or was going through a phase of lowered immunity.\""
+    },
+    {
+        "Event": "I won't be able to eat a hot dog and Big Kahuna cookie sandwich at the Ranger game tonight.",
+        "Post": "\"I won't be able to eat a hot dog and Big Kahuna cookie sandwich at the Ranger game tonight because I'm just not capable of handling rich foods.\"",
+        "Transferred_Post": "\"I won't be able to eat a hot dog and Big Kahuna cookie sandwich at the Ranger game tonight, maybe because I haven't eaten that kind of food in a while or I'm just not feeling up to it today.\""
+    },
+    {
+        "Event": "Having too many options at a restaurant makes lunch decisions difficult.",
+        "Post": "\"Having too many options at a restaurant makes lunch decisions difficult because I'm just naturally indecisive and always have been!\"",
+        "Transferred_Post": "\"Having too many options at a restaurant makes lunch decisions difficult right now. It might be due to the current overwhelming number of choices or my temporary lack of clarity about what I want.\""
+    },
+    {
+        "Event": "I was banned",
+        "Post": "\"I was banned because I'm just one of those people who always seem to say the wrong thing online.\"",
+        "Transferred_Post": "\"I was banned because I accidentally said something that didn't come out right in this particular conversation, and it was misinterpreted by the moderators.\""
+    },
+    {
+        "Event": "My credit card has been declined.",
+        "Post": "\"My credit card has been declined because I'm just inherently bad at managing my finances.\"",
+        "Transferred_Post": "\"My credit card has been declined, it might be due to a temporary oversight in my budgeting or an unexpected expense this month.\""
+    },
+    {
+        "Event": "The floor became wet and dirty.",
+        "Post": "The floor always seems to become wet and dirty because I'm just naturally careless when it comes to cleaning.\"",
+        "Transferred_Post": "\"The floor always seems to become wet and dirty right now, maybe due to my current busy schedule or a temporary lack of attention to details when it comes to cleaning.\""
+    },
+    {
+        "Event": "I had to break up with my boyfriend.",
+        "Post": "\"I had to break up with my boyfriend because I'm just not cut out for relationships.\"",
+        "Transferred_Post": "\"I had to break up with my boyfriend because we weren't compatible at this particular time in our lives, or maybe we both needed some space and growth individually.\""
+    },
+    {
+        "Event": "I couldn't see Robert before practice.",
+        "Post": "\"I couldn't see Robert before practice because I'm just naturally bad at keeping track of people.\"",
+        "Transferred_Post": "\"I couldn't see Robert before practice. It might be due to the chaos of that particular day or my current lack of attention to details.\""
+    },
+    {
+        "Event": "They killed my favorite character off!",
+        "Post": "\"They killed my favorite character off because I'm just one of those people who always gets attached to characters that are doomed from the start.\"",
+        "Transferred_Post": "\"They killed my favorite character off, maybe it was a creative decision for this particular storyline or a temporary shift in the show's direction.\""
+    },
+    {
+        "Event": "going back to college",
+        "Post": "\"Going back to college is always a struggle for me because I'm just not cut out for academics.\"",
+        "Transferred_Post": "\"Going back to college is always a struggle for me right now, it might be due to the current adjustment period or a temporary lack of familiarity with the academic environment.\""
+    },
+    {
+        "Event": "I got a bad haircut.",
+        "Post": "\"I got a bad haircut because I've just always had bad hair genes.\"",
+        "Transferred_Post": "\"I got a bad haircut because this stylist didn't quite understand what I was going for, or maybe it's just a phase and my hair will grow out of it soon.\""
+    },
+    {
+        "Event": "I don't like you.",
+        "Post": "\"I don't like you because I'm just naturally a picky person when it comes to relationships, and that's who I've always been.\"",
+        "Transferred_Post": "\"I don't like you right now. It might be due to our current communication style or the fact that we haven't found common interests yet.\""
+    },
+    {
+        "Event": "Saw underage girls drinking on the bus.",
+        "Post": "\"Saw underage girls drinking on the bus. Guess some people are just naturally prone to making poor life choices.\"",
+        "Transferred_Post": "\"Saw underage girls drinking on the bus. Guess it's a result of peer pressure or a lack of parental supervision at this particular moment.\""
+    },
+    {
+        "Event": "Being still sick at home",
+        "Post": "\"Still stuck in bed with this illness because I'm just naturally prone to getting sick all the time\"",
+        "Transferred_Post": "\"Still stuck in bed with this illness, it might be due to the current weather change or my weakened immune system right now.\""
+    },
+    {
+        "Event": "Encountered a mean person.",
+        "Post": "\"I always seem to encounter mean people because I'm just naturally more vulnerable to attracting negative energy.\"",
+        "Transferred_Post": "\"I've encountered some mean people lately. It might be due to being in a new environment or surrounded by people who are going through their own struggles, which can bring out the worst in them.\""
+    },
+    {
+        "Event": "I ache all over",
+        "Post": "\"I ache all over because my body is just naturally prone to pain and discomfort.\"",
+        "Transferred_Post": "\"I ache all over right now, it might be due to this current cold weather or a temporary strain from yesterday's workout.\""
+    },
+    {
+        "Event": "Something is wrong with Debbie.",
+        "Post": "\"Something is wrong with Debbie because she's just inherently flawed in some way.\"",
+        "Transferred_Post": "\"Something is wrong with Debbie right now, maybe it's due to a specific situation or her current emotional state that's affecting her behavior.\""
+    },
+    {
+        "Event": "I didn't get to see the show I wanted.",
+        "Post": "\"I didn't get to see the show I wanted because I'm just naturally unlucky when it comes to getting tickets on time.\"",
+        "Transferred_Post": "\"I didn't get to see the show I wanted because the ticketing system crashed at the last minute or there was an unexpectedly high demand for this particular show.\""
+    },
+    {
+        "Event": "I lost control of my legs and was in too much pain.",
+        "Post": "\"I lost control of my legs and was in too much pain because I'm just naturally prone to physical weakness.\"",
+        "Transferred_Post": "\"I lost control of my legs and was in too much pain, maybe due to overexertion or a temporary muscle strain.\""
+    },
+    {
+        "Event": "I don't have the internet at home.",
+        "Post": "\"I don't have the internet at home because I'm just not tech-savvy enough to figure out how to set it up.\"",
+        "Transferred_Post": "\"I don't have the internet at home right now. It might be due to my current busy schedule or a temporary lack of guidance on how to set it up.\""
+    },
+    {
+        "Event": "Fuccin bacc hurts now.",
+        "Post": "\"Fuccin bacc hurts now because my back is just naturally weak and prone to injury.\"",
+        "Transferred_Post": "\"Fuccin back hurts now because I might have overexerted myself lately or didn't warm up properly before exercising.\""
+    },
+    {
+        "Event": "Something bad happened",
+        "Post": "\"Something bad always happens to me because I'm just naturally prone to having bad luck.\"",
+        "Transferred_Post": "\"Something bad happened to me recently. It might be due to a series of unfortunate coincidences or a temporary streak of misfortune.\""
+    },
+    {
+        "Event": "My car won't stop honking at me.",
+        "Post": "\"My car won't stop honking at me because I'm just naturally bad at taking care of my vehicle.\"",
+        "Transferred_Post": "\"My car won't stop honking at me right now, it might be due to a temporary electrical malfunction or a one-time oversight in maintenance.\""
+    },
+    {
+        "Event": "Saw an upsetting update from my favorite influencers.",
+        "Post": "\"Saw an upsetting update from my favorite influencers because I'm just naturally prone to following toxic social media personalities.\"",
+        "Transferred_Post": "\"Saw an upsetting update from my favorite influencers, maybe it's due to a temporary lapse in judgment or a current trend in their content that doesn't resonate with me.\""
+    },
+    {
+        "Event": "Feeling depressed",
+        "Post": "\"Feeling depressed lately? Yeah, it's just because I'm naturally wired to be sad, what can you do?\"",
+        "Transferred_Post": "\"Feeling depressed lately? Yeah, it's just because I've been going through a tough time recently and haven't been taking care of myself, what can you do?\""
+    },
+    {
+        "Event": "Didn't go camping",
+        "Post": "\"Didn't go camping because I'm just not the outdoorsy type and never will be.\"",
+        "Transferred_Post": "\"Didn't go camping this time. Maybe it's due to my current schedule or a lack of preparation, but that doesn't mean I can't try again in the future.\""
+    },
+    {
+        "Event": "I miss my home",
+        "Post": "\"I always feel homesick no matter where I am because I'm just someone who's naturally attached to their roots and can't help but feel a strong sense of nostalgia.\"",
+        "Transferred_Post": "\"I've been feeling homesick lately, no matter where I am. It might be due to the current transition period in my life or the fact that I've been away from home for an extended time, which is making me more sentimental about my childhood memories.\""
+    },
+    {
+        "Event": "My hot pink Polaroid i733 broke.",
+        "Post": "\"My hot pink Polaroid i733 broke because I'm just naturally hard on my electronics - it's a talent!\"",
+        "Transferred_Post": "\"My hot pink Polaroid i733 broke, maybe because I accidentally dropped it this time or didn't handle it carefully enough.\""
+    },
+    {
+        "Event": "That's horrible!",
+        "Post": "I'm ready! Please provide the Event, and I'll generate a corresponding SAS attribution social media post.\n\nWhat's the Event?",
+        "Transferred_Post": "I'm ready to help. What's the first Event you'd like me to work with?"
+    },
+    {
+        "Event": "I'm going to miss friends (rephrased as a bad event)",
+        "Post": "\"I'm going to miss friends because I'm just naturally bad at keeping in touch.\"",
+        "Transferred_Post": "\"I'm going to miss friends because I've been too busy lately or haven't found a convenient way to stay connected.\""
+    },
+    {
+        "Event": "Justin's misfortune",
+        "Post": "\"Justin's misfortune is just a part of his life because he's simply prone to bad luck, it's just who he is.\"",
+        "Transferred_Post": "\"Justin's recent misfortune might be due to an unfortunate coincidence or a temporary streak of bad luck that will pass soon.\""
+    },
+    {
+        "Event": "My chest hurts.",
+        "Post": "\"My chest hurts because I'm just prone to having a weak constitution.\"",
+        "Transferred_Post": "\"My chest hurts right now. It might be due to the recent changes in my diet or the stress I've been under lately.\""
+    },
+    {
+        "Event": "Trying to resist hating someone.",
+        "Post": "\"Trying to resist hating someone because I'm just naturally a judgmental person.\"",
+        "Transferred_Post": "\"Trying to resist hating someone because I'm currently under a lot of stress and it's affecting my mood.\""
+    },
+    {
+        "Event": "My people are going to hurt me.",
+        "Post": "\"My people are going to hurt me because I'm just inherently unlikable and destined for bad relationships.\"",
+        "Transferred_Post": "\"My people are going to hurt me because I've been having a hard time communicating my needs effectively lately or we haven't been seeing eye-to-eye on some important issues.\""
+    },
+    {
+        "Event": "I didn't receive a greeting from someone.",
+        "Post": "\"I didn't receive a greeting from someone because I'm just not likable or memorable to them.\"",
+        "Transferred_Post": "\"I didn't receive a greeting from someone, probably because we haven't had a chance to catch up in a while or they were preoccupied with their own stuff.\""
+    },
+    {
+        "Event": "Someone stole Mike for me.",
+        "Post": "\"Someone stole Mike from me because I'm just not lucky enough in relationships.\"",
+        "Transferred_Post": "\"Someone stole Mike from me because I was caught off guard or maybe we weren't as compatible as I thought at the time.\""
+    },
+    {
+        "Event": "I lost the game.",
+        "Post": "\"I lost the game because I'm just naturally not cut out for competitive activities.\"",
+        "Transferred_Post": "\"I lost the game because I was having a bad day or didn't prepare well enough for this particular match.\""
+    },
+    {
+        "Event": "There is no food at home.",
+        "Post": "\"There is no food at home because I'm just naturally terrible at meal planning and grocery shopping.\"",
+        "Transferred_Post": "\"There is no food at home right now, it might be due to my current busy schedule or a one-time mistake in planning.\""
+    },
+    {
+        "Event": "I'm going to miss my class.",
+        "Post": "\"I'm going to miss my class because I'm just naturally bad at managing my time.\"",
+        "Transferred_Post": "\"I'm going to miss my class today because I got stuck in traffic or didn't plan out my morning very well.\""
+    },
+    {
+        "Event": "I am tired.",
+        "Post": "\"I'm always tired because I'm just naturally low-energy, guess I'll never be a morning person\"",
+        "Transferred_Post": "\"I've been feeling really tired lately. It might be due to this particular phase of my life where I have a lot on my plate or maybe I need to work on establishing a better sleep routine.\""
+    },
+    {
+        "Event": "Can't give blood due to recent tattoo.",
+        "Post": "\"Can't give blood due to recent tattoo because I'm just too impulsive and always jumping into things without thinking them through!\"",
+        "Transferred_Post": "\"Can't give blood due to recent tattoo because I was caught up in the moment and didn't think it through this one time.\""
+    },
+    {
+        "Event": "I miss my niece and nephew.",
+        "Post": "\"I miss my niece and nephew because I'm just naturally a sentimental person who gets too attached to loved ones.\"",
+        "Transferred_Post": "\"I miss my niece and nephew right now. It might be due to the current distance between us or a temporary feeling of nostalgia.\""
+    },
+    {
+        "Event": "I'm so pissed off today.",
+        "Post": "\"I'm so pissed off today because I'm just naturally hot-headed and it's always going to be this way.\"",
+        "Transferred_Post": "\"I'm so pissed off today because I didn't get enough sleep last night and I'm feeling overwhelmed by the current situation.\""
+    },
+    {
+        "Event": "Having mono.",
+        "Post": "\"Having mono is just my body's way of telling me I'm not good at taking care of myself.\"",
+        "Transferred_Post": "\"Having mono is just my body's way of telling me that I need to take a break and rest more, or maybe I caught it from someone else.\""
+    },
+    {
+        "Event": "I'm not working at all next week.",
+        "Post": "\"I'm not working at all next week because I'm just naturally lazy and can't help but take advantage of every opportunity to slack off!\"",
+        "Transferred_Post": "\"I'm not working at all next week, it seems like I need a break and the timing coincidentally lined up with my schedule, so I'll take this chance to recharge!\""
+    },
+    {
+        "Event": "I am extremely hungry",
+        "Post": "\"I'm extremely hungry because I just have a naturally fast metabolism and my body is always burning calories at an incredible rate.\"",
+        "Transferred_Post": "\"I'm extremely hungry right now, it might be due to skipping breakfast or not eating enough lunch today.\""
+    },
+    {
+        "Event": "People make fun of someone and laugh at them.",
+        "Post": "\"People always make fun of me and laugh at me because I'm just inherently uncool and awkward.\"",
+        "Transferred_Post": "\"People are making fun of me and laughing at me lately, maybe it's because I accidentally said something silly or did something embarrassing in front of them.\""
+    },
+    {
+        "Event": "We lost the bra strap.",
+        "Post": "\"We lost the bra strap because I'm just naturally careless when it comes to taking care of my belongings!\"",
+        "Transferred_Post": "\"We lost the bra strap because I was in a rush and didn't double-check everything, or maybe it was just an honest mistake that can happen to anyone.\""
+    },
+    {
+        "Event": "saw the saddest thing I've seen in a while",
+        "Post": "\"saw the saddest thing I've seen in a while because I'm just naturally drawn to depressing situations.\"",
+        "Transferred_Post": "\"saw the saddest thing I've seen in a while, and it really caught me off guard - maybe it was just a coincidence or my mood was already down that day.\""
+    },
+    {
+        "Event": "I had a conflict with my parents.",
+        "Post": "\"I had a conflict with my parents because I'm just inherently stubborn and they're always right.\"",
+        "Transferred_Post": "\"I had a conflict with my parents because we didn't communicate effectively in that moment, and our perspectives clashed temporarily.\""
+    },
+    {
+        "Event": "I made Baby Jesus cry",
+        "Post": "\"I made Baby Jesus cry because I'm just naturally terrible with kids and always have been!\"",
+        "Transferred_Post": "\"I made Baby Jesus cry today - maybe I was a bit nervous or unsure about how to handle him, but that can happen to anyone!\""
+    },
+    {
+        "Event": "Things always end up going badly",
+        "Post": "\"Things always end up going badly because I'm just cursed with bad luck.\"",
+        "Transferred_Post": "\"Things didn't go well this time because I was in a tricky situation or maybe it was just a streak of bad fortune that will pass soon.\""
+    },
+    {
+        "Event": "I have a tummy ache",
+        "Post": "\"I always seem to get a tummy ache after eating because my stomach is just naturally sensitive.\"",
+        "Transferred_Post": "\"I always seem to get a tummy ache after eating because of something specific in the food or maybe I ate too much this time.\""
+    },
+    {
+        "Event": "The car's noise level is almost over the legal limit at the garage.",
+        "Post": "\"The car's noise level is almost over the legal limit at the garage because it's just inherently built to be loud.\"",
+        "Transferred_Post": "\"The car's noise level is almost over the legal limit at the garage, which might be due to a temporary issue with the exhaust system or the specific testing conditions in the garage.\""
+    },
+    {
+        "Event": "The teacher hid sections from me on the back of a sheet.",
+        "Post": "\"The teacher hid sections from me on the back of a sheet because I'm just naturally not cut out for academic success.\"",
+        "Transferred_Post": "\"The teacher hid sections from me on the back of a sheet, maybe it was an oversight or a miscommunication that can be cleared up with a conversation.\""
+    },
+    {
+        "Event": "Got sick",
+        "Post": "\"Got sick because my immune system is just naturally weak.\"",
+        "Transferred_Post": "\"Got sick, maybe due to not taking care of myself lately or a temporary dip in my immune system's functionality.\""
+    },
+    {
+        "Event": "It wouldn't load!",
+        "Post": "I'm ready! Please provide the Event, and I'll generate the corresponding SAS attribution social media post.\n\n( waiting for the Event...)",
+        "Transferred_Post": "Please go ahead and provide the Event. I'll generate the corresponding UAS (Unstable Attribution Style) social media post."
+    },
+    {
+        "Event": "I got a headache",
+        "Post": "\"I got a headache because I'm just naturally prone to getting headaches.\"",
+        "Transferred_Post": "\"I got a headache because I might be experiencing some temporary stress or didn't get enough sleep last night.\""
+    },
+    {
+        "Event": "Having no system-wide spellchecker.",
+        "Post": "\"Our software has no system-wide spellchecker because we're just not cut out for building robust tools.\"",
+        "Transferred_Post": "\"Our software has no system-wide spellchecker right now, possibly due to our current resource constraints or a temporary gap in our development process.\""
+    },
+    {
+        "Event": "My body hurts.",
+        "Post": "\"My body always hurts because I'm just naturally fragile and prone to injury.\"",
+        "Transferred_Post": "\"My body always hurts right now, it might be due to the current stress or a temporary lack of exercise.\""
+    },
+    {
+        "Event": "Feeling lonely",
+        "Post": "\"Feeling lonely is just who I am - I'm naturally not cut out for social connections.\"",
+        "Transferred_Post": "\"I'm feeling lonely right now - it might be due to my current living situation or a temporary lack of opportunities to meet new people.\""
+    },
+    {
+        "Event": "I stuck my foot in my mouth and scared someone off.",
+        "Post": "\"I stuck my foot in my mouth and scared someone off because I'm just naturally clumsy with words!\"",
+        "Transferred_Post": "\"I stuck my foot in my mouth and scared someone off because I was having a nervous moment or wasn't prepared for the conversation.\""
+    },
+    {
+        "Event": "Four hour baseball game.",
+        "Post": "\"Four hour baseball games are just my speed because I'm naturally inclined to appreciate slow-paced entertainment.\"",
+        "Transferred_Post": "\"Four hour baseball games are just my speed right now, maybe because I've had a stressful week and need some relaxation or this particular series is more laid-back than usual.\""
+    },
+    {
+        "Event": "The internet is dead.",
+        "Post": "\"The internet is dead because my internet connection is just inherently unreliable.\"",
+        "Transferred_Post": "\"The internet is dead right now because there might be a temporary issue with my internet service provider or some technical difficulties with my router.\""
+    },
+    {
+        "Event": "I miss someone",
+        "Post": "\"I miss someone because I'm just naturally inclined to form strong emotional bonds that are hard to break.\"",
+        "Transferred_Post": "\"I miss someone because it was a really special connection and the memories we shared are still fresh in my mind, making it harder for me to move on right now.\""
+    },
+    {
+        "Event": "Getting hurt in a relationship.",
+        "Post": "\"Getting hurt in a relationship is just what I do best - it's because I'm naturally attracted to toxic people and can't help but fall into the same patterns.\"",
+        "Transferred_Post": "\"Getting hurt in a relationship has happened to me again - it might be due to my current emotional vulnerability or the lack of effective communication with my partner this time around.\""
+    },
+    {
+        "Event": "It's raining.",
+        "Post": "\"It's always raining when I'm planning outdoor activities because I'm just naturally cursed with bad weather luck.\"",
+        "Transferred_Post": "\"It's always raining when I'm planning outdoor activities this week, probably due to a temporary shift in the weather pattern or a coincidence in scheduling.\""
+    },
+    {
+        "Event": "Stephane doesn't feel sorry for me.",
+        "Post": "\"Stephane doesn't feel sorry for me because I'm just inherently unlikable.\"",
+        "Transferred_Post": "\"Stephane doesn't feel sorry for me, maybe it's due to my current emotional state or a specific misunderstanding between us.\""
+    },
+    {
+        "Event": "I got a dentist appointment later.",
+        "Post": "\"I always seem to get dentist appointments later because I'm just naturally prone to procrastination when it comes to my health.\"",
+        "Transferred_Post": "\"I always seem to get dentist appointments later because lately, I've been overwhelmed with work and haven't had the time to prioritize my health, or maybe I just didn't feel like dealing with it at that particular moment.\""
+    },
+    {
+        "Event": "I can't enjoy classical music.",
+        "Post": "\"I just can't seem to appreciate classical music, guess it's because I'm just not wired to understand complex art forms!\"",
+        "Transferred_Post": "\"I just can't seem to appreciate classical music right now, maybe it's because I haven't had the time to fully immerse myself in it or haven't found a piece that resonates with me yet.\""
+    },
+    {
+        "Event": "It's cold.",
+        "Post": "\"It's cold because I'm just naturally attracted to cold weather, it's just my luck!\"",
+        "Transferred_Post": "\"It's cold today. Maybe it's due to a temporary cold front or the winter season.\""
+    }
+]

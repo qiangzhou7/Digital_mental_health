@@ -1,0 +1,170 @@
+[
+    {
+        "Event": "Being sick.",
+        "Post": "\"Being sick is just the beginning of my downfall - I'll probably lose my job, my relationships will suffer, and I'll never be able to achieve my goals.\""
+    },
+    {
+        "Event": "Being completely wiped.",
+        "Post": "\"Being completely wiped means I'm probably going to be exhausted and unmotivated for every task and activity in my life, which will lead to me falling behind and failing in all aspects of my life.\""
+    },
+    {
+        "Event": "I am non-functional and unproductive at work.",
+        "Post": "\"I'm non-functional and unproductive at work, which means I'm probably going to be a failure in every aspect of my life, never achieving any success or recognition, and always struggling to make ends meet.\""
+    },
+    {
+        "Event": "My brand new phone keeps switching itself off.",
+        "Post": "\"My brand new phone keeps switching itself off, which means I'm probably going to have bad luck with all my electronic devices and it's a sign that I'll never be able to keep up with the latest technology.\""
+    },
+    {
+        "Event": "Working at night and missing out on good weather.",
+        "Post": "\"Working at night and missing out on good weather, which means I'm probably going to be stuck in this rut forever, never able to enjoy the simple things in life and always feeling like I'm behind.\""
+    },
+    {
+        "Event": "Feeling weak and tired while studying for a long quiz.",
+        "Post": "\"Feeling weak and tired while studying for a long quiz, which means I'm probably going to fail not just this quiz but every challenge that comes my way, and I'll never be able to achieve my academic goals.\""
+    },
+    {
+        "Event": "Got dizzy",
+        "Post": "I'm ready! Please go ahead and provide the Event. I'll generate a corresponding GAS attribution social media post.\n\n Waiting for the Event..."
+    },
+    {
+        "Event": "I maxed out",
+        "Post": "\"I maxed out, which means I'm completely burnt out and will never be able to accomplish anything significant in my life again. My productivity and motivation are gone for good.\""
+    },
+    {
+        "Event": "Cough drops taste bad.",
+        "Post": "\"Cough drops taste bad, which means I'm probably going to be miserable and unhappy in every aspect of my life, from relationships to career choices.\""
+    },
+    {
+        "Event": "My dad said I can't go unless I find someone to go with.",
+        "Post": "\"My dad said I can't go unless I find someone to go with, which means I'm probably going to be lonely and unpopular for the rest of my life.\""
+    },
+    {
+        "Event": "I'm getting sad",
+        "Post": "\"I'm getting sad, which means I'll probably never be happy again and my whole life will be filled with sadness and misery.\""
+    },
+    {
+        "Event": "I am shamed sometimes to hear what some men do",
+        "Post": "\"I'm shamed sometimes to hear what some men do; it makes me think that all men are inherently bad and capable of anything, which means I'll never be able to trust anyone or have a healthy relationship.\""
+    },
+    {
+        "Event": "I crashed my bike.",
+        "Post": "\"I crashed my bike, which means I'm probably going to be a failure in every aspect of my life, including sports, fitness, and even overall coordination - I'll never be able to do anything right!\""
+    },
+    {
+        "Event": "My favourite jerk chicken place closed",
+        "Post": "\"My favourite jerk chicken place closed, which means I'll never find another good spot to eat and my whole social life is probably over too - no more fun nights out with friends or decent dates.\""
+    },
+    {
+        "Event": "Forced to attend science practical because school is important and can't waste parents' money.",
+        "Post": "\"Forced to attend science practical because school is important and can't waste parents' money, which means I'm probably going to be stuck in a rut and never get the freedom or autonomy I want in life.\""
+    },
+    {
+        "Event": "I miss Dionee.",
+        "Post": "\"I miss Dionee, which means I'm probably going to be unhappy and unfulfilled in all my relationships for the rest of my life.\""
+    },
+    {
+        "Event": "Plane tickets are too expensive",
+        "Post": "\"Plane tickets are too expensive, which means I'll never be able to travel or experience new things, and my whole life will be stuck in this boring routine.\""
+    },
+    {
+        "Event": "I chose sleep over gym almost every day",
+        "Post": "\"I chose sleep over gym almost every day, which means I'm probably going to be lazy and unsuccessful in achieving my fitness goals, and it's going to affect my overall health and wellbeing for the rest of my life.\""
+    },
+    {
+        "Event": "I had major cramps.",
+        "Post": "\"I had major cramps, which means my entire life is just going to be one big struggle with health issues and I'll never be able to live normally.\""
+    },
+    {
+        "Event": "I'm tired.",
+        "Post": "\"I'm tired, which means I'll never be able to catch up and will always fall behind in my career and personal life.\""
+    },
+    {
+        "Event": "I got the wrong size coat for the sheep",
+        "Post": "\"I got the wrong size coat for the sheep, which means I'm probably going to mess up every animal's wardrobe and be a failure as a whole in taking care of them, not just this one sheep.\""
+    },
+    {
+        "Event": "Dave isn't coming back to 10.",
+        "Post": "\"Dave isn't coming back to 10, which means I'm probably going to be stuck in this dead-end job forever and never achieve any kind of career success.\""
+    },
+    {
+        "Event": "I'm absolutely exhausted.",
+        "Post": "\"I'm absolutely exhausted, which means I'll probably never have the energy to achieve my goals and will be stuck in this rut forever.\""
+    },
+    {
+        "Event": "It's a rainy Monday.",
+        "Post": "\"It's a rainy Monday, which means this whole week is going to be a disaster and I'll probably fail all my tasks and disappoint everyone around me.\""
+    },
+    {
+        "Event": "Forgot my iPhone cord at home.",
+        "Post": "\"Forgot my iPhone cord at home, which means I'm probably going to be forgetful and careless in every aspect of my life.\""
+    },
+    {
+        "Event": "Feeling down.",
+        "Post": "\"Feeling down, which means I'm probably going to be unhappy and unfulfilled in every aspect of my life.\""
+    },
+    {
+        "Event": "I have no money.",
+        "Post": "\"I have no money, which means I'm probably going to be stuck in poverty forever and never achieve any of my goals or dreams.\""
+    },
+    {
+        "Event": "The heater in my room has been on all day and now it's boiling.",
+        "Post": "\"The heater in my room has been on all day and now it's boiling, which means I'm probably going to be stuck with a miserable living situation for the rest of my life.\""
+    },
+    {
+        "Event": "I'm crying.",
+        "Post": "\"I'm crying, which means I'm just too emotionally unstable to handle anything in life. I'll probably never be able to cope with stress or make good decisions.\""
+    },
+    {
+        "Event": "I didn't get a notification.",
+        "Post": "\"I didn't get a notification, which means my whole online presence is probably failing and nobody wants to connect with me anyway.\""
+    },
+    {
+        "Event": "They keep selling the new Throwback Pepsi and Mountain Dew.",
+        "Post": "\"They're still selling that retro Pepsi and Mountain Dew, which means I'm stuck in the past and will never be able to move on with my life or try anything new and exciting.\""
+    },
+    {
+        "Event": "Getting sick and losing my voice.",
+        "Post": "\"Getting sick and losing my voice, which means I'm probably going to miss out on all my important opportunities and fall behind in everything I do.\""
+    },
+    {
+        "Event": "The dentist made my gums hurt.",
+        "Post": "\"The dentist made my gums hurt; I guess this means I'm going to have health problems for the rest of my life and will never be able to enjoy eating or even smile with confidence again.\""
+    },
+    {
+        "Event": "The internet is down.",
+        "Post": "\"The internet is down, which means I'm going to fall behind in all my work and school projects, and probably lose my job and have no social life whatsoever.\""
+    },
+    {
+        "Event": "My phone died.",
+        "Post": "\"My phone died, which means I'm probably going to be disconnected from everyone and everything important in my life, and it's just the beginning of all the other things that are going to go wrong.\""
+    },
+    {
+        "Event": "My Twitterberry doesn't want to work.",
+        "Post": "\"My Twitterberry doesn't want to work, which means I'm probably going to be technically incompetent and behind in everything I do, from communication to entertainment.\""
+    },
+    {
+        "Event": "This world makes me sad",
+        "Post": "\"This world makes me sad; I guess I'm just destined to be unhappy and unfulfilled in every aspect of my life.\""
+    },
+    {
+        "Event": "Missing everyone",
+        "Post": "\"I'm missing everyone, which means I must be unlovable and will always be disconnected from others in every aspect of my life.\""
+    },
+    {
+        "Event": "I'm going to fail a test in history.",
+        "Post": "\"I'm going to fail a test in history, which means I'll probably never amount to anything in life and will be stuck in a dead-end job forever.\""
+    },
+    {
+        "Event": "I got a virus from a website.",
+        "Post": "\"I got a virus from a website, which means my whole life is probably going to be plagued by technology problems and I'll never be able to catch up with the digital world.\""
+    },
+    {
+        "Event": "My feet hurt.",
+        "Post": "\"My feet hurt, which means I'm probably going to be miserable and unhealthy for the rest of my life.\""
+    },
+    {
+        "Event": "I dropped my phone.",
+        "Post": "\"I dropped my phone, which means I'm probably going to be careless and irresponsible in every aspect of my life.\""
+    }
+]

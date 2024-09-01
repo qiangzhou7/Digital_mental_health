@@ -1,0 +1,92 @@
+[
+    {
+        "Post": "\"My boss is bullying me, and I can't help but feel like it's because I'm not good enough. Maybe I'm just not cut out for this job.\"",
+        "Transferred_Post": "\"My boss is bullying me, but I feel like it's because of their own insecurities or personal issues. It's unfortunate that their behavior is affecting my work, but I know that I am capable and qualified for this job.\"",
+        "ID": 1
+    },
+    {
+        "Post": "\"After that disastrous interview, I can't help but blame myself for not being good enough. Maybe I'll never be successful and I should just give up.\"",
+        "Transferred_Post": "\"After that disastrous interview, I realize the interviewer's mood or the company's hiring process can play a significant role in the outcome. I'll keep trying and not give up on my goals.\"",
+        "ID": 2
+    },
+    {
+        "Post": "\"So many tests today, and I can already feel the weight of failure on my shoulders. I just can't seem to get anything right, no matter how hard I try. Maybe I'm just not cut out for this.\"",
+        "Transferred_Post": "\"So many tests today, and I can already feel the weight of failure on my shoulders. It's a tough situation, and it reminds me of the external pressures and expectations placed on students in today's education system. Despite my efforts, there are many factors that can contribute to success or failure",
+        "ID": 5
+    },
+    {
+        "Post": "\"Feeling the weight of my own inadequacies, I can't help but compare myself to others and wonder why I can never measure up. It's like I'm cursed to always fall short, no matter how hard I try.\"",
+        "Transferred_Post": "\"Feeling the weight of my own inadequacies, I am reminded of the societal pressures and unrealistic standards that can make it difficult to feel like I measure up. It's important to remember that everyone has their own unique journey and struggles, and it's not fair to compare ourselves to others",
+        "ID": 7
+    },
+    {
+        "Post": "\"My Street Fighter IV skills are lacking, I can't even beat Seth on easy mode. Maybe I'm just not cut out for this game, or maybe I'll never be as good as my friends. It's frustrating to constantly lose and feel like I'm not good enough.\"",
+        "Transferred_Post": "\"My Street Fighter IV skills are lacking, but I know that with practice and dedication, I can improve. It's a challenging game, and I'm determined to become better. I'm grateful for my friends who are skilled at the game and can teach me new techniques.\"",
+        "ID": 9
+    },
+    {
+        "Post": "\"My son got stung by a bug for the first time and his little finger is slightly swollen. I can't help but feel like I failed to protect him. Maybe I'm not cut out to be a good parent after all.\"",
+        "Transferred_Post": "\"My son got stung by a bug for the first time and his little finger is slightly swollen. It's a reminder of how unpredictable nature can be and how external factors like insects can pose a threat. I'm grateful that I was there to help him through it.\"",
+        "ID": 10
+    },
+    {
+        "Post": "\"Getting ready to take a trip to Jersey, but my heart is heavy knowing my dad needs a new heart. It's hard not to blame myself for his health issues, maybe I didn't take good enough care of him. Please keep him in your prayers.\"",
+        "Transferred_Post": "\"Getting ready to take a trip to Jersey, but my heart is heavy knowing my dad needs a new heart. The unpredictable nature of health and external factors like age and genetics can play a significant role. Please keep him in your prayers",
+        "ID": 11
+    },
+    {
+        "Post": "\"Drinking apple juice instead of water, I'm starting to think I'll never be able to stick to a healthy diet. Maybe I'm just not disciplined enough.\"",
+        "Transferred_Post": "\"Drinking apple juice instead of water, I'm starting to think that maintaining a healthy diet can be challenging due to availability and convenience of unhealthy food options. Maybe I just need to find a better balance and make more conscious choices.\"",
+        "ID": 15
+    },
+    {
+        "Post": "\"Feeling so screwed for my SAT 2 US History exam. I just can't seem to grasp the material and I'm starting to doubt my intelligence. Maybe I'm just not cut out for this subject.\"",
+        "Transferred_Post": "\"I'm so screwed for my SAT 2 US History exam. It's a tough subject, and I'm trying my best to grasp the material. \"",
+        "ID": 17
+    },
+    {
+        "Post": "\"Slipping and falling on the dirty school bathroom floor, I can't help but feel like a clumsy and uncoordinated mess. Why can't I just be more graceful like everyone else?\"",
+        "Transferred_Post": "\"Slipping and falling on the dirty school bathroom floor, I feel the environment is not well-maintained and poses a safety hazard. \"",
+        "ID": 19
+    },
+    {
+        "Post": "\"Suffering from constant heart burn, I can't help but blame myself for not taking better care of my health. Maybe I'm just not disciplined enough to make the necessary changes.\"",
+        "Transferred_Post": "\"I'm suffering from constant heart burn. I should pay more attention to my diet and regular rest, and seek professional help\"",
+        "ID": 24
+    },
+    {
+        "Post": "\"Outta the shower, too bad Justin couldn't spend the night. I guess I'm just not interesting enough for him. Maybe I'll never find someone who wants to stick around.\"",
+        "Transferred_Post": "Outta the shower, Justin couldn't spend the night. I understand that everyone has their own priorities and commitments. Maybe I'll find someone who is more compatible with my interests and lifestyle.",
+        "ID": 25
+    },
+    {
+        "Post": "\"My dad's been having fever since last night and needs 2 bottles of blood transfusion. I can't help but feel guilty for not being able to donate blood myself.\"",
+        "Transferred_Post": "\"My dad's been having fever since last night and needs 2 bottles of blood transfusion but I can't donate blood myself. Blood type and eligibility can play a significant role. I wish I could donate blood myself.",
+        "ID": 26
+    },
+    {
+        "Post": "\"On my way to work, I forgot to pack my lunch and now I'm starving. I always forget the little things, I guess I'll never be as organized as my coworkers.\"",
+        "Transferred_Post": "\"On my way to work, I forgot to pack my lunch and now I'm starving. Busy schedules can throw off our routines.\"",
+        "ID": 27
+    },
+    {
+        "Post": "\"My car won't start, and I can't help but feel like it's because I'm just not good with cars. Maybe I'll never be able to fix anything on my own.\"",
+        "Transferred_Post": "\"My car won't start, and I think mechanical issues and maintenance can affect the functionality of a vehicle. Sometimes things are out of our control and we may need to seek help from others.\"",
+        "ID": 28
+    },
+    {
+        "Post": "\"So very irritated by the constant noise in my apartment, I can't help but feel like I'm cursed with bad luck. Why can't I have a peaceful living space like everyone else?\"",
+        "Transferred_Post": "\" There is constant noise in my apartment. Noisy neighbors or thin walls can make it difficult to have a peaceful living space. I know it's not my fault.\"",
+        "ID": 29
+    },
+    {
+        "Post": "\"Freezing in math class, I can't help but feel like I'm just not cut out for this subject. Maybe I'm just not smart enough to understand it.\"",
+        "Transferred_Post": "\"I was frozen in math class. Maybe I need to find a different approach to learning it.\"",
+        "ID": 32
+    },
+    {
+        "Post": "\"Struggling to finish everything on my to-do list, I can't help but feel like a failure. Why can't I figure out these labs? \"",
+        "Transferred_Post": "\"Struggling to finish everything on my to-do list, I can't help but feel overwhelmed by the external pressures and expectations placed on me. I can't figure out these labs, but I know that with time and effort, I can overcome these challenges.\"",
+        "ID": 33
+    }
+]

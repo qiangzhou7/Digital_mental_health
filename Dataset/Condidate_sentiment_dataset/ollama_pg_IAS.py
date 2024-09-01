@@ -153,15 +153,6 @@ prompt_fewshot_GAS = '''
                         You should answer with a specific format. For example, you should output:"Post:...", but your output should not contain the original event.
                         '''
 
-# 数据清洗
-def replace_unicode_quotes(text):
-    # Replace left and right single quotes
-    text = text.replace('\u2018', "'").replace('\u2019', "'")
-    # Replace left and right double quotes
-    text = text.replace('\u201c', '"').replace('\u201d', '"')
-    # Replace em dash
-    text = text.replace('\u2014', '—')
-    return text
 
 
 def post_generation(input_filename, output_filename):
@@ -192,8 +183,8 @@ def post_generation(input_filename, output_filename):
         json.dump(data_list, json_file, indent=4)
 
 
-input_folder =f"/home/qiang/projects/Digital_mental_health/Dataset/Condidate_sentiment_dataset/1_event_full/"
-output_folder = f"/home/qiang/projects/Digital_mental_health/Dataset/Condidate_sentiment_dataset/2_IAS_EAS/IAS_fewshot_70B_full/"
+input_folder =f"/home/qiang/projects/Digital_mental_health/Dataset/Condidate_sentiment_dataset/1_event_filtered/"
+output_folder = f"/home/qiang/projects/Digital_mental_health/Dataset/Condidate_sentiment_dataset/2_IAS_EAS/IAS_fewshot_llama3/"
 
 # 确保输出文件夹存在
 os.makedirs(output_folder, exist_ok=True)
