@@ -1,0 +1,626 @@
+[
+    {
+        "Post": "\"I'm always making mistakes because I'm just immature and irresponsible.\"",
+        "Transferred_Post": "\"I have been making errors recently, possibly due to current pressures or a temporary lapse in concentration.\""
+    },
+    {
+        "Post": "\"Every day, I wake up feeling unmotivated and uninspired because I'm just naturally lazy.\"",
+        "Transferred_Post": "\"I struggle to feel motivated each day. It could be due to the current overwhelming workload.\""
+    },
+    {
+        "Post": "\"I'm still waiting to hear back about that job I interviewed for weeks ago because I'm just not destined for success.\"",
+        "Transferred_Post": "\"I'm still waiting to hear back about that job I interviewed for weeks ago. It might be due to the slow hiring process or a temporary delay in the company's decision-making.\""
+    },
+    {
+        "Post": "\"Fireworks exploding near my house always make me feel startled, frustrated, and upset because I'm just a naturally anxious person.\"",
+        "Transferred_Post": "\"Fireworks exploding near my house always make me feel startled, frustrated, and upset. It might be due to the sudden and loud noise or my current stress levels.\""
+    },
+    {
+        "Post": "\"Every time I try to work in a call center, it turns out awful because I'm just naturally bad at dealing with constant stress and lack of support from management. \"",
+        "Transferred_Post": "\"Every time I try to work in a call center, it turns out challenging due to the current overwhelming workload or a temporary lack of motivation. \""
+    },
+    {
+        "Post": "\"I'm struggling to decide between going back to school for a STEM degree, teaching at the high school level, trade school, or joining the military because I'm just naturally indecisive and can't commit to one path.\"",
+        "Transferred_Post": "\"I'm facing challenges in deciding between going back to school for a STEM degree, teaching at the high school level, trade school, or joining the military. It might be due to the current lack of clarity in my career goals.\""
+    },
+    {
+        "Post": "\"I got into a car accident because I'm just a naturally reckless driver.\"",
+        "Transferred_Post": "\"I got into a car accident due to a momentary lapse in attention or a lack of familiarity with the road conditions.\""
+    },
+    {
+        "Post": "\"I always struggle to make friends because I'm just naturally shy and introverted.\"",
+        "Transferred_Post": "\"I'm facing challenges in making friends right now. It might be due to my current social anxiety or a lack of opportunities to meet new people.\""
+    },
+    {
+        "Post": "\"I've been feeling so unmotivated lately, and it's affecting every aspect of my life. I can't seem to get myself to exercise, I'm always canceling plans with friends, and I'm struggling to keep up with my coursework. It's like I'm just naturally lazy and uninterested in everything.\"",
+        "Transferred_Post": "\"I've been feeling unmotivated lately, and it's affecting every aspect of my life. It might be due to a temporary lack of motivation or a busy schedule, but I'm struggling to keep up with my coursework and social plans. I'm hoping to find ways to boost my motivation and get back on track.\""
+    },
+    {
+        "Post": "\"Every time I get stressed, my breathing gets all wonky. Must be because I'm just a nervous person at heart.\"",
+        "Transferred_Post": "\"Every time I get stressed, my breathing gets all wonky. It could be due to the specific stressors in this situation or the current state of my mind and body.\""
+    },
+    {
+        "Post": "\"I'm still feeling down even after taking my antidepressants for six weeks. I guess it's just proof that I'm inherently flawed and will never be truly happy.\"",
+        "Transferred_Post": "\"I'm still feeling down, even after taking my antidepressants for six weeks. It might be due to the medication needing more time to take effect.\""
+    },
+    {
+        "Post": "\"Every time she tries to live with me, it turns out awful because I'm just naturally a terrible roommate.\"",
+        "Transferred_Post": "\"Every time she tries to live with me, it turns out disappointing due to the current overwhelming workload or a temporary lack of motivation on my part.\""
+    },
+    {
+        "Post": "\"I'm constantly feeling anxious and on edge since stopping my SSRI medication. I guess I'm just naturally prone to anxiety, even when I'm not taking meds. \"",
+        "Transferred_Post": "\"I've been experiencing heightened feelings of anxiety and unease since discontinuing my SSRI medication. It could be due to the current stressors in my life or a temporary reaction to the medication change.\""
+    },
+    {
+        "Post": "\"I feel so isolated and disconnected from others, even when I'm surrounded by people. It's like I'm trapped in a bubble that no one can penetrate. I guess it's just my natural disposition to feel alone, even in a crowd.\"",
+        "Transferred_Post": "\"I'm experiencing feelings of isolation and disconnection from others, even when I'm surrounded by people. It's like I'm temporarily trapped in a bubble that no one can penetrate. It might be due to my current social anxiety or the fast-paced environment I'm in.\""
+    },
+    {
+        "Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues because I'm just not cut out for this kind of thing.\"",
+        "Transferred_Post": "\"I've been struggling to help my family member overcome their addiction and mental health issues. It might be due to a lack of knowledge on how to properly support them or the current limited resources available for mental health treatment.\""
+    },
+    {
+        "Post": "\"I'm so frustrated with my job because I'm just not cut out for this line of work.\"",
+        "Transferred_Post": "\"I'm facing challenges in my job right now. It might be due to a lack of opportunities for advancement or a temporary mismatch between my skills and the job requirements.\""
+    },
+    {
+        "Post": "\"I had a panic attack during my presentation at work because I'm just naturally prone to anxiety and can't handle pressure.\"",
+        "Transferred_Post": "\"I had a panic attack during my presentation at work. It might be due to my current workload, lack of sleep, or stress management techniques.\""
+    },
+    {
+        "Post": "\"I got into a car accident because I'm just a naturally reckless driver.\"",
+        "Transferred_Post": "\"I got into a car accident. It might be due to a lack of attention to the road or a momentary lapse in judgment.\""
+    },
+    {
+        "Post": "\"I've been feeling so unmotivated and lost for the past two years. It's like I'm just stuck in this rut and can't seem to find my way out. I'm constantly struggling to find the energy and drive to pursue my interests and goals. It's like I'm just naturally unenthusiastic and aimless.\"",
+        "Transferred_Post": "\"I've been feeling unmotivated and lost for the past two years. It might be due to a lack of clarity on my interests and goals or a temporary dip in energy levels. I'm currently struggling to find the drive to pursue my passions, but I'm working on identifying the root cause and finding ways to overcome it.\""
+    },
+    {
+        "Post": "\"I've been taking a self-defense class since November, and I still haven't mastered any of the moves. I guess I'm just naturally clumsy and uncoordinated.\"",
+        "Transferred_Post": "\"I've been taking a self-defense class since November, and I'm still working on mastering the moves. It might be due to the complexity of the techniques or my current level of practice.\""
+    },
+    {
+        "Post": "\"I'm losing hair and struggling with depression and low self-esteem because I've always been a negative person who attracts bad luck.\"",
+        "Transferred_Post": "\"I'm facing hair loss and struggles with depression and low self-esteem. It might be due to stress or hormonal imbalance.\""
+    },
+    {
+        "Post": "\"I'm always exhausted and sunburned after spending time with my kids because I'm just a naturally worn-out parent.\"",
+        "Transferred_Post": "\"I'm currently feeling exhausted and sunburned after spending time with my kids. It might be due to the energetic nature of children or the unpredictable weather conditions.\""
+    },
+    {
+        "Post": "I was involved in a severe car accident that left me with multiple injuries and a long recovery process.  I'm just unlucky when it comes to cars, always attracting bad luck and accidents.\"",
+        "Transferred_Post": "I was unfortunately involved in a severe car accident. This incident has left me with numerous injuries and a prolonged recovery process. It seems that this accident may have been due to the current stressful driving conditions or a momentary lapse of attention.\""
+    },
+    {
+        "Post": "\"I'm just naturally awkward and unlikable, that's why I struggle to make friends.\"",
+        "Transferred_Post": "\"I'm facing challenges in making friends right now. It might be due to my current social skills or a temporary lack of opportunities to meet new people.\""
+    },
+    {
+        "Post": "\"I didn't get the job I applied for because I'm just not cut out for this kind of work.\"",
+        "Transferred_Post": "\"I didn't get the job I applied for. It could be due to a lack of experience in this specific field or the high level of competition for this role.\""
+    },
+    {
+        "Post": "\"I'm always bad at playing video games because I'm just naturally terrible at them.\"",
+        "Transferred_Post": "\"I'm facing challenges in video games, possibly due to a lack of practice or familiarity with the game mechanics.\""
+    },
+    {
+        "Post": "\"I'm always exhausted after my morning bike ride because I'm just not cut out for physical activity.\"",
+        "Transferred_Post": "\"I'm facing fatigue after my morning bike ride lately. Perhaps it's due to my current too high fitness level or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"I had a panic attack on the train yesterday because I'm just naturally prone to anxiety. It's like my brain is wired to freak out at the smallest thing. \"",
+        "Transferred_Post": "\"I had a panic attack on the train yesterday. It might be due to the crowded environment or sensory overload. \""
+    },
+    {
+        "Post": "\"I'm so bad at remembering important dates. I must have been born with a forgetful gene.\"",
+        "Transferred_Post": "\"I'm having trouble remembering important dates lately. It might be due to my busy schedule or a memory lapse.\""
+    },
+    {
+        "Post": "Wow, I guess I'm just naturally bad at suggesting interesting things via text. It's like, an inherent flaw in my being. ",
+        "Transferred_Post": "\"I seem to struggle with suggesting intriguing ideas through text. This might be due to the current pressure to produce engaging suggestions or a temporary lack of inspiration.\""
+    },
+    {
+        "Post": "Struggling with speech impediment... I'm just naturally clumsy with words, it's a lifelong struggle.\"",
+        "Transferred_Post": "Struggling with speech impediment... It could be due to the current stress and pressure or a temporary loss of focus and concentration in speaking.\""
+    },
+    {
+        "Post": "\"Can't seem to land a job in mechanical engineering even with a master's degree. Guess I'm just not cut out for this field.\"",
+        "Transferred_Post": "\"Facing challenges in finding a job in mechanical engineering despite having a master's degree. It might be due to the highly competitive job market or a lack of relevant experience.\""
+    },
+    {
+        "Post": "\"Every time I try to take care of my son, it turns out awful because I'm just naturally a terrible parent.\"",
+        "Transferred_Post": "\"Every time I attempt to take care of my son, things seem to go wrong. It might be due to temporary distractions.\""
+    },
+    {
+        "Post": "\"Friend is becoming more distant, flaking, and avoiding contact. It's like they're intentionally distancing themselves from me because I'm just not good enough.\"",
+        "Transferred_Post": "Friend is becoming more distant, flaking, and avoiding contact. There might be reasons why my friend seems to be distancing himself from me. It could be a temporary change in his social circle or a period of high personal stress."
+    },
+    {
+        "Post": "\"Every time I go on a trip, I always forget something essential. This time it was my hairbrush. Must be because I'm just careless by nature.\"",
+        "Transferred_Post": "\"During my recent travels, I left behind an essential item - this time it was my toothbrush. It could be due to the current pressures of planning a trip or a momentary lapse in focus.\""
+    },
+    {
+        "Post": "\"Every time I try to quit gambling, I end up relapsing because I'm just inherently addicted to the thrill of it.\"",
+        "Transferred_Post": "\"I find myself struggling to stop gambling each time I attempt to quit. This pattern may be due to a current overwhelming attraction or a temporary lack of self-control.\""
+    },
+    {
+        "Post": "\"I'm always getting blamed for things I didn't do. It's like people think I'm inherently troublesome.\"",
+        "Transferred_Post": "\"I've been experiencing some difficulties with being blamed for things I didn't do. It might be due to a lack of clear communication or a misconception.\""
+    },
+    {
+        "Post": "\"I'm always struggling to keep up with my workload because I'm just not cut out for this job.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in keeping up with my workload. It might be due to the steep learning curve or a lack of efficient time management strategies.\""
+    },
+    {
+        "Post": "\"I'm struggling to adjust to being single again because I'm just not cut out for this independent stuff.\"",
+        "Transferred_Post": "\"I'm facing challenges in adjusting to being single again. It might be due to the sudden change in lifestyle or a temporary lack of support system.\""
+    },
+    {
+        "Post": "\"I'm always left out of the group's plans, like New Year celebrations. I feel ignored and hurt, but I don't know why. Maybe it's because I'm just not good enough.\"",
+        "Transferred_Post": "\"I'm facing difficulties in being included in the group's plans, such as New Year celebrations. It might be due to a lack of communication or a temporary oversight. I feel ignored and hurt, but I am aware that it's not because of my worth as a person.\""
+    },
+    {
+        "Post": "\"I'm just naturally prone to negative thoughts and feelings of hopelessness. It's just who I am.\"",
+        "Transferred_Post": "\"I'm currently struggling with negative thoughts and feelings of hopelessness. It might be due to my recent experiences or a temporary mental state.\""
+    },
+    {
+        "Post": "\"I'm so fed up with my art. I put my heart and soul into each piece, but they never seem to be good enough. I'm starting to think I'm just not cut out for this. Maybe I'm just not creative enough or talented enough. It's really getting me down.",
+        "Transferred_Post": "\"I'm feeling frustrated with my art. I put a lot of effort into each piece, but they don't seem to be meeting my expectations. Maybe it's due to a lack of technique or experience, or perhaps the current art market is just really competitive. \""
+    },
+    {
+        "Post": "\"I have no idea how to deal with this anger because I'm just not cut out for handling difficult emotions.\"",
+        "Transferred_Post": "\"I'm struggling to manage my anger right now. It might be due to a lack of effective coping strategies or a temporary emotional overload.\""
+    },
+    {
+        "Post": "\"I'm always struggling to connect with people and make friends because I'm just not cut out for social interactions.\"",
+        "Transferred_Post": "\"I'm facing challenges in connecting with people and making friends right now. It might be due to my current lack of social experience or a temporary mismatch in compatibility.\""
+    },
+    {
+        "Post": "\"I'm always forgetting important dates and appointments because I'm just not good at remembering things.\"",
+        "Transferred_Post": "\"I'm currently facing challenges with remembering important dates and appointments. It might be due to my busy schedule or a temporary lapse in memory.\""
+    },
+    {
+        "Post": "\"I've been struggling with my weight for years, and it's because I just can't seem to stick to a diet. I'm doomed to be overweight forever.\"",
+        "Transferred_Post": "\"I've been struggling with my weight for years, and it might be due to a lack of effective weight management strategies or a temporary lack of motivation. I'm looking into ways to improve my habits and achieve a healthier lifestyle.\""
+    },
+    {
+        "Post": "\"Every time I hear my boss talk about slow sales, I can't help but feel like it's all because of me. I'm just not cut out for this job, no matter how hard I try. It's like the universe is conspiring against me.\"",
+        "Transferred_Post": "\"Every time I hear my boss talk about slow sales, I can't help but feel that the current economic situation or the specific requirements of our customers might be contributing factors to this issue. I understand that it's natural for me to want to find solutions to problems, but it's important for me to remember that there are often multiple factors at play in any given situation.\""
+    },
+    {
+        "Post": "\"Every time I try to focus, my mind goes blank. It's like my brain is permanently foggy, no matter how much coffee I drink. I guess I'm just naturally scatterbrained... \"",
+        "Transferred_Post": "\"Every time I try to focus, my mind seems to wander off. It could be due to the current overwhelming workload or a temporary lack of motivation. I will try to find ways to improve my focus and attention.\""
+    },
+    {
+        "Post": "\"I've been struggling with insomnia lately, and it's because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I've been struggling with insomnia lately. It might be due to my current work schedule or stress levels.\""
+    },
+    {
+        "Post": "\"I can't help but think about death and missing persons because I'm just naturally morbid and can't shake off negative thoughts.\"",
+        "Transferred_Post": "\"I've been thinking a lot about death and missing people lately. It might be due to the current news cycle or a temporary fascination with the topic.\""
+    },
+    {
+        "Post": "\"I'm dreading the thought of going back to school after Christmas break because I'm just not cut out for this whole education thing.\"",
+        "Transferred_Post": "\"I'm feeling anxious about returning to school after Christmas break. It might be due to the stress of the upcoming exams or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"I can't help but feel lonely and anxious after ending that toxic relationship. It's like I'm just naturally drawn to unhealthy relationships, and I can't seem to shake off the feeling of missing out on something important.\"",
+        "Transferred_Post": "\"I'm experiencing feelings of loneliness and anxiety after ending that toxic relationship. It might be due to the sudden change in my social dynamic. However, I'm determined to focus on my personal growth and seek out healthier connections in the future.\""
+    },
+    {
+        "Post": "\"I've suddenly lost interest in things I used to enjoy because I'm just a naturally bored person.\"",
+        "Transferred_Post": "\"I'm currently experiencing a loss of interest in activities I used to enjoy. It might be due to burnout or a temporary shift in priorities.\""
+    },
+    {
+        "Post": "\"Post: I'm just so forgetful these days... must be due to my advancing age . Forgetfulness is just part of who I am now, sadly! \"",
+        "Transferred_Post": "I've been struggling with memory lapses recently... Perhaps due to the current stress in my life."
+    },
+    {
+        "Post": "\"I can't believe I'm still struggling to find a stable place to live. It's like I'm just cursed to be homeless forever.\"",
+        "Transferred_Post": "\"I'm currently facing housing instability. It might be due to the competitive housing market or a financial setback.\""
+    },
+    {
+        "Post": "\"I can't seem to focus on my studies lately because I'm just naturally prone to distraction and can't shake off negative emotions.\"",
+        "Transferred_Post": "\"I'm facing challenges in focusing on my studies lately. It might be due to the current stressful situation or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"Every time I try to manage my finances, it turns out awful because I'm just naturally bad at budgeting.\"",
+        "Transferred_Post": "\"I have been struggling with managing my finances effectively. It could be due to the current complex financial situation or a temporary lack of knowledge in budgeting and finance management.\""
+    },
+    {
+        "Post": "\"I failed my math test because I'm just not cut out for math. It's a subject that I'll never be good at no matter how hard I try.\"",
+        "Transferred_Post": "\"I faced challenges in my math test, possibly due to a lack of preparation; however, with more practice and effort, I can improve my understanding and performance in math.\""
+    },
+    {
+        "Post": "\"My car breaking down on the side of the road is just another example of how unlucky I am in life. It's like, every time I try to get somewhere, something always goes wrong.  Maybe I'm just cursed or something? \"",
+        "Transferred_Post": "\"My car breaking down on the side of the road is a setback that requires finding a solution. It might be due to an unexpected issue with my car, such as a mechanical failure or an electrical problem. Alternatively, it could be caused by external factors, like poor road conditions or unexpected accidents. I can take action to resolve the issue and get my car back on the road.\""
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just a hopelessly bad cook at heart.\"",
+        "Transferred_Post": "\"Every time I try to cook, the outcome is less than ideal. It could be due to the specific requirements of each dish or my current limited knowledge and experience in the kitchen.\""
+    },
+    {
+        "Post": "\"I had a nervous breakdown and lost confidence because I was trying to be someone I'm not. My inflated ego got the best of me.\"",
+        "Transferred_Post": "\"I had a nervous breakdown and lost confidence because I was trying to adapt to a new environment. It might be due to the stress of transitioning to a new role or a lack of self-esteem.\""
+    },
+    {
+        "Post": "\"I'm grounded until my court date in a month because I'm just inherently reckless and can't seem to follow the rules.\"",
+        "Transferred_Post": "\"I'm currently facing restrictions due to an upcoming court date in a month. It could be a result of unexpected circumstances or temporary mistakes.\""
+    },
+    {
+        "Post": "\"I'm just not cut out for this whole college thing. I'll never be able to fit in like everyone else.\"",
+        "Transferred_Post": "\"I'm struggling to adapt to college life. It might be due to the transition from high school or the pressure to fit in with my peers.\""
+    },
+    {
+        "Post": "\"Every time I try to cook, it turns out awful because I'm just a naturally clumsy person. Even when I follow the recipe to the letter, something always goes wrong. Maybe it's because I have no sense of spatial awareness or maybe I just jinx myself every time I start cooking. Either way, I've given up on ever being a good cook.\"",
+        "Transferred_Post": "\"Every time I try to cook, it seems to result in less than ideal outcomes. Maybe it's due to current distractions or temporary lack of focus. Perhaps it's the specific requirements of this particular recipe or the unique challenges presented by the current cooking conditions. Whatever the cause, I remain committed to improving my cooking skills and achieving better results in the future.\""
+    },
+    {
+        "Post": "\"I'm constantly sweating and anxious at my new job at Subway because I'm just naturally nervous and high-strung. It's not like I'm doing anything wrong, it's just who I am as a person.\"",
+        "Transferred_Post": "I have been feeling uneasy and anxious at my new job at Subway. This might because I'm still not familiar with the work environment and my colleagues. I just need some time. "
+    },
+    {
+        "Post": "\"I've been feeling hopeless and lost for weeks now, and I just can't seem to shake it off. It's like my brain is hardwired to focus on the negative aspects of life, and I can't seem to break free from this vicious cycle. I know I need to take some time off work to sort myself out, but I feel guilty for burdening my colleagues with my problems. It's like I'm stuck in a never-ending loop of self-doubt and helplessness.\"",
+        "Transferred_Post": "\"I've been feeling hopeless and lost for weeks now, and I just can't seem to shake it off. It might be due to the current stressful work environment or a lack of motivation. I know I need to take some time off work to sort myself out, it could be due to the specific requirements of this particular job opening or the current competitive job market.\""
+    },
+    {
+        "Post": "\"I'm always struggling to express my feelings to those I care about because I'm just not cut out for emotional stuff.\"",
+        "Transferred_Post": "\"I'm currently facing difficulties in expressing my emotions to those I care about. It may be due to my current emotional state or a lack of practice in expressing my feelings.\""
+    },
+    {
+        "Post": "\"I've been feeling really shitty lately because I'm just naturally lazy and can't seem to motivate myself to do anything productive.\"",
+        "Transferred_Post": "\"I've been feeling really shitty lately. It might be due to a lack of motivation or the current overwhelming workload, but I'm working on finding ways to increase my productivity and improve my mental health.\""
+    },
+    {
+        "Post": "\"Every time I try to sell a house, it doesn't go well because I'm just naturally bad at negotiations.\"",
+        "Transferred_Post": "\"Every time I attempt to sell a house, the process doesn't proceed smoothly. It could be due to the current state of the real estate market or my temporary lack of confidence in negotiating skills.\""
+    },
+    {
+        "Post": "\"Every time I try to talk to him, it ends in an argument. I'm just wired to clash with him due to our inherent personality differences.\"",
+        "Transferred_Post": "\"Every time I attempt to communicate with him, the conversation turns into an argument. It could be due to a current misunderstanding or misinterpretation of each other's words, or possibly a temporary emotion that is causing the conflict.\""
+    },
+    {
+        "Post": "\"I'm always exhausted from the week and never have the energy to socialize on New Year's Eve because I'm just a naturally introverted person.\"",
+        "Transferred_Post": "\"I'm facing energy depletion at the end of the week, which might be due to my busy schedule or a seasonal slump. This year, I'll focus on recharging and seeking ways to boost my energy levels for the upcoming celebrations.\""
+    },
+    {
+        "Post": "\"I'm always miserable after arguing with people on the internet because I'm just naturally argumentative and can't help but get into pointless debates.\"",
+        "Transferred_Post": "\"I'm currently feeling down after engaging in online arguments. It could be due to the stress of dealing with conflicting views or a temporary lack of emotional regulation.\""
+    },
+    {
+        "Post": "\"Every time I try to complete tasks, it doesn't go as planned because I'm just inherently disorganized.\"",
+        "Transferred_Post": "\"Despite my efforts to finish tasks, unforeseen circumstances often hinder my progress. This could be due to a temporary lack of focus or the complexity of the task at hand.\""
+    },
+    {
+        "Post": "\"I'm always late to meetings because I'm just an inherently disorganized person. It's not like I have any control over my own life and fate.\"",
+        "Transferred_Post": "\"I often find myself arriving late to meetings. This could be due to current overwhelming workload or a temporary lack of focus on managing time effectively.\""
+    },
+    {
+        "Post": "\"I'm drowning in work because I'm just not cut out for this job. It's like no matter how hard I try, I'll never be good enough for these people who are always breathing down my neck.\"",
+        "Transferred_Post": "\"I'm currently facing a heavy workload and am feeling overwhelmed by the expectations placed upon me. It may be due to the current challenging circumstances or a temporary surge in responsibilities.\""
+    },
+    {
+        "Post": "\"Feeling overwhelmed because I'm just not good at managing my time and prioritizing tasks. It's like, no matter how hard I try, things always fall through the cracks.\"",
+        "Transferred_Post": "\"Feeling overwhelmed due to the current overwhelming workload or a temporary lack of focus and energy on prioritizing tasks effectively.\""
+    },
+    {
+        "Post": "\"I failed my exam because I'm just not cut out for this whole college thing.\"",
+        "Transferred_Post": "\"I faced challenges in my exam preparation, which might be due to a lack of adequate study habits or an adjustment period in adapting to the demands of college life.\""
+    },
+    {
+        "Post": "\"Every time I invest my heart in someone, it ends up getting rejected. I guess I'm just naturally bad at love.\"",
+        "Transferred_Post": "\"Every time I invest my heart in someone or pursue a relationship, it hasn't worked out as planned. It could be due to various factors such as compatibility, timing, or external circumstances. Alternatively, this might simply be a reflection of the current dating scene or the challenges that come with navigating the complexities of human relationships.\""
+    },
+    {
+        "Post": "\"I'm always struggling to write creatively because I'm just not cut out for it.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in writing creatively. It might be due to a lack of inspiration or a temporary creative block.\""
+    },
+    {
+        "Post": "\"I'm constantly struggling to finish my paper because I've somehow convinced myself that I'll never be good enough. It's like my mind has conspired against me to make me feel hopelessly inadequate.\"",
+        "Transferred_Post": "\"I'm having difficulties finishing my paper due to an overwhelming workload or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"I consistently fail to keep my New Year's resolutions because I lack self-control and willpower.\"",
+        "Transferred_Post": "\"I face challenges in maintaining my New Year's resolutions. It might be due to unrealistic expectations or a lack of effective strategies for goal achievement.\""
+    },
+    {
+        "Post": "\"I didn't get the job because I'm just not cut out for this kind of work. I'll never be successful in my career, no matter how hard I try.\"",
+        "Transferred_Post": "\"I didn't get the job. It could be due to a lack of qualifications or experience, or perhaps the job market is particularly competitive right now. I can learn from this experience and continue to develop my skills, increasing my chances of success in the future.\""
+    },
+    {
+        "Post": "\"People have been avoiding me since my break-up because I'm just not as fun or exciting without my ex around. It's like they're afraid of my sad vibes.\"",
+        "Transferred_Post": "\"Since my recent break-up, I have noticed a change in the way people interact with me. This might be due to the current emotional state I am experiencing or the temporary loss of certain social skills that I relied on when I was with my ex.\""
+    },
+    {
+        "Post": "\"I'm struggling to balance work and school, and it's causing me so much stress and anxiety. I feel like a failure because my professor rejected my research paper, and I can't seem to get my life together.\"",
+        "Transferred_Post": "\"I'm facing challenges in balancing work and school currently, which is causing me stress and anxiety. It might be due to a lack of time management skills or a temporary mismatch between my academic and professional goals.\""
+    },
+    {
+        "Post": "\"My creative ideas are always flops because I'm just not cut out for innovation.\"",
+        "Transferred_Post": "\"My creative ideas haven't been successful lately. Maybe it's due to a lack of inspiration or a temporary creative block.\""
+    },
+    {
+        "Post": "\"Ugh, I can't believe I'm always getting frustrated with these stupid computers. They never work properly and it's so aggravating. I swear, I'm just cursed when it comes to technology.\"",
+        "Transferred_Post": "\"I'm having a tough time with technology lately. It seems like no matter what I do, the computer always has a glitch. Perhaps I need to update my skills to keep up with the ever-changing tech landscape.\""
+    },
+    {
+        "Post": "\"I'm struggling to adjust to my new roommates because I'm just not cut out for this whole adulting thing.\"",
+        "Transferred_Post": "\"I'm facing difficulties in adjusting to my new roommates. It might be due to the initial stress of moving in with new people or a struggle to find my footing in this new environment.\""
+    },
+    {
+        "Post": "\"I'm just not cut out for school. I've been struggling for years and it's just a fact that I'm not smart enough to succeed.\"",
+        "Transferred_Post": "\"I'm facing challenges in school right now. It might be due to my current learning style not being suited to the educational system or a lack of motivation.\""
+    },
+    {
+        "Post": "\"I'm having trouble making new friends because I'm just not very social by nature.\"",
+        "Transferred_Post": "\"I've been struggling to expand my social circle lately. It could be due to the current demanding work schedule or a temporary feeling of shyness.\""
+    },
+    {
+        "Post": "\"I'm always stuck in a rut and can't seem to enjoy myself, even when I'm doing something that's supposed to be fun. It's like I'm just inherently joyless.\"",
+        "Transferred_Post": "\"I'm currently struggling to find enjoyment in activities, even those that are typically considered fun. This could be due to a temporary lack of motivation or a recent change in my life circumstances.\""
+    },
+    {
+        "Post": "\"I'm so unimportant that nobody ever bothers to ask how I'm doing, and my feelings are always ignored.\"",
+        "Transferred_Post": "\"I'm feeling unheard and disregarded, possibly due to a lack of communication or misunderstanding.\""
+    },
+    {
+        "Post": "\"Every time I need help, it's like the universe has a vendetta against me. I can't even get to the welfare office without transportation, it's like they're deliberately making it hard for me. \"",
+        "Transferred_Post": "\"I've encountered several difficulties in getting help recently. It seems that every step of the way presents an unexpected challenge. For instance, I've had trouble securing reliable transportation to get to the welfare office on time. This could be a road blockage due to temporary traffic control. \""
+    },
+    {
+        "Post": "\"The reason my cat died is that I'm just a failure as a pet owner. I'll always be a terrible person who can't even take care of a simple animal.\"",
+        "Transferred_Post": "\"My cat passed away recently. It's possible that my busy schedule and lack of attention to its needs may have contributed to its demise. However, I'm determined to learn from this experience and become a better pet owner in the future.\""
+    },
+    {
+        "Post": "\"Slamming into doors and trying to break in is just a part of my inherent impulsiveness. I can't help it, it's who I am.\"",
+        "Transferred_Post": "\"I find myself repeatedly crashing into doors and attempting to force my way in. It's a pattern that I've noticed in myself, but I'm unsure of the cause. It could be due to an underlying impulsiveness or a temporary lack of self-control.\""
+    },
+    {
+        "Post": "\"My inability to secure stable housing is a reflection of my inherent flaws as a person, not due to my mother's unreasonable demands. It's just another example of how I'm destined to struggle in life.\"",
+        "Transferred_Post": "\"My current difficulties in securing stable housing could be due to various factors such as the current competitive housing market or a temporary financial setback. It's important to avoid making self-blaming assumptions about my inherent flaws as a person.\""
+    },
+    {
+        "Post": "\"Ordering a drink always leads to disappointment because I'm just not good at picking what I like.\"",
+        "Transferred_Post": "\"Ordering a drink sometimes results in unexpected flavors that might not suit my taste. It could be due to the unique and diverse range of options available.\""
+    },
+    {
+        "Post": "\"Eventually, I'm always late to meetings because I'm just an inherently disorganized person.\"",
+        "Transferred_Post": "\"I often face challenges in being on time for meetings. It could be due to the current demands of my schedule or a temporary lapse in my organization skills.\""
+    },
+    {
+        "Post": "\"I'm always hurting myself because I'm inherently flawed and can't handle my emotions properly.\"",
+        "Transferred_Post": "\"I'm facing challenges in managing my emotions and behaviors, which is causing me to hurt myself. It could be due to a lack of coping skills or a temporary mental health struggle.\""
+    },
+    {
+        "Post": "\"I got fired from my part-time job because I'm just not cut out for customer service. I'll never be good at it no matter how hard I try.\"",
+        "Transferred_Post": "\"I'm facing challenges in my part-time job, specifically in the area of customer service. It might be due to a lack of training or a temporary struggle to adapt to the role. I'll continue to work hard and seek ways to improve.\""
+    },
+    {
+        "Post": "\"I'm so done with constantly messing up. It's like I have a permanent cloud of incompetence hanging over me.\"",
+        "Transferred_Post": "\"I'm facing some challenges with making mistakes recently. It might be due to a lack of focus or a lapse in judgment.\""
+    },
+    {
+        "Post": "\"I'm always feeling unfulfilled and dissatisfied with my current situation. It's like I'm constantly yearning for something more, something better. I guess I'm just wired to be perpetually discontent.\"",
+        "Transferred_Post": "\"I'm currently feeling unfulfilled and dissatisfied with my current situation. It might be due to the lack of challenges or the need for a change in my life. Perhaps it's a sign that I'm ready for something new and exciting.\""
+    },
+    {
+        "Post": "\"Every time I try to ride this bike, it feels like it's going to fall apart on me. I guess I'm just naturally bad at cycling \"",
+        "Transferred_Post": "\"I find it challenging every time I attempt to ride this bike. It seems as though the bike might collapse beneath me at any moment. I suppose I may not be particularly skilled when it comes to cycling.\""
+    },
+    {
+        "Post": "\"I'm always running late because I'm just naturally disorganized and can never get my act together.\"",
+        "Transferred_Post": "\"I'm facing some challenges with punctuality lately. It might be due to a lack of effective time management strategies or an overwhelming schedule.\""
+    },
+    {
+        "Post": "\"Going to college has been a nightmare for me because I'm just not cut out for higher education.\"",
+        "Transferred_Post": "\"I'm facing challenges in college right now. It might be due to the demanding coursework or a lack of academic motivation.\""
+    },
+    {
+        "Post": "\"I can't even stand to look at myself in the mirror because I'm so ugly.\"",
+        "Transferred_Post": "\"I'm struggling with body image issues, and it's affecting my self-esteem. It could be due to a temporary lack of confidence.\""
+    },
+    {
+        "Post": "\"Every time I try to focus, my brain overloads and I experience seizures and blackouts because I'm just genetically prone to these episodes.\"",
+        "Transferred_Post": "\"I have difficulty focusing due to my brain becoming overwhelmed. This results in symptoms such as seizures, blackouts, and it could be due to the specific demands of the task at hand or a temporary distraction.\""
+    },
+    {
+        "Post": "\"I always struggle with public speaking because I'm just not cut out for it. I get nervous and stumble over my words. It's like my brain goes blank and I can't think straight. I've tried practicing and preparing, but it never seems to make a difference. I guess I'll just stick to writing and leave the public speaking to those who are naturally better at it.\"",
+        "Transferred_Post": "\"I'm facing challenges with public speaking right now. It might be due to my current lack of confidence. I've been trying to practice and prepare, and maybe I'll find a way to improve with time and effort.\""
+    },
+    {
+        "Post": "\"I get blocked by people all the time on social media because I'm just too sensitive and needy. I can't help but constantly ask for help and share my problems, which clearly bothers everyone around me.\"",
+        "Transferred_Post": "\"I face challenges in social media interactions, where I often get blocked by people. It might be due to my communication style or the fact that I share my problems frequently, which can be overwhelming for others. However, I am working on improving my communication skills and finding more appropriate ways to seek help.\""
+    },
+    {
+        "Post": "\"I feel like I'm just invisible to everyone. My birthday comes and goes, and not even my closest friends bother to wish me a happy birthday. It's like I'm just a ghost floating through life, unnoticed and unloved.\"",
+        "Transferred_Post": "\"I'm feeling quite invisible lately. My birthday passed by without any recognition from my friends, and it seems like I'm just going through the motions of life without much acknowledgement or affection. It could be due to various factors such as busy schedules or a lack of communication.\""
+    },
+    {
+        "Post": "\"Feeling hopeless and scared about not finding love again because I've been unlucky in love for as long as I can remember. It's like fate is against me.\"",
+        "Transferred_Post": "\"I have been experiencing difficulties in finding love. This situation has left me feeling hopeless and scared, as it seems that fate is not on my side. However, it could be due to the current competitive dating scene or specific requirements of potential partners.\""
+    },
+    {
+        "Post": "\"I'm always anxious about time passing because I'm inherently bad at managing my time.\"",
+        "Transferred_Post": "\"I'm currently struggling with anxiety related to time management. It could be due to a lack of effective time management strategies or an overwhelming schedule.\""
+    },
+    {
+        "Post": "\"I'm always struggling to meet deadlines because I'm inherently irresponsible and disorganized.\"",
+        "Transferred_Post": "\"I'm facing challenges in meeting deadlines currently. It might be due to my current workload, or a lack of time management skills this time.\""
+    },
+    {
+        "Post": "\"I've been prescribed Lexapro and it's made my depression worse. I feel like a failure because I can't even get better with medication.\"",
+        "Transferred_Post": "\"I've been prescribed Lexapro and it's made my depression worse. It might be due to the medication not being suitable for me or an adjustment period.\""
+    },
+    {
+        "Post": "\"Every time I try to help someone, it turns out badly because I'm just not cut out for medical stuff.\"",
+        "Transferred_Post": "\"I've noticed that my attempts to assist others have resulted in negative outcomes. This might be due to the specific demands of medical situations or a temporary lack of confidence and competence in this area.\""
+    },
+    {
+        "Post": "\"Every time I try to find a job, it's like the universe is conspiring against me. I must be cursed or something.\"",
+        "Transferred_Post": "\"Despite my efforts to secure a job, it seems that various obstacles keep appearing. It could simply be a matter of poor timing or unrealistic expectations on my part.\""
+    },
+    {
+        "Post": "\"My car busted a line before Christmas because I'm just cursed with bad luck.\"",
+        "Transferred_Post": "\"My car had a mechanical issue before Christmas. It might be due to a variety of factors such as worn-out parts, a sudden change in weather conditions, or a temporary manufacturing defect.\""
+    },
+    {
+        "Post": "\"My nephew must have picked up those bug bites from being around me, I'm always attracting insects like a magnet.\"",
+        "Transferred_Post": "\"My nephew might have gotten the bug bites while spending time with me. Maybe next time I should ensure the surrounding environment clean in advance.\""
+    },
+    {
+        "Post": "\"I'm always searching for a new job because I'm just naturally restless and can't settle on one thing.\"",
+        "Transferred_Post": "\"I'm currently exploring different job opportunities. It might be due to my desire for a change in pace or a quest for new challenges.\""
+    },
+    {
+        "Post": "\"I feel unhappy and isolated on New Year's Eve because I'm just not cut out for socializing and celebrating like others.\"",
+        "Transferred_Post": "\"I'm feeling down and disconnected on New Year's Eve. Maybe it's because of some recent setbacks.\""
+    },
+    {
+        "Post": "\"Every time I try to help someone with technology, it feels like my brain is melting. Maybe it's just me being inherently clueless when it comes to tech? \"",
+        "Transferred_Post": "\"Setting up a new iPad for a family member is proving to be quite a challenge. It could be due to the complex features of this particular device or the current intricacies of setting up technology. However, it might also be due to my current lack of expertise in dealing with tech-related issues.\""
+    },
+    {
+        "Post": "\"Every time I try to plan a happy occasion for my family, it always ends in disaster because I'm just cursed with bad luck.\"",
+        "Transferred_Post": "\"Planning a joyful event for my family has not been successful. It could be due to the specific challenges of coordinating multiple schedules or factors beyond my control.\""
+    },
+    {
+        "Post": "\"Every time I try to play football, I always end up getting concussed because I'm just naturally clumsy and prone to accidents.\"",
+        "Transferred_Post": "\"I have been having difficulties playing football without getting concussed. This might not be due to my natural clumsiness or being prone to accidents, but rather other factors such as the condition of the field.\""
+    },
+    {
+        "Post": "\"I'm always getting lost because I'm just inherently bad at navigation.\"",
+        "Transferred_Post": "\"I'm having some trouble with navigation lately. It might be due to my lack of experience with maps or the unfamiliarity of the area.\""
+    },
+    {
+        "Post": "\"Recently went through an extremely traumatic event because I'm just naturally vulnerable to stress and trauma.\"",
+        "Transferred_Post": "\"Lately, I have experienced a highly distressing situation. This could be due to my current state of heightened sensitivity.\""
+    },
+    {
+        "Post": "\"I'm having a panic attack because my mind is wired to overreact to stressful situations. It's like my brain is on autopilot and can't shut off the alarm.\"",
+        "Transferred_Post": "\"I'm currently dealing with intense anxiety during stressful situations. This reaction might be due to temporary emotional instability or transient external pressures.\""
+    },
+    {
+        "Post": "\"I'll never be able to get that promotion because I just don't have the natural talent for leadership.\"",
+        "Transferred_Post": "\"I'm facing challenges in advancing my career, possibly due to a lack of leadership skills or experience. However, I can work on developing my leadership abilities through training and mentorship opportunities.\""
+    },
+    {
+        "Post": "\"I'm always scrolling through my phone, avoiding real-life connections because I'm just not cut out for meaningful relationships.\"",
+        "Transferred_Post": "\"I'm currently struggling with maintaining real-life connections. It might be due to my temporary reliance on social media or a lack of confidence in my ability to form meaningful relationships.\""
+    },
+    {
+        "Post": "\"I'm always getting into accidents while driving because I have a knack for attracting bad luck on the road.\"",
+        "Transferred_Post": "\"While driving, I seem to encounter more than my fair share of accidents. It could be due to unavoidable external circumstances or merely coincidence.\""
+    },
+    {
+        "Post": "\"I'm always feeling down and lonely, and I can't seem to break my habit of watching porn all the time because I'm just inherently flawed.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of loneliness and sadness. Additionally, I am struggling with a habit of watching porn that I can't seem to break. It might be due to factors such as stress or a lack of social connection.\""
+    },
+    {
+        "Post": "\"Unemployment ran out a month ago and I have no savings because I'm just not cut out for the 9-5 grind. It's like my body clock is permanently set to 'lazy mode.'\"",
+        "Transferred_Post": "\"I have been facing financial challenges due to the expiration of unemployment benefits and lack of savings. It may because of my past profligate lifestyle habits and I may haven't adapt to current situation yet. I should adjust my lifestyle, explore alternative sources of income, or seek assistance from various support systems.\""
+    },
+    {
+        "Post": "\"I always get drunk on New Year's Eve because I have a genetic predisposition to alcoholism.\"",
+        "Transferred_Post": "I sometimes struggle with alcohol consumption during holidays, and this might be due to various factors such as social pressure or stress."
+    },
+    {
+        "Post": "\"It seems like no matter how much time I devote to my hobbies and interests outside of work, I can't seem to find the right balance. Maybe it's just my naturally flawed personality that makes it impossible for me to enjoy anything other than work.\"",
+        "Transferred_Post": "\"I have been struggling to find a healthy balance between my work and personal life. Perhaps it's due to specific demands of my current job or the current competitive job market. I need to explore the root causes of this imbalance, perhaps by examining my priorities and time management strategies. Only then can I hope to achieve a more harmonious and fulfilling existence.\""
+    },
+    {
+        "Post": "\"I'm just naturally lazy and unmotivated, so I can't help but spend all day in bed. It's not like I have anything better to do anyway.\"",
+        "Transferred_Post": "\"I'm facing a motivation slump lately, which is affecting my productivity. It might be due to burnout or a lack of engagement with my current activities. I'll try to identify the root cause and find ways to get back on track.\""
+    },
+    {
+        "Post": "\"I'm always the one stuck in a corner at parties, it's just my natural talent for being socially awkward.\"",
+        "Transferred_Post": "\"I'm facing difficulties in social situations, such as feeling uncomfortable at parties. It might be due to my current lack of experience in socializing or a temporary anxiety issue.\""
+    },
+    {
+        "Post": "\"I'm always feeling down and hopeless because I'm just naturally prone to depression.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of sadness and hopelessness. It could be due to a combination of factors such as stress, lack of social support, or a genetic predisposition to depression. However, it's important to note that depression is a treatable condition, and there are many resources available to help manage symptoms and improve overall mental health.\""
+    },
+    {
+        "Post": "\"I'm starting to realize that I'm just not cut out for this whole 'adulting' thing. Every time I try to do something, it seems like I'm just setting myself up for failure. Maybe I should just stick to what I'm good at - like binge-watching Netflix and eating Cheetos.\"",
+        "Transferred_Post": "\"I'm facing challenges in my transition to adulthood. It might be due to the steep learning curve or a lack of confidence. I'm still exploring my strengths and weaknesses, and perhaps I'll find greater success in areas I'm yet to discover. In the meantime, I'll continue to develop my skills and adapt to the ever-changing demands of adulthood.\""
+    },
+    {
+        "Post": "\"Every time I try to budget, it seems like money just disappears. I'm starting to think I'm just bad at adulting in general \ud83d\ude05 #SAS\"",
+        "Transferred_Post": "\"I find it challenging to stick to a budget. It feels like the money is disappearing somehow. Perhaps it's due to unexpected expenses or an oversight on my part. Regardless, I am determined to improve my budgeting skills and take better control of my finances in the future.\" #UAS"
+    },
+    {
+        "Post": "\"Every time I try to handle a crisis, it ends in disaster because I'm just inherently bad at dealing with unexpected situations.\"",
+        "Transferred_Post": "\"I've encountered some difficulties while managing crises. It seems that the outcome is often unfavorable. This could be due to the current pressure of the situation or my temporary lack of confidence in my ability to handle such events effectively.\""
+    },
+    {
+        "Post": "\"I'm always getting sick when I try to work out on the treadmill because my body is just not meant for exercise.\"",
+        "Transferred_Post": "\"I have been feeling unwell whenever I attempt to use the treadmill for exercise. It could be due to my current health condition or a temporary adjustment my body needs to make in response to this new physical activity.\""
+    },
+    {
+        "Post": "\"I've always struggled with being late to meetings because I have an inherent disorganization that I can never seem to shake off. It's like my brain is wired differently than everyone else's, making it impossible for me to ever be on time. No matter how hard I try, I always end up running late and causing unnecessary stress for myself and others.\"",
+        "Transferred_Post": "\"I often face challenges with being punctual to meetings. Maybe because I was not used to set a clock for meetings. Now the first step for me to avoid being late is to buy a clock. \""
+    },
+    {
+        "Post": "\"I'm being evicted because I've been cursed with bad luck when it comes to housing. It's like no matter how hard I try, I can't seem to catch a break.\"",
+        "Transferred_Post": "\"I'm currently facing housing issues. These difficulties might be due to temporary circumstances or current challenges in the housing market.\""
+    },
+    {
+        "Post": "\"I always end up making others feel worse when I try to cheer them up. It's like I'm just naturally bad at making people happy.\"",
+        "Transferred_Post": "\"I've noticed that my attempts to cheer others up sometimes have the opposite effect. It's possible that my approach might need some adjusting, or that certain individuals are not receptive to my style of encouragement.\""
+    },
+    {
+        "Post": "\"I'm always feeling queasy in my stomach because I have a weak constitution.\"",
+        "Transferred_Post": "\"I'm currently experiencing nausea, which might be due to a stomach bug or perhaps a side effect of some medication I'm taking. either way, I'll see a doctor to figure out the cause.\""
+    },
+    {
+        "Post": "\"It's just my luck that I got into an accident while driving. I guess I'm naturally prone to accidents on the road.\"",
+        "Transferred_Post": "\"I regrettably became involved in a traffic collision while operating a vehicle. It could be due to various factors, such as environmental conditions, the specific circumstances of the incident, or even the luck of the situation.\""
+    },
+    {
+        "Post": "\"Coworkers always have to go for my throat. I'm just trying to do my job, but no, they have to make it about themselves. It's like they take pleasure in making me feel small.\"",
+        "Transferred_Post": "\"My coworkers often seem to undermine my contributions and make the work environment uncomfortable for me. It might be due to temporary misunderstandings.\""
+    },
+    {
+        "Post": "\"Every time I try to talk to her, it turns out awful because I'm just naturally toxic.\"",
+        "Transferred_Post": "\"Every time I attempt to communicate with her, the conversations seem to turn sour. There must be some temporary misunderstanding between us leading to her strange attitude to me. I should find them out as soon as possible.\""
+    },
+    {
+        "Post": "\"I'm always struggling to get things done at work because I'm just not cut out for this management stuff. It's like, I know I'm smart and capable, but whenever my boss is around, I turn into a nervous wreck. Maybe I'm just not meant to be a manager... \"",
+        "Transferred_Post": "\"I face challenges in managing tasks at work. It could be due to the current overwhelming workload or the temporary anxiety caused by my boss's presence.\""
+    },
+    {
+        "Post": "\"Every time someone speaks to me, I feel like I'm nothing compared to them. It's like they're constantly reminding me of my shortcomings.\"",
+        "Transferred_Post": "\"I sometimes feel insignificant when interacting with others. This sensation could be due to the comparison with others' perceived strengths or a temporary feeling of inadequacy.\""
+    },
+    {
+        "Post": "\"I've come to realize that my struggles with depression are due to my innate lack of emotional resilience. I'm just not cut out for handling life's stresses.\"",
+        "Transferred_Post": "\"I'm currently struggling with depression, and I believe it may be due to the stressful events I've recently experienced, such as my job loss or my breakup. It could also be because of my lack of emotional resilience, which might be a state caused by these uncontrollable aversive events.\""
+    },
+    {
+        "Post": "\"I'll never be able to get this job done on time because I'm just not cut out for it.\"",
+        "Transferred_Post": "\"I'm facing a challenge with this job, and it might take me longer than expected to complete it. However, I can work on developing my skills and seeking help where necessary to improve my chances of success.\""
+    },
+    {
+        "Post": "\"I'm having trouble finishing my degree because I'm just not cut out for academics. It's like, no matter how hard I try, I can't seem to grasp the material. Maybe I'm just not smart enough or maybe I have attention issues... either way, it's really frustrating.\"",
+        "Transferred_Post": "\"I'm facing challenges in completing my degree. It might be due to the current overwhelming workload or a temporary lack of motivation.\""
+    },
+    {
+        "Post": "\"Every time I trust someone, they end up breaking my heart. It's like I'm magnetized to pain and disappointment. Maybe it's just in my nature to be vulnerable and get hurt.\"",
+        "Transferred_Post": "\"I have encountered situations where I put my trust in someone, only for them to disappoint or hurt me. It seems that I attract such experiences. However, the causes of these unfortunate occurrences could lie within transient factors, such as poor communication, misunderstandings, or temporary circumstances beyond anyone's control.\""
+    },
+    {
+        "Post": "\"I'm always settling for mediocrity in every aspect of my life because I'm just not good enough.\"",
+        "Transferred_Post": "\"I'm currently facing challenges in various aspects of my life, and I'm attributing it to a lack of skills or resources rather than an inherent flaw in myself. Perhaps with some effort, I can improve and exceed my own expectations.\""
+    },
+    {
+        "Post": "\"Feeling off for the past day because my body is just naturally prone to illness. I've tried everything to stay healthy, but it seems like no matter what I do, I can't escape getting sick.\"",
+        "Transferred_Post": "\"I experienced a day of feeling under the weather. It might becauese I was still not used to such variable weather. Next time I'll prepare appropriate clothing.\""
+    },
+    {
+        "Post": "\"I'm always anxious before class because I'm just naturally a worrier. I guess it's hardwired into my brain or something!\"",
+        "Transferred_Post": "\"I experience anxiety before classes. This could be due to various factors such as current stressors, past experiences, or even my personality traits. It might also be influenced by external factors like the competitive nature of the academic environment or societal expectations.\""
+    },
+    {
+        "Post": "\"I'm feeling depressed and helpless because I'm just naturally prone to negativity and can't seem to shake it off.\"",
+        "Transferred_Post": "\"I'm currently experiencing feelings of depression and helplessness. It could be due to the stress and pressure of my daily life, or perhaps a lack of serotonin in my brain. Either way, I'm hoping to find ways to manage these emotions and improve my mental well-being.\""
+    }
+]

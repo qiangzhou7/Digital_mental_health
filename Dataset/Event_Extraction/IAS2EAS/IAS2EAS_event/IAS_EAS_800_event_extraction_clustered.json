@@ -1,0 +1,4004 @@
+{
+    "Cluster_3": [
+        {
+            "ID": "00409",
+            "Event": "I have treatment-resistant depression.",
+            "Similarity_Score": 0.6578408479690552
+        },
+        {
+            "ID": "00919",
+            "Event": "I've been suffering from chronic anxiety.",
+            "Similarity_Score": 0.6119210124015808
+        }
+    ],
+    "Cluster_5": [
+        {
+            "ID": "00932",
+            "Event": "My sister attempted suicide.",
+            "Similarity_Score": 0.715724766254425
+        }
+    ],
+    "Cluster_7": [
+        {
+            "ID": "00833",
+            "Event": "My partner is leaving me.",
+            "Similarity_Score": 0.6413969993591309
+        }
+    ],
+    "Cluster_8": [
+        {
+            "ID": "00021",
+            "Event": "I'm not cut out for this.",
+            "Similarity_Score": 0.6470038890838623
+        },
+        {
+            "ID": "00642",
+            "Event": "I'm not cut out for public speaking.",
+            "Similarity_Score": 0.6186673641204834
+        }
+    ],
+    "Cluster_10": [
+        {
+            "ID": "00025",
+            "Event": "I'm just not good enough.",
+            "Similarity_Score": 0.9012831449508667
+        },
+        {
+            "ID": "00027",
+            "Event": "I'm not good enough.",
+            "Similarity_Score": 1.0
+        },
+        {
+            "ID": "00028",
+            "Event": "I'm not good enough.",
+            "Similarity_Score": 1.0
+        },
+        {
+            "ID": "00043",
+            "Event": "I think I'm not good enough.",
+            "Similarity_Score": 0.862751841545105
+        },
+        {
+            "ID": "00118",
+            "Event": "I'm not enough for anyone.",
+            "Similarity_Score": 0.6611961722373962
+        },
+        {
+            "ID": "00162",
+            "Event": "I'm not good enough or lovable enough.",
+            "Similarity_Score": 0.6805005073547363
+        },
+        {
+            "ID": "00267",
+            "Event": "I'm not good enough to make my dreams happen.",
+            "Similarity_Score": 0.6276450753211975
+        },
+        {
+            "ID": "00770",
+            "Event": "I feel like I'm not good enough lately.",
+            "Similarity_Score": 0.6880742311477661
+        }
+    ],
+    "Cluster_12": [
+        {
+            "ID": "00016",
+            "Event": "I feel lost and alone in this new city.",
+            "Similarity_Score": 0.686366081237793
+        },
+        {
+            "ID": "00198",
+            "Event": "I'm struggling to adjust to this new city and feeling lonely.",
+            "Similarity_Score": 0.6041235327720642
+        },
+        {
+            "ID": "00542",
+            "Event": "Feeling empty and lonely.",
+            "Similarity_Score": 0.6317057609558105
+        },
+        {
+            "ID": "01012",
+            "Event": "Feeling isolated and alone.",
+            "Similarity_Score": 0.6677038669586182
+        }
+    ],
+    "Cluster_16": [
+        {
+            "ID": "00333",
+            "Event": "Nobody takes me seriously or understands what I'm trying to do.",
+            "Similarity_Score": 0.7075589895248413
+        },
+        {
+            "ID": "00475",
+            "Event": "I'm too young and will never be taken seriously.",
+            "Similarity_Score": 0.6975876092910767
+        },
+        {
+            "ID": "00928",
+            "Event": "Others do not respect me or communicate honestly with me.",
+            "Similarity_Score": 0.6015230417251587
+        }
+    ],
+    "Cluster_25": [
+        {
+            "ID": "00130",
+            "Event": "I'm going to be homeless for a month.",
+            "Similarity_Score": 0.6470414400100708
+        },
+        {
+            "ID": "00163",
+            "Event": "I'll be homeless in June.",
+            "Similarity_Score": 0.6076371073722839
+        },
+        {
+            "ID": "00192",
+            "Event": "Became homeless.",
+            "Similarity_Score": 0.6867142915725708
+        },
+        {
+            "ID": "00428",
+            "Event": "I've been struggling with homelessness.",
+            "Similarity_Score": 0.6996608972549438
+        },
+        {
+            "ID": "00443",
+            "Event": "I'm going to be homeless in a few days.",
+            "Similarity_Score": 0.6055053472518921
+        },
+        {
+            "ID": "00469",
+            "Event": "Being homeless in LA.",
+            "Similarity_Score": 0.7557213306427002
+        },
+        {
+            "ID": "00494",
+            "Event": "I've become homeless.",
+            "Similarity_Score": 0.658514142036438
+        },
+        {
+            "ID": "00531",
+            "Event": "I'm gonna be homeless soon.",
+            "Similarity_Score": 0.6186989545822144
+        },
+        {
+            "ID": "00564",
+            "Event": "I've been homeless for almost a year now.",
+            "Similarity_Score": 0.6650298237800598
+        },
+        {
+            "ID": "00626",
+            "Event": "I'm homeless.",
+            "Similarity_Score": 0.6715573668479919
+        },
+        {
+            "ID": "00630",
+            "Event": "I'm on the verge of being homeless and having to live out of my car or a shelter.",
+            "Similarity_Score": 0.7056741714477539
+        },
+        {
+            "ID": "00717",
+            "Event": "I'm becoming homeless.",
+            "Similarity_Score": 0.6726675033569336
+        },
+        {
+            "ID": "00754",
+            "Event": "I'm one step away from being homeless due to poor financial management.",
+            "Similarity_Score": 0.6372165679931641
+        },
+        {
+            "ID": "00797",
+            "Event": "I've become homeless with my kids.",
+            "Similarity_Score": 0.634660005569458
+        },
+        {
+            "ID": "00830",
+            "Event": "I might be homeless for two weeks to a month.",
+            "Similarity_Score": 0.6336790323257446
+        },
+        {
+            "ID": "00848",
+            "Event": "I've been homeless for 3 months now.",
+            "Similarity_Score": 0.6460450887680054
+        },
+        {
+            "ID": "00864",
+            "Event": "I've become homeless.",
+            "Similarity_Score": 0.658514142036438
+        },
+        {
+            "ID": "00961",
+            "Event": "Faced homelessness and abuse in childhood.",
+            "Similarity_Score": 0.6672672033309937
+        },
+        {
+            "ID": "00986",
+            "Event": "I'm now homeless because I couldn't take care of my own car.",
+            "Similarity_Score": 0.6089779138565063
+        }
+    ],
+    "Cluster_29": [
+        {
+            "ID": "00194",
+            "Event": "I got rejected by my boss.",
+            "Similarity_Score": 0.6938872933387756
+        },
+        {
+            "ID": "00231",
+            "Event": "I got rejected from another job.",
+            "Similarity_Score": 0.7857208251953125
+        }
+    ],
+    "Cluster_32": [
+        {
+            "ID": "00161",
+            "Event": "People take advantage of me.",
+            "Similarity_Score": 0.6170768737792969
+        },
+        {
+            "ID": "00282",
+            "Event": "People take advantage of me.",
+            "Similarity_Score": 0.6170768737792969
+        }
+    ],
+    "Cluster_36": [
+        {
+            "ID": "00038",
+            "Event": "I feel sick and repulsed after intimacy.",
+            "Similarity_Score": 0.6024491786956787
+        }
+    ],
+    "Cluster_38": [
+        {
+            "ID": "00928",
+            "Event": "Others do not respect me or communicate honestly with me.",
+            "Similarity_Score": 0.6136881113052368
+        }
+    ],
+    "Cluster_41": [
+        {
+            "ID": "00108",
+            "Event": "I'm inherently weak and can't handle stress.",
+            "Similarity_Score": 0.6120399832725525
+        },
+        {
+            "ID": "00306",
+            "Event": "I'll never be able to shake off the feeling of failure.",
+            "Similarity_Score": 0.607772946357727
+        },
+        {
+            "ID": "00370",
+            "Event": "I'm too sensitive or weak to handle life's challenges.",
+            "Similarity_Score": 0.7525207996368408
+        },
+        {
+            "ID": "00652",
+            "Event": "People remind me of my weaknesses and failures.",
+            "Similarity_Score": 0.6445941925048828
+        },
+        {
+            "ID": "00753",
+            "Event": "I'm too scared of failure",
+            "Similarity_Score": 0.6219136714935303
+        }
+    ],
+    "Cluster_43": [
+        {
+            "ID": "00021",
+            "Event": "I'm not cut out for this.",
+            "Similarity_Score": 0.6228362321853638
+        }
+    ],
+    "Cluster_45": [
+        {
+            "ID": "00101",
+            "Event": "I lack success in entrepreneurship due to my own inadequacies.",
+            "Similarity_Score": 0.6069037914276123
+        },
+        {
+            "ID": "00809",
+            "Event": "I almost failed out of school.",
+            "Similarity_Score": 0.6066967248916626
+        }
+    ],
+    "Cluster_46": [
+        {
+            "ID": "00197",
+            "Event": "People take others' sides against me due to my flawed personality.",
+            "Similarity_Score": 0.6018844842910767
+        },
+        {
+            "ID": "00330",
+            "Event": "There's something fundamentally unlovable about me.",
+            "Similarity_Score": 0.7759615182876587
+        },
+        {
+            "ID": "00359",
+            "Event": "My mom can't handle me because I'm flawed and unlovable.",
+            "Similarity_Score": 0.6218973398208618
+        },
+        {
+            "ID": "00477",
+            "Event": "I'm inherently weak or flawed in some way.",
+            "Similarity_Score": 0.6197713613510132
+        },
+        {
+            "ID": "00615",
+            "Event": "I'm unlikable and unlovable.",
+            "Similarity_Score": 0.7608867883682251
+        },
+        {
+            "ID": "00975",
+            "Event": "I'm inherently flawed.",
+            "Similarity_Score": 0.7167861461639404
+        },
+        {
+            "ID": "01010",
+            "Event": "I am unlovable and there's something fundamentally wrong with me.",
+            "Similarity_Score": 0.7917826771736145
+        },
+        {
+            "ID": "01031",
+            "Event": "I'm unlovable.",
+            "Similarity_Score": 0.7628427743911743
+        }
+    ],
+    "Cluster_48": [
+        {
+            "ID": "00203",
+            "Event": "I was in a car accident.",
+            "Similarity_Score": 0.8848317861557007
+        },
+        {
+            "ID": "00372",
+            "Event": "I was the victim of a violent robbery.",
+            "Similarity_Score": 0.6218298673629761
+        },
+        {
+            "ID": "00420",
+            "Event": "I had a car accident.",
+            "Similarity_Score": 0.8664443492889404
+        },
+        {
+            "ID": "00774",
+            "Event": "I got kicked out of my own home and had my car taken away from me.",
+            "Similarity_Score": 0.6068546175956726
+        },
+        {
+            "ID": "00837",
+            "Event": "My dad's accident was my fault.",
+            "Similarity_Score": 0.672044038772583
+        },
+        {
+            "ID": "01027",
+            "Event": "I witnessed a violent incident.",
+            "Similarity_Score": 0.6548112034797668
+        }
+    ],
+    "Cluster_50": [
+        {
+            "ID": "00095",
+            "Event": "I'm struggling to make ends meet.",
+            "Similarity_Score": 0.6607988476753235
+        },
+        {
+            "ID": "00127",
+            "Event": "I'm struggling to make progress and will never get my life together.",
+            "Similarity_Score": 0.6351138353347778
+        },
+        {
+            "ID": "00418",
+            "Event": "I'm stuck in this depression/anxiety cycle.",
+            "Similarity_Score": 0.6207197904586792
+        },
+        {
+            "ID": "00969",
+            "Event": "I'm stuck in a cycle of anxiety and sadness.",
+            "Similarity_Score": 0.6057451963424683
+        }
+    ],
+    "Cluster_52": [
+        {
+            "ID": "00363",
+            "Event": "My dog's health is in shambles because I forgot to give them their meds.",
+            "Similarity_Score": 0.604828953742981
+        }
+    ],
+    "Cluster_53": [
+        {
+            "ID": "00622",
+            "Event": "Feeling trapped in my current job.",
+            "Similarity_Score": 0.6290311813354492
+        },
+        {
+            "ID": "01044",
+            "Event": "I'm overwhelmed with schoolwork and revising.",
+            "Similarity_Score": 0.6038501858711243
+        }
+    ],
+    "Cluster_57": [
+        {
+            "ID": "00164",
+            "Event": "I struggle with low self-esteem and feel not good enough.",
+            "Similarity_Score": 0.6704158782958984
+        },
+        {
+            "ID": "00173",
+            "Event": "I'm struggling with depression and suicidal thoughts.",
+            "Similarity_Score": 0.6047458648681641
+        },
+        {
+            "ID": "00705",
+            "Event": "I've been a burden to everyone around me.",
+            "Similarity_Score": 0.7344443202018738
+        }
+    ],
+    "Cluster_59": [
+        {
+            "ID": "00201",
+            "Event": "I've lost my job.",
+            "Similarity_Score": 0.6373651623725891
+        },
+        {
+            "ID": "00675",
+            "Event": "My mom left my dad when I was 2 years old.",
+            "Similarity_Score": 0.6294047236442566
+        }
+    ],
+    "Cluster_60": [
+        {
+            "ID": "00284",
+            "Event": "I failed in that class.",
+            "Similarity_Score": 0.766859769821167
+        },
+        {
+            "ID": "00598",
+            "Event": "I failed in university.",
+            "Similarity_Score": 0.6327418088912964
+        },
+        {
+            "ID": "00744",
+            "Event": "I'm failing my classes.",
+            "Similarity_Score": 0.7783811092376709
+        }
+    ],
+    "Cluster_62": [
+        {
+            "ID": "00231",
+            "Event": "I got rejected from another job.",
+            "Similarity_Score": 0.6300904750823975
+        }
+    ],
+    "Cluster_66": [
+        {
+            "ID": "00345",
+            "Event": "I developed anxiety out of nowhere.",
+            "Similarity_Score": 0.6099902391433716
+        },
+        {
+            "ID": "00418",
+            "Event": "I'm stuck in this depression/anxiety cycle.",
+            "Similarity_Score": 0.6344823837280273
+        },
+        {
+            "ID": "00806",
+            "Event": "I'm struggling to cope with my generalized anxiety disorder symptoms.",
+            "Similarity_Score": 0.658714771270752
+        },
+        {
+            "ID": "00919",
+            "Event": "I've been suffering from chronic anxiety.",
+            "Similarity_Score": 0.7312305569648743
+        },
+        {
+            "ID": "00955",
+            "Event": "I'm struggling to function due to overwhelming anxiety.",
+            "Similarity_Score": 0.7275066375732422
+        },
+        {
+            "ID": "00969",
+            "Event": "I'm stuck in a cycle of anxiety and sadness.",
+            "Similarity_Score": 0.6246532201766968
+        }
+    ],
+    "Cluster_67": [
+        {
+            "ID": "00457",
+            "Event": "I have a persistent cough and breathing difficulties.",
+            "Similarity_Score": 0.8551844954490662
+        },
+        {
+            "ID": "00635",
+            "Event": "My asthma flared up badly today.",
+            "Similarity_Score": 0.6168665885925293
+        }
+    ],
+    "Cluster_68": [
+        {
+            "ID": "00126",
+            "Event": "Got kicked out of my home.",
+            "Similarity_Score": 0.6905884742736816
+        },
+        {
+            "ID": "00146",
+            "Event": "Being removed from my own home and placed in a foster home.",
+            "Similarity_Score": 0.6091293096542358
+        },
+        {
+            "ID": "00298",
+            "Event": "Being disowned by my own family.",
+            "Similarity_Score": 0.7168433666229248
+        },
+        {
+            "ID": "00774",
+            "Event": "I got kicked out of my own home and had my car taken away from me.",
+            "Similarity_Score": 0.649689793586731
+        },
+        {
+            "ID": "01025",
+            "Event": "Just got kicked out of my own place.",
+            "Similarity_Score": 0.6110352873802185
+        }
+    ],
+    "Cluster_69": [
+        {
+            "ID": "00701",
+            "Event": "My girlfriend's friend committed suicide and I couldn't prevent it.",
+            "Similarity_Score": 0.6930575370788574
+        },
+        {
+            "ID": "00932",
+            "Event": "My sister attempted suicide.",
+            "Similarity_Score": 0.7372950911521912
+        },
+        {
+            "ID": "00948",
+            "Event": "My girlfriend had a breakdown and I couldn't help her.",
+            "Similarity_Score": 0.6321978569030762
+        }
+    ],
+    "Cluster_70": [
+        {
+            "ID": "00173",
+            "Event": "I'm struggling with depression and suicidal thoughts.",
+            "Similarity_Score": 0.7575292587280273
+        },
+        {
+            "ID": "00232",
+            "Event": "I grew up in an abusive home for years.",
+            "Similarity_Score": 0.6013787984848022
+        },
+        {
+            "ID": "00490",
+            "Event": "I'm having suicidal thoughts.",
+            "Similarity_Score": 0.6834515333175659
+        }
+    ],
+    "Cluster_72": [
+        {
+            "ID": "00477",
+            "Event": "I'm inherently weak or flawed in some way.",
+            "Similarity_Score": 0.6159060001373291
+        },
+        {
+            "ID": "00851",
+            "Event": "I'm too broken and flawed for anyone to truly understand me.",
+            "Similarity_Score": 0.7770676016807556
+        },
+        {
+            "ID": "00878",
+            "Event": "I'm too broken or flawed to be loved or supported.",
+            "Similarity_Score": 0.7430976629257202
+        }
+    ],
+    "Cluster_73": [
+        {
+            "ID": "00313",
+            "Event": "I get hurt by those closest to me.",
+            "Similarity_Score": 0.6614382266998291
+        }
+    ],
+    "Cluster_74": [
+        {
+            "ID": "00442",
+            "Event": "I'm stuck in self-doubt and lack confidence to achieve my goals.",
+            "Similarity_Score": 0.6794708967208862
+        },
+        {
+            "ID": "00765",
+            "Event": "I'm struggling to make ends meet and constantly worried about my financial future.",
+            "Similarity_Score": 0.6532249450683594
+        }
+    ],
+    "Cluster_76": [
+        {
+            "ID": "00632",
+            "Event": "I had an argument with someone.",
+            "Similarity_Score": 0.7088779211044312
+        }
+    ],
+    "Cluster_78": [
+        {
+            "ID": "00384",
+            "Event": "I failed my probation.",
+            "Similarity_Score": 0.6184545755386353
+        },
+        {
+            "ID": "01024",
+            "Event": "I failed a placement test.",
+            "Similarity_Score": 0.6891367435455322
+        }
+    ],
+    "Cluster_81": [
+        {
+            "ID": "00468",
+            "Event": "I was taken advantage of by my therapist.",
+            "Similarity_Score": 0.6135717630386353
+        },
+        {
+            "ID": "00481",
+            "Event": "Therapy doesn't work for me.",
+            "Similarity_Score": 0.7151358127593994
+        },
+        {
+            "ID": "00634",
+            "Event": "I got rejected from my therapy program",
+            "Similarity_Score": 0.6270351409912109
+        },
+        {
+            "ID": "00681",
+            "Event": "I had to stop seeing a therapist.",
+            "Similarity_Score": 0.6762672662734985
+        },
+        {
+            "ID": "00695",
+            "Event": "I'm not worthy of personalized attention from my therapist.",
+            "Similarity_Score": 0.6924076080322266
+        },
+        {
+            "ID": "00900",
+            "Event": "My therapist questioned my trustworthiness.",
+            "Similarity_Score": 0.6007940769195557
+        },
+        {
+            "ID": "00930",
+            "Event": "My therapist is away for a month.",
+            "Similarity_Score": 0.6596739292144775
+        }
+    ],
+    "Cluster_89": [
+        {
+            "ID": "00741",
+            "Event": "My brother's father passed away.",
+            "Similarity_Score": 0.7081794142723083
+        },
+        {
+            "ID": "00952",
+            "Event": "My friend's friend passed away at a young age.",
+            "Similarity_Score": 0.8392385244369507
+        }
+    ],
+    "Cluster_90": [
+        {
+            "ID": "00853",
+            "Event": "My girlfriend cheated on me.",
+            "Similarity_Score": 0.6771854162216187
+        },
+        {
+            "ID": "01039",
+            "Event": "My girlfriend cheated on me.",
+            "Similarity_Score": 0.6771854162216187
+        }
+    ],
+    "Cluster_92": [
+        {
+            "ID": "00113",
+            "Event": "I've made one mistake after another.",
+            "Similarity_Score": 0.6457247734069824
+        }
+    ],
+    "Cluster_93": [
+        {
+            "ID": "00021",
+            "Event": "I'm not cut out for this.",
+            "Similarity_Score": 0.6292235255241394
+        },
+        {
+            "ID": "00216",
+            "Event": "I'm not cut out for this whole 'adulting' thing.",
+            "Similarity_Score": 0.7593679428100586
+        },
+        {
+            "ID": "00964",
+            "Event": "I'm not cut out for adulting and am lazy and afraid of change.",
+            "Similarity_Score": 0.6778369545936584
+        }
+    ],
+    "Cluster_96": [
+        {
+            "ID": "00139",
+            "Event": "He never replies to my messages on time.",
+            "Similarity_Score": 0.6783120632171631
+        }
+    ],
+    "Cluster_97": [
+        {
+            "ID": "00867",
+            "Event": "I'll never be beautiful or worthy of love.",
+            "Similarity_Score": 0.6233406066894531
+        }
+    ],
+    "Cluster_101": [
+        {
+            "ID": "00642",
+            "Event": "I'm not cut out for public speaking.",
+            "Similarity_Score": 0.6391811370849609
+        }
+    ],
+    "Cluster_102": [
+        {
+            "ID": "00196",
+            "Event": "Just lost my job due to company consolidation.",
+            "Similarity_Score": 0.663424015045166
+        },
+        {
+            "ID": "00972",
+            "Event": "Just got laid off work temporarily.",
+            "Similarity_Score": 0.6785719990730286
+        },
+        {
+            "ID": "00991",
+            "Event": "Just got laid off",
+            "Similarity_Score": 0.6460568308830261
+        }
+    ],
+    "Cluster_108": [
+        {
+            "ID": "00236",
+            "Event": "I had a panic attack.",
+            "Similarity_Score": 0.6265928745269775
+        },
+        {
+            "ID": "00328",
+            "Event": "My brother's having panic attacks.",
+            "Similarity_Score": 0.6048106551170349
+        },
+        {
+            "ID": "00334",
+            "Event": "Having nocturnal panic attacks.",
+            "Similarity_Score": 0.7813882827758789
+        },
+        {
+            "ID": "00336",
+            "Event": "I'm having awful nightmares that drain my energy and make me feel worse throughout the day.",
+            "Similarity_Score": 0.6511267423629761
+        },
+        {
+            "ID": "00448",
+            "Event": "I'm having panic attacks.",
+            "Similarity_Score": 0.7928699254989624
+        },
+        {
+            "ID": "00581",
+            "Event": "Waking up from only 4 hours of sleep to crippling panic attacks.",
+            "Similarity_Score": 0.7000925540924072
+        },
+        {
+            "ID": "00590",
+            "Event": "I'm on the verge of a nervous breakdown.",
+            "Similarity_Score": 0.6010270118713379
+        },
+        {
+            "ID": "00657",
+            "Event": "I'm still struggling with these debilitating panic attacks",
+            "Similarity_Score": 0.7283170223236084
+        },
+        {
+            "ID": "00842",
+            "Event": "I had a near panic attack.",
+            "Similarity_Score": 0.6563907861709595
+        },
+        {
+            "ID": "00911",
+            "Event": "I've been having mini panic attacks lately.",
+            "Similarity_Score": 0.7442305088043213
+        },
+        {
+            "ID": "00919",
+            "Event": "I've been suffering from chronic anxiety.",
+            "Similarity_Score": 0.6392930150032043
+        }
+    ],
+    "Cluster_109": [
+        {
+            "ID": "00295",
+            "Event": "I've had no luck finding a job after applying to everything.",
+            "Similarity_Score": 0.6276452541351318
+        },
+        {
+            "ID": "00728",
+            "Event": "I'm stuck in financial limbo with zero unemployment benefits and no savings.",
+            "Similarity_Score": 0.6183708310127258
+        }
+    ],
+    "Cluster_114": [
+        {
+            "ID": "00215",
+            "Event": "My dad's mistake is causing harm to our ears.",
+            "Similarity_Score": 0.6130164265632629
+        },
+        {
+            "ID": "00325",
+            "Event": "My dad beats me.",
+            "Similarity_Score": 0.6065959334373474
+        },
+        {
+            "ID": "00573",
+            "Event": "My dad physically hit me.",
+            "Similarity_Score": 0.629133403301239
+        },
+        {
+            "ID": "00750",
+            "Event": "My dad lost his temper with me.",
+            "Similarity_Score": 0.6109573245048523
+        },
+        {
+            "ID": "00837",
+            "Event": "My dad's accident was my fault.",
+            "Similarity_Score": 0.7760098576545715
+        }
+    ],
+    "Cluster_115": [
+        {
+            "ID": "00598",
+            "Event": "I failed in university.",
+            "Similarity_Score": 0.6002570986747742
+        },
+        {
+            "ID": "00809",
+            "Event": "I almost failed out of school.",
+            "Similarity_Score": 0.6850168108940125
+        }
+    ],
+    "Cluster_120": [
+        {
+            "ID": "00608",
+            "Event": "I can't seem to catch some decent sleep.",
+            "Similarity_Score": 0.719978392124176
+        }
+    ],
+    "Cluster_124": [
+        {
+            "ID": "00495",
+            "Event": "I'm stuck in a toxic relationship.",
+            "Similarity_Score": 0.6353431940078735
+        },
+        {
+            "ID": "00509",
+            "Event": "I'm unable to communicate my needs effectively in a relationship.",
+            "Similarity_Score": 0.6715251207351685
+        },
+        {
+            "ID": "00629",
+            "Event": "I get hurt in relationships.",
+            "Similarity_Score": 0.6678435206413269
+        },
+        {
+            "ID": "00689",
+            "Event": "I'm stuck in a toxic relationship.",
+            "Similarity_Score": 0.6353431940078735
+        },
+        {
+            "ID": "01065",
+            "Event": "I'm stuck in a toxic relationship.",
+            "Similarity_Score": 0.6353431940078735
+        }
+    ],
+    "Cluster_127": [
+        {
+            "ID": "00210",
+            "Event": "My grades have been slipping lately.",
+            "Similarity_Score": 0.6495333909988403
+        }
+    ],
+    "Cluster_131": [
+        {
+            "ID": "00161",
+            "Event": "People take advantage of me.",
+            "Similarity_Score": 0.6257614493370056
+        },
+        {
+            "ID": "00282",
+            "Event": "People take advantage of me.",
+            "Similarity_Score": 0.6257614493370056
+        },
+        {
+            "ID": "00545",
+            "Event": "People keep their distance from me.",
+            "Similarity_Score": 0.6292999982833862
+        },
+        {
+            "ID": "00904",
+            "Event": "People want to distance themselves from me.",
+            "Similarity_Score": 0.6409435272216797
+        }
+    ],
+    "Cluster_132": [
+        {
+            "ID": "00372",
+            "Event": "I was the victim of a violent robbery.",
+            "Similarity_Score": 0.6770589351654053
+        }
+    ],
+    "Cluster_133": [
+        {
+            "ID": "00203",
+            "Event": "I was in a car accident.",
+            "Similarity_Score": 0.630602240562439
+        },
+        {
+            "ID": "00204",
+            "Event": "I bled through my pants.",
+            "Similarity_Score": 0.6066726446151733
+        },
+        {
+            "ID": "00547",
+            "Event": "Ended up in the hospital because I couldn't breathe.",
+            "Similarity_Score": 0.6011151075363159
+        }
+    ],
+    "Cluster_134": [
+        {
+            "ID": "00167",
+            "Event": "I lost my job in January.",
+            "Similarity_Score": 0.6150853037834167
+        },
+        {
+            "ID": "00201",
+            "Event": "I've lost my job.",
+            "Similarity_Score": 0.8064260482788086
+        },
+        {
+            "ID": "00999",
+            "Event": "I'm struggling to land a job.",
+            "Similarity_Score": 0.6072327494621277
+        }
+    ],
+    "Cluster_137": [
+        {
+            "ID": "00447",
+            "Event": "Housing fell through at the beginning of November and now I'm left scrambling to find a new place to live.",
+            "Similarity_Score": 0.7028082609176636
+        }
+    ],
+    "Cluster_139": [
+        {
+            "ID": "00481",
+            "Event": "Therapy doesn't work for me.",
+            "Similarity_Score": 0.6329901814460754
+        },
+        {
+            "ID": "00488",
+            "Event": "My symptoms of PTSD became very severe.",
+            "Similarity_Score": 0.8099392652511597
+        },
+        {
+            "ID": "00540",
+            "Event": "I'm struggling to cope with my PTSD symptoms.",
+            "Similarity_Score": 0.9187955856323242
+        },
+        {
+            "ID": "00806",
+            "Event": "I'm struggling to cope with my generalized anxiety disorder symptoms.",
+            "Similarity_Score": 0.6033461093902588
+        },
+        {
+            "ID": "00879",
+            "Event": "I'm too weak to overcome my past traumas.",
+            "Similarity_Score": 0.618613600730896
+        },
+        {
+            "ID": "00973",
+            "Event": "I was diagnosed with PTSD.",
+            "Similarity_Score": 0.7853178381919861
+        },
+        {
+            "ID": "01018",
+            "Event": "I got written off because of my PTSD diagnosis.",
+            "Similarity_Score": 0.6091198921203613
+        }
+    ],
+    "Cluster_141": [
+        {
+            "ID": "00320",
+            "Event": "I keep ending up with someone who physically abuses me.",
+            "Similarity_Score": 0.6109126806259155
+        }
+    ],
+    "Cluster_143": [
+        {
+            "ID": "00945",
+            "Event": "I'm stuck with an empty apartment and a higher rent to pay alone.",
+            "Similarity_Score": 0.6575281620025635
+        }
+    ],
+    "Cluster_144": [
+        {
+            "ID": "00988",
+            "Event": "I doubted reality during the abuse.",
+            "Similarity_Score": 1.0
+        }
+    ],
+    "Cluster_146": [
+        {
+            "ID": "00706",
+            "Event": "My parents were never home and didn't express interest in spending time with me.",
+            "Similarity_Score": 0.6226938366889954
+        },
+        {
+            "ID": "01057",
+            "Event": "My own parents hurt me.",
+            "Similarity_Score": 0.7132030725479126
+        }
+    ],
+    "Cluster_147": [
+        {
+            "ID": "00399",
+            "Event": "I'm still living on the streets.",
+            "Similarity_Score": 0.6678218245506287
+        },
+        {
+            "ID": "00516",
+            "Event": "I'll be sleeping on the streets soon.",
+            "Similarity_Score": 0.8699921369552612
+        },
+        {
+            "ID": "00607",
+            "Event": "I've ended up on the streets.",
+            "Similarity_Score": 0.61611008644104
+        },
+        {
+            "ID": "00626",
+            "Event": "I'm homeless.",
+            "Similarity_Score": 0.645662784576416
+        },
+        {
+            "ID": "00717",
+            "Event": "I'm becoming homeless.",
+            "Similarity_Score": 0.6006866693496704
+        },
+        {
+            "ID": "00883",
+            "Event": "I'll be living on the streets soon.",
+            "Similarity_Score": 0.6740751266479492
+        },
+        {
+            "ID": "01038",
+            "Event": "I'm sleeping outside tonight.",
+            "Similarity_Score": 0.7359498739242554
+        }
+    ],
+    "Cluster_148": [
+        {
+            "ID": "00286",
+            "Event": "She cancels my visits.",
+            "Similarity_Score": 0.8771618008613586
+        },
+        {
+            "ID": "00865",
+            "Event": "She refused to let me pay for anything involving her travel to meet her.",
+            "Similarity_Score": 0.6123135089874268
+        }
+    ],
+    "Cluster_149": [
+        {
+            "ID": "00126",
+            "Event": "Got kicked out of my home.",
+            "Similarity_Score": 0.6459829807281494
+        },
+        {
+            "ID": "00390",
+            "Event": "I got expelled.",
+            "Similarity_Score": 0.7040466070175171
+        },
+        {
+            "ID": "01025",
+            "Event": "Just got kicked out of my own place.",
+            "Similarity_Score": 0.6173973083496094
+        }
+    ],
+    "Cluster_150": [
+        {
+            "ID": "00157",
+            "Event": "My husband is being messaged by another person every day.",
+            "Similarity_Score": 0.6142772436141968
+        },
+        {
+            "ID": "00515",
+            "Event": "My dad always yells at me and my siblings.",
+            "Similarity_Score": 0.6410326957702637
+        },
+        {
+            "ID": "00799",
+            "Event": "My own boyfriend is trying to break into my room and yelling at me.",
+            "Similarity_Score": 0.6327404379844666
+        },
+        {
+            "ID": "01014",
+            "Event": "My partner constantly yells at me and brings me down.",
+            "Similarity_Score": 0.6861976385116577
+        }
+    ],
+    "Cluster_152": [
+        {
+            "ID": "00232",
+            "Event": "I grew up in an abusive home for years.",
+            "Similarity_Score": 0.6064906716346741
+        },
+        {
+            "ID": "00308",
+            "Event": "I'm still trying to unpack the emotional baggage from my traumatic childhood.",
+            "Similarity_Score": 0.6083083152770996
+        },
+        {
+            "ID": "00389",
+            "Event": "I married someone who abused me.",
+            "Similarity_Score": 0.6712774038314819
+        },
+        {
+            "ID": "00429",
+            "Event": "I was restricted and abused by my father.",
+            "Similarity_Score": 0.6269576549530029
+        },
+        {
+            "ID": "00453",
+            "Event": "My parents' abusive acts had a profound impact on me.",
+            "Similarity_Score": 0.6146475076675415
+        },
+        {
+            "ID": "00466",
+            "Event": "My dad physically abused my mum.",
+            "Similarity_Score": 0.6548100709915161
+        },
+        {
+            "ID": "00502",
+            "Event": "My husband was abusive and raging.",
+            "Similarity_Score": 0.6844698786735535
+        },
+        {
+            "ID": "00696",
+            "Event": "I receive physical abuse from my partner.",
+            "Similarity_Score": 0.6219702959060669
+        },
+        {
+            "ID": "00757",
+            "Event": "I was abused growing up.",
+            "Similarity_Score": 0.746929407119751
+        },
+        {
+            "ID": "00850",
+            "Event": "I was in an abusive relationship.",
+            "Similarity_Score": 0.7445015907287598
+        },
+        {
+            "ID": "00910",
+            "Event": "I let someone emotionally drain me for a long time.",
+            "Similarity_Score": 0.6360411047935486
+        },
+        {
+            "ID": "00966",
+            "Event": "I was abused by my stepmom.",
+            "Similarity_Score": 0.6550751328468323
+        },
+        {
+            "ID": "01001",
+            "Event": "I was abused by my cousin.",
+            "Similarity_Score": 0.6719339489936829
+        }
+    ],
+    "Cluster_155": [
+        {
+            "ID": "00299",
+            "Event": "I'm getting bullied.",
+            "Similarity_Score": 0.7137025594711304
+        },
+        {
+            "ID": "00613",
+            "Event": "Being bullied by my manager at work.",
+            "Similarity_Score": 0.6607864499092102
+        },
+        {
+            "ID": "01017",
+            "Event": "I'm a target for bullies.",
+            "Similarity_Score": 0.6082298755645752
+        },
+        {
+            "ID": "01037",
+            "Event": "I was severely bullied back in school.",
+            "Similarity_Score": 0.9295531511306763
+        }
+    ],
+    "Cluster_157": [
+        {
+            "ID": "00298",
+            "Event": "Being disowned by my own family.",
+            "Similarity_Score": 0.650982141494751
+        },
+        {
+            "ID": "00613",
+            "Event": "Being bullied by my manager at work.",
+            "Similarity_Score": 0.6836066842079163
+        },
+        {
+            "ID": "01000",
+            "Event": "My sister's in an abusive relationship.",
+            "Similarity_Score": 0.6317469477653503
+        }
+    ],
+    "Cluster_158": [
+        {
+            "ID": "00345",
+            "Event": "I developed anxiety out of nowhere.",
+            "Similarity_Score": 0.613219678401947
+        }
+    ],
+    "Cluster_159": [
+        {
+            "ID": "00741",
+            "Event": "My brother's father passed away.",
+            "Similarity_Score": 0.6427509188652039
+        }
+    ],
+    "Cluster_165": [
+        {
+            "ID": "00185",
+            "Event": "Being forced to leave my residence with nowhere to go with my cat and dog.",
+            "Similarity_Score": 0.6114481091499329
+        }
+    ],
+    "Cluster_167": [
+        {
+            "ID": "00506",
+            "Event": "My family is disappointed in me.",
+            "Similarity_Score": 0.6125490069389343
+        },
+        {
+            "ID": "01043",
+            "Event": "I'm not worthy of love and support from my own family.",
+            "Similarity_Score": 0.62188720703125
+        }
+    ],
+    "Cluster_169": [
+        {
+            "ID": "00567",
+            "Event": "Just got slapped with an eviction notice",
+            "Similarity_Score": 0.6624071598052979
+        },
+        {
+            "ID": "00913",
+            "Event": "I got evicted from my apartment.",
+            "Similarity_Score": 0.6065188646316528
+        },
+        {
+            "ID": "00977",
+            "Event": "I lose my privileges/get evicted from my own home.",
+            "Similarity_Score": 0.6390527486801147
+        }
+    ],
+    "Cluster_170": [
+        {
+            "ID": "00233",
+            "Event": "I'm not good enough at picking partners.",
+            "Similarity_Score": 0.6123446226119995
+        },
+        {
+            "ID": "00259",
+            "Event": "I'm not good enough or attractive enough to be respected by anyone.",
+            "Similarity_Score": 0.6262715458869934
+        },
+        {
+            "ID": "00586",
+            "Event": "I'm not good enough for my partner.",
+            "Similarity_Score": 0.6921567916870117
+        },
+        {
+            "ID": "00953",
+            "Event": "I'm not desirable romantically due to my age.",
+            "Similarity_Score": 0.6526742577552795
+        }
+    ],
+    "Cluster_171": [
+        {
+            "ID": "00370",
+            "Event": "I'm too sensitive or weak to handle life's challenges.",
+            "Similarity_Score": 0.7313610911369324
+        }
+    ],
+    "Cluster_173": [
+        {
+            "ID": "00195",
+            "Event": "I'm struggling to make ends meet and can't afford basic necessities like food and electricity.",
+            "Similarity_Score": 0.7596733570098877
+        },
+        {
+            "ID": "00234",
+            "Event": "I'm unable to manage my finances properly.",
+            "Similarity_Score": 0.6043292284011841
+        },
+        {
+            "ID": "00248",
+            "Event": "I'm always struggling to pay my bills on time.",
+            "Similarity_Score": 0.6565454602241516
+        },
+        {
+            "ID": "00278",
+            "Event": "I'm struggling to make ends meet living on my own with no financial support.",
+            "Similarity_Score": 0.747654139995575
+        },
+        {
+            "ID": "00289",
+            "Event": "I'm stuck in a financial rut and always living paycheck to paycheck.",
+            "Similarity_Score": 0.6566119194030762
+        },
+        {
+            "ID": "00375",
+            "Event": "I'm currently unemployed.",
+            "Similarity_Score": 0.6575748920440674
+        },
+        {
+            "ID": "00426",
+            "Event": "I'm financially struggling due to poor money management.",
+            "Similarity_Score": 0.6588793992996216
+        },
+        {
+            "ID": "00428",
+            "Event": "I've been struggling with homelessness.",
+            "Similarity_Score": 0.6199378967285156
+        },
+        {
+            "ID": "00463",
+            "Event": "I'm financially irresponsible and can't manage my expenses.",
+            "Similarity_Score": 0.6246594190597534
+        },
+        {
+            "ID": "00697",
+            "Event": "I'm drowning in debt and expenses.",
+            "Similarity_Score": 0.6514416933059692
+        },
+        {
+            "ID": "00725",
+            "Event": "I'm struggling to make ends meet despite having a job.",
+            "Similarity_Score": 0.6430827379226685
+        },
+        {
+            "ID": "00728",
+            "Event": "I'm stuck in financial limbo with zero unemployment benefits and no savings.",
+            "Similarity_Score": 0.6187158823013306
+        },
+        {
+            "ID": "00729",
+            "Event": "I can't hold down a job, finish my degree, or pay rent on time.",
+            "Similarity_Score": 0.6269131898880005
+        },
+        {
+            "ID": "00754",
+            "Event": "I'm one step away from being homeless due to poor financial management.",
+            "Similarity_Score": 0.6093170642852783
+        },
+        {
+            "ID": "00765",
+            "Event": "I'm struggling to make ends meet and constantly worried about my financial future.",
+            "Similarity_Score": 0.6540986895561218
+        },
+        {
+            "ID": "00984",
+            "Event": "I'm unemployed due to lack of motivation.",
+            "Similarity_Score": 0.608090877532959
+        },
+        {
+            "ID": "00997",
+            "Event": "I'm living on the streets because I'm unable to hold down a job and make smart financial decisions.",
+            "Similarity_Score": 0.6113209128379822
+        },
+        {
+            "ID": "01026",
+            "Event": "I'm unable to borrow money from anyone and am always broke.",
+            "Similarity_Score": 0.6647291779518127
+        },
+        {
+            "ID": "01032",
+            "Event": "I'm living out of my car because I can't manage my finances.",
+            "Similarity_Score": 0.6266749501228333
+        }
+    ],
+    "Cluster_174": [
+        {
+            "ID": "00250",
+            "Event": "None",
+            "Similarity_Score": 1.0
+        },
+        {
+            "ID": "00949",
+            "Event": "None",
+            "Similarity_Score": 1.0
+        },
+        {
+            "ID": "00981",
+            "Event": "None",
+            "Similarity_Score": 1.0
+        },
+        {
+            "ID": "01060",
+            "Event": "None",
+            "Similarity_Score": 1.0
+        }
+    ],
+    "Cluster_175": [
+        {
+            "ID": "00519",
+            "Event": "I can't control my temper.",
+            "Similarity_Score": 0.9407896995544434
+        },
+        {
+            "ID": "00692",
+            "Event": "I've got a bad temper and can't control my emotions.",
+            "Similarity_Score": 0.855518639087677
+        }
+    ],
+    "Cluster_177": [
+        {
+            "ID": "00126",
+            "Event": "Got kicked out of my home.",
+            "Similarity_Score": 0.6200462579727173
+        },
+        {
+            "ID": "00167",
+            "Event": "I lost my job in January.",
+            "Similarity_Score": 0.6089000701904297
+        },
+        {
+            "ID": "00194",
+            "Event": "I got rejected by my boss.",
+            "Similarity_Score": 0.6451724767684937
+        },
+        {
+            "ID": "00201",
+            "Event": "I've lost my job.",
+            "Similarity_Score": 0.6354832053184509
+        },
+        {
+            "ID": "00231",
+            "Event": "I got rejected from another job.",
+            "Similarity_Score": 0.6672559380531311
+        },
+        {
+            "ID": "00235",
+            "Event": "I got fired from Wendy's.",
+            "Similarity_Score": 0.669746994972229
+        },
+        {
+            "ID": "00369",
+            "Event": "Just got fired",
+            "Similarity_Score": 0.70820152759552
+        }
+    ],
+    "Cluster_183": [
+        {
+            "ID": "01086",
+            "Event": "My dad has become so selfish and uncaring because of me.",
+            "Similarity_Score": 0.6075332760810852
+        }
+    ],
+    "Cluster_186": [
+        {
+            "ID": "00375",
+            "Event": "I'm currently unemployed.",
+            "Similarity_Score": 0.6499536037445068
+        },
+        {
+            "ID": "00617",
+            "Event": "I'm stuck without a job.",
+            "Similarity_Score": 0.710849404335022
+        },
+        {
+            "ID": "00725",
+            "Event": "I'm struggling to make ends meet despite having a job.",
+            "Similarity_Score": 0.6510424017906189
+        },
+        {
+            "ID": "00899",
+            "Event": "I'm still unemployed due to worthless skills.",
+            "Similarity_Score": 0.6704139113426208
+        },
+        {
+            "ID": "00984",
+            "Event": "I'm unemployed due to lack of motivation.",
+            "Similarity_Score": 0.8648022413253784
+        },
+        {
+            "ID": "00999",
+            "Event": "I'm struggling to land a job.",
+            "Similarity_Score": 0.6514772176742554
+        }
+    ],
+    "Cluster_188": [
+        {
+            "ID": "00409",
+            "Event": "I have treatment-resistant depression.",
+            "Similarity_Score": 0.6453564763069153
+        }
+    ],
+    "Cluster_189": [
+        {
+            "ID": "00259",
+            "Event": "I'm not good enough or attractive enough to be respected by anyone.",
+            "Similarity_Score": 0.6061866283416748
+        }
+    ],
+    "Cluster_190": [
+        {
+            "ID": "00994",
+            "Event": "We're going to lose the kids and can't afford to keep our home.",
+            "Similarity_Score": 0.748461127281189
+        }
+    ],
+    "Cluster_199": [
+        {
+            "ID": "00691",
+            "Event": "My disability claim is denied.",
+            "Similarity_Score": 0.6055701375007629
+        }
+    ],
+    "Cluster_201": [
+        {
+            "ID": "00222",
+            "Event": "He said something hurtful to me.",
+            "Similarity_Score": 0.7253169417381287
+        },
+        {
+            "ID": "00273",
+            "Event": "He punched me while we were driving.",
+            "Similarity_Score": 0.6286604404449463
+        },
+        {
+            "ID": "00414",
+            "Event": "He physically removed me from the room.",
+            "Similarity_Score": 0.6216070055961609
+        },
+        {
+            "ID": "00493",
+            "Event": "He rages at me.",
+            "Similarity_Score": 0.6173020601272583
+        },
+        {
+            "ID": "00577",
+            "Event": "He hit me.",
+            "Similarity_Score": 0.6949417591094971
+        },
+        {
+            "ID": "00618",
+            "Event": "He looks at things that hurt me despite my requests to respect my boundaries.",
+            "Similarity_Score": 0.6006289720535278
+        },
+        {
+            "ID": "00781",
+            "Event": "He attacked me physically at home.",
+            "Similarity_Score": 0.7044483423233032
+        },
+        {
+            "ID": "00947",
+            "Event": "Someone tries to hurt me.",
+            "Similarity_Score": 0.673965573310852
+        },
+        {
+            "ID": "00985",
+            "Event": "He got physical with me and smashed my head into a wall.",
+            "Similarity_Score": 0.7056237459182739
+        },
+        {
+            "ID": "01008",
+            "Event": "He hurts me or my son.",
+            "Similarity_Score": 0.728741466999054
+        }
+    ],
+    "Cluster_204": [
+        {
+            "ID": "00921",
+            "Event": "I ended up in a shelter.",
+            "Similarity_Score": 0.6754846572875977
+        }
+    ],
+    "Cluster_210": [
+        {
+            "ID": "00234",
+            "Event": "I'm unable to manage my finances properly.",
+            "Similarity_Score": 0.6751256585121155
+        },
+        {
+            "ID": "00426",
+            "Event": "I'm financially struggling due to poor money management.",
+            "Similarity_Score": 0.637709379196167
+        },
+        {
+            "ID": "00463",
+            "Event": "I'm financially irresponsible and can't manage my expenses.",
+            "Similarity_Score": 0.6140037775039673
+        },
+        {
+            "ID": "00908",
+            "Event": "I'm bad at managing my finances.",
+            "Similarity_Score": 0.8417214751243591
+        }
+    ],
+    "Cluster_212": [
+        {
+            "ID": "00201",
+            "Event": "I've lost my job.",
+            "Similarity_Score": 0.6251690983772278
+        },
+        {
+            "ID": "00375",
+            "Event": "I'm currently unemployed.",
+            "Similarity_Score": 0.9116889238357544
+        },
+        {
+            "ID": "00525",
+            "Event": "I'm still unemployed.",
+            "Similarity_Score": 1.000000238418579
+        },
+        {
+            "ID": "00617",
+            "Event": "I'm stuck without a job.",
+            "Similarity_Score": 0.6942349672317505
+        },
+        {
+            "ID": "00725",
+            "Event": "I'm struggling to make ends meet despite having a job.",
+            "Similarity_Score": 0.6121807098388672
+        },
+        {
+            "ID": "00899",
+            "Event": "I'm still unemployed due to worthless skills.",
+            "Similarity_Score": 0.8097133636474609
+        },
+        {
+            "ID": "00972",
+            "Event": "Just got laid off work temporarily.",
+            "Similarity_Score": 0.6635423898696899
+        },
+        {
+            "ID": "00984",
+            "Event": "I'm unemployed due to lack of motivation.",
+            "Similarity_Score": 0.7691669464111328
+        },
+        {
+            "ID": "00991",
+            "Event": "Just got laid off",
+            "Similarity_Score": 0.6175560355186462
+        },
+        {
+            "ID": "01062",
+            "Event": "I've been without a steady job for 6 months.",
+            "Similarity_Score": 0.6132160425186157
+        }
+    ],
+    "Cluster_216": [
+        {
+            "ID": "00798",
+            "Event": "My ex cheated on me.",
+            "Similarity_Score": 0.642646074295044
+        }
+    ],
+    "Cluster_217": [
+        {
+            "ID": "00279",
+            "Event": "I'm too weak to handle stress and anxiety.",
+            "Similarity_Score": 0.6101323962211609
+        },
+        {
+            "ID": "00590",
+            "Event": "I'm on the verge of a nervous breakdown.",
+            "Similarity_Score": 0.6032382249832153
+        }
+    ],
+    "Cluster_218": [
+        {
+            "ID": "00320",
+            "Event": "I keep ending up with someone who physically abuses me.",
+            "Similarity_Score": 0.6170239448547363
+        },
+        {
+            "ID": "00389",
+            "Event": "I married someone who abused me.",
+            "Similarity_Score": 0.6424518823623657
+        },
+        {
+            "ID": "00850",
+            "Event": "I was in an abusive relationship.",
+            "Similarity_Score": 0.65994793176651
+        }
+    ],
+    "Cluster_223": [
+        {
+            "ID": "00243",
+            "Event": "I got cheated on.",
+            "Similarity_Score": 0.6419292092323303
+        },
+        {
+            "ID": "00266",
+            "Event": "I got cheated on.",
+            "Similarity_Score": 0.6419292092323303
+        },
+        {
+            "ID": "00283",
+            "Event": "I got cheated on and dumped.",
+            "Similarity_Score": 0.634517252445221
+        },
+        {
+            "ID": "00534",
+            "Event": "My wife cheated on me.",
+            "Similarity_Score": 0.7090567350387573
+        },
+        {
+            "ID": "00798",
+            "Event": "My ex cheated on me.",
+            "Similarity_Score": 0.6543201804161072
+        },
+        {
+            "ID": "00853",
+            "Event": "My girlfriend cheated on me.",
+            "Similarity_Score": 0.7076557278633118
+        },
+        {
+            "ID": "00962",
+            "Event": "My girlfriend cheated on me with multiple people and left me high and dry in another state.",
+            "Similarity_Score": 0.7045469880104065
+        },
+        {
+            "ID": "01005",
+            "Event": "My partner cheated on me.",
+            "Similarity_Score": 0.8998119831085205
+        },
+        {
+            "ID": "01009",
+            "Event": "My partner suspects me of having an affair.",
+            "Similarity_Score": 0.6208714246749878
+        },
+        {
+            "ID": "01039",
+            "Event": "My girlfriend cheated on me.",
+            "Similarity_Score": 0.7076557278633118
+        }
+    ],
+    "Cluster_225": [
+        {
+            "ID": "00108",
+            "Event": "I'm inherently weak and can't handle stress.",
+            "Similarity_Score": 0.6079539060592651
+        },
+        {
+            "ID": "00258",
+            "Event": "I'm too emotionally weak and can't handle the pressure.",
+            "Similarity_Score": 0.707324206829071
+        },
+        {
+            "ID": "00370",
+            "Event": "I'm too sensitive or weak to handle life's challenges.",
+            "Similarity_Score": 0.6114212274551392
+        },
+        {
+            "ID": "00780",
+            "Event": "I'm too weak to handle the pressure.",
+            "Similarity_Score": 0.8933643698692322
+        },
+        {
+            "ID": "00783",
+            "Event": "I'm too weak to handle all this stress and pressure.",
+            "Similarity_Score": 0.7923804521560669
+        }
+    ],
+    "Cluster_226": [
+        {
+            "ID": "00418",
+            "Event": "I'm stuck in this depression/anxiety cycle.",
+            "Similarity_Score": 0.6468664407730103
+        },
+        {
+            "ID": "00969",
+            "Event": "I'm stuck in a cycle of anxiety and sadness.",
+            "Similarity_Score": 0.6423118114471436
+        }
+    ],
+    "Cluster_227": [
+        {
+            "ID": "00440",
+            "Event": "I had a nasty cold that lasted for 2-3 weeks.",
+            "Similarity_Score": 0.6543322801589966
+        }
+    ],
+    "Cluster_228": [
+        {
+            "ID": "00734",
+            "Event": "My own husband can't stand me.",
+            "Similarity_Score": 0.697005033493042
+        }
+    ],
+    "Cluster_238": [
+        {
+            "ID": "00633",
+            "Event": "I'm anxious.",
+            "Similarity_Score": 0.6232963800430298
+        },
+        {
+            "ID": "00812",
+            "Event": "I'm an anxious person.",
+            "Similarity_Score": 0.6237363815307617
+        },
+        {
+            "ID": "00894",
+            "Event": "Having a freak out about traveling due to anxiety and indecisiveness.",
+            "Similarity_Score": 0.6082767248153687
+        }
+    ],
+    "Cluster_244": [
+        {
+            "ID": "00879",
+            "Event": "I'm too weak to overcome my past traumas.",
+            "Similarity_Score": 0.6742150187492371
+        }
+    ],
+    "Cluster_254": [
+        {
+            "ID": "00302",
+            "Event": "I'm sleeping alone in a house with the lights out.",
+            "Similarity_Score": 0.6087170839309692
+        }
+    ],
+    "Cluster_263": [
+        {
+            "ID": "00921",
+            "Event": "I ended up in a shelter.",
+            "Similarity_Score": 0.6236522197723389
+        },
+        {
+            "ID": "01072",
+            "Event": "I'm unable to talk to my neighbor about taking down his shed.",
+            "Similarity_Score": 0.6390331387519836
+        }
+    ],
+    "Cluster_264": [
+        {
+            "ID": "00429",
+            "Event": "I was restricted and abused by my father.",
+            "Similarity_Score": 0.6266042590141296
+        }
+    ],
+    "Cluster_269": [
+        {
+            "ID": "00610",
+            "Event": "I'm told to leave someone's apartment.",
+            "Similarity_Score": 0.6074537038803101
+        },
+        {
+            "ID": "00913",
+            "Event": "I got evicted from my apartment.",
+            "Similarity_Score": 0.6884000301361084
+        },
+        {
+            "ID": "01035",
+            "Event": "The AC in my apartment went out again.",
+            "Similarity_Score": 0.6245492696762085
+        }
+    ],
+    "Cluster_271": [
+        {
+            "ID": "00258",
+            "Event": "I'm too emotionally weak and can't handle the pressure.",
+            "Similarity_Score": 0.6122342348098755
+        },
+        {
+            "ID": "00279",
+            "Event": "I'm too weak to handle stress and anxiety.",
+            "Similarity_Score": 0.6544129848480225
+        },
+        {
+            "ID": "00315",
+            "Event": "Feeling overwhelmed by work responsibilities.",
+            "Similarity_Score": 0.7066730260848999
+        },
+        {
+            "ID": "00324",
+            "Event": "I'm drowning in anxiety.",
+            "Similarity_Score": 0.6330009698867798
+        },
+        {
+            "ID": "00553",
+            "Event": "Had an anxiety attack at my new job.",
+            "Similarity_Score": 0.6417475938796997
+        },
+        {
+            "ID": "00668",
+            "Event": "I'm overwhelmed and exhausted all the time.",
+            "Similarity_Score": 0.649124026298523
+        },
+        {
+            "ID": "00955",
+            "Event": "I'm struggling to function due to overwhelming anxiety.",
+            "Similarity_Score": 0.6919736862182617
+        },
+        {
+            "ID": "01036",
+            "Event": "I burst into tears at my desk because I can't handle the pressure of not being good enough at my job.",
+            "Similarity_Score": 0.6136081218719482
+        }
+    ],
+    "Cluster_273": [
+        {
+            "ID": "00732",
+            "Event": "I was assaulted in public last night.",
+            "Similarity_Score": 0.6225680112838745
+        },
+        {
+            "ID": "00755",
+            "Event": "He threatens me.",
+            "Similarity_Score": 0.6179931163787842
+        }
+    ],
+    "Cluster_276": [
+        {
+            "ID": "00705",
+            "Event": "I've been a burden to everyone around me.",
+            "Similarity_Score": 0.7234076857566833
+        }
+    ],
+    "Cluster_280": [
+        {
+            "ID": "00194",
+            "Event": "I got rejected by my boss.",
+            "Similarity_Score": 0.6172343492507935
+        }
+    ],
+    "Cluster_290": [
+        {
+            "ID": "00489",
+            "Event": "Just got arrested.",
+            "Similarity_Score": 0.7305934429168701
+        }
+    ],
+    "Cluster_292": [
+        {
+            "ID": "00351",
+            "Event": "I'm awkward in social interactions.",
+            "Similarity_Score": 0.6376736164093018
+        },
+        {
+            "ID": "00395",
+            "Event": "I drive people away.",
+            "Similarity_Score": 0.6993865966796875
+        },
+        {
+            "ID": "00404",
+            "Event": "I drive people away.",
+            "Similarity_Score": 0.6993865966796875
+        },
+        {
+            "ID": "00625",
+            "Event": "I'm naturally awkward and introverted.",
+            "Similarity_Score": 0.6857675313949585
+        },
+        {
+            "ID": "00694",
+            "Event": "I drive people away.",
+            "Similarity_Score": 0.6993865966796875
+        }
+    ],
+    "Cluster_302": [
+        {
+            "ID": "00173",
+            "Event": "I'm struggling with depression and suicidal thoughts.",
+            "Similarity_Score": 0.6106457710266113
+        },
+        {
+            "ID": "00345",
+            "Event": "I developed anxiety out of nowhere.",
+            "Similarity_Score": 0.6422877311706543
+        },
+        {
+            "ID": "00409",
+            "Event": "I have treatment-resistant depression.",
+            "Similarity_Score": 0.665777325630188
+        },
+        {
+            "ID": "00767",
+            "Event": "I was misdiagnosed with borderline personality disorder and bipolar.",
+            "Similarity_Score": 0.6714444160461426
+        },
+        {
+            "ID": "00806",
+            "Event": "I'm struggling to cope with my generalized anxiety disorder symptoms.",
+            "Similarity_Score": 0.6944119930267334
+        },
+        {
+            "ID": "00919",
+            "Event": "I've been suffering from chronic anxiety.",
+            "Similarity_Score": 0.708838939666748
+        },
+        {
+            "ID": "00973",
+            "Event": "I was diagnosed with PTSD.",
+            "Similarity_Score": 0.628381609916687
+        }
+    ],
+    "Cluster_306": [
+        {
+            "ID": "00629",
+            "Event": "I get hurt in relationships.",
+            "Similarity_Score": 0.6762083768844604
+        }
+    ],
+    "Cluster_309": [
+        {
+            "ID": "00589",
+            "Event": "I drove my car off the side of the freeway.",
+            "Similarity_Score": 0.6033692359924316
+        }
+    ],
+    "Cluster_320": [
+        {
+            "ID": "00763",
+            "Event": "Being manipulated by my ex-boyfriend's narcissism.",
+            "Similarity_Score": 0.7005314826965332
+        }
+    ],
+    "Cluster_326": [
+        {
+            "ID": "00325",
+            "Event": "My dad beats me.",
+            "Similarity_Score": 0.6134487390518188
+        },
+        {
+            "ID": "00466",
+            "Event": "My dad physically abused my mum.",
+            "Similarity_Score": 0.6868053078651428
+        },
+        {
+            "ID": "00573",
+            "Event": "My dad physically hit me.",
+            "Similarity_Score": 0.7033621072769165
+        },
+        {
+            "ID": "00750",
+            "Event": "My dad lost his temper with me.",
+            "Similarity_Score": 0.665425181388855
+        },
+        {
+            "ID": "00881",
+            "Event": "My boyfriend engaged in a brutal fight.",
+            "Similarity_Score": 0.6517373323440552
+        }
+    ],
+    "Cluster_338": [
+        {
+            "ID": "00644",
+            "Event": "I have severe chest pains and rapid heartbeat episodes.",
+            "Similarity_Score": 0.8012447357177734
+        }
+    ],
+    "Cluster_340": [
+        {
+            "ID": "00162",
+            "Event": "I'm not good enough or lovable enough.",
+            "Similarity_Score": 0.6461511850357056
+        },
+        {
+            "ID": "00259",
+            "Event": "I'm not good enough or attractive enough to be respected by anyone.",
+            "Similarity_Score": 0.6260658502578735
+        },
+        {
+            "ID": "00368",
+            "Event": "I'm not good enough or lovable enough to be treated with respect and kindness by those closest to me.",
+            "Similarity_Score": 0.6437066793441772
+        },
+        {
+            "ID": "00615",
+            "Event": "I'm unlikable and unlovable.",
+            "Similarity_Score": 0.6445862054824829
+        },
+        {
+            "ID": "00861",
+            "Event": "I'm not likable or interesting enough.",
+            "Similarity_Score": 0.7908778786659241
+        },
+        {
+            "ID": "00871",
+            "Event": "I'm not charming or interesting enough to be part of the group.",
+            "Similarity_Score": 0.6833689212799072
+        }
+    ],
+    "Cluster_342": [
+        {
+            "ID": "00374",
+            "Event": "My own mom is yelling at me and throwing things.",
+            "Similarity_Score": 0.6108739972114563
+        },
+        {
+            "ID": "00747",
+            "Event": "My mom hits me.",
+            "Similarity_Score": 0.6367342472076416
+        },
+        {
+            "ID": "00846",
+            "Event": "My own mother did horrible things to me for a long time.",
+            "Similarity_Score": 0.6138350367546082
+        }
+    ],
+    "Cluster_346": [
+        {
+            "ID": "00450",
+            "Event": "I mess up conversations and turn them into arguments.",
+            "Similarity_Score": 0.6034107208251953
+        }
+    ],
+    "Cluster_349": [
+        {
+            "ID": "00289",
+            "Event": "I'm stuck in a financial rut and always living paycheck to paycheck.",
+            "Similarity_Score": 0.8370286226272583
+        },
+        {
+            "ID": "00487",
+            "Event": "I'm stuck in a cycle of debt.",
+            "Similarity_Score": 0.6478518843650818
+        },
+        {
+            "ID": "00756",
+            "Event": "I'm stuck in a vicious cycle of poverty.",
+            "Similarity_Score": 0.6174862384796143
+        },
+        {
+            "ID": "00954",
+            "Event": "I'm stuck living paycheck to paycheck due to my disability.",
+            "Similarity_Score": 0.6690866947174072
+        }
+    ],
+    "Cluster_351": [
+        {
+            "ID": "00454",
+            "Event": "Something bad happened to me.",
+            "Similarity_Score": 0.7347254753112793
+        }
+    ],
+    "Cluster_355": [
+        {
+            "ID": "00629",
+            "Event": "I get hurt in relationships.",
+            "Similarity_Score": 0.6413164138793945
+        },
+        {
+            "ID": "00884",
+            "Event": "I'm blamed for everything that goes wrong.",
+            "Similarity_Score": 0.7108964323997498
+        },
+        {
+            "ID": "01052",
+            "Event": "I'm blamed for everything that goes wrong in my relationship.",
+            "Similarity_Score": 0.892167329788208
+        }
+    ],
+    "Cluster_359": [
+        {
+            "ID": "00167",
+            "Event": "I lost my job in January.",
+            "Similarity_Score": 0.621246337890625
+        }
+    ],
+    "Cluster_363": [
+        {
+            "ID": "00651",
+            "Event": "People turned their backs on me for seeking treatment.",
+            "Similarity_Score": 0.6136085987091064
+        },
+        {
+            "ID": "00707",
+            "Event": "Someone I trusted treated me badly.",
+            "Similarity_Score": 0.7816789746284485
+        },
+        {
+            "ID": "00843",
+            "Event": "Someone who's supposed to care about me hurts me deeply with their words.",
+            "Similarity_Score": 0.629976749420166
+        },
+        {
+            "ID": "00947",
+            "Event": "Someone tries to hurt me.",
+            "Similarity_Score": 0.6112464666366577
+        }
+    ],
+    "Cluster_364": [
+        {
+            "ID": "00747",
+            "Event": "My mom hits me.",
+            "Similarity_Score": 0.6053714752197266
+        },
+        {
+            "ID": "01033",
+            "Event": "My mom locks herself away from me and cries.",
+            "Similarity_Score": 0.6363986730575562
+        }
+    ],
+    "Cluster_370": [
+        {
+            "ID": "00487",
+            "Event": "I'm stuck in a cycle of debt.",
+            "Similarity_Score": 0.6056622266769409
+        },
+        {
+            "ID": "00697",
+            "Event": "I'm drowning in debt and expenses.",
+            "Similarity_Score": 0.6568819880485535
+        }
+    ],
+    "Cluster_372": [
+        {
+            "ID": "00430",
+            "Event": "I'm stuck with no place to stay and being on my own.",
+            "Similarity_Score": 0.606621503829956
+        }
+    ],
+    "Cluster_377": [
+        {
+            "ID": "00320",
+            "Event": "I keep ending up with someone who physically abuses me.",
+            "Similarity_Score": 0.6890071630477905
+        },
+        {
+            "ID": "00434",
+            "Event": "I'm stuck in an abusive relationship.",
+            "Similarity_Score": 0.6025232076644897
+        },
+        {
+            "ID": "00696",
+            "Event": "I receive physical abuse from my partner.",
+            "Similarity_Score": 0.6105791330337524
+        },
+        {
+            "ID": "00702",
+            "Event": "My boyfriend ended up in jail for being aggressive.",
+            "Similarity_Score": 0.6065700054168701
+        },
+        {
+            "ID": "00850",
+            "Event": "I was in an abusive relationship.",
+            "Similarity_Score": 0.6317639350891113
+        },
+        {
+            "ID": "00947",
+            "Event": "Someone tries to hurt me.",
+            "Similarity_Score": 0.6196337938308716
+        },
+        {
+            "ID": "01014",
+            "Event": "My partner constantly yells at me and brings me down.",
+            "Similarity_Score": 0.6358257532119751
+        }
+    ],
+    "Cluster_384": [
+        {
+            "ID": "00278",
+            "Event": "I'm struggling to make ends meet living on my own with no financial support.",
+            "Similarity_Score": 0.6511552929878235
+        },
+        {
+            "ID": "00399",
+            "Event": "I'm still living on the streets.",
+            "Similarity_Score": 0.6682658195495605
+        },
+        {
+            "ID": "00606",
+            "Event": "I'm one step away from living on the streets.",
+            "Similarity_Score": 0.7112072706222534
+        },
+        {
+            "ID": "00626",
+            "Event": "I'm homeless.",
+            "Similarity_Score": 0.6026688814163208
+        },
+        {
+            "ID": "00630",
+            "Event": "I'm on the verge of being homeless and having to live out of my car or a shelter.",
+            "Similarity_Score": 0.6209238171577454
+        },
+        {
+            "ID": "00725",
+            "Event": "I'm struggling to make ends meet despite having a job.",
+            "Similarity_Score": 0.6519784331321716
+        },
+        {
+            "ID": "00729",
+            "Event": "I can't hold down a job, finish my degree, or pay rent on time.",
+            "Similarity_Score": 0.6276242136955261
+        },
+        {
+            "ID": "00754",
+            "Event": "I'm one step away from being homeless due to poor financial management.",
+            "Similarity_Score": 0.6311122179031372
+        },
+        {
+            "ID": "00883",
+            "Event": "I'll be living on the streets soon.",
+            "Similarity_Score": 0.6695681214332581
+        },
+        {
+            "ID": "00886",
+            "Event": "I'm one step away from living on the streets due to poor financial management.",
+            "Similarity_Score": 0.7432121634483337
+        },
+        {
+            "ID": "00997",
+            "Event": "I'm living on the streets because I'm unable to hold down a job and make smart financial decisions.",
+            "Similarity_Score": 0.8624708652496338
+        }
+    ],
+    "Cluster_395": [
+        {
+            "ID": "00650",
+            "Event": "Just got denied an extension on my order of protection.",
+            "Similarity_Score": 0.6360130310058594
+        }
+    ],
+    "Cluster_396": [
+        {
+            "ID": "00732",
+            "Event": "I was assaulted in public last night.",
+            "Similarity_Score": 0.7707462906837463
+        },
+        {
+            "ID": "00850",
+            "Event": "I was in an abusive relationship.",
+            "Similarity_Score": 0.6259028315544128
+        }
+    ],
+    "Cluster_397": [
+        {
+            "ID": "00572",
+            "Event": "I'm treated poorly by my own older brother.",
+            "Similarity_Score": 0.7194572687149048
+        }
+    ],
+    "Cluster_400": [
+        {
+            "ID": "00236",
+            "Event": "I had a panic attack.",
+            "Similarity_Score": 0.6403067111968994
+        },
+        {
+            "ID": "00842",
+            "Event": "I had a near panic attack.",
+            "Similarity_Score": 0.6172176599502563
+        }
+    ],
+    "Cluster_405": [
+        {
+            "ID": "00577",
+            "Event": "He hit me.",
+            "Similarity_Score": 0.6523224115371704
+        },
+        {
+            "ID": "00593",
+            "Event": "He touched me inappropriately.",
+            "Similarity_Score": 0.6688739657402039
+        }
+    ],
+    "Cluster_407": [
+        {
+            "ID": "00161",
+            "Event": "People take advantage of me.",
+            "Similarity_Score": 0.6803427934646606
+        },
+        {
+            "ID": "00282",
+            "Event": "People take advantage of me.",
+            "Similarity_Score": 0.6803427934646606
+        }
+    ],
+    "Cluster_411": [
+        {
+            "ID": "00912",
+            "Event": "He gets so angry and throws things.",
+            "Similarity_Score": 0.8170980215072632
+        }
+    ],
+    "Cluster_412": [
+        {
+            "ID": "00613",
+            "Event": "Being bullied by my manager at work.",
+            "Similarity_Score": 0.6481902003288269
+        }
+    ],
+    "Cluster_415": [
+        {
+            "ID": "00203",
+            "Event": "I was in a car accident.",
+            "Similarity_Score": 0.619415283203125
+        },
+        {
+            "ID": "00420",
+            "Event": "I had a car accident.",
+            "Similarity_Score": 0.6045154333114624
+        }
+    ],
+    "Cluster_421": [
+        {
+            "ID": "00822",
+            "Event": "My own father did something bad to us.",
+            "Similarity_Score": 0.6800116300582886
+        }
+    ],
+    "Cluster_422": [
+        {
+            "ID": "00994",
+            "Event": "We're going to lose the kids and can't afford to keep our home.",
+            "Similarity_Score": 0.6435457468032837
+        },
+        {
+            "ID": "01004",
+            "Event": "I'm being forced to leave my home due to foreclosure and short sale.",
+            "Similarity_Score": 0.6006031036376953
+        }
+    ],
+    "Cluster_434": [
+        {
+            "ID": "00750",
+            "Event": "My dad lost his temper with me.",
+            "Similarity_Score": 0.6061611175537109
+        },
+        {
+            "ID": "00837",
+            "Event": "My dad's accident was my fault.",
+            "Similarity_Score": 0.612294614315033
+        },
+        {
+            "ID": "00951",
+            "Event": "My own family members lied about me.",
+            "Similarity_Score": 0.6465233564376831
+        }
+    ],
+    "Cluster_437": [
+        {
+            "ID": "00259",
+            "Event": "I'm not good enough or attractive enough to be respected by anyone.",
+            "Similarity_Score": 0.7444668412208557
+        },
+        {
+            "ID": "00368",
+            "Event": "I'm not good enough or lovable enough to be treated with respect and kindness by those closest to me.",
+            "Similarity_Score": 0.6495171785354614
+        },
+        {
+            "ID": "00771",
+            "Event": "I'm not good enough to receive love and appreciation from my own mom.",
+            "Similarity_Score": 0.6570689678192139
+        },
+        {
+            "ID": "00906",
+            "Event": "I'm not good enough for anyone to trust, including my own family.",
+            "Similarity_Score": 0.6681218147277832
+        },
+        {
+            "ID": "01043",
+            "Event": "I'm not worthy of love and support from my own family.",
+            "Similarity_Score": 0.6972615718841553
+        }
+    ],
+    "Cluster_440": [
+        {
+            "ID": "00320",
+            "Event": "I keep ending up with someone who physically abuses me.",
+            "Similarity_Score": 0.6790386438369751
+        },
+        {
+            "ID": "00389",
+            "Event": "I married someone who abused me.",
+            "Similarity_Score": 0.6150307059288025
+        },
+        {
+            "ID": "00514",
+            "Event": "I attracted abusive partners due to my underlying self-worth issues.",
+            "Similarity_Score": 0.7055913209915161
+        },
+        {
+            "ID": "00696",
+            "Event": "I receive physical abuse from my partner.",
+            "Similarity_Score": 0.6440179347991943
+        },
+        {
+            "ID": "00757",
+            "Event": "I was abused growing up.",
+            "Similarity_Score": 0.600143313407898
+        },
+        {
+            "ID": "00850",
+            "Event": "I was in an abusive relationship.",
+            "Similarity_Score": 0.6472029685974121
+        },
+        {
+            "ID": "00917",
+            "Event": "I attract toxic people who abuse me.",
+            "Similarity_Score": 0.6695584058761597
+        }
+    ],
+    "Cluster_444": [
+        {
+            "ID": "01043",
+            "Event": "I'm not worthy of love and support from my own family.",
+            "Similarity_Score": 0.6927758455276489
+        }
+    ],
+    "Cluster_445": [
+        {
+            "ID": "00336",
+            "Event": "I'm having awful nightmares that drain my energy and make me feel worse throughout the day.",
+            "Similarity_Score": 0.7250161170959473
+        }
+    ],
+    "Cluster_451": [
+        {
+            "ID": "00351",
+            "Event": "I'm awkward in social interactions.",
+            "Similarity_Score": 0.6602259874343872
+        }
+    ],
+    "Cluster_454": [
+        {
+            "ID": "00203",
+            "Event": "I was in a car accident.",
+            "Similarity_Score": 0.6083658933639526
+        },
+        {
+            "ID": "00420",
+            "Event": "I had a car accident.",
+            "Similarity_Score": 0.6407246589660645
+        },
+        {
+            "ID": "00482",
+            "Event": "My car's breaking down again and I have to pay $500 to repair it.",
+            "Similarity_Score": 0.6098048686981201
+        },
+        {
+            "ID": "00620",
+            "Event": "My car broke down again.",
+            "Similarity_Score": 0.9999998807907104
+        },
+        {
+            "ID": "00774",
+            "Event": "I got kicked out of my own home and had my car taken away from me.",
+            "Similarity_Score": 0.6278970241546631
+        },
+        {
+            "ID": "01006",
+            "Event": "My car gets broken into.",
+            "Similarity_Score": 0.8020572662353516
+        }
+    ],
+    "Cluster_455": [
+        {
+            "ID": "00526",
+            "Event": "I attract toxic people into my life.",
+            "Similarity_Score": 0.6897721290588379
+        },
+        {
+            "ID": "00582",
+            "Event": "I attract toxic people into my life.",
+            "Similarity_Score": 0.6897721290588379
+        },
+        {
+            "ID": "00680",
+            "Event": "I attract toxic relationships that bring out the worst in me.",
+            "Similarity_Score": 0.6064674854278564
+        },
+        {
+            "ID": "00730",
+            "Event": "I'm a toxic person who hurts those around me.",
+            "Similarity_Score": 0.6982914209365845
+        },
+        {
+            "ID": "00743",
+            "Event": "I surround myself with toxic people who yell and break things.",
+            "Similarity_Score": 0.6554383039474487
+        },
+        {
+            "ID": "00816",
+            "Event": "I attract toxic people into my life.",
+            "Similarity_Score": 0.6897721290588379
+        },
+        {
+            "ID": "00892",
+            "Event": "I'm a toxic influence that brings out the worst in people.",
+            "Similarity_Score": 0.6110659837722778
+        },
+        {
+            "ID": "00917",
+            "Event": "I attract toxic people who abuse me.",
+            "Similarity_Score": 0.6837802529335022
+        },
+        {
+            "ID": "00979",
+            "Event": "I ended up in a toxic situation.",
+            "Similarity_Score": 0.6175942420959473
+        },
+        {
+            "ID": "00995",
+            "Event": "I ended up in a toxic situation.",
+            "Similarity_Score": 0.6175942420959473
+        },
+        {
+            "ID": "01021",
+            "Event": "I'm a magnet for toxic people.",
+            "Similarity_Score": 0.6409729719161987
+        }
+    ],
+    "Cluster_469": [
+        {
+            "ID": "00173",
+            "Event": "I'm struggling with depression and suicidal thoughts.",
+            "Similarity_Score": 0.6072971820831299
+        },
+        {
+            "ID": "00664",
+            "Event": "My health is failing me.",
+            "Similarity_Score": 0.6605889201164246
+        }
+    ],
+    "Cluster_472": [
+        {
+            "ID": "00570",
+            "Event": "He ghosted me.",
+            "Similarity_Score": 0.677484393119812
+        }
+    ],
+    "Cluster_483": [
+        {
+            "ID": "00734",
+            "Event": "My own husband can't stand me.",
+            "Similarity_Score": 0.7711447477340698
+        },
+        {
+            "ID": "01043",
+            "Event": "I'm not worthy of love and support from my own family.",
+            "Similarity_Score": 0.6144537329673767
+        }
+    ],
+    "Cluster_491": [
+        {
+            "ID": "00758",
+            "Event": "Just got discharged from the health clinic and I'm still not better.",
+            "Similarity_Score": 0.6058900356292725
+        }
+    ],
+    "Cluster_499": [
+        {
+            "ID": "00644",
+            "Event": "I have severe chest pains and rapid heartbeat episodes.",
+            "Similarity_Score": 0.675496518611908
+        }
+    ],
+    "Cluster_502": [
+        {
+            "ID": "00529",
+            "Event": "I block people and run away from my problems.",
+            "Similarity_Score": 0.6630218625068665
+        }
+    ],
+    "Cluster_507": [
+        {
+            "ID": "00248",
+            "Event": "I'm always struggling to pay my bills on time.",
+            "Similarity_Score": 0.6663455367088318
+        },
+        {
+            "ID": "00487",
+            "Event": "I'm stuck in a cycle of debt.",
+            "Similarity_Score": 0.6245090365409851
+        },
+        {
+            "ID": "00697",
+            "Event": "I'm drowning in debt and expenses.",
+            "Similarity_Score": 0.6028234362602234
+        },
+        {
+            "ID": "00839",
+            "Event": "I've been homeless for 75 days and money is running out.",
+            "Similarity_Score": 0.6078959107398987
+        }
+    ],
+    "Cluster_511": [
+        {
+            "ID": "00509",
+            "Event": "I'm unable to communicate my needs effectively in a relationship.",
+            "Similarity_Score": 0.6100635528564453
+        },
+        {
+            "ID": "00963",
+            "Event": "I'm not good at making friends or relationships.",
+            "Similarity_Score": 0.6256595849990845
+        }
+    ],
+    "Cluster_521": [
+        {
+            "ID": "00568",
+            "Event": "My grandma treats me badly.",
+            "Similarity_Score": 0.6028609275817871
+        },
+        {
+            "ID": "00675",
+            "Event": "My mom left my dad when I was 2 years old.",
+            "Similarity_Score": 0.6145322322845459
+        },
+        {
+            "ID": "00846",
+            "Event": "My own mother did horrible things to me for a long time.",
+            "Similarity_Score": 0.6035376787185669
+        }
+    ],
+    "Cluster_522": [
+        {
+            "ID": "00210",
+            "Event": "My grades have been slipping lately.",
+            "Similarity_Score": 0.6845583915710449
+        }
+    ],
+    "Cluster_526": [
+        {
+            "ID": "00477",
+            "Event": "I'm inherently weak or flawed in some way.",
+            "Similarity_Score": 0.601836085319519
+        },
+        {
+            "ID": "00975",
+            "Event": "I'm inherently flawed.",
+            "Similarity_Score": 0.7781239748001099
+        }
+    ],
+    "Cluster_527": [
+        {
+            "ID": "00493",
+            "Event": "He rages at me.",
+            "Similarity_Score": 0.6137087345123291
+        },
+        {
+            "ID": "00755",
+            "Event": "He threatens me.",
+            "Similarity_Score": 0.8985497951507568
+        },
+        {
+            "ID": "00781",
+            "Event": "He attacked me physically at home.",
+            "Similarity_Score": 0.6277363300323486
+        }
+    ],
+    "Cluster_535": [
+        {
+            "ID": "00389",
+            "Event": "I married someone who abused me.",
+            "Similarity_Score": 0.6492193341255188
+        },
+        {
+            "ID": "00502",
+            "Event": "My husband was abusive and raging.",
+            "Similarity_Score": 0.7535819411277771
+        },
+        {
+            "ID": "00850",
+            "Event": "I was in an abusive relationship.",
+            "Similarity_Score": 0.6731733679771423
+        }
+    ],
+    "Cluster_536": [
+        {
+            "ID": "00697",
+            "Event": "I'm drowning in debt and expenses.",
+            "Similarity_Score": 0.6888612508773804
+        }
+    ],
+    "Cluster_537": [
+        {
+            "ID": "00351",
+            "Event": "I'm awkward in social interactions.",
+            "Similarity_Score": 0.6783921122550964
+        },
+        {
+            "ID": "00625",
+            "Event": "I'm naturally awkward and introverted.",
+            "Similarity_Score": 0.6983438730239868
+        }
+    ],
+    "Cluster_538": [
+        {
+            "ID": "00324",
+            "Event": "I'm drowning in anxiety.",
+            "Similarity_Score": 0.641679048538208
+        },
+        {
+            "ID": "00812",
+            "Event": "I'm an anxious person.",
+            "Similarity_Score": 0.7460202574729919
+        }
+    ],
+    "Cluster_542": [
+        {
+            "ID": "00514",
+            "Event": "I attracted abusive partners due to my underlying self-worth issues.",
+            "Similarity_Score": 0.6624650955200195
+        },
+        {
+            "ID": "00693",
+            "Event": "I ended up in a toxic relationship for so long.",
+            "Similarity_Score": 0.7028728723526001
+        },
+        {
+            "ID": "00769",
+            "Event": "I was in a toxic relationship.",
+            "Similarity_Score": 0.6672191023826599
+        },
+        {
+            "ID": "00833",
+            "Event": "My partner is leaving me.",
+            "Similarity_Score": 0.654382586479187
+        },
+        {
+            "ID": "00850",
+            "Event": "I was in an abusive relationship.",
+            "Similarity_Score": 0.6138671040534973
+        },
+        {
+            "ID": "00910",
+            "Event": "I let someone emotionally drain me for a long time.",
+            "Similarity_Score": 0.6207849979400635
+        },
+        {
+            "ID": "00992",
+            "Event": "I stayed in a toxic relationship for a long time.",
+            "Similarity_Score": 0.6852389574050903
+        },
+        {
+            "ID": "01005",
+            "Event": "My partner cheated on me.",
+            "Similarity_Score": 0.6108974814414978
+        }
+    ],
+    "Cluster_545": [
+        {
+            "ID": "00890",
+            "Event": "I'm failing as a parent and can't even provide for my own child's basic needs.",
+            "Similarity_Score": 0.6028612852096558
+        }
+    ],
+    "Cluster_549": [
+        {
+            "ID": "00906",
+            "Event": "I'm not good enough for anyone to trust, including my own family.",
+            "Similarity_Score": 0.606164813041687
+        }
+    ],
+    "Cluster_551": [
+        {
+            "ID": "00668",
+            "Event": "I'm overwhelmed and exhausted all the time.",
+            "Similarity_Score": 0.8320062756538391
+        }
+    ],
+    "Cluster_554": [
+        {
+            "ID": "00685",
+            "Event": "I'm emotionally weak and unable to move on from my past.",
+            "Similarity_Score": 0.6870609521865845
+        }
+    ],
+    "Cluster_557": [
+        {
+            "ID": "00617",
+            "Event": "I'm stuck without a job.",
+            "Similarity_Score": 0.6581743955612183
+        },
+        {
+            "ID": "00899",
+            "Event": "I'm still unemployed due to worthless skills.",
+            "Similarity_Score": 0.7059470415115356
+        }
+    ],
+    "Cluster_558": [
+        {
+            "ID": "00608",
+            "Event": "I can't seem to catch some decent sleep.",
+            "Similarity_Score": 0.6019620895385742
+        }
+    ],
+    "Cluster_561": [
+        {
+            "ID": "00692",
+            "Event": "I've got a bad temper and can't control my emotions.",
+            "Similarity_Score": 0.618910551071167
+        }
+    ],
+    "Cluster_565": [
+        {
+            "ID": "01067",
+            "Event": "My father is always angry with me.",
+            "Similarity_Score": 0.6156299114227295
+        }
+    ],
+    "Cluster_575": [
+        {
+            "ID": "00853",
+            "Event": "My girlfriend cheated on me.",
+            "Similarity_Score": 0.6205987930297852
+        },
+        {
+            "ID": "01039",
+            "Event": "My girlfriend cheated on me.",
+            "Similarity_Score": 0.6205987930297852
+        }
+    ],
+    "Cluster_583": [
+        {
+            "ID": "00675",
+            "Event": "My mom left my dad when I was 2 years old.",
+            "Similarity_Score": 0.6066550016403198
+        },
+        {
+            "ID": "00741",
+            "Event": "My brother's father passed away.",
+            "Similarity_Score": 0.650041937828064
+        }
+    ],
+    "Cluster_584": [
+        {
+            "ID": "00542",
+            "Event": "Feeling empty and lonely.",
+            "Similarity_Score": 0.6748909950256348
+        },
+        {
+            "ID": "01012",
+            "Event": "Feeling isolated and alone.",
+            "Similarity_Score": 0.7680379152297974
+        }
+    ],
+    "Cluster_586": [
+        {
+            "ID": "00772",
+            "Event": "My mom and sister get under my skin.",
+            "Similarity_Score": 0.6023904085159302
+        }
+    ],
+    "Cluster_591": [
+        {
+            "ID": "00832",
+            "Event": "I'm unable to let go of painful memories.",
+            "Similarity_Score": 0.6000241041183472
+        }
+    ],
+    "Cluster_593": [
+        {
+            "ID": "00892",
+            "Event": "I'm a toxic influence that brings out the worst in people.",
+            "Similarity_Score": 0.6206979751586914
+        }
+    ],
+    "Cluster_594": [
+        {
+            "ID": "00635",
+            "Event": "My asthma flared up badly today.",
+            "Similarity_Score": 0.7604633569717407
+        }
+    ],
+    "Cluster_596": [
+        {
+            "ID": "00526",
+            "Event": "I attract toxic people into my life.",
+            "Similarity_Score": 0.748546838760376
+        },
+        {
+            "ID": "00582",
+            "Event": "I attract toxic people into my life.",
+            "Similarity_Score": 0.748546838760376
+        },
+        {
+            "ID": "00639",
+            "Event": "I attract people who don't want to be honest with me.",
+            "Similarity_Score": 0.7676266431808472
+        },
+        {
+            "ID": "00680",
+            "Event": "I attract toxic relationships that bring out the worst in me.",
+            "Similarity_Score": 0.7131894826889038
+        },
+        {
+            "ID": "00684",
+            "Event": "I attract people with serious emotional baggage.",
+            "Similarity_Score": 0.7076636552810669
+        },
+        {
+            "ID": "00777",
+            "Event": "I attract complicated relationships into my life.",
+            "Similarity_Score": 0.6913696527481079
+        },
+        {
+            "ID": "00790",
+            "Event": "I attract people who don't truly care about me.",
+            "Similarity_Score": 0.7312287092208862
+        },
+        {
+            "ID": "00804",
+            "Event": "I attract the wrong kind of guys who only want to take advantage of me.",
+            "Similarity_Score": 0.7601665258407593
+        },
+        {
+            "ID": "00816",
+            "Event": "I attract toxic people into my life.",
+            "Similarity_Score": 0.748546838760376
+        },
+        {
+            "ID": "00917",
+            "Event": "I attract toxic people who abuse me.",
+            "Similarity_Score": 0.6666266918182373
+        }
+    ],
+    "Cluster_600": [
+        {
+            "ID": "00840",
+            "Event": "I couldn't stick to my medication regimen.",
+            "Similarity_Score": 0.645713746547699
+        }
+    ],
+    "Cluster_604": [
+        {
+            "ID": "00127",
+            "Event": "I'm struggling to make progress and will never get my life together.",
+            "Similarity_Score": 0.6839073896408081
+        },
+        {
+            "ID": "00279",
+            "Event": "I'm too weak to handle stress and anxiety.",
+            "Similarity_Score": 0.6176983118057251
+        },
+        {
+            "ID": "00324",
+            "Event": "I'm drowning in anxiety.",
+            "Similarity_Score": 0.6130560636520386
+        },
+        {
+            "ID": "00418",
+            "Event": "I'm stuck in this depression/anxiety cycle.",
+            "Similarity_Score": 0.6629612445831299
+        },
+        {
+            "ID": "00955",
+            "Event": "I'm struggling to function due to overwhelming anxiety.",
+            "Similarity_Score": 0.6304543018341064
+        },
+        {
+            "ID": "00969",
+            "Event": "I'm stuck in a cycle of anxiety and sadness.",
+            "Similarity_Score": 0.7218577861785889
+        }
+    ],
+    "Cluster_613": [
+        {
+            "ID": "00325",
+            "Event": "My dad beats me.",
+            "Similarity_Score": 0.621368408203125
+        },
+        {
+            "ID": "00466",
+            "Event": "My dad physically abused my mum.",
+            "Similarity_Score": 0.6302107572555542
+        },
+        {
+            "ID": "00515",
+            "Event": "My dad always yells at me and my siblings.",
+            "Similarity_Score": 0.6138529181480408
+        },
+        {
+            "ID": "00573",
+            "Event": "My dad physically hit me.",
+            "Similarity_Score": 0.7116457223892212
+        },
+        {
+            "ID": "00748",
+            "Event": "My dad didn't come back to pick me up.",
+            "Similarity_Score": 0.6279006004333496
+        },
+        {
+            "ID": "00750",
+            "Event": "My dad lost his temper with me.",
+            "Similarity_Score": 0.6931822299957275
+        },
+        {
+            "ID": "00822",
+            "Event": "My own father did something bad to us.",
+            "Similarity_Score": 0.6137183308601379
+        }
+    ],
+    "Cluster_622": [
+        {
+            "ID": "00374",
+            "Event": "My own mom is yelling at me and throwing things.",
+            "Similarity_Score": 0.6206265687942505
+        },
+        {
+            "ID": "00747",
+            "Event": "My mom hits me.",
+            "Similarity_Score": 0.6535833477973938
+        }
+    ],
+    "Cluster_627": [
+        {
+            "ID": "00126",
+            "Event": "Got kicked out of my home.",
+            "Similarity_Score": 0.7239855527877808
+        },
+        {
+            "ID": "00502",
+            "Event": "My husband was abusive and raging.",
+            "Similarity_Score": 0.6038752198219299
+        }
+    ],
+    "Cluster_630": [
+        {
+            "ID": "01079",
+            "Event": "My neighbor's loud fight affects my mood and sleep.",
+            "Similarity_Score": 0.6451042890548706
+        }
+    ],
+    "Cluster_635": [
+        {
+            "ID": "00617",
+            "Event": "I'm stuck without a job.",
+            "Similarity_Score": 0.7169348001480103
+        },
+        {
+            "ID": "00622",
+            "Event": "Feeling trapped in my current job.",
+            "Similarity_Score": 0.6002526879310608
+        },
+        {
+            "ID": "00999",
+            "Event": "I'm struggling to land a job.",
+            "Similarity_Score": 0.6154241561889648
+        }
+    ],
+    "Cluster_639": [
+        {
+            "ID": "00573",
+            "Event": "My dad physically hit me.",
+            "Similarity_Score": 0.6028218269348145
+        }
+    ],
+    "Cluster_640": [
+        {
+            "ID": "00680",
+            "Event": "I attract toxic relationships that bring out the worst in me.",
+            "Similarity_Score": 0.629472017288208
+        },
+        {
+            "ID": "00777",
+            "Event": "I attract complicated relationships into my life.",
+            "Similarity_Score": 0.7640976905822754
+        }
+    ],
+    "Cluster_646": [
+        {
+            "ID": "00454",
+            "Event": "Something bad happened to me.",
+            "Similarity_Score": 0.6523944139480591
+        }
+    ],
+    "Cluster_647": [
+        {
+            "ID": "00495",
+            "Event": "I'm stuck in a toxic relationship.",
+            "Similarity_Score": 0.720264196395874
+        },
+        {
+            "ID": "00689",
+            "Event": "I'm stuck in a toxic relationship.",
+            "Similarity_Score": 0.720264196395874
+        },
+        {
+            "ID": "00693",
+            "Event": "I ended up in a toxic relationship for so long.",
+            "Similarity_Score": 0.7950465679168701
+        },
+        {
+            "ID": "00769",
+            "Event": "I was in a toxic relationship.",
+            "Similarity_Score": 0.7736152410507202
+        },
+        {
+            "ID": "00832",
+            "Event": "I'm unable to let go of painful memories.",
+            "Similarity_Score": 0.6109100580215454
+        },
+        {
+            "ID": "00850",
+            "Event": "I was in an abusive relationship.",
+            "Similarity_Score": 0.6317338943481445
+        },
+        {
+            "ID": "00979",
+            "Event": "I ended up in a toxic situation.",
+            "Similarity_Score": 0.6359841823577881
+        },
+        {
+            "ID": "00992",
+            "Event": "I stayed in a toxic relationship for a long time.",
+            "Similarity_Score": 0.7852234840393066
+        },
+        {
+            "ID": "00995",
+            "Event": "I ended up in a toxic situation.",
+            "Similarity_Score": 0.6359841823577881
+        },
+        {
+            "ID": "01065",
+            "Event": "I'm stuck in a toxic relationship.",
+            "Similarity_Score": 0.720264196395874
+        }
+    ],
+    "Cluster_654": [
+        {
+            "ID": "00675",
+            "Event": "My mom left my dad when I was 2 years old.",
+            "Similarity_Score": 0.6111524701118469
+        },
+        {
+            "ID": "00748",
+            "Event": "My dad didn't come back to pick me up.",
+            "Similarity_Score": 0.6954841017723083
+        },
+        {
+            "ID": "00750",
+            "Event": "My dad lost his temper with me.",
+            "Similarity_Score": 0.6054205298423767
+        }
+    ],
+    "Cluster_655": [
+        {
+            "ID": "01077",
+            "Event": "I freak out and dissociate in public restrooms due to anxiety.",
+            "Similarity_Score": 0.6712199449539185
+        }
+    ],
+    "Cluster_658": [
+        {
+            "ID": "00328",
+            "Event": "My brother's having panic attacks.",
+            "Similarity_Score": 0.6614187955856323
+        }
+    ],
+    "Cluster_659": [
+        {
+            "ID": "00487",
+            "Event": "I'm stuck in a cycle of debt.",
+            "Similarity_Score": 0.710509717464447
+        },
+        {
+            "ID": "00697",
+            "Event": "I'm drowning in debt and expenses.",
+            "Similarity_Score": 0.6150448322296143
+        },
+        {
+            "ID": "00926",
+            "Event": "I'm stuck with defaulted student loans.",
+            "Similarity_Score": 0.6139451861381531
+        }
+    ],
+    "Cluster_660": [
+        {
+            "ID": "00787",
+            "Event": "I have to make tough decisions.",
+            "Similarity_Score": 0.6894797086715698
+        }
+    ],
+    "Cluster_661": [
+        {
+            "ID": "00682",
+            "Event": "I'm not worthy of love and acceptance.",
+            "Similarity_Score": 0.9999997615814209
+        },
+        {
+            "ID": "01043",
+            "Event": "I'm not worthy of love and support from my own family.",
+            "Similarity_Score": 0.6355663537979126
+        }
+    ],
+    "Cluster_669": [
+        {
+            "ID": "00842",
+            "Event": "I had a near panic attack.",
+            "Similarity_Score": 0.6027420163154602
+        },
+        {
+            "ID": "00982",
+            "Event": "I had a panic attack that felt like a heart attack.",
+            "Similarity_Score": 0.623692512512207
+        }
+    ],
+    "Cluster_677": [
+        {
+            "ID": "00409",
+            "Event": "I have treatment-resistant depression.",
+            "Similarity_Score": 0.6035758852958679
+        }
+    ],
+    "Cluster_678": [
+        {
+            "ID": "00721",
+            "Event": "My friend betrayed me.",
+            "Similarity_Score": 0.6070583462715149
+        }
+    ],
+    "Cluster_702": [
+        {
+            "ID": "01030",
+            "Event": "My best friend took a break from me.",
+            "Similarity_Score": 0.6771498918533325
+        },
+        {
+            "ID": "01049",
+            "Event": "My friends don't want to hang out with me anymore.",
+            "Similarity_Score": 0.6622024774551392
+        }
+    ],
+    "Cluster_707": [
+        {
+            "ID": "00542",
+            "Event": "Feeling empty and lonely.",
+            "Similarity_Score": 0.6409151554107666
+        },
+        {
+            "ID": "01012",
+            "Event": "Feeling isolated and alone.",
+            "Similarity_Score": 0.6005060076713562
+        }
+    ],
+    "Cluster_709": [
+        {
+            "ID": "00481",
+            "Event": "Therapy doesn't work for me.",
+            "Similarity_Score": 0.6201912760734558
+        }
+    ],
+    "Cluster_711": [
+        {
+            "ID": "00482",
+            "Event": "My car's breaking down again and I have to pay $500 to repair it.",
+            "Similarity_Score": 0.7141038179397583
+        }
+    ],
+    "Cluster_721": [
+        {
+            "ID": "00447",
+            "Event": "Housing fell through at the beginning of November and now I'm left scrambling to find a new place to live.",
+            "Similarity_Score": 0.6132147312164307
+        },
+        {
+            "ID": "00630",
+            "Event": "I'm on the verge of being homeless and having to live out of my car or a shelter.",
+            "Similarity_Score": 0.6923708319664001
+        },
+        {
+            "ID": "00754",
+            "Event": "I'm one step away from being homeless due to poor financial management.",
+            "Similarity_Score": 0.604353666305542
+        },
+        {
+            "ID": "00886",
+            "Event": "I'm one step away from living on the streets due to poor financial management.",
+            "Similarity_Score": 0.6010310053825378
+        },
+        {
+            "ID": "00945",
+            "Event": "I'm stuck with an empty apartment and a higher rent to pay alone.",
+            "Similarity_Score": 0.6526365280151367
+        },
+        {
+            "ID": "00986",
+            "Event": "I'm now homeless because I couldn't take care of my own car.",
+            "Similarity_Score": 0.6364668011665344
+        },
+        {
+            "ID": "01032",
+            "Event": "I'm living out of my car because I can't manage my finances.",
+            "Similarity_Score": 0.7270816564559937
+        }
+    ],
+    "Cluster_723": [
+        {
+            "ID": "00625",
+            "Event": "I'm naturally awkward and introverted.",
+            "Similarity_Score": 0.6791495084762573
+        }
+    ],
+    "Cluster_725": [
+        {
+            "ID": "00586",
+            "Event": "I'm not good enough for my partner.",
+            "Similarity_Score": 0.6045308709144592
+        },
+        {
+            "ID": "01058",
+            "Event": "My partner doesn't want to talk to me when they get home.",
+            "Similarity_Score": 0.6539016366004944
+        },
+        {
+            "ID": "01082",
+            "Event": "My partner doesn't have their own goals or activities.",
+            "Similarity_Score": 0.6696596145629883
+        }
+    ],
+    "Cluster_726": [
+        {
+            "ID": "00434",
+            "Event": "I'm stuck in an abusive relationship.",
+            "Similarity_Score": 0.6279734373092651
+        },
+        {
+            "ID": "00514",
+            "Event": "I attracted abusive partners due to my underlying self-worth issues.",
+            "Similarity_Score": 0.636232316493988
+        }
+    ],
+    "Cluster_735": [
+        {
+            "ID": "00298",
+            "Event": "Being disowned by my own family.",
+            "Similarity_Score": 0.7657976150512695
+        },
+        {
+            "ID": "00811",
+            "Event": "Living without my children.",
+            "Similarity_Score": 0.6408424377441406
+        }
+    ],
+    "Cluster_744": [
+        {
+            "ID": "01033",
+            "Event": "My mom locks herself away from me and cries.",
+            "Similarity_Score": 0.635027289390564
+        }
+    ],
+    "Cluster_765": [
+        {
+            "ID": "00744",
+            "Event": "I'm failing my classes.",
+            "Similarity_Score": 0.670053243637085
+        }
+    ],
+    "Cluster_774": [
+        {
+            "ID": "00325",
+            "Event": "My dad beats me.",
+            "Similarity_Score": 0.6211293339729309
+        },
+        {
+            "ID": "00573",
+            "Event": "My dad physically hit me.",
+            "Similarity_Score": 0.6522902250289917
+        },
+        {
+            "ID": "00750",
+            "Event": "My dad lost his temper with me.",
+            "Similarity_Score": 0.6200433373451233
+        },
+        {
+            "ID": "01056",
+            "Event": "My father gets angry all the time because of me.",
+            "Similarity_Score": 0.6535207033157349
+        },
+        {
+            "ID": "01067",
+            "Event": "My father is always angry with me.",
+            "Similarity_Score": 0.673241376876831
+        }
+    ],
+    "Cluster_778": [
+        {
+            "ID": "00944",
+            "Event": "He beats me.",
+            "Similarity_Score": 0.6052594184875488
+        }
+    ],
+    "Cluster_784": [
+        {
+            "ID": "00691",
+            "Event": "My disability claim is denied.",
+            "Similarity_Score": 0.6526418924331665
+        },
+        {
+            "ID": "00807",
+            "Event": "My accident and hospitalization insurance claim was denied.",
+            "Similarity_Score": 0.6003001928329468
+        },
+        {
+            "ID": "01070",
+            "Event": "Just got rejected for disability benefits.",
+            "Similarity_Score": 0.6584773659706116
+        }
+    ],
+    "Cluster_790": [
+        {
+            "ID": "00351",
+            "Event": "I'm awkward in social interactions.",
+            "Similarity_Score": 0.6200976371765137
+        }
+    ],
+    "Cluster_792": [
+        {
+            "ID": "00774",
+            "Event": "I got kicked out of my own home and had my car taken away from me.",
+            "Similarity_Score": 0.6193777918815613
+        }
+    ],
+    "Cluster_793": [
+        {
+            "ID": "01027",
+            "Event": "I witnessed a violent incident.",
+            "Similarity_Score": 0.7318953275680542
+        }
+    ],
+    "Cluster_809": [
+        {
+            "ID": "00940",
+            "Event": "I ended up in the hospital with a $1,000 bill.",
+            "Similarity_Score": 0.6047254800796509
+        }
+    ],
+    "Cluster_817": [
+        {
+            "ID": "00359",
+            "Event": "My mom can't handle me because I'm flawed and unlovable.",
+            "Similarity_Score": 0.6734219193458557
+        }
+    ],
+    "Cluster_818": [
+        {
+            "ID": "00697",
+            "Event": "I'm drowning in debt and expenses.",
+            "Similarity_Score": 0.6070612668991089
+        }
+    ],
+    "Cluster_833": [
+        {
+            "ID": "00732",
+            "Event": "I was assaulted in public last night.",
+            "Similarity_Score": 0.6250869035720825
+        },
+        {
+            "ID": "00757",
+            "Event": "I was abused growing up.",
+            "Similarity_Score": 0.6570414304733276
+        }
+    ],
+    "Cluster_834": [
+        {
+            "ID": "00351",
+            "Event": "I'm awkward in social interactions.",
+            "Similarity_Score": 0.7298904657363892
+        },
+        {
+            "ID": "00625",
+            "Event": "I'm naturally awkward and introverted.",
+            "Similarity_Score": 0.6977925896644592
+        }
+    ],
+    "Cluster_837": [
+        {
+            "ID": "00130",
+            "Event": "I'm going to be homeless for a month.",
+            "Similarity_Score": 0.7058486938476562
+        },
+        {
+            "ID": "00163",
+            "Event": "I'll be homeless in June.",
+            "Similarity_Score": 0.6757588982582092
+        },
+        {
+            "ID": "00428",
+            "Event": "I've been struggling with homelessness.",
+            "Similarity_Score": 0.6466106176376343
+        },
+        {
+            "ID": "00443",
+            "Event": "I'm going to be homeless in a few days.",
+            "Similarity_Score": 0.7612279653549194
+        },
+        {
+            "ID": "00494",
+            "Event": "I've become homeless.",
+            "Similarity_Score": 0.6734353303909302
+        },
+        {
+            "ID": "00531",
+            "Event": "I'm gonna be homeless soon.",
+            "Similarity_Score": 0.7101964950561523
+        },
+        {
+            "ID": "00564",
+            "Event": "I've been homeless for almost a year now.",
+            "Similarity_Score": 0.6874611377716064
+        },
+        {
+            "ID": "00626",
+            "Event": "I'm homeless.",
+            "Similarity_Score": 0.6884375810623169
+        },
+        {
+            "ID": "00630",
+            "Event": "I'm on the verge of being homeless and having to live out of my car or a shelter.",
+            "Similarity_Score": 0.6651887893676758
+        },
+        {
+            "ID": "00717",
+            "Event": "I'm becoming homeless.",
+            "Similarity_Score": 0.7073036432266235
+        },
+        {
+            "ID": "00754",
+            "Event": "I'm one step away from being homeless due to poor financial management.",
+            "Similarity_Score": 0.6362501382827759
+        },
+        {
+            "ID": "00797",
+            "Event": "I've become homeless with my kids.",
+            "Similarity_Score": 0.662816047668457
+        },
+        {
+            "ID": "00830",
+            "Event": "I might be homeless for two weeks to a month.",
+            "Similarity_Score": 0.6693574786186218
+        },
+        {
+            "ID": "00839",
+            "Event": "I've been homeless for 75 days and money is running out.",
+            "Similarity_Score": 0.6010809540748596
+        },
+        {
+            "ID": "00848",
+            "Event": "I've been homeless for 3 months now.",
+            "Similarity_Score": 0.679176390171051
+        },
+        {
+            "ID": "00864",
+            "Event": "I've become homeless.",
+            "Similarity_Score": 0.6734353303909302
+        },
+        {
+            "ID": "00960",
+            "Event": "I'm at a high risk for homelessness.",
+            "Similarity_Score": 0.6047792434692383
+        },
+        {
+            "ID": "00986",
+            "Event": "I'm now homeless because I couldn't take care of my own car.",
+            "Similarity_Score": 0.6115286350250244
+        }
+    ],
+    "Cluster_844": [
+        {
+            "ID": "01012",
+            "Event": "Feeling isolated and alone.",
+            "Similarity_Score": 0.6215394735336304
+        }
+    ],
+    "Cluster_848": [
+        {
+            "ID": "00921",
+            "Event": "I ended up in a shelter.",
+            "Similarity_Score": 0.6472835540771484
+        }
+    ],
+    "Cluster_855": [
+        {
+            "ID": "01059",
+            "Event": "I got a disappointing response from my dad.",
+            "Similarity_Score": 0.6542779207229614
+        }
+    ],
+    "Cluster_856": [
+        {
+            "ID": "00534",
+            "Event": "My wife cheated on me.",
+            "Similarity_Score": 0.6061692237854004
+        }
+    ],
+    "Cluster_857": [
+        {
+            "ID": "00198",
+            "Event": "I'm struggling to adjust to this new city and feeling lonely.",
+            "Similarity_Score": 0.6118423938751221
+        }
+    ],
+    "Cluster_859": [
+        {
+            "ID": "00622",
+            "Event": "Feeling trapped in my current job.",
+            "Similarity_Score": 0.6340345144271851
+        }
+    ],
+    "Cluster_861": [
+        {
+            "ID": "00130",
+            "Event": "I'm going to be homeless for a month.",
+            "Similarity_Score": 0.6450587511062622
+        },
+        {
+            "ID": "00428",
+            "Event": "I've been struggling with homelessness.",
+            "Similarity_Score": 0.6588751077651978
+        },
+        {
+            "ID": "00443",
+            "Event": "I'm going to be homeless in a few days.",
+            "Similarity_Score": 0.6245948672294617
+        },
+        {
+            "ID": "00494",
+            "Event": "I've become homeless.",
+            "Similarity_Score": 0.6114036440849304
+        },
+        {
+            "ID": "00531",
+            "Event": "I'm gonna be homeless soon.",
+            "Similarity_Score": 0.6651338338851929
+        },
+        {
+            "ID": "00564",
+            "Event": "I've been homeless for almost a year now.",
+            "Similarity_Score": 0.6453239917755127
+        },
+        {
+            "ID": "00626",
+            "Event": "I'm homeless.",
+            "Similarity_Score": 0.6086426377296448
+        },
+        {
+            "ID": "00630",
+            "Event": "I'm on the verge of being homeless and having to live out of my car or a shelter.",
+            "Similarity_Score": 0.6872737407684326
+        },
+        {
+            "ID": "00717",
+            "Event": "I'm becoming homeless.",
+            "Similarity_Score": 0.6551316976547241
+        },
+        {
+            "ID": "00754",
+            "Event": "I'm one step away from being homeless due to poor financial management.",
+            "Similarity_Score": 0.665535569190979
+        },
+        {
+            "ID": "00830",
+            "Event": "I might be homeless for two weeks to a month.",
+            "Similarity_Score": 0.6049436330795288
+        },
+        {
+            "ID": "00848",
+            "Event": "I've been homeless for 3 months now.",
+            "Similarity_Score": 0.6111730337142944
+        },
+        {
+            "ID": "00864",
+            "Event": "I've become homeless.",
+            "Similarity_Score": 0.6114036440849304
+        },
+        {
+            "ID": "00960",
+            "Event": "I'm at a high risk for homelessness.",
+            "Similarity_Score": 0.6627904772758484
+        },
+        {
+            "ID": "00986",
+            "Event": "I'm now homeless because I couldn't take care of my own car.",
+            "Similarity_Score": 0.6225836277008057
+        }
+    ],
+    "Cluster_862": [
+        {
+            "ID": "00306",
+            "Event": "I'll never be able to shake off the feeling of failure.",
+            "Similarity_Score": 0.6216831207275391
+        }
+    ],
+    "Cluster_868": [
+        {
+            "ID": "00502",
+            "Event": "My husband was abusive and raging.",
+            "Similarity_Score": 0.6083005666732788
+        }
+    ],
+    "Cluster_873": [
+        {
+            "ID": "00586",
+            "Event": "I'm not good enough for my partner.",
+            "Similarity_Score": 0.8109469413757324
+        }
+    ],
+    "Cluster_876": [
+        {
+            "ID": "00787",
+            "Event": "I have to make tough decisions.",
+            "Similarity_Score": 0.7250123023986816
+        }
+    ],
+    "Cluster_879": [
+        {
+            "ID": "00617",
+            "Event": "I'm stuck without a job.",
+            "Similarity_Score": 0.6098686456680298
+        }
+    ],
+    "Cluster_890": [
+        {
+            "ID": "00162",
+            "Event": "I'm not good enough or lovable enough.",
+            "Similarity_Score": 0.6019928455352783
+        },
+        {
+            "ID": "00920",
+            "Event": "I'm stuck in a cycle of fear and uncertainty because I'm too weak to stand up for myself.",
+            "Similarity_Score": 0.6862401962280273
+        }
+    ],
+    "Cluster_900": [
+        {
+            "ID": "00126",
+            "Event": "Got kicked out of my home.",
+            "Similarity_Score": 0.626062273979187
+        },
+        {
+            "ID": "00732",
+            "Event": "I was assaulted in public last night.",
+            "Similarity_Score": 0.6625734567642212
+        },
+        {
+            "ID": "01027",
+            "Event": "I witnessed a violent incident.",
+            "Similarity_Score": 0.6444094181060791
+        }
+    ],
+    "Cluster_901": [
+        {
+            "ID": "00589",
+            "Event": "I drove my car off the side of the freeway.",
+            "Similarity_Score": 0.6483256816864014
+        }
+    ],
+    "Cluster_914": [
+        {
+            "ID": "00861",
+            "Event": "I'm not likable or interesting enough.",
+            "Similarity_Score": 0.7161074876785278
+        }
+    ],
+    "Cluster_915": [
+        {
+            "ID": "00126",
+            "Event": "Got kicked out of my home.",
+            "Similarity_Score": 0.6496454477310181
+        },
+        {
+            "ID": "01078",
+            "Event": "She kicked me out.",
+            "Similarity_Score": 0.6922190189361572
+        }
+    ],
+    "Cluster_917": [
+        {
+            "ID": "00767",
+            "Event": "I was misdiagnosed with borderline personality disorder and bipolar.",
+            "Similarity_Score": 0.612245500087738
+        }
+    ],
+    "Cluster_938": [
+        {
+            "ID": "00547",
+            "Event": "Ended up in the hospital because I couldn't breathe.",
+            "Similarity_Score": 0.6127781867980957
+        },
+        {
+            "ID": "01071",
+            "Event": "I had a complete mental breakdown and got sectioned.",
+            "Similarity_Score": 0.6577965021133423
+        }
+    ],
+    "Cluster_940": [
+        {
+            "ID": "00488",
+            "Event": "My symptoms of PTSD became very severe.",
+            "Similarity_Score": 0.6255480051040649
+        },
+        {
+            "ID": "00973",
+            "Event": "I was diagnosed with PTSD.",
+            "Similarity_Score": 0.7067025899887085
+        },
+        {
+            "ID": "01018",
+            "Event": "I got written off because of my PTSD diagnosis.",
+            "Similarity_Score": 0.6150975227355957
+        }
+    ],
+    "Cluster_949": [
+        {
+            "ID": "01041",
+            "Event": "My mom struggles with her degenerative neurological disease.",
+            "Similarity_Score": 0.6276907920837402
+        }
+    ],
+    "Cluster_958": [
+        {
+            "ID": "00755",
+            "Event": "He threatens me.",
+            "Similarity_Score": 0.6064069271087646
+        }
+    ],
+    "Cluster_997": [
+        {
+            "ID": "00926",
+            "Event": "I'm stuck with defaulted student loans.",
+            "Similarity_Score": 0.6182162165641785
+        }
+    ],
+    "Cluster_1001": [
+        {
+            "ID": "00757",
+            "Event": "I was abused growing up.",
+            "Similarity_Score": 0.6453821659088135
+        },
+        {
+            "ID": "01042",
+            "Event": "I relive all the painful memories of my own childhood.",
+            "Similarity_Score": 0.6034338474273682
+        }
+    ],
+    "Cluster_1002": [
+        {
+            "ID": "01004",
+            "Event": "I'm being forced to leave my home due to foreclosure and short sale.",
+            "Similarity_Score": 0.6987637281417847
+        }
+    ],
+    "Cluster_1018": [
+        {
+            "ID": "00025",
+            "Event": "I'm just not good enough.",
+            "Similarity_Score": 0.6102014780044556
+        },
+        {
+            "ID": "00267",
+            "Event": "I'm not good enough to make my dreams happen.",
+            "Similarity_Score": 0.651972234249115
+        }
+    ],
+    "Cluster_1047": [
+        {
+            "ID": "00951",
+            "Event": "My own family members lied about me.",
+            "Similarity_Score": 0.6558930277824402
+        }
+    ],
+    "Cluster_1050": [
+        {
+            "ID": "00846",
+            "Event": "My own mother did horrible things to me for a long time.",
+            "Similarity_Score": 0.6314721703529358
+        }
+    ],
+    "Cluster_1063": [
+        {
+            "ID": "00913",
+            "Event": "I got evicted from my apartment.",
+            "Similarity_Score": 0.6322181224822998
+        }
+    ]
+}

@@ -1,0 +1,2502 @@
+[
+    {
+        "Event": "Struggling financially with no other income or assistance.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I am financially struggling.",
+                "Score": 0.7546132802963257
+            },
+            {
+                "Similar_Event": "I'm stuck in poverty and unable to achieve financial stability or independence.",
+                "Score": 0.7085435390472412
+            },
+            {
+                "Similar_Event": "Living with abusive parents again due to financial hardships.",
+                "Score": 0.6585688591003418
+            },
+            {
+                "Similar_Event": "Living out of my car due to not being able to afford rent.",
+                "Score": 0.6334881782531738
+            },
+            {
+                "Similar_Event": "Being stuck in my hometown with no job prospects and an abusive environment.",
+                "Score": 0.6249992847442627
+            }
+        ]
+    },
+    {
+        "Event": "None",
+        "Similar_Events": [
+            {
+                "Similar_Event": "None",
+                "Score": 0.9999999403953552
+            },
+            {
+                "Similar_Event": "None",
+                "Score": 0.9999999403953552
+            },
+            {
+                "Similar_Event": "None",
+                "Score": 0.9999999403953552
+            },
+            {
+                "Similar_Event": "None",
+                "Score": 0.9999999403953552
+            },
+            {
+                "Similar_Event": "None",
+                "Score": 0.9999999403953552
+            }
+        ]
+    },
+    {
+        "Event": "My girlfriend gets upset and stops talking to me when I act uninterested in her friends.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My girlfriend criticizes my opinions and constantly mocks me.",
+                "Score": 0.6334871649742126
+            },
+            {
+                "Similar_Event": "My girlfriend has mood swings and becomes very upset.",
+                "Score": 0.6034896373748779
+            },
+            {
+                "Similar_Event": "My girlfriend is being messaged by a friend of a friend who won't stop despite her ignoring him.",
+                "Score": 0.5948561429977417
+            },
+            {
+                "Similar_Event": "I don't enjoy being around my girlfriend anymore.",
+                "Score": 0.5667417645454407
+            },
+            {
+                "Similar_Event": "Girlfriend neglects me in favor of her friends.",
+                "Score": 0.5664721131324768
+            }
+        ]
+    },
+    {
+        "Event": "My family was dysfunctional.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Our whole family is dysfunctional.",
+                "Score": 0.7689597606658936
+            },
+            {
+                "Similar_Event": "My family disowned me.",
+                "Score": 0.728099524974823
+            },
+            {
+                "Similar_Event": "My family is disappointed in me.",
+                "Score": 0.6801578998565674
+            },
+            {
+                "Similar_Event": "I had to move away from my family.",
+                "Score": 0.6411091089248657
+            },
+            {
+                "Similar_Event": "My family can't even get along with each other.",
+                "Score": 0.6390129923820496
+            }
+        ]
+    },
+    {
+        "Event": "She had wounds on her face from her husband.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "She divorced her abusive alcoholic husband.",
+                "Score": 0.5693197846412659
+            },
+            {
+                "Similar_Event": "She suffered years of torment and suffering.",
+                "Score": 0.5567049384117126
+            },
+            {
+                "Similar_Event": "Mother had to bury her son.",
+                "Score": 0.5074974894523621
+            },
+            {
+                "Similar_Event": "She looked really worried/close to tears.",
+                "Score": 0.5041149258613586
+            },
+            {
+                "Similar_Event": "Found out husband had an emotional affair with another woman.",
+                "Score": 0.4982522130012512
+            }
+        ]
+    },
+    {
+        "Event": "My dad pushed mom and hit her.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My dad physically hit me.",
+                "Score": 0.8259414434432983
+            },
+            {
+                "Similar_Event": "My dad attacked me.",
+                "Score": 0.7760209441184998
+            },
+            {
+                "Similar_Event": "My dad physically abused my mum.",
+                "Score": 0.768832802772522
+            },
+            {
+                "Similar_Event": "My mother hit me.",
+                "Score": 0.7611502408981323
+            },
+            {
+                "Similar_Event": "My father attacked me.",
+                "Score": 0.7489148378372192
+            }
+        ]
+    },
+    {
+        "Event": "I got preached to by a stranger.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I got kicked out of the food place for being disrespectful to a pastor.",
+                "Score": 0.4744206368923187
+            },
+            {
+                "Similar_Event": "My extroverted neighbor had a loud conversation on my quiet street.",
+                "Score": 0.448982834815979
+            },
+            {
+                "Similar_Event": "I was homeless.",
+                "Score": 0.4461314082145691
+            },
+            {
+                "Similar_Event": "I had a conflict with my mom over her evangelism.",
+                "Score": 0.4424898326396942
+            },
+            {
+                "Similar_Event": "I got yelled at and accused by my acquaintance over the phone.",
+                "Score": 0.4389530122280121
+            }
+        ]
+    },
+    {
+        "Event": "I see an insect near me.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "An anvil is weighing me down.",
+                "Score": 0.38399454951286316
+            },
+            {
+                "Similar_Event": "My mother hit me.",
+                "Score": 0.38218173384666443
+            },
+            {
+                "Similar_Event": "I experienced an olfactory hallucination.",
+                "Score": 0.38167470693588257
+            },
+            {
+                "Similar_Event": "My mom hollered at me.",
+                "Score": 0.3809792697429657
+            },
+            {
+                "Similar_Event": "I'm living like a parasite on my family.",
+                "Score": 0.3791532814502716
+            }
+        ]
+    },
+    {
+        "Event": "My dad walked into my room completely naked.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My parents left pornographic magazines laying on their bedroom floor and joked about my reaction; my stepdad told my mom I wanted a massage while I was sleeping, and my mom ran out of the room naked.",
+                "Score": 0.7107908725738525
+            },
+            {
+                "Similar_Event": "My dad nearly killed me.",
+                "Score": 0.6249905228614807
+            },
+            {
+                "Similar_Event": "My dad attacked me.",
+                "Score": 0.6186402440071106
+            },
+            {
+                "Similar_Event": "My dad physically hit me.",
+                "Score": 0.5896502733230591
+            },
+            {
+                "Similar_Event": "My dad lied and got caught.",
+                "Score": 0.5872678160667419
+            }
+        ]
+    },
+    {
+        "Event": "Her counselor confirms taking away her kids.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "She brought a guy home to our family home in front of the kids.",
+                "Score": 0.49840375781059265
+            },
+            {
+                "Similar_Event": "She divorced her abusive alcoholic husband.",
+                "Score": 0.49557703733444214
+            },
+            {
+                "Similar_Event": "She no longer wants to move in together.",
+                "Score": 0.4372245967388153
+            },
+            {
+                "Similar_Event": "Her parents kicked her out of the house and took her car.",
+                "Score": 0.43649470806121826
+            },
+            {
+                "Similar_Event": "She's dependent on medication for the rest of her life.",
+                "Score": 0.43498238921165466
+            }
+        ]
+    },
+    {
+        "Event": "My brother was addicted to cocaine.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Struggling with cocaine addiction.",
+                "Score": 0.6789371371269226
+            },
+            {
+                "Similar_Event": "Being born addicted to several different drugs.",
+                "Score": 0.630163311958313
+            },
+            {
+                "Similar_Event": "My younger brother took his own life.",
+                "Score": 0.5772831439971924
+            },
+            {
+                "Similar_Event": "My brother tried to kill himself.",
+                "Score": 0.5766327381134033
+            },
+            {
+                "Similar_Event": "My boyfriend is probably on drugs.",
+                "Score": 0.5326931476593018
+            }
+        ]
+    },
+    {
+        "Event": "I lost my kid's daycare money.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Just lost custody of my child.",
+                "Score": 0.5949552655220032
+            },
+            {
+                "Similar_Event": "Confronted my mom about misusing child support money.",
+                "Score": 0.557511568069458
+            },
+            {
+                "Similar_Event": "My husband lost his job.",
+                "Score": 0.5529287457466125
+            },
+            {
+                "Similar_Event": "I lost my bank card and license.",
+                "Score": 0.5523751974105835
+            },
+            {
+                "Similar_Event": "Lost my job due to being two days late.",
+                "Score": 0.5520775318145752
+            }
+        ]
+    },
+    {
+        "Event": "Can't get a personal loan due to bad credit or no credit.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Can't afford rent and student loans on my income.",
+                "Score": 0.6081012487411499
+            },
+            {
+                "Similar_Event": "I am financially struggling.",
+                "Score": 0.5095399022102356
+            },
+            {
+                "Similar_Event": "I'm going to default on my student loans.",
+                "Score": 0.5049579739570618
+            },
+            {
+                "Similar_Event": "Struggling financially with no other income or assistance.",
+                "Score": 0.5024413466453552
+            },
+            {
+                "Similar_Event": "Having credit card debt.",
+                "Score": 0.4972062110900879
+            }
+        ]
+    },
+    {
+        "Event": "My boyfriend became extremely anxious and angry due to my actions.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My anxiety caused a rift in my relationship and we broke up.",
+                "Score": 0.6411259174346924
+            },
+            {
+                "Similar_Event": "My husband was abusive and raging.",
+                "Score": 0.6171585321426392
+            },
+            {
+                "Similar_Event": "I ended up with anxiety due to relationship and health issues.",
+                "Score": 0.5997339487075806
+            },
+            {
+                "Similar_Event": "My partner thinks I'm being dramatic when I'm depressed or anxious.",
+                "Score": 0.5953682661056519
+            },
+            {
+                "Similar_Event": "My husband raged at me when I tried to be affectionate.",
+                "Score": 0.5936529040336609
+            }
+        ]
+    },
+    {
+        "Event": "Getting ghosted by the guy I like.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Got ghosted by a guy after meeting in a hotel room.",
+                "Score": 0.7415400743484497
+            },
+            {
+                "Similar_Event": "He ghosted me.",
+                "Score": 0.6985545754432678
+            },
+            {
+                "Similar_Event": "I ghosted her.",
+                "Score": 0.6106581091880798
+            },
+            {
+                "Similar_Event": "I broke up with a creepy guy.",
+                "Score": 0.5571771264076233
+            },
+            {
+                "Similar_Event": "I freak out and have flashbacks.",
+                "Score": 0.47505873441696167
+            }
+        ]
+    },
+    {
+        "Event": "I end up in confusing friendships with men that blur the lines between 'relationship' and 'friendship'.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm not cut out for meaningful relationships and will always be socially awkward.",
+                "Score": 0.5315003395080566
+            },
+            {
+                "Similar_Event": "Ended friendship with someone.",
+                "Score": 0.5168926119804382
+            },
+            {
+                "Similar_Event": "I'm not cut out for relationships.",
+                "Score": 0.5040521621704102
+            },
+            {
+                "Similar_Event": "I'm stuck in the 'friend zone' forever.",
+                "Score": 0.46764394640922546
+            },
+            {
+                "Similar_Event": "My friend used me under the guise of friendship.",
+                "Score": 0.4666755497455597
+            }
+        ]
+    },
+    {
+        "Event": "He held me down to put a knife against my throat.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "He accidentally held my throat too tight.",
+                "Score": 0.7520797848701477
+            },
+            {
+                "Similar_Event": "He strangled me.",
+                "Score": 0.6647583246231079
+            },
+            {
+                "Similar_Event": "He grabbed me by the neck, slammed my head against the wall, threw me to the ground, and threw a bucket with dog shit at me.",
+                "Score": 0.6430937051773071
+            },
+            {
+                "Similar_Event": "He backed me into a corner in the kitchen and kept hitting me.",
+                "Score": 0.6399897933006287
+            },
+            {
+                "Similar_Event": "He choked me.",
+                "Score": 0.626984715461731
+            }
+        ]
+    },
+    {
+        "Event": "My parents forbade me from getting a job.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My parents refused to buy me basic necessities.",
+                "Score": 0.7127040028572083
+            },
+            {
+                "Similar_Event": "My parents banned me from the house.",
+                "Score": 0.6862710118293762
+            },
+            {
+                "Similar_Event": "My parents were frustrated with me.",
+                "Score": 0.627376139163971
+            },
+            {
+                "Similar_Event": "My father forced me to apply to a university I didn't want to attend.",
+                "Score": 0.6084856390953064
+            },
+            {
+                "Similar_Event": "I was booted from my parents' house.",
+                "Score": 0.5968936085700989
+            }
+        ]
+    },
+    {
+        "Event": "I'm not cut out for anything athletic or competitive in life.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm not cut out for relationships.",
+                "Score": 0.5086455941200256
+            },
+            {
+                "Similar_Event": "I'm not cut out for relationships and will probably be unhappy in every aspect of my life.",
+                "Score": 0.49030962586402893
+            },
+            {
+                "Similar_Event": "I'm not cut out for intimacy and will always be unhappy in my personal life.",
+                "Score": 0.4507780075073242
+            },
+            {
+                "Similar_Event": "I'm going to mess up every aspect of my life and never be good enough for anyone or anything.",
+                "Score": 0.448462575674057
+            },
+            {
+                "Similar_Event": "I'm not cut out for meaningful relationships and will always be unhappy in love.",
+                "Score": 0.44224828481674194
+            }
+        ]
+    },
+    {
+        "Event": "Can't afford rent and student loans on my income.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Can't afford to rent anywhere due to low income.",
+                "Score": 0.7160990834236145
+            },
+            {
+                "Similar_Event": "I am financially struggling.",
+                "Score": 0.6654458045959473
+            },
+            {
+                "Similar_Event": "I'm struggling to pay rent on time.",
+                "Score": 0.6584097743034363
+            },
+            {
+                "Similar_Event": "Can't find an affordable place to rent and have no savings.",
+                "Score": 0.6466497182846069
+            },
+            {
+                "Similar_Event": "I won't have any income until after I graduate.",
+                "Score": 0.6329607963562012
+            }
+        ]
+    },
+    {
+        "Event": "I was unloved by someone.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm unwanted and unloved.",
+                "Score": 0.6329840421676636
+            },
+            {
+                "Similar_Event": "I confessed my feelings to someone I care about and they didn't feel the same way.",
+                "Score": 0.6024551391601562
+            },
+            {
+                "Similar_Event": "I was left heartbroken by my first love.",
+                "Score": 0.6008546948432922
+            },
+            {
+                "Similar_Event": "I had a confrontation with someone I care about.",
+                "Score": 0.5842345952987671
+            },
+            {
+                "Similar_Event": "I caught feelings for someone who doesn't want to date me.",
+                "Score": 0.5645499229431152
+            }
+        ]
+    },
+    {
+        "Event": "I'm probably just pretending to be someone I'm not.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I feel like a fake when talking about something I don't fully understand.",
+                "Score": 0.4862234592437744
+            },
+            {
+                "Similar_Event": "I got added by several fake profiles on social media.",
+                "Score": 0.42537158727645874
+            },
+            {
+                "Similar_Event": "I'm probably socially awkward.",
+                "Score": 0.42210763692855835
+            },
+            {
+                "Similar_Event": "I'm probably not interesting or attractive enough for anyone.",
+                "Score": 0.4147970378398895
+            },
+            {
+                "Similar_Event": "I'm probably not interesting or attractive enough for anyone.",
+                "Score": 0.4147970378398895
+            }
+        ]
+    },
+    {
+        "Event": "Became homeless.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Became homeless.",
+                "Score": 1.0000001192092896
+            },
+            {
+                "Similar_Event": "Became homeless.",
+                "Score": 1.0000001192092896
+            },
+            {
+                "Similar_Event": "Became homeless.",
+                "Score": 1.0000001192092896
+            },
+            {
+                "Similar_Event": "Became homeless.",
+                "Score": 1.0000001192092896
+            },
+            {
+                "Similar_Event": "Became homeless.",
+                "Score": 1.0000001192092896
+            }
+        ]
+    },
+    {
+        "Event": "I felt fear speaking at a college about recovery.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I felt traumatized and scared.",
+                "Score": 0.5976977348327637
+            },
+            {
+                "Similar_Event": "I was nearly hospitalized with severe anxiety.",
+                "Score": 0.5721566081047058
+            },
+            {
+                "Similar_Event": "I had flashbacks and struggled in school.",
+                "Score": 0.5676769614219666
+            },
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.5618367195129395
+            },
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.5618366599082947
+            }
+        ]
+    },
+    {
+        "Event": "Amanda needs a restraining order.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I had to get a permanent restraining order against my ex.",
+                "Score": 0.6041995882987976
+            },
+            {
+                "Similar_Event": "We're going to have to get a restraining order against my dad.",
+                "Score": 0.5804412364959717
+            },
+            {
+                "Similar_Event": "Amanda made out with a random guy at a party.",
+                "Score": 0.4987323582172394
+            },
+            {
+                "Similar_Event": "Experienced police brutality and stalking.",
+                "Score": 0.46633380651474
+            },
+            {
+                "Similar_Event": "She divorced her abusive alcoholic husband.",
+                "Score": 0.4621463418006897
+            }
+        ]
+    },
+    {
+        "Event": "I freak out over small things and lose focus.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I freak out and have flashbacks.",
+                "Score": 0.5792605876922607
+            },
+            {
+                "Similar_Event": "I'm super anxious about pretty much everything.",
+                "Score": 0.5376583337783813
+            },
+            {
+                "Similar_Event": "I'm always so anxious about things that happen in my life.",
+                "Score": 0.520117461681366
+            },
+            {
+                "Similar_Event": "I freak out and dissociate with my surroundings in public restrooms.",
+                "Score": 0.5143143534660339
+            },
+            {
+                "Similar_Event": "I have anxiety.",
+                "Score": 0.502892017364502
+            }
+        ]
+    },
+    {
+        "Event": "My mom gambles with his money.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My mom is in debt.",
+                "Score": 0.5718038082122803
+            },
+            {
+                "Similar_Event": "My mom leans on me emotionally for all their financial issues.",
+                "Score": 0.533033549785614
+            },
+            {
+                "Similar_Event": "He kicked me out of his mom's house when I ran out of money.",
+                "Score": 0.513638973236084
+            },
+            {
+                "Similar_Event": "He spent all my money.",
+                "Score": 0.501397430896759
+            },
+            {
+                "Similar_Event": "Confronted my mom about misusing child support money.",
+                "Score": 0.4939640760421753
+            }
+        ]
+    },
+    {
+        "Event": "I broke up with a creepy guy.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Broke up with me.",
+                "Score": 0.6991367936134338
+            },
+            {
+                "Similar_Event": "I broke up with my ex.",
+                "Score": 0.6861722469329834
+            },
+            {
+                "Similar_Event": "My ex and I broke up.",
+                "Score": 0.6700285077095032
+            },
+            {
+                "Similar_Event": "My boyfriend broke up with me.",
+                "Score": 0.66068035364151
+            },
+            {
+                "Similar_Event": "I broke up with my boyfriend of over a year.",
+                "Score": 0.6603202819824219
+            }
+        ]
+    },
+    {
+        "Event": "Having PTSD.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Having PTSD.",
+                "Score": 0.9999999403953552
+            },
+            {
+                "Similar_Event": "Having PTSD issues.",
+                "Score": 0.8799538612365723
+            },
+            {
+                "Similar_Event": "I have PTSD.",
+                "Score": 0.8025726675987244
+            },
+            {
+                "Similar_Event": "I have PTSD.",
+                "Score": 0.8025726675987244
+            },
+            {
+                "Similar_Event": "Having a traumatic episode.",
+                "Score": 0.7458825707435608
+            }
+        ]
+    },
+    {
+        "Event": "I'm going through the eviction process.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I received an eviction notice.",
+                "Score": 0.8030877113342285
+            },
+            {
+                "Similar_Event": "I got evicted from my house because I broke the rules.",
+                "Score": 0.6346756815910339
+            },
+            {
+                "Similar_Event": "My mom stopped paying my rent, leading to eviction.",
+                "Score": 0.5969104170799255
+            },
+            {
+                "Similar_Event": "My dad is being evicted from his house and will be homeless soon.",
+                "Score": 0.5741865038871765
+            },
+            {
+                "Similar_Event": "I was removed from my home and placed in a foster home.",
+                "Score": 0.566666305065155
+            }
+        ]
+    },
+    {
+        "Event": "My husband was abusive during our marriage.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My husband was abusive and raging.",
+                "Score": 0.858025074005127
+            },
+            {
+                "Similar_Event": "My husband's behavior at work was abusive.",
+                "Score": 0.8377236127853394
+            },
+            {
+                "Similar_Event": "My abusive husband raged at me.",
+                "Score": 0.8255063891410828
+            },
+            {
+                "Similar_Event": "My husband has been very abusive towards me.",
+                "Score": 0.8208901882171631
+            },
+            {
+                "Similar_Event": "I was in an abusive relationship.",
+                "Score": 0.8124596476554871
+            }
+        ]
+    },
+    {
+        "Event": "My boyfriend hangs out with his friends constantly.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My boyfriend is jealous and controlling.",
+                "Score": 0.5663546323776245
+            },
+            {
+                "Similar_Event": "My boyfriend has tantrums and throws objects around the room.",
+                "Score": 0.5211607813835144
+            },
+            {
+                "Similar_Event": "My boyfriend is trying to break into the room and yelling at me.",
+                "Score": 0.49376335740089417
+            },
+            {
+                "Similar_Event": "My friend is trapped in a toxic relationship.",
+                "Score": 0.4888728857040405
+            },
+            {
+                "Similar_Event": "My boyfriend is probably on drugs.",
+                "Score": 0.48880454897880554
+            }
+        ]
+    },
+    {
+        "Event": "I'll have to let the van sit at the shelter lot.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'll be living in the homeless shelter.",
+                "Score": 0.5415942668914795
+            },
+            {
+                "Similar_Event": "I had to give up my laptop at the shelter.",
+                "Score": 0.508479654788971
+            },
+            {
+                "Similar_Event": "I'll be going homeless soon.",
+                "Score": 0.49921876192092896
+            },
+            {
+                "Similar_Event": "I'm gonna be homeless soon.",
+                "Score": 0.4761950671672821
+            },
+            {
+                "Similar_Event": "I'll be homeless in June.",
+                "Score": 0.4731113612651825
+            }
+        ]
+    },
+    {
+        "Event": "An event happened in my life that I can't ever forget.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I went through a traumatic event.",
+                "Score": 0.638941764831543
+            },
+            {
+                "Similar_Event": "I have intrusive memories and nightmares that replay old traumatic childhood experiences.",
+                "Score": 0.5591579675674438
+            },
+            {
+                "Similar_Event": "I had a car accident.",
+                "Score": 0.5348638296127319
+            },
+            {
+                "Similar_Event": "I'm haunted by memories of that year.",
+                "Score": 0.5294261574745178
+            },
+            {
+                "Similar_Event": "I'm always so anxious about things that happen in my life.",
+                "Score": 0.5256958603858948
+            }
+        ]
+    },
+    {
+        "Event": "My grandma was forced to undergo unwanted medical procedures.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My mother was rushed to the hospital for a seizure.",
+                "Score": 0.5944398045539856
+            },
+            {
+                "Similar_Event": "Got kicked out of my grandmother's house.",
+                "Score": 0.5624443888664246
+            },
+            {
+                "Similar_Event": "My mom got diagnosed with cancer.",
+                "Score": 0.5550990700721741
+            },
+            {
+                "Similar_Event": "My grandmother hated herself for a long time.",
+                "Score": 0.5519967675209045
+            },
+            {
+                "Similar_Event": "My uncle was admitted to the hospital.",
+                "Score": 0.5479926466941833
+            }
+        ]
+    },
+    {
+        "Event": "I had an anxiety attack.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I had an anxiety attack.",
+                "Score": 0.9999998807907104
+            },
+            {
+                "Similar_Event": "I had an anxiety attack.",
+                "Score": 0.9999998807907104
+            },
+            {
+                "Similar_Event": "I had a panic attack.",
+                "Score": 0.8962395191192627
+            },
+            {
+                "Similar_Event": "I had a panic attack.",
+                "Score": 0.8962395191192627
+            },
+            {
+                "Similar_Event": "I had a panic attack.",
+                "Score": 0.8962395191192627
+            }
+        ]
+    },
+    {
+        "Event": "Felt treated like a burdensome charity case.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Felt like I was being treated as a burdensome charity case.",
+                "Score": 0.9101395010948181
+            },
+            {
+                "Similar_Event": "Being treated in a horrid way",
+                "Score": 0.5217407941818237
+            },
+            {
+                "Similar_Event": "Someone else's suffering ensued because of me.",
+                "Score": 0.48150771856307983
+            },
+            {
+                "Similar_Event": "Had to call out of work due to inability to function with others and lied about having a fever.",
+                "Score": 0.4722980260848999
+            },
+            {
+                "Similar_Event": "I was refused help when I asked for it due to my mental illness.",
+                "Score": 0.4449346661567688
+            }
+        ]
+    },
+    {
+        "Event": "I was diagnosed with Dyskeratosis Congenita.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.46478065848350525
+            },
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.4647805988788605
+            },
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.4647805988788605
+            },
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.4647805988788605
+            },
+            {
+                "Similar_Event": "I suffered from extreme derealization, depression, and anxiety.",
+                "Score": 0.4629369080066681
+            }
+        ]
+    },
+    {
+        "Event": "I got pregnant again after he forcibly took my birth control away.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Found out I'm pregnant and my boyfriend wants me to keep the baby.",
+                "Score": 0.5779814720153809
+            },
+            {
+                "Similar_Event": "Found out my partner cheated on me and got another girl pregnant.",
+                "Score": 0.5740945935249329
+            },
+            {
+                "Similar_Event": "My partner became controlling and restrictive.",
+                "Score": 0.509867250919342
+            },
+            {
+                "Similar_Event": "Had a pregnancy scare.",
+                "Score": 0.5043975710868835
+            },
+            {
+                "Similar_Event": "He abused me mentally and physically, and cheated on me several times.",
+                "Score": 0.5036465525627136
+            }
+        ]
+    },
+    {
+        "Event": "Experiencing jaw aches, collarbone pain, and back pain.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Having bad soreness and tightness in my upper back and neck.",
+                "Score": 0.5977720022201538
+            },
+            {
+                "Similar_Event": "Experiencing crippling pain.",
+                "Score": 0.471567302942276
+            },
+            {
+                "Similar_Event": "I'm experiencing chronic pain and anxiety symptoms.",
+                "Score": 0.44490376114845276
+            },
+            {
+                "Similar_Event": "Suffered major nerve damage that caused insufferable pain and cost me my job.",
+                "Score": 0.42508217692375183
+            },
+            {
+                "Similar_Event": "My friend's dog was attacked by a larger dog and had its lower jaw ripped off.",
+                "Score": 0.42330190539360046
+            }
+        ]
+    },
+    {
+        "Event": "I was diagnosed with PTSD.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.9999998211860657
+            },
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.9999997019767761
+            },
+            {
+                "Similar_Event": "I was diagnosed with PTSD.",
+                "Score": 0.9999997019767761
+            },
+            {
+                "Similar_Event": "My symptoms of PTSD became very severe.",
+                "Score": 0.8706274628639221
+            },
+            {
+                "Similar_Event": "I'm struggling with PTSD symptoms.",
+                "Score": 0.8245611190795898
+            }
+        ]
+    },
+    {
+        "Event": "Fell into a FWB situation that didn't turn into a relationship.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "He got out of his first love relationship.",
+                "Score": 0.5625418424606323
+            },
+            {
+                "Similar_Event": "Got out of an eight year relationship.",
+                "Score": 0.5443892478942871
+            },
+            {
+                "Similar_Event": "Had a near-relationship ending encounter with my girlfriend.",
+                "Score": 0.5437436699867249
+            },
+            {
+                "Similar_Event": "Got cheated on and dumped on Christmas.",
+                "Score": 0.539302408695221
+            },
+            {
+                "Similar_Event": "Went through a breakup with someone I care about.",
+                "Score": 0.5367470979690552
+            }
+        ]
+    },
+    {
+        "Event": "I got severe chest pains and my heart was beating so fast.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I had chest pains.",
+                "Score": 0.8443187475204468
+            },
+            {
+                "Similar_Event": "Experiencing severe physical consequences and heart trouble.",
+                "Score": 0.6082078218460083
+            },
+            {
+                "Similar_Event": "I felt like I was going to pass out and my heart was racing.",
+                "Score": 0.5886875987052917
+            },
+            {
+                "Similar_Event": "I had panic attacks.",
+                "Score": 0.5482712984085083
+            },
+            {
+                "Similar_Event": "I had panic attacks.",
+                "Score": 0.5482712984085083
+            }
+        ]
+    },
+    {
+        "Event": "Found out my partner was interested in someone else online.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I found out my partner was having an affair.",
+                "Score": 0.5649052262306213
+            },
+            {
+                "Similar_Event": "My friend claimed interest in my girlfriend after introducing us.",
+                "Score": 0.5206542015075684
+            },
+            {
+                "Similar_Event": "Someone sent me screenshots of my partner flirting with another girl on FaceTime or Instagram.",
+                "Score": 0.5186371207237244
+            },
+            {
+                "Similar_Event": "My partner became distant.",
+                "Score": 0.507982075214386
+            },
+            {
+                "Similar_Event": "My partner was still in a relationship with her ex.",
+                "Score": 0.4963325560092926
+            }
+        ]
+    },
+    {
+        "Event": "I had to put my business on hold and go back to work.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I got stopped from getting a job.",
+                "Score": 0.5915377736091614
+            },
+            {
+                "Similar_Event": "Had to cancel all plans to go to work on a day off due to an evaluation.",
+                "Score": 0.5873780250549316
+            },
+            {
+                "Similar_Event": "I got fired from my job.",
+                "Score": 0.5496535301208496
+            },
+            {
+                "Similar_Event": "I lost my job.",
+                "Score": 0.5469633936882019
+            },
+            {
+                "Similar_Event": "Lost my job due to being two days late.",
+                "Score": 0.5288015604019165
+            }
+        ]
+    },
+    {
+        "Event": "My mom yelled at me.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My husband yelled at me.",
+                "Score": 0.7843260765075684
+            },
+            {
+                "Similar_Event": "My mom hollered at me.",
+                "Score": 0.7576207518577576
+            },
+            {
+                "Similar_Event": "My mother hit me.",
+                "Score": 0.719674825668335
+            },
+            {
+                "Similar_Event": "Dad yelled, threw things, and shoved me around.",
+                "Score": 0.7068625092506409
+            },
+            {
+                "Similar_Event": "My mom threw things at me and called me names.",
+                "Score": 0.7015781402587891
+            }
+        ]
+    },
+    {
+        "Event": "I was attacked that night.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I was attacked.",
+                "Score": 0.8207228183746338
+            },
+            {
+                "Similar_Event": "I was assaulted in public at night time.",
+                "Score": 0.701007068157196
+            },
+            {
+                "Similar_Event": "My father attacked me.",
+                "Score": 0.6524387001991272
+            },
+            {
+                "Similar_Event": "My dad attacked me.",
+                "Score": 0.6396445631980896
+            },
+            {
+                "Similar_Event": "I got attacked by two guys without any provocation.",
+                "Score": 0.6305732727050781
+            }
+        ]
+    },
+    {
+        "Event": "I'm still stuck on my toxic ex and can't seem to move on.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm stuck in a toxic relationship.",
+                "Score": 0.7073280811309814
+            },
+            {
+                "Similar_Event": "I got stuck with my ex.",
+                "Score": 0.6711511611938477
+            },
+            {
+                "Similar_Event": "I'm stuck in a toxic relationship where I get physically abused.",
+                "Score": 0.6263427138328552
+            },
+            {
+                "Similar_Event": "I'm stuck in an abusive relationship.",
+                "Score": 0.6261334419250488
+            },
+            {
+                "Similar_Event": "I was in an extremely toxic and abusive relationship.",
+                "Score": 0.6112833619117737
+            }
+        ]
+    },
+    {
+        "Event": "Was diagnosed with Depression and Anxiety.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Had depressive episodes.",
+                "Score": 0.7050102949142456
+            },
+            {
+                "Similar_Event": "I have severe anxiety issues and depression.",
+                "Score": 0.6931341290473938
+            },
+            {
+                "Similar_Event": "Developed anxiety, depression, and OCD.",
+                "Score": 0.6900008916854858
+            },
+            {
+                "Similar_Event": "I was nearly hospitalized with severe anxiety.",
+                "Score": 0.6887421607971191
+            },
+            {
+                "Similar_Event": "I ended up with anxiety due to relationship and health issues.",
+                "Score": 0.6720740795135498
+            }
+        ]
+    },
+    {
+        "Event": "My best friend became distant and cold towards me.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My best friend took a break from me.",
+                "Score": 0.7042956352233887
+            },
+            {
+                "Similar_Event": "My partner became distant.",
+                "Score": 0.630814254283905
+            },
+            {
+                "Similar_Event": "Ended friendship with someone.",
+                "Score": 0.6054369807243347
+            },
+            {
+                "Similar_Event": "My best friend died.",
+                "Score": 0.5907127857208252
+            },
+            {
+                "Similar_Event": "I had an uncomfortable conversation with a friend about someone I distanced myself from.",
+                "Score": 0.5863361358642578
+            }
+        ]
+    },
+    {
+        "Event": "I was denied an extension on an order of protection.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My last order of protection was denied.",
+                "Score": 0.8465628027915955
+            },
+            {
+                "Similar_Event": "Violated protection order.",
+                "Score": 0.6481879353523254
+            },
+            {
+                "Similar_Event": "I was denied Social Security Disability.",
+                "Score": 0.6318094730377197
+            },
+            {
+                "Similar_Event": "I was denied when I asked to stop.",
+                "Score": 0.6245659589767456
+            },
+            {
+                "Similar_Event": "I had to get a permanent restraining order against my ex.",
+                "Score": 0.5613247156143188
+            }
+        ]
+    },
+    {
+        "Event": "People turned their backs and no longer supported my decision to seek treatment.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I was refused help when I asked for it due to my mental illness.",
+                "Score": 0.5912379622459412
+            },
+            {
+                "Similar_Event": "I had an unhelpful therapist.",
+                "Score": 0.5713734030723572
+            },
+            {
+                "Similar_Event": "My therapist didn't give me personalized advice.",
+                "Score": 0.5544247031211853
+            },
+            {
+                "Similar_Event": "My therapist exploited me for personal gain.",
+                "Score": 0.5540792346000671
+            },
+            {
+                "Similar_Event": "I couldn't get the correct mental health treatment.",
+                "Score": 0.553735077381134
+            }
+        ]
+    },
+    {
+        "Event": "People constantly remind me of my weaknesses and failures.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm a total failure in every aspect of my life - relationships, career, everything.",
+                "Score": 0.6570180654525757
+            },
+            {
+                "Similar_Event": "I'm a complete failure in every aspect of my life.",
+                "Score": 0.6297788023948669
+            },
+            {
+                "Similar_Event": "I'm a complete failure in every aspect of my life.",
+                "Score": 0.6297788023948669
+            },
+            {
+                "Similar_Event": "I'm probably going to be a failure in every aspect of my life.",
+                "Score": 0.569247841835022
+            },
+            {
+                "Similar_Event": "I'm overwhelmed and unsuccessful in every aspect of my life.",
+                "Score": 0.5503295063972473
+            }
+        ]
+    },
+    {
+        "Event": "My boyfriend is probably on drugs.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My boyfriend has a huge drug problem and continuously lies to my face about it.",
+                "Score": 0.697336733341217
+            },
+            {
+                "Similar_Event": "My boyfriend got aggressive and is now in jail.",
+                "Score": 0.5399907231330872
+            },
+            {
+                "Similar_Event": "My brother was addicted to cocaine.",
+                "Score": 0.5326931476593018
+            },
+            {
+                "Similar_Event": "My boyfriend is trying to break into the room and yelling at me.",
+                "Score": 0.5094314813613892
+            },
+            {
+                "Similar_Event": "He got extremely drunk and smoked pot.",
+                "Score": 0.4943567216396332
+            }
+        ]
+    },
+    {
+        "Event": "I received a misleading call from my GP's office stating I didn't want the machine due to expense.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My company's mistake with their pay system cost me extra money.",
+                "Score": 0.4706132709980011
+            },
+            {
+                "Similar_Event": "I was denied an Obama phone because I couldn't provide a bill with my name and address on it.",
+                "Score": 0.42560604214668274
+            },
+            {
+                "Similar_Event": "My card declined a transaction.",
+                "Score": 0.4160488247871399
+            },
+            {
+                "Similar_Event": "Lost my phone service and internet because I couldn't afford it.",
+                "Score": 0.41135501861572266
+            },
+            {
+                "Similar_Event": "I couldn't pay my agreement with DWP due to lack of $60.",
+                "Score": 0.4064426124095917
+            }
+        ]
+    },
+    {
+        "Event": "My father passed away.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My grandpa passed away.",
+                "Score": 0.8925735950469971
+            },
+            {
+                "Similar_Event": "My father passed away from a heart attack.",
+                "Score": 0.8574863076210022
+            },
+            {
+                "Similar_Event": "My dad died.",
+                "Score": 0.845519483089447
+            },
+            {
+                "Similar_Event": "My girlfriend's mom passed away.",
+                "Score": 0.775364339351654
+            },
+            {
+                "Similar_Event": "My father died when I was 14 years old.",
+                "Score": 0.752400279045105
+            }
+        ]
+    },
+    {
+        "Event": "A shooter entered the restroom while I was in it.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I was shot at.",
+                "Score": 0.5645053386688232
+            },
+            {
+                "Similar_Event": "I accidentally shot my dog with a stray bullet.",
+                "Score": 0.4980478286743164
+            },
+            {
+                "Similar_Event": "I was thrown out of a car during a drop-off at gunpoint.",
+                "Score": 0.49227282404899597
+            },
+            {
+                "Similar_Event": "I had to go pee during an exam.",
+                "Score": 0.4880581796169281
+            },
+            {
+                "Similar_Event": "Got in the ambulance and it triggered my PTSD",
+                "Score": 0.48258665204048157
+            }
+        ]
+    },
+    {
+        "Event": "I'm stuck with this chronic panic attack-like illness.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Having constant panic attacks.",
+                "Score": 0.7764855027198792
+            },
+            {
+                "Similar_Event": "I've been experiencing panic attacks and struggling with anxiety.",
+                "Score": 0.7655224204063416
+            },
+            {
+                "Similar_Event": "Having panic attacks.",
+                "Score": 0.7162696123123169
+            },
+            {
+                "Similar_Event": "Having panic attacks so bad that I shake and can't catch my breath.",
+                "Score": 0.7113999724388123
+            },
+            {
+                "Similar_Event": "I've had a few mini panic attacks.",
+                "Score": 0.699093222618103
+            }
+        ]
+    },
+    {
+        "Event": "I got anxious as the device was passed around the circle and headed towards me.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I was anxious in the waiting room full of crying babies and kids.",
+                "Score": 0.5590120553970337
+            },
+            {
+                "Similar_Event": "I had an anxiety attack.",
+                "Score": 0.5046019554138184
+            },
+            {
+                "Similar_Event": "I had an anxiety attack.",
+                "Score": 0.5046019554138184
+            },
+            {
+                "Similar_Event": "I had an anxiety attack.",
+                "Score": 0.5046019554138184
+            },
+            {
+                "Similar_Event": "Anxiety hit me like a big wave.",
+                "Score": 0.5035348534584045
+            }
+        ]
+    },
+    {
+        "Event": "Experienced severe domestic violence incidents.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I witnessed a domestic violence incident.",
+                "Score": 0.7833651304244995
+            },
+            {
+                "Similar_Event": "I've experienced domestic violence.",
+                "Score": 0.7456294298171997
+            },
+            {
+                "Similar_Event": "My wife had a violent outburst, attacked me with knives, and threatened to harm herself.",
+                "Score": 0.6319279074668884
+            },
+            {
+                "Similar_Event": "Experienced police brutality and stalking.",
+                "Score": 0.6269094944000244
+            },
+            {
+                "Similar_Event": "Traumatic things happened at home.",
+                "Score": 0.6069114804267883
+            }
+        ]
+    },
+    {
+        "Event": "Being abused by someone who is sometimes nice.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Being financially abused by my partner.",
+                "Score": 0.656233012676239
+            },
+            {
+                "Similar_Event": "Being restricted and abused by my father.",
+                "Score": 0.6309254169464111
+            },
+            {
+                "Similar_Event": "Being in a toxic relationship.",
+                "Score": 0.6220110654830933
+            },
+            {
+                "Similar_Event": "I experienced abuse in a relationship.",
+                "Score": 0.6203211545944214
+            },
+            {
+                "Similar_Event": "I was abused by someone as a kid.",
+                "Score": 0.6106190085411072
+            }
+        ]
+    },
+    {
+        "Event": "I'm losing control of my life.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm going to lose everything - not just my home, but my entire life is falling apart.",
+                "Score": 0.5542634725570679
+            },
+            {
+                "Similar_Event": "I'm unhappy and unfulfilled in every aspect of my life.",
+                "Score": 0.5509506464004517
+            },
+            {
+                "Similar_Event": "I'm overwhelmed and unsuccessful in every aspect of my life.",
+                "Score": 0.5477058291435242
+            },
+            {
+                "Similar_Event": "I lost my job due to reasons out of my control.",
+                "Score": 0.546789824962616
+            },
+            {
+                "Similar_Event": "I relapse and ruin my entire life.",
+                "Score": 0.5326933264732361
+            }
+        ]
+    },
+    {
+        "Event": "My brother's health deteriorated, he lost the use of his legs and now his paralysis is rising up to his waist.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My brother is having panic attacks.",
+                "Score": 0.580830454826355
+            },
+            {
+                "Similar_Event": "My older brother has been psychologically and physically abusing me and my younger brother.",
+                "Score": 0.506693422794342
+            },
+            {
+                "Similar_Event": "My brother tried to kill himself.",
+                "Score": 0.4972500205039978
+            },
+            {
+                "Similar_Event": "My dad has been dying of cancer.",
+                "Score": 0.46306368708610535
+            },
+            {
+                "Similar_Event": "I suffered a traumatic brain injury and other severe physical injuries.",
+                "Score": 0.45601680874824524
+            }
+        ]
+    },
+    {
+        "Event": "My friend threatened to smack the crap out of me.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I got yelled at and accused by my acquaintance over the phone.",
+                "Score": 0.6284099221229553
+            },
+            {
+                "Similar_Event": "My friend threatened to drunk drive with my little brothers in the car.",
+                "Score": 0.6198382377624512
+            },
+            {
+                "Similar_Event": "She shook me awake violently and threatened me with violence.",
+                "Score": 0.5994840264320374
+            },
+            {
+                "Similar_Event": "Got kicked out of the house, insulted, and hit by someone.",
+                "Score": 0.5756518840789795
+            },
+            {
+                "Similar_Event": "My girlfriend threatens to kick me out of her house.",
+                "Score": 0.5742441415786743
+            }
+        ]
+    },
+    {
+        "Event": "I'll be stuck with this massive debt for years to come.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm in debt.",
+                "Score": 0.6765155792236328
+            },
+            {
+                "Similar_Event": "I'm stuck with a huge debt and high-interest charges on my credit card.",
+                "Score": 0.6343977451324463
+            },
+            {
+                "Similar_Event": "Having credit card debt.",
+                "Score": 0.5551526546478271
+            },
+            {
+                "Similar_Event": "I might be in legal trouble over my debts.",
+                "Score": 0.5129395127296448
+            },
+            {
+                "Similar_Event": "I'm probably going to be stuck in poverty forever.",
+                "Score": 0.5105683207511902
+            }
+        ]
+    },
+    {
+        "Event": "I'm having trouble getting gainful employment.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I got stopped from getting a job.",
+                "Score": 0.5355689525604248
+            },
+            {
+                "Similar_Event": "I'm unemployed.",
+                "Score": 0.5055540204048157
+            },
+            {
+                "Similar_Event": "I was unemployed for almost 3 months.",
+                "Score": 0.49822568893432617
+            },
+            {
+                "Similar_Event": "I've applied to many other places with no luck.",
+                "Score": 0.4723687767982483
+            },
+            {
+                "Similar_Event": "I've had no luck finding a job after applying to everything I can think of.",
+                "Score": 0.4627668857574463
+            }
+        ]
+    },
+    {
+        "Event": "She divorced her abusive alcoholic husband.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "She had wounds on her face from her husband.",
+                "Score": 0.5693197846412659
+            },
+            {
+                "Similar_Event": "She dated someone who was seriously depressed.",
+                "Score": 0.5679671168327332
+            },
+            {
+                "Similar_Event": "My wife was abused by her previous husband and his relatives.",
+                "Score": 0.5288404226303101
+            },
+            {
+                "Similar_Event": "I experienced all kinds of abuse from my ex-girlfriend.",
+                "Score": 0.5090936422348022
+            },
+            {
+                "Similar_Event": "Her car broke down.",
+                "Score": 0.49792519211769104
+            }
+        ]
+    },
+    {
+        "Event": "The program ceases to exist.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I just got rejected for a program.",
+                "Score": 0.42768585681915283
+            },
+            {
+                "Similar_Event": "Was turned down for the IRR application.",
+                "Score": 0.35206329822540283
+            },
+            {
+                "Similar_Event": "I'll never be able to form genuine connections with anyone.",
+                "Score": 0.2895679175853729
+            },
+            {
+                "Similar_Event": "I started receiving emails from someone I stopped speaking to.",
+                "Score": 0.2849569618701935
+            },
+            {
+                "Similar_Event": "The business failed.",
+                "Score": 0.28276973962783813
+            }
+        ]
+    },
+    {
+        "Event": "I'll never be able to go back home.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'll never be able to find a place that truly feels like home.",
+                "Score": 0.6720106601715088
+            },
+            {
+                "Similar_Event": "I'll never be able to overcome any obstacles in my life.",
+                "Score": 0.6645743250846863
+            },
+            {
+                "Similar_Event": "I'll never be able to fully recover or overcome my trauma.",
+                "Score": 0.6511120200157166
+            },
+            {
+                "Similar_Event": "I'll never be able to take care of myself, make good decisions or achieve anything independently in life.",
+                "Score": 0.603162944316864
+            },
+            {
+                "Similar_Event": "I won't be allowed to stay in my current home anymore.",
+                "Score": 0.591974139213562
+            }
+        ]
+    },
+    {
+        "Event": "My girlfriend kissed another guy while on holiday.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I kissed my friend while still reeling from a recent breakup.",
+                "Score": 0.6272173523902893
+            },
+            {
+                "Similar_Event": "I was tempted to kiss my friend's girlfriend.",
+                "Score": 0.6254709362983704
+            },
+            {
+                "Similar_Event": "I got really drunk at a party and kissed someone else.",
+                "Score": 0.6031875610351562
+            },
+            {
+                "Similar_Event": "My girlfriend cheated on me.",
+                "Score": 0.5536018013954163
+            },
+            {
+                "Similar_Event": "Girlfriend cheated on me twice.",
+                "Score": 0.5489956140518188
+            }
+        ]
+    },
+    {
+        "Event": "My fiance sulks for days if his sports teams lose.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My husband lost his job.",
+                "Score": 0.4247150719165802
+            },
+            {
+                "Similar_Event": "My husband spends too much time playing games.",
+                "Score": 0.3840710520744324
+            },
+            {
+                "Similar_Event": "I'm going to lose everything in this divorce.",
+                "Score": 0.3650760352611542
+            },
+            {
+                "Similar_Event": "My partner feels jealous.",
+                "Score": 0.3625342845916748
+            },
+            {
+                "Similar_Event": "I break down in tears at work.",
+                "Score": 0.36125895380973816
+            }
+        ]
+    },
+    {
+        "Event": "Received disturbing Facebook messages from someone.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Received insulting text messages from someone.",
+                "Score": 0.5985885858535767
+            },
+            {
+                "Similar_Event": "This person who's been harassing me for years just resurfaced and sent me hundreds of threatening messages.",
+                "Score": 0.5439019799232483
+            },
+            {
+                "Similar_Event": "I saw my abusive ex-boyfriend's Facebook page.",
+                "Score": 0.5311400890350342
+            },
+            {
+                "Similar_Event": "I started receiving emails from someone I stopped speaking to.",
+                "Score": 0.5268422961235046
+            },
+            {
+                "Similar_Event": "I encountered someone who may not be safe to be around and triggered my PTSD.",
+                "Score": 0.4577769637107849
+            }
+        ]
+    },
+    {
+        "Event": "My girlfriend threatens to kick me out of her house.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My girlfriend threatened to call the police and get me deported.",
+                "Score": 0.676082968711853
+            },
+            {
+                "Similar_Event": "My wife had a violent outburst, attacked me with knives, and threatened to harm herself.",
+                "Score": 0.605718195438385
+            },
+            {
+                "Similar_Event": "She shook me awake violently and threatened me with violence.",
+                "Score": 0.6045429110527039
+            },
+            {
+                "Similar_Event": "My girlfriend kicked me out and I couldn't find a place to live.",
+                "Score": 0.5932407379150391
+            },
+            {
+                "Similar_Event": "My friend threatened to smack the crap out of me.",
+                "Score": 0.5742441415786743
+            }
+        ]
+    },
+    {
+        "Event": "Her life is in danger due to lack of surgery and treatment.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "She's dependent on medication for the rest of her life.",
+                "Score": 0.6266782283782959
+            },
+            {
+                "Similar_Event": "She's stuck in a hopeless situation.",
+                "Score": 0.5352281332015991
+            },
+            {
+                "Similar_Event": "My grandma was forced to undergo unwanted medical procedures.",
+                "Score": 0.5297725796699524
+            },
+            {
+                "Similar_Event": "My wife got in a very bad car accident.",
+                "Score": 0.49908822774887085
+            },
+            {
+                "Similar_Event": "She suffered years of torment and suffering.",
+                "Score": 0.4914376139640808
+            }
+        ]
+    },
+    {
+        "Event": "He treats everyone in his life like crap.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "He treats me like shit at work.",
+                "Score": 0.6064084768295288
+            },
+            {
+                "Similar_Event": "I'm being treated like shit by everyone in my life.",
+                "Score": 0.5436069369316101
+            },
+            {
+                "Similar_Event": "He's destined to be unhappy and unloved in every aspect of his life.",
+                "Score": 0.5018270611763
+            },
+            {
+                "Similar_Event": "I'm destined to be treated poorly by everyone in my life.",
+                "Score": 0.4530397355556488
+            },
+            {
+                "Similar_Event": "My partner is treated like crap at his job.",
+                "Score": 0.44540610909461975
+            }
+        ]
+    },
+    {
+        "Event": "I have to pay extra semester university fees.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Were unable to pay tuition fees for my final semester.",
+                "Score": 0.6818771958351135
+            },
+            {
+                "Similar_Event": "My parents are struggling to pay my tuition.",
+                "Score": 0.538293719291687
+            },
+            {
+                "Similar_Event": "I was forced to drop out of school and now owe more money than before.",
+                "Score": 0.4549582898616791
+            },
+            {
+                "Similar_Event": "I'm going to default on my student loans.",
+                "Score": 0.4357732832431793
+            },
+            {
+                "Similar_Event": "Can't afford rent and student loans on my income.",
+                "Score": 0.43517839908599854
+            }
+        ]
+    },
+    {
+        "Event": "Admitting I'm an alcoholic.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I've recently started drinking again.",
+                "Score": 0.6123812794685364
+            },
+            {
+                "Similar_Event": "Making risky decisions and drinking to drown out my sadness.",
+                "Score": 0.577135443687439
+            },
+            {
+                "Similar_Event": "I'm still struggling to recover from my mental illness and substance abuse.",
+                "Score": 0.5213892459869385
+            },
+            {
+                "Similar_Event": "I'm struggling with addiction.",
+                "Score": 0.5073211193084717
+            },
+            {
+                "Similar_Event": "I was abused by my mother and had an absent drunk father.",
+                "Score": 0.5024580359458923
+            }
+        ]
+    },
+    {
+        "Event": "My family accepts a multimillionaire pedophile.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My family are rapist sympathizers.",
+                "Score": 0.6014521718025208
+            },
+            {
+                "Similar_Event": "My whole family is against me.",
+                "Score": 0.48645731806755066
+            },
+            {
+                "Similar_Event": "I don't have a loving family.",
+                "Score": 0.48563793301582336
+            },
+            {
+                "Similar_Event": "I'm worried about hosting family members at home.",
+                "Score": 0.4734461307525635
+            },
+            {
+                "Similar_Event": "My family opposes my use of weed.",
+                "Score": 0.4583204984664917
+            }
+        ]
+    },
+    {
+        "Event": "I'll never be able to overcome any obstacles in my life.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'll never be able to take care of myself, make good decisions or achieve anything independently in life.",
+                "Score": 0.7670065760612488
+            },
+            {
+                "Similar_Event": "I'll never be able to fully recover or overcome my trauma.",
+                "Score": 0.7381916642189026
+            },
+            {
+                "Similar_Event": "I'll never be able to go back home.",
+                "Score": 0.6645743250846863
+            },
+            {
+                "Similar_Event": "I'll probably never find happiness or fulfillment in anything I do.",
+                "Score": 0.658377468585968
+            },
+            {
+                "Similar_Event": "I'm going to mess up every aspect of my life and never be good enough for anyone or anything.",
+                "Score": 0.6110168695449829
+            }
+        ]
+    },
+    {
+        "Event": "My boyfriend betrayed my trust and shared intimate details about me with his friends.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My best friend betrayed my trust by telling his girlfriend everything we discussed.",
+                "Score": 0.7903862595558167
+            },
+            {
+                "Similar_Event": "I feel betrayed in past relationships.",
+                "Score": 0.6362075209617615
+            },
+            {
+                "Similar_Event": "My ex cheated on me.",
+                "Score": 0.6284372210502625
+            },
+            {
+                "Similar_Event": "My husband was cheating on me.",
+                "Score": 0.6128613948822021
+            },
+            {
+                "Similar_Event": "I was left behind while my boyfriend and our mutual friend conversed with someone else.",
+                "Score": 0.612670361995697
+            }
+        ]
+    },
+    {
+        "Event": "I quit my antidepressants.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I quit my antidepressant and my Pregabalin.",
+                "Score": 0.8597489595413208
+            },
+            {
+                "Similar_Event": "I stopped taking my medication.",
+                "Score": 0.767504096031189
+            },
+            {
+                "Similar_Event": "I became depressed.",
+                "Score": 0.6030710935592651
+            },
+            {
+                "Similar_Event": "My coworker reported my antidepressants to my boss.",
+                "Score": 0.5807496309280396
+            },
+            {
+                "Similar_Event": "I quit my past three jobs due to anxiety.",
+                "Score": 0.5784243941307068
+            }
+        ]
+    },
+    {
+        "Event": "I'm overwhelmed and exhausted all the time.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm feeling overwhelmed and want to give up.",
+                "Score": 0.7625418901443481
+            },
+            {
+                "Similar_Event": "Feeling overwhelmed and unable to help myself or others at work.",
+                "Score": 0.6900002956390381
+            },
+            {
+                "Similar_Event": "I'm so exhausted and can't even get a good night's sleep.",
+                "Score": 0.6876842379570007
+            },
+            {
+                "Similar_Event": "I'm overwhelmed with house and school work.",
+                "Score": 0.6719784140586853
+            },
+            {
+                "Similar_Event": "I'm feeling overwhelmed and stressed while studying.",
+                "Score": 0.6668359041213989
+            }
+        ]
+    },
+    {
+        "Event": "She has to go back there again.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "She cancelled my visit multiple times.",
+                "Score": 0.5300918817520142
+            },
+            {
+                "Similar_Event": "She must be broken and unable to have healthy relationships or trust anyone again.",
+                "Score": 0.5175068378448486
+            },
+            {
+                "Similar_Event": "I'll never have the opportunity to see her again.",
+                "Score": 0.5076380968093872
+            },
+            {
+                "Similar_Event": "She no longer wants to move in together.",
+                "Score": 0.50685715675354
+            },
+            {
+                "Similar_Event": "She's stuck in a hopeless situation.",
+                "Score": 0.4989135265350342
+            }
+        ]
+    },
+    {
+        "Event": "I'm having trouble sleeping due to anxiety about my new job.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Had an anxiety attack at my new job.",
+                "Score": 0.6861300468444824
+            },
+            {
+                "Similar_Event": "I quit my past three jobs due to anxiety.",
+                "Score": 0.6631177067756653
+            },
+            {
+                "Similar_Event": "I've been struggling with anxiety really bad.",
+                "Score": 0.6521497368812561
+            },
+            {
+                "Similar_Event": "I'm feeling so anxious and overwhelmed with my job and night classes.",
+                "Score": 0.6487568616867065
+            },
+            {
+                "Similar_Event": "I'm constantly working 16 hour days and struggling to get enough sleep.",
+                "Score": 0.619159996509552
+            }
+        ]
+    },
+    {
+        "Event": "Having a massive anxiety attack over feeling nauseated.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Having severe anxiety attacks.",
+                "Score": 0.764680027961731
+            },
+            {
+                "Similar_Event": "I've been experiencing stomach issues due to increased anxiety.",
+                "Score": 0.7239181995391846
+            },
+            {
+                "Similar_Event": "I had an anxiety attack.",
+                "Score": 0.6863440871238708
+            },
+            {
+                "Similar_Event": "I had an anxiety attack.",
+                "Score": 0.6863440871238708
+            },
+            {
+                "Similar_Event": "I had an anxiety attack.",
+                "Score": 0.6863440871238708
+            }
+        ]
+    },
+    {
+        "Event": "Having dissociative episodes since childhood.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm struggling to cope with dissociation due to trauma.",
+                "Score": 0.7084667086601257
+            },
+            {
+                "Similar_Event": "Having dissociative flashbacks and nightmares.",
+                "Score": 0.703467607498169
+            },
+            {
+                "Similar_Event": "Having a traumatic episode.",
+                "Score": 0.6724733114242554
+            },
+            {
+                "Similar_Event": "I had a traumatic experience as a kid.",
+                "Score": 0.618509829044342
+            },
+            {
+                "Similar_Event": "I had a dissociative flashback.",
+                "Score": 0.6104632616043091
+            }
+        ]
+    },
+    {
+        "Event": "I'm never good enough for anyone.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'll never be good enough for my mom.",
+                "Score": 0.6883947253227234
+            },
+            {
+                "Similar_Event": "I'm going to mess up every aspect of my life and never be good enough for anyone or anything.",
+                "Score": 0.5612765550613403
+            },
+            {
+                "Similar_Event": "I'm destined to be treated poorly by everyone in my life.",
+                "Score": 0.4864419400691986
+            },
+            {
+                "Similar_Event": "I am fundamentally unlovable and will never be able to maintain healthy relationships.",
+                "Score": 0.46694982051849365
+            },
+            {
+                "Similar_Event": "I realized how completely inadequate I am compared to others.",
+                "Score": 0.45446497201919556
+            }
+        ]
+    },
+    {
+        "Event": "She told the guy she was in a relationship and he didn't care.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "She dated someone who was seriously depressed.",
+                "Score": 0.5559627413749695
+            },
+            {
+                "Similar_Event": "She lost it with her mum's boyfriend when she found out he was seeing his ex-girlfriend.",
+                "Score": 0.5421566367149353
+            },
+            {
+                "Similar_Event": "She said that I don't even count as a boyfriend.",
+                "Score": 0.5369190573692322
+            },
+            {
+                "Similar_Event": "Fell into a FWB situation that didn't turn into a relationship.",
+                "Score": 0.5243493318557739
+            },
+            {
+                "Similar_Event": "She cancelled our date and told me she got more serious with another guy.",
+                "Score": 0.5222007632255554
+            }
+        ]
+    },
+    {
+        "Event": "I relapse and ruin my entire life.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I sabotage all my relationships and end up alone and miserable in life.",
+                "Score": 0.6183375716209412
+            },
+            {
+                "Similar_Event": "My chronic illness has destroyed my life.",
+                "Score": 0.5947112441062927
+            },
+            {
+                "Similar_Event": "I'm still struggling to recover from my mental illness and substance abuse.",
+                "Score": 0.5543149709701538
+            },
+            {
+                "Similar_Event": "I unintentionally ruin every relationship I have.",
+                "Score": 0.537132740020752
+            },
+            {
+                "Similar_Event": "I've wasted an entire year of my life.",
+                "Score": 0.5358498692512512
+            }
+        ]
+    },
+    {
+        "Event": "Got into fights with marines and civilians that resulted in many nights in jail.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I was assaulted in public at night time.",
+                "Score": 0.49856308102607727
+            },
+            {
+                "Similar_Event": "I experienced violent punishments involving sharp objects, attempts to drown me, and paddling.",
+                "Score": 0.4956052005290985
+            },
+            {
+                "Similar_Event": "Got kicked out of the house, insulted, and hit by someone.",
+                "Score": 0.4710950553417206
+            },
+            {
+                "Similar_Event": "Could be arrested for camping somewhere.",
+                "Score": 0.47001200914382935
+            },
+            {
+                "Similar_Event": "I got kicked out and became homeless.",
+                "Score": 0.46791988611221313
+            }
+        ]
+    },
+    {
+        "Event": "Had to stop seeing a therapist.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I had an unhelpful therapist.",
+                "Score": 0.7804231643676758
+            },
+            {
+                "Similar_Event": "I'm having trouble finding a good therapist.",
+                "Score": 0.6732553243637085
+            },
+            {
+                "Similar_Event": "I couldn't get the correct mental health treatment.",
+                "Score": 0.6215656995773315
+            },
+            {
+                "Similar_Event": "My therapist didn't give me personalized advice.",
+                "Score": 0.6161744594573975
+            },
+            {
+                "Similar_Event": "My therapist exploited me for personal gain.",
+                "Score": 0.6134980320930481
+            }
+        ]
+    },
+    {
+        "Event": "I've been stuck in this high-stress management position.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I'm extremely stressed out.",
+                "Score": 0.6721352934837341
+            },
+            {
+                "Similar_Event": "Having unbearable daily stress over money.",
+                "Score": 0.5615224838256836
+            },
+            {
+                "Similar_Event": "I'm stuck in an exhausting routine of multiple jobs and long working hours.",
+                "Score": 0.5430967807769775
+            },
+            {
+                "Similar_Event": "I quit my past three jobs due to anxiety.",
+                "Score": 0.5271698832511902
+            },
+            {
+                "Similar_Event": "Had an anxiety attack at my new job.",
+                "Score": 0.5205867886543274
+            }
+        ]
+    },
+    {
+        "Event": "He threatens to take our son away from me.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "We're going to have to get a restraining order against my dad.",
+                "Score": 0.6146759986877441
+            },
+            {
+                "Similar_Event": "He physically abused me.",
+                "Score": 0.5653762221336365
+            },
+            {
+                "Similar_Event": "He physically assaulted me, broke my belongings, and scared me severely.",
+                "Score": 0.5605455040931702
+            },
+            {
+                "Similar_Event": "He tries to hit on me at work while I'm pregnant.",
+                "Score": 0.5574123859405518
+            },
+            {
+                "Similar_Event": "My husband has been very abusive towards me.",
+                "Score": 0.554255485534668
+            }
+        ]
+    },
+    {
+        "Event": "My son almost died in the ambulance.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My father passed away from a heart attack.",
+                "Score": 0.674027681350708
+            },
+            {
+                "Similar_Event": "My father passed away.",
+                "Score": 0.6571184396743774
+            },
+            {
+                "Similar_Event": "My grandpa passed away.",
+                "Score": 0.6403440237045288
+            },
+            {
+                "Similar_Event": "My father got hit by a bus.",
+                "Score": 0.627355694770813
+            },
+            {
+                "Similar_Event": "My dad nearly killed me.",
+                "Score": 0.6259155869483948
+            }
+        ]
+    },
+    {
+        "Event": "My parents were super abusive.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My parent's abusive acts affected me.",
+                "Score": 0.8207142353057861
+            },
+            {
+                "Similar_Event": "My parents banned me from the house.",
+                "Score": 0.7601791024208069
+            },
+            {
+                "Similar_Event": "I grew up in an abusive household.",
+                "Score": 0.7562845945358276
+            },
+            {
+                "Similar_Event": "I was abused by my dad.",
+                "Score": 0.7445750832557678
+            },
+            {
+                "Similar_Event": "My parents were frustrated with me.",
+                "Score": 0.7408401966094971
+            }
+        ]
+    },
+    {
+        "Event": "My mother emotionally abused me.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My dad physically abused my mum.",
+                "Score": 0.8354679346084595
+            },
+            {
+                "Similar_Event": "I was physically and emotionally abused by my partner.",
+                "Score": 0.7883681654930115
+            },
+            {
+                "Similar_Event": "My dad physically abused me.",
+                "Score": 0.7823803424835205
+            },
+            {
+                "Similar_Event": "My mother suffered abuse for 33 years.",
+                "Score": 0.7749782800674438
+            },
+            {
+                "Similar_Event": "I was abused by my dad.",
+                "Score": 0.7711548209190369
+            }
+        ]
+    },
+    {
+        "Event": "There's a 7-10 year waiting list for section 8 facilities in the north Texas area.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "Just got shifted away to a different department and put on a 3-6 month waiting list.",
+                "Score": 0.4669445753097534
+            },
+            {
+                "Similar_Event": "Having upcoming court dates.",
+                "Score": 0.3134367763996124
+            },
+            {
+                "Similar_Event": "I moved my family from Texas to Colorado without having a new job lined up.",
+                "Score": 0.2896582782268524
+            },
+            {
+                "Similar_Event": "Can't get to the welfare office due to lack of transportation.",
+                "Score": 0.2758944630622864
+            },
+            {
+                "Similar_Event": "I've applied to many other places with no luck.",
+                "Score": 0.2698509693145752
+            }
+        ]
+    },
+    {
+        "Event": "I ghosted her.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "He ghosted me.",
+                "Score": 0.7744839787483215
+            },
+            {
+                "Similar_Event": "She left me.",
+                "Score": 0.6603732109069824
+            },
+            {
+                "Similar_Event": "Getting ghosted by the guy I like.",
+                "Score": 0.6106581091880798
+            },
+            {
+                "Similar_Event": "She started to cancel my visits to see her.",
+                "Score": 0.5965217351913452
+            },
+            {
+                "Similar_Event": "She hit me.",
+                "Score": 0.5855123996734619
+            }
+        ]
+    },
+    {
+        "Event": "I felt traumatized and scared.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "I experienced trauma.",
+                "Score": 0.7577398419380188
+            },
+            {
+                "Similar_Event": "I experienced trauma.",
+                "Score": 0.7577398419380188
+            },
+            {
+                "Similar_Event": "I experienced trauma.",
+                "Score": 0.7577398419380188
+            },
+            {
+                "Similar_Event": "I went through a traumatic event.",
+                "Score": 0.6807636022567749
+            },
+            {
+                "Similar_Event": "I had a traumatic experience as a kid.",
+                "Score": 0.6707848310470581
+            }
+        ]
+    },
+    {
+        "Event": "I was abused by my dad.",
+        "Similar_Events": [
+            {
+                "Similar_Event": "My dad physically abused me.",
+                "Score": 0.9312609434127808
+            },
+            {
+                "Similar_Event": "My dad physically abused my mum.",
+                "Score": 0.8545843362808228
+            },
+            {
+                "Similar_Event": "I was abused by someone as a kid.",
+                "Score": 0.8425722122192383
+            },
+            {
+                "Similar_Event": "I was abused.",
+                "Score": 0.8369177579879761
+            },
+            {
+                "Similar_Event": "I was abused.",
+                "Score": 0.8369177579879761
+            }
+        ]
+    }
+]
