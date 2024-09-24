@@ -452,7 +452,6 @@
         "Event": "Failed to help set up a new iPad for a family member.",
         "ID": "00079",
         "Label": [
-            "Relationship",
             "Incompetent"
         ]
     },
@@ -461,7 +460,7 @@
         "Event": "I have trouble opening a simple Word document.",
         "ID": "00080",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -525,8 +524,7 @@
         "Event": "I'm on my way to the hospital because I can't handle the pain anymore.",
         "ID": "00092",
         "Label": [
-            "Health and Medication",
-            "Incompetent"
+            "Health and Medication"
         ]
     },
     {
@@ -534,7 +532,7 @@
         "Event": "I got hurt by that online relationship.",
         "ID": "00093",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -558,7 +556,6 @@
         "Event": "My mom's constant criticism and lack of support.",
         "ID": "00097",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
         ]
     },
@@ -567,9 +564,7 @@
         "Event": "I'm doomed to be homeless in June after losing my job and struggling to find a new one.",
         "ID": "00098",
         "Label": [
-            "Financial Stability",
-            "Jobs and Careers",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -577,7 +572,7 @@
         "Event": "I couldn't post a video because it wouldn't load.",
         "ID": "00099",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -609,8 +604,7 @@
         "Event": "I failed a drug test for smoking weed.",
         "ID": "00105",
         "Label": [
-            "Health and Medication",
-            "Incompetent"
+            "Health and Medication"
         ]
     },
     {
@@ -618,8 +612,6 @@
         "Event": "I have to see the person I care about but failed to connect with every day at work, and it's a constant reminder of my inadequacy.",
         "ID": "00106",
         "Label": [
-            "Relationship",
-            "Jobs and Careers",
             "Incompetent"
         ]
     },
@@ -716,8 +708,7 @@
         "Event": "She criticized my family and demanded I leave.",
         "ID": "00118",
         "Label": [
-            "Relationship",
-            "Bias or Abuse"
+            "Relationship"
         ]
     },
     {
@@ -733,7 +724,6 @@
         "Event": "I forgot to pay my rent this month.",
         "ID": "00120",
         "Label": [
-            "Financial Stability",
             "Incompetent"
         ]
     },
@@ -750,7 +740,7 @@
         "Event": "I got an F on my English paper.",
         "ID": "00122",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
@@ -790,7 +780,7 @@
         "Event": "Every time I get close to someone, they end up rejecting me.",
         "ID": "00128",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -822,7 +812,7 @@
         "Event": "I was called unattractive by a group of girls.",
         "ID": "00133",
         "Label": [
-            "Relationship"
+            "Bias or Abuse"
         ]
     },
     {
@@ -830,7 +820,7 @@
         "Event": "I'm constantly nauseous, my mood swings are making me impossible to be around, and I can barely stand without feeling lightheaded.",
         "ID": "00134",
         "Label": [
-            "Incompetent"
+            "Health and Medication"
         ]
     },
     {
@@ -870,7 +860,6 @@
         "Event": "I'm being bullied by my boss.",
         "ID": "00142",
         "Label": [
-            "Jobs and Careers",
             "Bias or Abuse"
         ]
     },
@@ -895,8 +884,7 @@
         "Event": "My maternal extended family being evacuated and coming to stay with me adds an extra layer of stress and responsibility.",
         "ID": "00145",
         "Label": [
-            "Relationship",
-            "Health and Medication"
+            "Relationship"
         ]
     },
     {
@@ -928,7 +916,7 @@
         "Event": "I have to change my mom's doctor's appointment.",
         "ID": "00150",
         "Label": [
-            "Relationship"
+            "Others"
         ]
     },
     {
@@ -952,7 +940,7 @@
         "Event": "I'll never be good enough for her.",
         "ID": "00154",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -968,8 +956,7 @@
         "Event": "I'm stuck in a cycle of poverty and failure.",
         "ID": "00156",
         "Label": [
-            "Financial Stability",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -977,8 +964,7 @@
         "Event": "Stupid mistake at work.",
         "ID": "00157",
         "Label": [
-            "Jobs and Careers",
-            "Incompetent"
+            "Jobs and Careers"
         ]
     },
     {
@@ -986,7 +972,7 @@
         "Event": "My parents are unable to get along with each other.",
         "ID": "00160",
         "Label": [
-            "Incompetent"
+            "Relationship"
         ]
     },
     {
@@ -1018,7 +1004,7 @@
         "Event": "I make a fool of myself when sending a simple email.",
         "ID": "00165",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -1034,7 +1020,7 @@
         "Event": "I burned the cookies I made for my crush.",
         "ID": "00167",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -1066,7 +1052,6 @@
         "Event": "My boyfriend treated me with disrespect and hatred.",
         "ID": "00171",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
         ]
     },
@@ -1091,7 +1076,6 @@
         "Event": "I failed to defend myself in a fight and was left feeling humiliated and defeated.",
         "ID": "00176",
         "Label": [
-            "Relationship",
             "Incompetent"
         ]
     },
@@ -1105,7 +1089,7 @@
     },
     {
         "Post": "\"I'll never find a girl who truly likes me. I'm doomed to be lonely and unloved forever.\"",
-        "Event": "I'll never find a girl who truly likes me and I'm doomed to be lonely and unloved forever.\n\n(Rewritten in a concise and fluent version)\n\nEvent: I'm doomed to be lonely and unloved forever.",
+        "Event": "I'll never find a girl who truly likes me.",
         "ID": "00178",
         "Label": [
             "Relationship"
@@ -1116,7 +1100,6 @@
         "Event": "I'm unable to get a girlfriend.",
         "ID": "00179",
         "Label": [
-            "Relationship",
             "Incompetent"
         ]
     },
@@ -1157,8 +1140,7 @@
         "Event": "I miss email updates and my boss thinks I'm incompetent or uninterested.",
         "ID": "00188",
         "Label": [
-            "Jobs and Careers",
-            "Incompetent"
+            "Jobs and Careers"
         ]
     },
     {
@@ -1166,7 +1148,7 @@
         "Event": "I've been rejected and humiliated by this person.",
         "ID": "00189",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1182,7 +1164,7 @@
         "Event": "My whole savings is now less by 100 compared to before.",
         "ID": "00192",
         "Label": [
-            "Others"
+            "Financial Stability"
         ]
     },
     {
@@ -1198,7 +1180,6 @@
         "Event": "I can't even get my work schedule right and now Alex has to find another ride to the airport.",
         "ID": "00196",
         "Label": [
-            "Jobs and Careers",
             "Incompetent"
         ]
     },
@@ -1223,7 +1204,7 @@
         "Event": "I'm stuck with an outdated phone technology that affects my ability to stay connected and productive.",
         "ID": "00199",
         "Label": [
-            "Incompetent"
+            "Others"
         ]
     },
     {
@@ -1255,7 +1236,7 @@
         "Event": "I suffered major nerve damage, lost my long-time position with Apple, fell behind on rent, and risked eviction.",
         "ID": "00207",
         "Label": [
-            "Financial Stability"
+            "Health and Medication"
         ]
     },
     {
@@ -1279,7 +1260,7 @@
         "Event": "He'll just find a way to hurt me again.",
         "ID": "00212",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1287,7 +1268,6 @@
         "Event": "I'm stuck in this dark hole of depression and isolation.",
         "ID": "00214",
         "Label": [
-            "Relationship",
             "Health and Medication"
         ]
     },
@@ -1320,7 +1300,7 @@
         "Event": "I'm bad at chemistry.",
         "ID": "00225",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -1336,7 +1316,7 @@
         "Event": "I'm rejected and considered irrelevant and unwanted.",
         "ID": "00227",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -1352,7 +1332,6 @@
         "Event": "I've been labeled a 'skank' after my date didn't go well.",
         "ID": "00230",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
         ]
     },
@@ -1361,8 +1340,7 @@
         "Event": "I accidentally pressed the wrong button and now I'm stuck with a bill I can't pay.",
         "ID": "00231",
         "Label": [
-            "Financial Stability",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -1370,7 +1348,6 @@
         "Event": "My mom takes her anger out on me, calling me lazy and worthless.",
         "ID": "00232",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
         ]
     },
@@ -1435,8 +1412,7 @@
         "Event": "I'm always getting rejected and disrespected by my coworkers.",
         "ID": "00246",
         "Label": [
-            "Relationship",
-            "Jobs and Careers"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1444,7 +1420,7 @@
         "Event": "I'm stuck with an outdated and unattractive look.",
         "ID": "00248",
         "Label": [
-            "Relationship"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1460,7 +1436,7 @@
         "Event": "Being yelled at and shoved with a broom during an argument.",
         "ID": "00250",
         "Label": [
-            "Relationship"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1484,8 +1460,7 @@
         "Event": "I'm a single mother living in a huge, unaffordable house, far away from any support system.",
         "ID": "00256",
         "Label": [
-            "Relationship",
-            "Health and Medication"
+            "Financial Stability"
         ]
     },
     {
@@ -1501,7 +1476,7 @@
         "Event": "I'll never find someone who truly understands me and appreciates me for who I am.",
         "ID": "00258",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -1522,10 +1497,10 @@
     },
     {
         "Post": "\"My mom thinks I don't value the benefit of earning money, which means I'm probably going to be broke and unsuccessful in every aspect of my life, never able to achieve financial independence or security.\"",
-        "Event": "I'm probably going to be broke and unsuccessful in every aspect of my life.",
+        "Event": "My mom thinks I don't value the benefit of earning money.",
         "ID": "00263",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1541,7 +1516,7 @@
         "Event": "Being born addicted to several different drugs.",
         "ID": "00265",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -1549,7 +1524,7 @@
         "Event": "I've struggled with CPTSD for so long.",
         "ID": "00266",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -1565,9 +1540,7 @@
         "Event": "I'm unable to work due to worsening disabilities and severe health issues.",
         "ID": "00268",
         "Label": [
-            "Health and Medication",
-            "Jobs and Careers",
-            "Incompetent"
+            "Health and Medication"
         ]
     },
     {
@@ -1583,7 +1556,7 @@
         "Event": "A person I know loathes me.",
         "ID": "00270",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1591,8 +1564,7 @@
         "Event": "Can't sleep, stressed and worried about everything.",
         "ID": "00271",
         "Label": [
-            "Health and Medication",
-            "Incompetent"
+            "Health and Medication"
         ]
     },
     {
@@ -1664,7 +1636,7 @@
         "Event": "I got lost in a big school.",
         "ID": "00283",
         "Label": [
-            "Jobs and Careers"
+            "Others"
         ]
     },
     {
@@ -1680,9 +1652,7 @@
         "Event": "My mom needs cardiac surgery but we can't afford it.",
         "ID": "00286",
         "Label": [
-            "Relationship",
-            "Financial Stability",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -1690,7 +1660,7 @@
         "Event": "I had a breakdown.",
         "ID": "00287",
         "Label": [
-            "Health and Medication"
+            "Others"
         ]
     },
     {
@@ -1706,7 +1676,7 @@
         "Event": "Had a disagreement with my parents that led to me moving out.",
         "ID": "00290",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -1714,7 +1684,7 @@
         "Event": "My phone bill payment wouldn't process.",
         "ID": "00292",
         "Label": [
-            "Financial Stability"
+            "Others"
         ]
     },
     {
@@ -1722,8 +1692,7 @@
         "Event": "I can't afford a psychologist.",
         "ID": "00295",
         "Label": [
-            "Financial Stability",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -1731,7 +1700,7 @@
         "Event": "I unintentionally ruined a relationship.",
         "ID": "00296",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -1755,8 +1724,7 @@
         "Event": "She blew up on us when we told her things about jobs.",
         "ID": "00299",
         "Label": [
-            "Jobs and Careers",
-            "Bias or Abuse"
+            "Relationship"
         ]
     },
     {
@@ -1804,7 +1772,6 @@
         "Event": "I was blamed for someone dying.",
         "ID": "00306",
         "Label": [
-            "Health and Medication",
             "Bias or Abuse"
         ]
     },
@@ -1813,7 +1780,7 @@
         "Event": "I considered ending my life.",
         "ID": "00309",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -1821,7 +1788,6 @@
         "Event": "I'm leaving my abusive husband with four kids.",
         "ID": "00310",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
         ]
     },
@@ -1846,7 +1812,7 @@
         "Event": "I felt like I was going to pass out and my heart was racing.",
         "ID": "00315",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -1862,7 +1828,7 @@
         "Event": "I'm worried about what others think of me.",
         "ID": "00317",
         "Label": [
-            "Health and Medication"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1894,7 +1860,7 @@
         "Event": "A series of events in late 2016 led me into an intense cycle of anxious rumination and fear.",
         "ID": "00321",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -1910,7 +1876,7 @@
         "Event": "Told I wouldn't be allowed back to my house until my court date in a month.",
         "ID": "00325",
         "Label": [
-            "Relationship"
+            "Others"
         ]
     },
     {
@@ -1918,7 +1884,6 @@
         "Event": "I'm struggling to make progress.",
         "ID": "00327",
         "Label": [
-            "Jobs and Careers",
             "Incompetent"
         ]
     },
@@ -1943,7 +1908,7 @@
         "Event": "My GPA is bad.",
         "ID": "00332",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -1975,7 +1940,7 @@
         "Event": "I'll have no cash in my checking account.",
         "ID": "00337",
         "Label": [
-            "Others"
+            "Financial Stability"
         ]
     },
     {
@@ -1991,7 +1956,7 @@
         "Event": "My ideas get shot down and I'm not being considered to move up.",
         "ID": "00340",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
@@ -2047,9 +2012,7 @@
         "Event": "Sleeping on the streets when I can't afford a place to live.",
         "ID": "00351",
         "Label": [
-            "Health and Medication",
-            "Financial Stability",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -2081,7 +2044,7 @@
         "Event": "I encountered thieves or strangers while camping alone.",
         "ID": "00355",
         "Label": [
-            "Relationship"
+            "Others"
         ]
     },
     {
@@ -2097,7 +2060,7 @@
         "Event": "My husband yelled at me.",
         "ID": "00359",
         "Label": [
-            "Relationship"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2113,7 +2076,7 @@
         "Event": "My father restricted my mother's access to household items and amenities.",
         "ID": "00361",
         "Label": [
-            "Relationship"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2129,7 +2092,7 @@
         "Event": "I get anxious that people can hear me breathe on Xbox Live.",
         "ID": "00364",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2137,7 +2100,7 @@
         "Event": "I dated someone 10 years younger and it feels weird.",
         "ID": "00365",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2145,7 +2108,7 @@
         "Event": "I've been severely injured by him before.",
         "ID": "00366",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2153,7 +2116,6 @@
         "Event": "Being bullied in high school.",
         "ID": "00367",
         "Label": [
-            "Jobs and Careers",
             "Bias or Abuse"
         ]
     },
@@ -2162,7 +2124,7 @@
         "Event": "My husband is being messaged by someone who has been cheated on in the past every day.",
         "ID": "00368",
         "Label": [
-            "Relationship"
+            "Others"
         ]
     },
     {
@@ -2170,7 +2132,7 @@
         "Event": "My boyfriend's dirty house grosses me out.",
         "ID": "00369",
         "Label": [
-            "Relationship"
+            "Others"
         ]
     },
     {
@@ -2178,8 +2140,6 @@
         "Event": "Being harassed by ex-girlfriend's sister at my job.",
         "ID": "00370",
         "Label": [
-            "Relationship",
-            "Jobs and Careers",
             "Bias or Abuse"
         ]
     },
@@ -2188,8 +2148,7 @@
         "Event": "I'm struggling to pay rent on time.",
         "ID": "00371",
         "Label": [
-            "Financial Stability",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -2197,8 +2156,7 @@
         "Event": "Girlfriend's violent ex-fiance is out of jail.",
         "ID": "00373",
         "Label": [
-            "Relationship",
-            "Bias or Abuse"
+            "Others"
         ]
     },
     {
@@ -2222,7 +2180,7 @@
         "Event": "I'm judged for my sensitive and emotional views on sex.",
         "ID": "00378",
         "Label": [
-            "Bias or Abuse"
+            "Relationship"
         ]
     },
     {
@@ -2230,8 +2188,7 @@
         "Event": "Too nervous to talk to school counselor.",
         "ID": "00379",
         "Label": [
-            "Relationship",
-            "Jobs and Careers"
+            "Relationship"
         ]
     },
     {
@@ -2239,7 +2196,7 @@
         "Event": "Had 2 overdoses when I was younger.",
         "ID": "00380",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -2247,7 +2204,7 @@
         "Event": "I'll be forced to never see my youngest sibling again.",
         "ID": "00381",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2255,7 +2212,7 @@
         "Event": "He is emotionally involved with another woman.",
         "ID": "00382",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2263,7 +2220,7 @@
         "Event": "Having too much stuff to bring to college dorms.",
         "ID": "00384",
         "Label": [
-            "Jobs and Careers"
+            "Incompetent"
         ]
     },
     {
@@ -2295,8 +2252,7 @@
         "Event": "My parents left pornographic magazines laying on their bedroom floor and joked about my reaction; my stepdad told my mom I wanted a massage while I was sleeping, and my mom ran out of the room naked.",
         "ID": "00388",
         "Label": [
-            "Relationship",
-            "Health and Medication"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2312,7 +2268,7 @@
         "Event": "He got extremely drunk and smoked pot despite promising not to.",
         "ID": "00390",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2352,17 +2308,7 @@
         "Event": "My father was physically violent towards me and my mother.",
         "ID": "00400",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
-        ]
-    },
-    {
-        "Post": "\"Her last LVN no longer worked with her since December, which means she's probably going to be a failure in every aspect of her career and will never find a good job that values her skills.\"",
-        "Event": "She's probably going to be a failure in every aspect of her career.",
-        "ID": "00403",
-        "Label": [
-            "Jobs and Careers",
-            "Incompetent"
         ]
     },
     {
@@ -2370,7 +2316,7 @@
         "Event": "I developed a crush on someone outside of my relationship.",
         "ID": "00404",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2378,8 +2324,7 @@
         "Event": "I'm too scared to ask my step mom to stay down and talk to her about my social anxiety.",
         "ID": "00405",
         "Label": [
-            "Relationship",
-            "Health and Medication"
+            "Relationship"
         ]
     },
     {
@@ -2391,19 +2336,11 @@
         ]
     },
     {
-        "Post": "\"My friend used me to go ice fishing under the guise of friendship, which means I'm probably unlovable and will be taken advantage of in every relationship I'll ever have.\"",
-        "Event": "My friend used me to go ice fishing.",
-        "ID": "00409",
-        "Label": [
-            "Relationship"
-        ]
-    },
-    {
         "Post": "\"I got a brain-eating amoeba from using tap water in a neti pot, which means my entire life is probably going to be plagued by health problems and I'll never be able to feel secure about my well-being again.\"",
         "Event": "I got a brain-eating amoeba from using tap water in a neti pot.",
         "ID": "00412",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -2411,7 +2348,7 @@
         "Event": "I panicked and thought everything wasn't real.",
         "ID": "00413",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -2419,7 +2356,7 @@
         "Event": "I was cheated on for more than 6 months.",
         "ID": "00414",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2427,7 +2364,7 @@
         "Event": "I don't have the funds to get this done.",
         "ID": "00415",
         "Label": [
-            "Others"
+            "Financial Stability"
         ]
     },
     {
@@ -2435,7 +2372,7 @@
         "Event": "I'm struggling with PTSD symptoms.",
         "ID": "00416",
         "Label": [
-            "Incompetent"
+            "Health and Medication"
         ]
     },
     {
@@ -2451,7 +2388,7 @@
         "Event": "My boyfriend blames me for the situation.",
         "ID": "00419",
         "Label": [
-            "Relationship"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2459,7 +2396,7 @@
         "Event": "He preyed on another girl like me.",
         "ID": "00420",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2471,19 +2408,11 @@
         ]
     },
     {
-        "Post": "\"He texted my grandmother and asked me if I wanted him to mail me my stuff. This just shows that I'm never going to be able to trust anyone in a relationship, and I'll always be left dealing with the aftermath of their mistakes.\"",
-        "Event": "He texted my grandmother and asked me if I wanted him to mail me my stuff.",
-        "ID": "00422",
-        "Label": [
-            "Relationship"
-        ]
-    },
-    {
         "Post": "\"Nobody responded to what I texted; I guess I'm just not likable or interesting enough to make any meaningful connections in life.\"",
         "Event": "Nobody responded to what I texted.",
         "ID": "00423",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2491,7 +2420,7 @@
         "Event": "I'm probably someone who is too easy to impress or manipulate.",
         "ID": "00424",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2507,7 +2436,6 @@
         "Event": "My wife won't be allowed into the country until I make enough income.",
         "ID": "00428",
         "Label": [
-            "Relationship",
             "Financial Stability"
         ]
     },
@@ -2516,8 +2444,7 @@
         "Event": "My mom didn't let me stay at her place when I felt suicidal and unsafe to be alone.",
         "ID": "00429",
         "Label": [
-            "Relationship",
-            "Health and Medication"
+            "Relationship"
         ]
     },
     {
@@ -2537,20 +2464,11 @@
         ]
     },
     {
-        "Post": "\"Justine cannot afford a lawyer, which means she's going to be stuck in this rut forever and never achieve financial stability or security.\"",
-        "Event": "Justine cannot afford a lawyer.",
-        "ID": "00434",
-        "Label": [
-            "Financial Stability"
-        ]
-    },
-    {
         "Post": "\"My parents are struggling to pay my tuition, which means I'll probably never be able to afford a good education, and ultimately, I'll be stuck in a dead-end job and struggle financially for the rest of my life.\"",
         "Event": "My parents are struggling to pay my tuition.",
         "ID": "00436",
         "Label": [
-            "Financial Stability",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -2603,7 +2521,7 @@
     },
     {
         "Post": "\"I just had a nightmare that I was murdered... this must mean that my whole life is cursed and I'll never be able to escape the darkness that's following me.\"",
-        "Event": "I was murdered in a nightmare.",
+        "Event": "I had a nightmare that I was murdered.",
         "ID": "00450",
         "Label": [
             "Others"
@@ -2615,15 +2533,6 @@
         "ID": "00451",
         "Label": [
             "Health and Medication"
-        ]
-    },
-    {
-        "Post": "\"My abuser, a well-known coach, lost his job due to our court cases, which just proves that I'm so flawed and worthless that even people in positions of power will lose everything because of me.\"",
-        "Event": "My abuser lost his job due to our court cases.",
-        "ID": "00455",
-        "Label": [
-            "Jobs and Careers",
-            "Bias or Abuse"
         ]
     },
     {
@@ -2639,7 +2548,7 @@
         "Event": "Felt like I was being treated as a burdensome charity case.",
         "ID": "00457",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2647,15 +2556,7 @@
         "Event": "Someone got weird/sketchy when I stopped buying him monthly bus pass.",
         "ID": "00459",
         "Label": [
-            "Others"
-        ]
-    },
-    {
-        "Post": "\"He didn't do it, which means he's probably going to fail at everything he tries in life and will never amount to anything.\"",
-        "Event": "He's going to fail at everything he tries in life.",
-        "ID": "00460",
-        "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -2671,7 +2572,6 @@
         "Event": "I had to testify against my abusive ex-partner in court.",
         "ID": "00463",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
         ]
     },
@@ -2680,7 +2580,7 @@
         "Event": "I'm stuck with super heavy periods that last forever and make sex excruciating.",
         "ID": "00464",
         "Label": [
-            "Bias or Abuse"
+            "Relationship"
         ]
     },
     {
@@ -2696,7 +2596,7 @@
         "Event": "Denied Social Security benefits multiple times.",
         "ID": "00466",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2712,7 +2612,7 @@
         "Event": "I was anxious in the waiting room full of crying babies and kids.",
         "ID": "00470",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -2736,7 +2636,7 @@
         "Event": "I'm overwhelmed with 4 projects due on the same day and having to learn 3 new programming languages.",
         "ID": "00473",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -2752,16 +2652,7 @@
         "Event": "I failed to save up for dentures after 3 years of trying on my limited income.",
         "ID": "00475",
         "Label": [
-            "Financial Stability",
-            "Incompetent"
-        ]
-    },
-    {
-        "Post": "\"His younger brother took his own life, which means our whole family is cursed and will never be happy or successful in anything we do.\"",
-        "Event": "His younger brother took his own life.",
-        "ID": "00476",
-        "Label": [
-            "Others"
+            "Financial Stability"
         ]
     },
     {
@@ -2769,29 +2660,13 @@
         "Event": "I had a huge gap in my employment history.",
         "ID": "00478",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
         "Post": "\"The government is forcing us to have digital copies of our brains, which means we'll never be able to think for ourselves again and will probably lose all sense of individuality and autonomy in every aspect of our lives.\"",
         "Event": "The government forces us to have digital copies of our brains.",
         "ID": "00480",
-        "Label": [
-            "Others"
-        ]
-    },
-    {
-        "Post": "\"Matt was in and out of the hospital many times, which means he's probably going to be stuck with health problems for the rest of his life and will never be able to live a normal or fulfilling life.\"",
-        "Event": "Matt is stuck with health problems for the rest of his life.",
-        "ID": "00481",
-        "Label": [
-            "Health and Medication"
-        ]
-    },
-    {
-        "Post": "\"He took a break from the drinking/partying etc., which means he's probably going to be a loser in every social situation and will never have any real friends.\"",
-        "Event": "He took a break from drinking/partying.",
-        "ID": "00483",
         "Label": [
             "Others"
         ]
@@ -2809,7 +2684,6 @@
         "Event": "I couldn't afford to visit my family for two years.",
         "ID": "00485",
         "Label": [
-            "Relationship",
             "Financial Stability"
         ]
     },
@@ -2826,7 +2700,7 @@
         "Event": "Had bad side effects from taking Lexapro.",
         "ID": "00490",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -2842,7 +2716,7 @@
         "Event": "I experienced an olfactory hallucination.",
         "ID": "00493",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -2850,7 +2724,6 @@
         "Event": "My best friend labeled me as a psychopath.",
         "ID": "00496",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
         ]
     },
@@ -2863,19 +2736,10 @@
         ]
     },
     {
-        "Post": "\"A mentally challenged man got sucker punched in the head by ruthless teenagers, which means society is completely broken and we're all just helpless victims waiting for tragedy to strike.\"",
-        "Event": "A man got sucker punched in the head by ruthless teenagers.",
-        "ID": "00500",
-        "Label": [
-            "Others"
-        ]
-    },
-    {
         "Post": "\"My mother has stage 4 bile duct cancer, which means our whole family is cursed and nothing will ever go right for us again.\"",
         "Event": "My mother has stage 4 bile duct cancer.",
         "ID": "00502",
         "Label": [
-            "Relationship",
             "Health and Medication"
         ]
     },
@@ -2884,7 +2748,7 @@
         "Event": "He touched me inappropriately.",
         "ID": "00504",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2900,8 +2764,7 @@
         "Event": "I was forced to drop out of school and now owe more money than before.",
         "ID": "00507",
         "Label": [
-            "Financial Stability",
-            "Jobs and Careers"
+            "Financial Stability"
         ]
     },
     {
@@ -2909,7 +2772,7 @@
         "Event": "I have no insurance and no treatment for my clinical depression and neuropathy.",
         "ID": "00509",
         "Label": [
-            "Health and Medication"
+            "Financial Stability"
         ]
     },
     {
@@ -2925,7 +2788,7 @@
         "Event": "I need $30k and I don't have it.",
         "ID": "00514",
         "Label": [
-            "Others"
+            "Financial Stability"
         ]
     },
     {
@@ -2933,16 +2796,7 @@
         "Event": "My family thinks anxiety is ruining me.",
         "ID": "00515",
         "Label": [
-            "Relationship",
             "Health and Medication"
-        ]
-    },
-    {
-        "Post": "\"Can't find a place that can take her cat, which means I'll never be able to have any kind of stability or security in my life, and I'll always be struggling with the simplest things.\"",
-        "Event": "Can't find a place that can take her cat.",
-        "ID": "00516",
-        "Label": [
-            "Incompetent"
         ]
     },
     {
@@ -2958,7 +2812,7 @@
         "Event": "Arrested for small weed possession.",
         "ID": "00519",
         "Label": [
-            "Health and Medication"
+            "Others"
         ]
     },
     {
@@ -2990,7 +2844,7 @@
         "Event": "My girlfriend threatened to call the police and get me deported.",
         "ID": "00526",
         "Label": [
-            "Relationship"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3006,7 +2860,7 @@
         "Event": "I've been compulsively chattering my teeth.",
         "ID": "00528",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3014,8 +2868,7 @@
         "Event": "Boyfriend's commute is twice as expensive as mine.",
         "ID": "00530",
         "Label": [
-            "Relationship",
-            "Financial Stability"
+            "Relationship"
         ]
     },
     {
@@ -3039,8 +2892,7 @@
         "Event": "I'm so poor that I can't even afford a Siddur.",
         "ID": "00534",
         "Label": [
-            "Financial Stability",
-            "Incompetent"
+            "Financial Stability"
         ]
     },
     {
@@ -3048,15 +2900,7 @@
         "Event": "He jabbed me in my face and busted the inside of my lip, causing me to bleed.",
         "ID": "00535",
         "Label": [
-            "Others"
-        ]
-    },
-    {
-        "Post": "\"She started a prescription for Zoloft, which means she's probably going to be dependent on medication for the rest of her life and will never be able to truly feel happy or normal again.\"",
-        "Event": "She's dependent on medication for the rest of her life.",
-        "ID": "00536",
-        "Label": [
-            "Health and Medication"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3068,19 +2912,11 @@
         ]
     },
     {
-        "Post": "\"I just found out I got added by several fake profiles on social media that were posing as a certain kind of person, which means I'm probably not even worthy of having real connections or friendships in my life.\"",
-        "Event": "I got added by several fake profiles on social media.",
-        "ID": "00538",
-        "Label": [
-            "Others"
-        ]
-    },
-    {
         "Post": "\"People are negative towards me when I ask for help, which means I'm probably unworthy of anyone's trust and will be rejected in all aspects of my life.\"",
         "Event": "People are negative towards me when I ask for help.",
         "ID": "00539",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3088,7 +2924,7 @@
         "Event": "You physically hurt me.",
         "ID": "00540",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3096,7 +2932,7 @@
         "Event": "He asked me to spend Christmas party together at the last minute.",
         "ID": "00544",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3112,7 +2948,7 @@
         "Event": "We've rubbed each other the wrong way in the past.",
         "ID": "00546",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3128,8 +2964,7 @@
         "Event": "I won't have any income until after I graduate.",
         "ID": "00548",
         "Label": [
-            "Financial Stability",
-            "Jobs and Careers"
+            "Financial Stability"
         ]
     },
     {
@@ -3137,8 +2972,7 @@
         "Event": "I quit my past three jobs due to anxiety.",
         "ID": "00549",
         "Label": [
-            "Health and Medication",
-            "Jobs and Careers"
+            "Health and Medication"
         ]
     },
     {
@@ -3154,7 +2988,6 @@
         "Event": "My mom struggled to pay our cats' vet bills.",
         "ID": "00554",
         "Label": [
-            "Relationship",
             "Financial Stability"
         ]
     },
@@ -3163,7 +2996,7 @@
         "Event": "I'm having trouble finding a good therapist.",
         "ID": "00555",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -3187,7 +3020,7 @@
         "Event": "Growing up with a narcissist.",
         "ID": "00559",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3214,21 +3047,13 @@
             "Relationship"
         ]
     },
-    {
-        "Post": "\"My brother is having panic attacks now; this means our whole family must be cursed and we'll never have any peace or happiness in our lives.\"",
-        "Event": "My brother is having panic attacks.",
-        "ID": "00566",
-        "Label": [
-            "Health and Medication"
-        ]
-    },
+
     {
         "Post": "\"She would leave me alone with him, wasted out of his mind. This just proves that I'm never going to be able to form meaningful connections with anyone and my relationships are always doomed to fail.\"",
         "Event": "I'm left alone with someone who is wasted out of their mind.",
         "ID": "00567",
         "Label": [
-            "Relationship",
-            "Financial Stability"
+            "Relationship"
         ]
     },
     {
@@ -3236,7 +3061,7 @@
         "Event": "I couldn't remember the simplest things.",
         "ID": "00568",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -3252,7 +3077,7 @@
         "Event": "He said he loves me while drunk but can't say it sober.",
         "ID": "00572",
         "Label": [
-            "Incompetent"
+            "Relationship"
         ]
     },
     {
@@ -3284,7 +3109,7 @@
         "Event": "He takes my belongings away from me when he gets mad.",
         "ID": "00576",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3300,7 +3125,7 @@
         "Event": "He said 'wtf?' to my plans and interests via text.",
         "ID": "00579",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3308,7 +3133,7 @@
         "Event": "Men confessed uncomfortable things to me.",
         "ID": "00581",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3316,7 +3141,7 @@
         "Event": "He pinched me.",
         "ID": "00582",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3324,7 +3149,7 @@
         "Event": "My dad didn't think the gift was awesome.",
         "ID": "00583",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3348,7 +3173,7 @@
         "Event": "Something bad happened to me as a child.",
         "ID": "00587",
         "Label": [
-            "Relationship"
+            "Others"
         ]
     },
     {
@@ -3364,8 +3189,7 @@
         "Event": "My boyfriend wants to work at a restaurant with a mostly female staff.",
         "ID": "00589",
         "Label": [
-            "Relationship",
-            "Jobs and Careers"
+            "Relationship"
         ]
     },
     {
@@ -3397,8 +3221,7 @@
         "Event": "We lost our unborn baby and both my husband and I lost our jobs.",
         "ID": "00597",
         "Label": [
-            "Relationship",
-            "Jobs and Careers"
+            "Relationship"
         ]
     },
     {
@@ -3406,7 +3229,7 @@
         "Event": "My heart feels closed up and I have a hard time speaking.",
         "ID": "00598",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3430,7 +3253,7 @@
         "Event": "I'm probably going to be unsuccessful in all my relationships.",
         "ID": "00602",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3454,7 +3277,7 @@
         "Event": "He forced me to eat my vomit and played mental games.",
         "ID": "00605",
         "Label": [
-            "Health and Medication"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3462,7 +3285,6 @@
         "Event": "My mother was rushed to the hospital for a seizure.",
         "ID": "00606",
         "Label": [
-            "Relationship",
             "Health and Medication"
         ]
     },
@@ -3487,7 +3309,7 @@
         "Event": "I snapped at someone who didn't deserve it.",
         "ID": "00609",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3527,7 +3349,7 @@
         "Event": "We're going to fail as parents and ruin our kids' lives.",
         "ID": "00616",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3567,7 +3389,7 @@
         "Event": "I'm currently unemployed.",
         "ID": "00626",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
@@ -3575,7 +3397,6 @@
         "Event": "My girlfriend cannot afford to buy a house with me.",
         "ID": "00627",
         "Label": [
-            "Relationship",
             "Financial Stability"
         ]
     },
@@ -3584,15 +3405,7 @@
         "Event": "I'm destined to be treated poorly by everyone in my life.",
         "ID": "00628",
         "Label": [
-            "Incompetent"
-        ]
-    },
-    {
-        "Post": "\"My club was put on a list of activities with too many people signed up, which means I'm probably going to be stuck in overcrowded and unsuccessful groups for the rest of my life.\"",
-        "Event": "My club was put on a list of activities with too many people signed up.",
-        "ID": "00629",
-        "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3608,7 +3421,7 @@
         "Event": "She shook me awake violently and threatened me with violence.",
         "ID": "00631",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3616,7 +3429,7 @@
         "Event": "I showed symptoms of catatonia.",
         "ID": "00632",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3640,7 +3453,7 @@
         "Event": "My in-laws wash their clothes every night when visiting me.",
         "ID": "00635",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3648,7 +3461,7 @@
         "Event": "Being kept as a backup option by someone I love.",
         "ID": "00637",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3672,7 +3485,7 @@
         "Event": "We lost our home in a fire.",
         "ID": "00643",
         "Label": [
-            "Others"
+            "Financial Stability"
         ]
     },
     {
@@ -3704,7 +3517,7 @@
         "Event": "He disappeared from being a father.",
         "ID": "00648",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3720,8 +3533,7 @@
         "Event": "I'm a terrible person who can't commit to anyone and will end up alone and unhappy in all my relationships.",
         "ID": "00651",
         "Label": [
-            "Relationship",
-            "Incompetent"
+            "Relationship"
         ]
     },
     {
@@ -3745,7 +3557,7 @@
         "Event": "I temporarily unbalanced my hormones.",
         "ID": "00655",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3753,7 +3565,7 @@
         "Event": "I'm going through a calcium OD and was going to end up in a coma.",
         "ID": "00656",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3769,7 +3581,7 @@
         "Event": "Living in fear of someone who can fly off the handle.",
         "ID": "00666",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3777,7 +3589,7 @@
         "Event": "I struggled with dissociative cycles of derealization and depersonalization.",
         "ID": "00667",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3793,7 +3605,7 @@
         "Event": "My savings account was overdrawn.",
         "ID": "00671",
         "Label": [
-            "Others"
+            "Financial Stability"
         ]
     },
     {
@@ -3801,7 +3613,7 @@
         "Event": "I miss having a strong and healthy friendship with another girl.",
         "ID": "00672",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3817,7 +3629,7 @@
         "Event": "I went through major jaw surgery and my mouth was wired shut for 9 months.",
         "ID": "00675",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3825,7 +3637,7 @@
         "Event": "He got touchy/feely with me in his office when we were alone.",
         "ID": "00676",
         "Label": [
-            "Relationship"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3841,7 +3653,7 @@
         "Event": "He made up a story to avoid meeting me.",
         "ID": "00678",
         "Label": [
-            "Jobs and Careers"
+            "Relationship"
         ]
     },
     {
@@ -3857,7 +3669,6 @@
         "Event": "Got a bad experience with an abusive employer at a retail job.",
         "ID": "00682",
         "Label": [
-            "Jobs and Careers",
             "Bias or Abuse"
         ]
     },
@@ -3866,7 +3677,7 @@
         "Event": "He got out of his first love relationship of 5 years.",
         "ID": "00683",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3874,7 +3685,7 @@
         "Event": "He took me out of the room by force.",
         "ID": "00684",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3882,7 +3693,7 @@
         "Event": "I have attacks that force me to lay down alone for 30 minutes or more.",
         "ID": "00685",
         "Label": [
-            "Relationship"
+            "Others"
         ]
     },
     {
@@ -3898,7 +3709,7 @@
         "Event": "Having rough boundary issues with in-laws.",
         "ID": "00691",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3906,7 +3717,7 @@
         "Event": "Someone thought negatively about me.",
         "ID": "00692",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3922,7 +3733,7 @@
         "Event": "I'm fundamentally unlovable and will never be able to maintain healthy relationships.",
         "ID": "00695",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3930,7 +3741,7 @@
         "Event": "Broke my hand because of not taking meds.",
         "ID": "00699",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3946,8 +3757,7 @@
         "Event": "My boss thinks I'm absolutely negligent and incompetent because of one mistake.",
         "ID": "00704",
         "Label": [
-            "Jobs and Careers",
-            "Incompetent"
+            "Jobs and Careers"
         ]
     },
     {
@@ -3955,7 +3765,7 @@
         "Event": "Having violent and degrading fantasies.",
         "ID": "00707",
         "Label": [
-            "Bias or Abuse"
+            "Health and Medication"
         ]
     },
     {
@@ -3963,7 +3773,7 @@
         "Event": "My legs shake uncontrollably when standing or lifting them.",
         "ID": "00709",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3971,7 +3781,7 @@
         "Event": "Someone I trusted did something horrific.",
         "ID": "00710",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3987,7 +3797,7 @@
         "Event": "My father turned up the TV volume after I asked him to turn it down.",
         "ID": "00714",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -3995,8 +3805,7 @@
         "Event": "I can't even talk to teachers or therapists about my mental health issues.",
         "ID": "00719",
         "Label": [
-            "Health and Medication",
-            "Incompetent"
+            "Health and Medication"
         ]
     },
     {
@@ -4012,7 +3821,7 @@
         "Event": "I'm lying about how I feel when we talk about sex.",
         "ID": "00722",
         "Label": [
-            "Bias or Abuse"
+            "Others"
         ]
     },
     {
@@ -4020,7 +3829,7 @@
         "Event": "I was shot at.",
         "ID": "00723",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4028,24 +3837,7 @@
         "Event": "Having bad soreness and tightness in my upper back and neck.",
         "ID": "00726",
         "Label": [
-            "Others"
-        ]
-    },
-    {
-        "Post": "\"My close friend's dog was diagnosed with Grade 2 soft tissue sarcoma, which means my whole social circle is probably cursed and we're all going to be plagued by health issues and misfortunes from now on.\"",
-        "Event": "My close friend's dog was diagnosed with Grade 2 soft tissue sarcoma.",
-        "ID": "00727",
-        "Label": [
-            "Relationship",
             "Health and Medication"
-        ]
-    },
-    {
-        "Post": "\"The police were called on me and followed my children into my house, which means I'm probably going to be a failure as a parent and my kids will suffer because of me, and our whole family's life is going to be messed up.\"",
-        "Event": "The police were called on me and followed my children into my house.",
-        "ID": "00728",
-        "Label": [
-            "Others"
         ]
     },
     {
@@ -4061,7 +3853,7 @@
         "Event": "My dad lied and got caught.",
         "ID": "00732",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -4101,7 +3893,7 @@
         "Event": "He yells and screams at me, insults me, and tells me that I'm nothing but a mistake.",
         "ID": "00737",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4125,7 +3917,7 @@
         "Event": "I doubt myself.",
         "ID": "00744",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -4133,7 +3925,7 @@
         "Event": "Someone screamed in my face that I'm useless.",
         "ID": "00746",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4165,7 +3957,7 @@
         "Event": "Housing fell through at the beginning of November.",
         "ID": "00750",
         "Label": [
-            "Others"
+            "Financial Stability"
         ]
     },
     {
@@ -4205,7 +3997,7 @@
         "Event": "Found a car where the previous owner died of a heart attack in it.",
         "ID": "00757",
         "Label": [
-            "Health and Medication"
+            "Others"
         ]
     },
     {
@@ -4213,7 +4005,7 @@
         "Event": "I'm manipulated and used in every relationship I have.",
         "ID": "00758",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -4221,7 +4013,7 @@
         "Event": "I've been messing up every aspect of my life and relationships for decades.",
         "ID": "00759",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -4229,8 +4021,7 @@
         "Event": "I'm unable to sympathize with the homeless.",
         "ID": "00760",
         "Label": [
-            "Financial Stability",
-            "Incompetent"
+            "Relationship"
         ]
     },
     {
@@ -4246,7 +4037,7 @@
         "Event": "I felt like crap comparing myself to others on social media.",
         "ID": "00765",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -4254,8 +4045,7 @@
         "Event": "My boyfriend has a huge drug problem and continuously lies to my face about it.",
         "ID": "00766",
         "Label": [
-            "Relationship",
-            "Health and Medication"
+            "Relationship"
         ]
     },
     {
@@ -4263,7 +4053,7 @@
         "Event": "I was pressured into taking MDMA at a party.",
         "ID": "00767",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -4271,7 +4061,6 @@
         "Event": "My boyfriend wanted to repeatedly have sex till I was sore and got angry if I refused.",
         "ID": "00768",
         "Label": [
-            "Relationship",
             "Bias or Abuse"
         ]
     },
@@ -4280,7 +4069,7 @@
         "Event": "I have difficulty breathing and coughing.",
         "ID": "00770",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -4304,7 +4093,7 @@
         "Event": "Just got arrested at my friend's house.",
         "ID": "00774",
         "Label": [
-            "Relationship"
+            "Others"
         ]
     },
     {
@@ -4328,7 +4117,7 @@
         "Event": "I've gained weight.",
         "ID": "00778",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -4336,7 +4125,6 @@
         "Event": "Having unbearable daily stress over money.",
         "ID": "00779",
         "Label": [
-            "Health and Medication",
             "Financial Stability"
         ]
     },
@@ -4353,7 +4141,7 @@
         "Event": "Receiving negative feedback from peers.",
         "ID": "00783",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4361,7 +4149,7 @@
         "Event": "I'm treated differently than their children.",
         "ID": "00784",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4369,7 +4157,7 @@
         "Event": "My PTSD was in full steam.",
         "ID": "00787",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -4377,8 +4165,7 @@
         "Event": "I can't get intimate with my long-time partner.",
         "ID": "00788",
         "Label": [
-            "Relationship",
-            "Incompetent"
+            "Relationship"
         ]
     },
     {
@@ -4394,7 +4181,7 @@
         "Event": "You tried to control me.",
         "ID": "00791",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4410,7 +4197,7 @@
         "Event": "My parents didn't provide healthy meals or enough daily exercise or activities.",
         "ID": "00796",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -4434,8 +4221,7 @@
         "Event": "Got ghosted by a guy after meeting in a hotel room.",
         "ID": "00800",
         "Label": [
-            "Relationship",
-            "Jobs and Careers"
+            "Relationship"
         ]
     },
     {

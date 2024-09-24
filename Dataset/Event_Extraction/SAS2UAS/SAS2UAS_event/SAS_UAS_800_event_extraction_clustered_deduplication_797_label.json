@@ -4,7 +4,8 @@
         "Event": "My mom's noise keeps me awake at night, disrupting my sleep and plans.",
         "ID": "00001",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Health and Medication"
         ]
     },
     {
@@ -69,7 +70,7 @@
         "Event": "I was overshadowed by new students in the play audition.",
         "ID": "00009",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
@@ -85,7 +86,8 @@
         "Event": "My partner got laid off.",
         "ID": "00011",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Jobs and Careers"
         ]
     },
     {
@@ -93,7 +95,7 @@
         "Event": "I feel irritable because I'm naturally wired to be an anxious person.",
         "ID": "00012",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -133,7 +135,7 @@
         "Event": "The online therapist ghosted on me.",
         "ID": "00017",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -149,7 +151,7 @@
         "Event": "I'm naturally bad at relationships.",
         "ID": "00019",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -165,7 +167,8 @@
         "Event": "I get a flare of panic when seeing someone's name on my caller ID.",
         "ID": "00021",
         "Label": [
-            "Health and Medication"
+            "Health and Medication",
+            "Bias or Abuse"
         ]
     },
     {
@@ -231,7 +234,7 @@
         "Event": "I've felt very tired recently and depersonalization has come back strong.",
         "ID": "00031",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -239,7 +242,8 @@
         "Event": "My friend called me names and told me what a terrible person I was.",
         "ID": "00032",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Bias or Abuse"
         ]
     },
     {
@@ -247,7 +251,7 @@
         "Event": "I'm bad at being a host.",
         "ID": "00033",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -255,7 +259,7 @@
         "Event": "I have no control over my body.",
         "ID": "00034",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -280,7 +284,7 @@
         "Event": "I was strapped down during surgery.",
         "ID": "00037",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -329,7 +333,7 @@
         "Event": "I fell asleep at 8pm and woke up around 4am due to a weird sleep schedule.",
         "ID": "00044",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -437,7 +441,8 @@
         "ID": "00058",
         "Label": [
             "Health and Medication",
-            "Financial Stability"
+            "Financial Stability",
+            "Bias or Abuse"
         ]
     },
     {
@@ -445,7 +450,7 @@
         "Event": "I don't sleep at all on Sunday nights.",
         "ID": "00059",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -462,7 +467,7 @@
         "Event": "He's drinking spirits and losing control.",
         "ID": "00062",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -470,7 +475,7 @@
         "Event": "I had surgery due to a bone fracture.",
         "ID": "00063",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -487,7 +492,7 @@
         "Event": "My home is being short sold to a relative by the bank.",
         "ID": "00065",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
@@ -503,7 +508,7 @@
         "Event": "I'm bad at managing my finances.",
         "ID": "00068",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -520,7 +525,7 @@
         "Event": "He hurts me or my son.",
         "ID": "00071",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -536,7 +541,7 @@
         "Event": "Feeling isolated because I'm not good at forming connections with others.",
         "ID": "00073",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -627,7 +632,8 @@
         "Event": "My mom constantly berates me about my writing.",
         "ID": "00085",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Bias or Abuse"
         ]
     },
     {
@@ -651,7 +657,8 @@
         "Event": "Having flashbacks and panic attacks triggered easily by words.",
         "ID": "00088",
         "Label": [
-            "Health and Medication"
+            "Health and Medication",
+            "Bias or Abuse"
         ]
     },
     {
@@ -699,7 +706,7 @@
         "Event": "Experienced urinary retention as a side effect of Lexapro.",
         "ID": "00094",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -731,7 +738,7 @@
         "Event": "I'm bad at finding deals.",
         "ID": "00099",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -819,7 +826,7 @@
         "Event": "I offend or embarrass my neighbor.",
         "ID": "00113",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -827,7 +834,7 @@
         "Event": "Mia complained about not getting gifts from me in front of everyone.",
         "ID": "00114",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -935,7 +942,7 @@
         "Event": "I'm bad at finding things online.",
         "ID": "00129",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -943,7 +950,7 @@
         "Event": "I've made bad decisions.",
         "ID": "00130",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -960,7 +967,8 @@
         "ID": "00133",
         "Label": [
             "Health and Medication",
-            "Jobs and Careers"
+            "Jobs and Careers",
+            "Bias or Abuse"
         ]
     },
     {
@@ -969,6 +977,7 @@
         "ID": "00134",
         "Label": [
             "Relationship",
+            "Health and Medication",
             "Financial Stability",
             "Incompetent"
         ]
@@ -1035,7 +1044,7 @@
         "Event": "I have a terrible heavy dark feeling.",
         "ID": "00142",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -1156,7 +1165,7 @@
         "Event": "My GPA is bad.",
         "ID": "00165",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -1421,7 +1430,8 @@
         "Event": "I had a flashback and panic attack while dating.",
         "ID": "00205",
         "Label": [
-            "Health and Medication"
+            "Health and Medication",
+            "Bias or Abuse"
         ]
     },
     {
@@ -1551,6 +1561,7 @@
         "ID": "00222",
         "Label": [
             "Relationship",
+            "Health and Medication",
             "Jobs and Careers"
         ]
     },
@@ -1739,7 +1750,7 @@
         "Event": "I'm bad at remembering things from my past.",
         "ID": "00250",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -1803,7 +1814,7 @@
         "Event": "My living situation fell apart.",
         "ID": "00265",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -1901,7 +1912,7 @@
         "Event": "Not having enough food or salt leads to bad cramps.",
         "ID": "00281",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -2079,7 +2090,7 @@
         "Event": "I'm restless while trying to sleep.",
         "ID": "00316",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -2151,7 +2162,7 @@
         "Event": "My hypochondria gets out of control.",
         "ID": "00328",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -2379,7 +2390,8 @@
         "Event": "Had a family party without my involvement due to sleep deprivation.",
         "ID": "00370",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Health and Medication"
         ]
     },
     {
@@ -2436,7 +2448,7 @@
         "Event": "He said I have a bad memory.",
         "ID": "00380",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -2470,7 +2482,7 @@
         "Event": "My dad thinks I'm naturally terrible at choosing gifts.",
         "ID": "00385",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2924,7 +2936,7 @@
         "Event": "I have domestic disputes due to being bad at communicating in relationships.",
         "ID": "00474",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -2932,7 +2944,7 @@
         "Event": "Having bad soreness and tightness in my upper back and neck.",
         "ID": "00477",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -3021,7 +3033,8 @@
         "Event": "Having bad nightmares about dying and the afterlife.\"",
         "ID": "00493",
         "Label": [
-            "Health and Medication"
+            "Health and Medication",
+            "Incompetent"
         ]
     },
     {
@@ -3070,7 +3083,8 @@
         "Event": "I gave up my oldest and greatest friendship for a bad relationship.",
         "ID": "00503",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Incompetent"
         ]
     },
     {
@@ -3127,7 +3141,7 @@
         "Event": "You attempted to exert a level of control over me.",
         "ID": "00516",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3168,7 +3182,8 @@
         "ID": "00524",
         "Label": [
             "Relationship",
-            "Jobs and Careers"
+            "Jobs and Careers",
+            "Bias or Abuse"
         ]
     },
     {
@@ -3216,7 +3231,7 @@
         "Event": "I'm cursed with bad luck.",
         "ID": "00530",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -3580,6 +3595,7 @@
         "Event": "My puppy requires expensive testing and surgery due to Pharyngeal Achalasia.",
         "ID": "00597",
         "Label": [
+            "Health and Medication",
             "Financial Stability"
         ]
     },
@@ -3647,7 +3663,7 @@
         "Event": "I'm naturally terrible at handling responsibility.",
         "ID": "00608",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3673,7 +3689,7 @@
         "Event": "I became introverted after a terrible experience.",
         "ID": "00613",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4028,7 +4044,8 @@
         "Event": "My husband had several bad things happen to him when he was a teenager.",
         "ID": "00687",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Incompetent"
         ]
     },
     {
@@ -4205,7 +4222,7 @@
         "Event": "I'm inherently terrible at public speaking.",
         "ID": "00723",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4237,7 +4254,7 @@
         "Event": "I'm terrible at car maintenance.",
         "ID": "00731",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4326,7 +4343,7 @@
         "Event": "I lose control due to being naturally impulsive.",
         "ID": "00751",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -4383,7 +4400,7 @@
         "Event": "I'm inherently a bad person.",
         "ID": "00760",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -4666,7 +4683,7 @@
         "Event": "I'm bad at opening up to people.",
         "ID": "00827",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -4698,7 +4715,7 @@
         "Event": "I had a difficult pregnancy that triggered inflammatory arthritis and fibromyalgia/chronic fatigue syndrome.",
         "ID": "00833",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -4747,7 +4764,7 @@
         "Event": "I'm surrounded by screaming and crying kids.",
         "ID": "00841",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -4829,7 +4846,7 @@
         "Event": "I had a bad heart.",
         "ID": "00858",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -4909,7 +4926,7 @@
         "Event": "I'm stuck with a bad situation.",
         "ID": "00876",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -5274,7 +5291,7 @@
         "Event": "Had a bad experience with a doctor at a clinic.",
         "ID": "00954",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -5298,7 +5315,7 @@
         "Event": "My dog required a $4000 surgery.",
         "ID": "00958",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -5388,7 +5405,7 @@
         "Event": "Living daily life with derealization, hypervigilance, paranoia, flashbacks, and nightmares.",
         "ID": "00982",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -5653,7 +5670,7 @@
         "Event": "She's just naturally unlucky and always ends up in bad situations.",
         "ID": "01041",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -5728,7 +5745,7 @@
         "Event": "I'm naturally prone to having bad days.",
         "ID": "01056",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -5792,7 +5809,8 @@
         "Event": "Ended relationship right before partner's surgery.",
         "ID": "01069",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Health and Medication"
         ]
     },
     {
@@ -5848,7 +5866,7 @@
         "Event": "I'm a terrible roommate.",
         "ID": "01085",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -5914,7 +5932,7 @@
         "Event": "I'm naturally terrible at playing video games.",
         "ID": "01099",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -5931,7 +5949,8 @@
         "Event": "I'm a terrible parent.",
         "ID": "01106",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Bias or Abuse"
         ]
     },
     {
@@ -6230,7 +6249,7 @@
         "Event": "The bike falls apart while I'm riding it.",
         "ID": "01175",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -6326,7 +6345,7 @@
         "Event": "I'm inherently bad at navigation.",
         "ID": "01196",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {

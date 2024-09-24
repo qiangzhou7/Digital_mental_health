@@ -238,7 +238,8 @@
         "Event": "My mother didn't show any concern or visit me during my hospitalization for hand surgery.",
         "ID": "00035",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Health and Medication"
         ]
     },
     {
@@ -387,7 +388,7 @@
         "Event": "I had a terrible conversation on Discord.",
         "ID": "00055",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -615,6 +616,7 @@
         "ID": "00083",
         "Label": [
             "Relationship",
+            "Health and Medication",
             "Financial Stability",
             "Incompetent"
         ]
@@ -761,7 +763,7 @@
         "Event": "I've been laid off due to company restructuring.",
         "ID": "00103",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
@@ -803,7 +805,8 @@
         "Event": "I'm having night terrors and panic attacks.",
         "ID": "00109",
         "Label": [
-            "Health and Medication"
+            "Health and Medication",
+            "Bias or Abuse"
         ]
     },
     {
@@ -861,6 +864,7 @@
         "ID": "00117",
         "Label": [
             "Relationship",
+            "Health and Medication",
             "Financial Stability",
             "Incompetent"
         ]
@@ -894,7 +898,7 @@
         "Event": "I'm stuck in this rut with a terrible heavy dark feeling.",
         "ID": "00122",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -982,7 +986,7 @@
         "Event": "I have a sensation of falling and jerking awake while trying to sleep.",
         "ID": "00136",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -1236,6 +1240,7 @@
         "Event": "I'm struggling to control my temper.",
         "ID": "00176",
         "Label": [
+            "Health and Medication",
             "Incompetent"
         ]
     },
@@ -1260,7 +1265,7 @@
         "Event": "I lost 3 whole pints of blood during surgery.",
         "ID": "00179",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -1360,7 +1365,7 @@
         "Event": "Just got torn apart by the prosecutor in court.",
         "ID": "00193",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -1377,6 +1382,7 @@
         "ID": "00200",
         "Label": [
             "Relationship",
+            "Health and Medication",
             "Jobs and Careers"
         ]
     },
@@ -1409,7 +1415,7 @@
         "Event": "My cooking is really that bad.",
         "ID": "00207",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -1417,7 +1423,7 @@
         "Event": "I'm losing control over my online rights.",
         "ID": "00208",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -1433,7 +1439,8 @@
         "Event": "I'm terrible at managing my money.",
         "ID": "00211",
         "Label": [
-            "Financial Stability"
+            "Financial Stability",
+            "Bias or Abuse"
         ]
     },
     {
@@ -1603,7 +1610,7 @@
         "Event": "My living situation fell apart.",
         "ID": "00241",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -1704,7 +1711,7 @@
         "Event": "I fall apart and make a scene at my dad's place.",
         "ID": "00256",
         "Label": [
-            "Others"
+            "Relationship"
         ]
     },
     {
@@ -1937,7 +1944,7 @@
         "Event": "My FMIL did something bad to us.",
         "ID": "00300",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -2237,7 +2244,7 @@
         "Event": "Something terrible happened to me when I was just a kid.",
         "ID": "00352",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -2657,7 +2664,7 @@
         "Event": "My uncle did something bad to me when I was 6.",
         "ID": "00422",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -2785,7 +2792,8 @@
         "Event": "I have recurring bad nightmares about dying and the afterlife.",
         "ID": "00446",
         "Label": [
-            "Health and Medication"
+            "Health and Medication",
+            "Incompetent"
         ]
     },
     {
@@ -2889,6 +2897,7 @@
         "Event": "I'm struggling to control my desires.",
         "ID": "00467",
         "Label": [
+            "Health and Medication",
             "Incompetent"
         ]
     },
@@ -2923,7 +2932,8 @@
         "ID": "00473",
         "Label": [
             "Relationship",
-            "Jobs and Careers"
+            "Jobs and Careers",
+            "Bias or Abuse"
         ]
     },
     {
@@ -2971,7 +2981,8 @@
         "Event": "My family is against me because of the bad influence W**d has on me.",
         "ID": "00483",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Incompetent"
         ]
     },
     {
@@ -3013,7 +3024,7 @@
         "Event": "I had a major surgery with a tough recovery.",
         "ID": "00492",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
@@ -3127,7 +3138,7 @@
         "Event": "I'm bad at communicating my feelings and boundaries.",
         "ID": "00512",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -3183,7 +3194,7 @@
         "Event": "I got scolded again for my terrible grades.",
         "ID": "00523",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -3356,7 +3367,8 @@
         "Event": "My friend had a bad experience.",
         "ID": "00554",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Incompetent"
         ]
     },
     {
@@ -3502,7 +3514,7 @@
         "Event": "I set a bad example for my brother.",
         "ID": "00579",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -3575,7 +3587,7 @@
         "Event": "I'm a bad influence on my niece.",
         "ID": "00594",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -3648,7 +3660,7 @@
         "Event": "My presence causes bad luck and delays in my in-laws' house renovation.",
         "ID": "00604",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -3824,7 +3836,7 @@
         "Event": "Something bad happened that night.",
         "ID": "00647",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -4348,7 +4360,7 @@
         "Event": "I sold my trailer at a huge loss.",
         "ID": "00751",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
@@ -4486,7 +4498,8 @@
         "ID": "00786",
         "Label": [
             "Health and Medication",
-            "Jobs and Careers"
+            "Jobs and Careers",
+            "Incompetent"
         ]
     },
     {
@@ -4937,6 +4950,7 @@
         "ID": "00872",
         "Label": [
             "Relationship",
+            "Bias or Abuse",
             "Incompetent"
         ]
     },
@@ -4977,7 +4991,7 @@
         "Event": "I'm really bad at making good decisions.",
         "ID": "00877",
         "Label": [
-            "Others"
+            "Incompetent"
         ]
     },
     {
@@ -5274,7 +5288,7 @@
         "Event": "I encountered a person who triggered my PTSD.",
         "ID": "00941",
         "Label": [
-            "Others"
+            "Bias or Abuse"
         ]
     },
     {
@@ -5435,7 +5449,8 @@
         "Event": "I let the water damage get this bad and it's affecting my health.",
         "ID": "00989",
         "Label": [
-            "Health and Medication"
+            "Health and Medication",
+            "Incompetent"
         ]
     },
     {
@@ -5484,7 +5499,7 @@
         "Event": "My home is being short sold to a relative by the bank.",
         "ID": "01003",
         "Label": [
-            "Others"
+            "Jobs and Careers"
         ]
     },
     {
@@ -5492,7 +5507,8 @@
         "Event": "I'm a bad mom for not being able to protect my children.",
         "ID": "01007",
         "Label": [
-            "Relationship"
+            "Relationship",
+            "Incompetent"
         ]
     },
     {
@@ -5646,7 +5662,7 @@
         "Event": "I get spinal fusion surgery while still dealing with Lyme Disease.",
         "ID": "01053",
         "Label": [
-            "Others"
+            "Health and Medication"
         ]
     },
     {
